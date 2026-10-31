@@ -13,6 +13,7 @@ from Bet_Tracker import (FOUND_FILE, SETTLED, add_bet, american_to_decimal, cash
                          load_bets)
 from Live_Tracker import game_status, get_boxscore, get_scoreboard, live_bet
 from NFL_Live import get_nfl_box, get_nfl_scoreboard, nfl_logo
+from paths import csv_path
 
 # Start it with:   streamlit run dashboard.py
 # The colours and font live in .streamlit/config.toml
@@ -46,9 +47,9 @@ def md_cad(amount):
 @st.cache_data(ttl=3600, show_spinner=False)
 def team_logos(sport):
     """college / NBA team abbreviation -> ESPN logo (CFB_Scraper.py / NBA_Scraper.py save the list)"""
-    if not os.path.exists(f"{sport}_teams.csv"):
+    if not os.path.exists(csv_path(f"{sport}_teams.csv")):
         return {}
-    teams = pd.read_csv(f"{sport}_teams.csv")
+    teams = pd.read_csv(csv_path(f"{sport}_teams.csv"))
     return dict(zip(teams["team"], teams["logo"]))
 
 
@@ -403,51 +404,51 @@ def bet_card_html(team, title, subtitle, chips, sport="nhl"):
 SPORT = st.sidebar.segmented_control("Sport", ["NHL", "NBA", "WNBA", "MLB", "NFL", "NCAAF"], default="NHL", key="sport",
                                      width="stretch") or "NHL"
 CFG = {
-    "NHL": {"bets": "bets_today.csv", "parlays": "parlays_today.csv", "lines": "lines_today.csv",
-            "faceoffs": "faceoffs_today.csv", "days": 0, "when": "tonight", "default_type": "shots",
+    "NHL": {"bets": csv_path("bets_today.csv"), "parlays": csv_path("parlays_today.csv"), "lines": csv_path("lines_today.csv"),
+            "faceoffs": csv_path("faceoffs_today.csv"), "days": 0, "when": "tonight", "default_type": "shots",
             "steps": [("NHL_Scraper.py", "Updating NHL stats"), ("Odds_Scraper.py", "Getting odds"),
                       ("ML.py", "Running the model")],
-            "updated": [("skaters.csv", "NHL stats", "query_stats"), ("odds.csv", "Odds", "request_quote"),
-                        ("bets_today.csv", "Bets", "insights")],
+            "updated": [(csv_path("skaters.csv"), "NHL stats", "query_stats"), (csv_path("odds.csv"), "Odds", "request_quote"),
+                        (csv_path("bets_today.csv"), "Bets", "insights")],
             "sub": "NHL player props, moneylines and parlays", "note": "Check lineups and starting goalies"},
-    "NBA": {"bets": "nba_bets_today.csv", "parlays": "nba_parlays_today.csv", "lines": "nba_lines_today.csv",
-            "faceoffs": "nba_faceoffs_today.csv", "days": 0, "when": "tonight", "default_type": "points",
+    "NBA": {"bets": csv_path("nba_bets_today.csv"), "parlays": csv_path("nba_parlays_today.csv"), "lines": csv_path("nba_lines_today.csv"),
+            "faceoffs": csv_path("nba_faceoffs_today.csv"), "days": 0, "when": "tonight", "default_type": "points",
             "steps": [("NBA_Scraper.py", "Updating NBA stats"), ("NBA_Odds_Scraper.py", "Getting NBA odds"),
                       ("NBA_ML.py", "Running the NBA model")],
-            "updated": [("nba_players.csv", "NBA stats", "query_stats"), ("nba_odds.csv", "Odds", "request_quote"),
-                        ("nba_bets_today.csv", "Bets", "insights")],
+            "updated": [(csv_path("nba_players.csv"), "NBA stats", "query_stats"), (csv_path("nba_odds.csv"), "Odds", "request_quote"),
+                        (csv_path("nba_bets_today.csv"), "Bets", "insights")],
             "sub": "NBA player props, moneylines and parlays",
             "note": "Check the injury report - stars get rested, especially on back-to-backs"},
-    "WNBA": {"bets": "wnba_bets_today.csv", "parlays": "wnba_parlays_today.csv", "lines": "wnba_lines_today.csv",
-             "faceoffs": "wnba_faceoffs_today.csv", "days": 0, "when": "tonight", "default_type": "points",
+    "WNBA": {"bets": csv_path("wnba_bets_today.csv"), "parlays": csv_path("wnba_parlays_today.csv"), "lines": csv_path("wnba_lines_today.csv"),
+             "faceoffs": csv_path("wnba_faceoffs_today.csv"), "days": 0, "when": "tonight", "default_type": "points",
              "steps": [("WNBA_Scraper.py", "Updating WNBA stats"), ("WNBA_Odds_Scraper.py", "Getting WNBA odds"),
                        ("WNBA_ML.py", "Running the WNBA model")],
-             "updated": [("wnba_players.csv", "WNBA stats", "query_stats"), ("wnba_odds.csv", "Odds", "request_quote"),
-                         ("wnba_bets_today.csv", "Bets", "insights")],
+             "updated": [(csv_path("wnba_players.csv"), "WNBA stats", "query_stats"), (csv_path("wnba_odds.csv"), "Odds", "request_quote"),
+                         (csv_path("wnba_bets_today.csv"), "Bets", "insights")],
              "sub": "WNBA player props, moneylines and parlays",
              "note": "Check the injury report before betting"},
-    "MLB": {"bets": "mlb_bets_today.csv", "parlays": "mlb_parlays_today.csv", "lines": "mlb_lines_today.csv",
-            "faceoffs": "mlb_faceoffs_today.csv", "days": 0, "when": "today", "default_type": "strikeouts",
+    "MLB": {"bets": csv_path("mlb_bets_today.csv"), "parlays": csv_path("mlb_parlays_today.csv"), "lines": csv_path("mlb_lines_today.csv"),
+            "faceoffs": csv_path("mlb_faceoffs_today.csv"), "days": 0, "when": "today", "default_type": "strikeouts",
             "steps": [("MLB_Scraper.py", "Updating MLB stats"), ("MLB_Odds_Scraper.py", "Getting MLB odds"),
                       ("MLB_ML.py", "Running the MLB model")],
-            "updated": [("mlb_players.csv", "MLB stats", "query_stats"), ("mlb_odds.csv", "Odds", "request_quote"),
-                        ("mlb_bets_today.csv", "Bets", "insights")],
+            "updated": [(csv_path("mlb_players.csv"), "MLB stats", "query_stats"), (csv_path("mlb_odds.csv"), "Odds", "request_quote"),
+                        (csv_path("mlb_bets_today.csv"), "Bets", "insights")],
             "sub": "MLB player props, moneylines and parlays",
             "note": "Check the posted lineups and starting pitchers - a batter who sits is a refund, "
                     "a pitcher swap changes everything"},
-    "NFL": {"bets": "nfl_bets_today.csv", "parlays": "nfl_parlays_today.csv", "lines": "nfl_lines_today.csv",
-            "faceoffs": "nfl_faceoffs_today.csv", "days": 6, "when": "this week", "default_type": "receiving_yards",
+    "NFL": {"bets": csv_path("nfl_bets_today.csv"), "parlays": csv_path("nfl_parlays_today.csv"), "lines": csv_path("nfl_lines_today.csv"),
+            "faceoffs": csv_path("nfl_faceoffs_today.csv"), "days": 6, "when": "this week", "default_type": "receiving_yards",
             "steps": [("NFL_Scraper.py", "Updating NFL stats"), ("NFL_Odds_Scraper.py", "Getting NFL odds"),
                       ("NFL_ML.py", "Running the NFL model")],
-            "updated": [("nfl_players.csv", "NFL stats", "query_stats"), ("nfl_odds.csv", "Odds", "request_quote"),
-                        ("nfl_bets_today.csv", "Bets", "insights")],
+            "updated": [(csv_path("nfl_players.csv"), "NFL stats", "query_stats"), (csv_path("nfl_odds.csv"), "Odds", "request_quote"),
+                        (csv_path("nfl_bets_today.csv"), "Bets", "insights")],
             "sub": "NFL player props, moneylines and parlays", "note": "Check injury reports and inactives"},
-    "NCAAF": {"bets": "cfb_bets_today.csv", "parlays": "cfb_parlays_today.csv", "lines": "cfb_lines_today.csv",
-              "faceoffs": "cfb_faceoffs_today.csv", "days": 6, "when": "this week", "default_type": "receiving_yards",
+    "NCAAF": {"bets": csv_path("cfb_bets_today.csv"), "parlays": csv_path("cfb_parlays_today.csv"), "lines": csv_path("cfb_lines_today.csv"),
+              "faceoffs": csv_path("cfb_faceoffs_today.csv"), "days": 6, "when": "this week", "default_type": "receiving_yards",
               "steps": [("CFB_Scraper.py", "Updating college stats"), ("CFB_Odds_Scraper.py", "Getting college odds"),
                         ("CFB_ML.py", "Running the college model")],
-              "updated": [("cfb_players.csv", "College stats", "query_stats"), ("cfb_odds.csv", "Odds", "request_quote"),
-                          ("cfb_bets_today.csv", "Bets", "insights")],
+              "updated": [(csv_path("cfb_players.csv"), "College stats", "query_stats"), (csv_path("cfb_odds.csv"), "Odds", "request_quote"),
+                          (csv_path("cfb_bets_today.csv"), "Bets", "insights")],
               "sub": "College football player props, moneylines and parlays",
               "note": "Check injury reports and depth charts"},
 }[SPORT]
@@ -631,8 +632,8 @@ def clear_slip():
 
 # ---- mega parlay: 6+ legs mixing every sport (for FanDuel's 6+ leg promos) ----
 # every sport's model saves the prices it checked in a "lines" file - this pools them all
-MEGA_SOURCES = [("nhl", "lines_today.csv", 0), ("nba", "nba_lines_today.csv", 0), ("wnba", "wnba_lines_today.csv", 0),
-                ("mlb", "mlb_lines_today.csv", 0), ("nfl", "nfl_lines_today.csv", 6), ("cfb", "cfb_lines_today.csv", 6)]
+MEGA_SOURCES = [("nhl", csv_path("lines_today.csv"), 0), ("nba", csv_path("nba_lines_today.csv"), 0), ("wnba", csv_path("wnba_lines_today.csv"), 0),
+                ("mlb", csv_path("mlb_lines_today.csv"), 0), ("nfl", csv_path("nfl_lines_today.csv"), 6), ("cfb", csv_path("cfb_lines_today.csv"), 6)]
 SPORT_NAME = {"nhl": "NHL", "nba": "NBA", "wnba": "WNBA", "mlb": "MLB", "nfl": "NFL", "cfb": "NCAAF"}
 if "mega_skip" not in st.session_state:
     st.session_state.mega_skip = set()   # legs you swapped out

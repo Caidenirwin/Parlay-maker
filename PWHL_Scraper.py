@@ -5,13 +5,14 @@ from concurrent.futures import ThreadPoolExecutor
 import requests
 import pandas as pd
 from Freshness import already_fresh
+from paths import csv_path
 
 # PWHL (Professional Women's Hockey League) stats, straight from the feed thepwhl.com itself uses (HockeyTech).
 # No API key of your own needed - this is the public key built into the PWHL website.
-#   pwhl_games.csv    every regular-season and playoff game (scores, overtime / shootout), incl. upcoming ones
-#   pwhl_teams.csv    team code / name / logo
-#   pwhl_skaters.csv  every skater's goals, assists, points, shots, hits, blocks and ice time in every game
-#   pwhl_goalies.csv  every goalie's shots against, saves, goals against and ice time in every game
+#   data/pwhl_games.csv    every regular-season and playoff game (scores, overtime / shootout), incl. upcoming ones
+#   data/pwhl_teams.csv    team code / name / logo
+#   data/pwhl_skaters.csv  every skater's goals, assists, points, shots, hits, blocks and ice time in every game
+#   data/pwhl_goalies.csv  every goalie's shots against, saves, goals against and ice time in every game
 # The FIRST run downloads every game since the league started (2024) - a few minutes. After that only new games.
 
 FEED = "https://lscluster.hockeytech.com/feed/index.php"
@@ -64,9 +65,9 @@ games = pd.DataFrame(games).drop_duplicates("game_id").sort_values("start")
 
 # already downloaded today and no game has started since? reuse it
 today = pd.Timestamp.now(tz=TZ).strftime("%Y-%m-%d")
-if already_fresh("pwhl_games.csv", list(games.loc[games["date"] == today, "start"])):
+if already_fresh(csv_path("pwhl_games.csv"), list(games.loc[games["date"] == today, "start"])):
     raise SystemExit(0)
-pd.DataFrame(teams.values()).to_csv("pwhl_teams.csv", index=False)
+pd.DataFrame(teams.values()).to_csv(csv_path("pwhl_teams.csv"), index=False)
 print(len(games), "games |", len(teams), "teams")
 
 
@@ -106,8 +107,8 @@ def safe_box_rows(game):
         return [], []
 
 
-old_sk = pd.read_csv("pwhl_skaters.csv") if os.path.exists("pwhl_skaters.csv") else pd.DataFrame()
-old_gl = pd.read_csv("pwhl_goalies.csv") if os.path.exists("pwhl_goalies.csv") else pd.DataFrame()
+old_sk = pd.read_csv(csv_path("pwhl_skaters.csv")) if os.path.exists(csv_path("pwhl_skaters.csv")) else pd.DataFrame()
+old_gl = pd.read_csv(csv_path("pwhl_goalies.csv")) if os.path.exists(csv_path("pwhl_goalies.csv")) else pd.DataFrame()
 have = set(old_sk["game_id"].astype(str)) if len(old_sk) else set()
 todo = games[games["completed"] & ~games["game_id"].astype(str).isin(have)]
 print(len(todo), "new finished games to download")
@@ -118,12 +119,12 @@ with ThreadPoolExecutor(max_workers=4) as pool:   # 4 at a time: faster, and sti
         sk_rows += sk
         gl_rows += gl
         if i % 100 == 0 or i == len(todo):
-            for old, new, path in ((old_sk, sk_rows, "pwhl_skaters.csv"), (old_gl, gl_rows, "pwhl_goalies.csv")):
+            for old, new, path in ((old_sk, sk_rows, csv_path("pwhl_skaters.csv")), (old_gl, gl_rows, csv_path("pwhl_goalies.csv"))):
                 everyone = pd.concat([old, pd.DataFrame(new)], ignore_index=True)
                 everyone.sort_values(["player_id", "date"]).to_csv(path, index=False)
             print(f"  {i}/{len(todo)} games done")
 
 # saved LAST, on purpose: the "already up to date today" check looks at this file,
 # so a download that crashes halfway never counts as finished
-games.to_csv("pwhl_games.csv", index=False)
-print(len(games), "games saved to pwhl_games.csv - all done")
+games.to_csv(csv_path("pwhl_games.csv"), index=False)
+print(len(games), "games saved to data/pwhl_games.csv - all done")

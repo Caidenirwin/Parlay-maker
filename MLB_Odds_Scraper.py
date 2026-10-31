@@ -4,6 +4,7 @@ import requests
 import pandas as pd
 from Odds_Scraper import flatten
 from Freshness import already_fresh, football_game_starts
+from paths import csv_path
 
 # MLB odds from FanDuel, DraftKings and BetMGM (The Odds API) - tonight's games only, like hockey and the NBA.
 # A regular-season day has ~15 games - props for all of them would cost ~60 credits - so:
@@ -23,7 +24,7 @@ if __name__ == "__main__":
                          "and restart VS Code.")
 
     # already downloaded today and no game has started since? reuse it - saves credits
-    if already_fresh("mlb_odds.csv", football_game_starts("mlb")):
+    if already_fresh(csv_path("mlb_odds.csv"), football_game_starts("mlb")):
         raise SystemExit(0)
 
     now = pd.Timestamp.now(tz="America/Toronto")
@@ -78,5 +79,5 @@ if __name__ == "__main__":
     if odds.empty:
         raise SystemExit("No MLB odds for tonight - the books haven't posted yet.")
     odds["book_chance"] = (1 / odds["price"]).round(3)
-    odds.to_csv("mlb_odds.csv", index=False)
-    print(len(odds), "prices saved to mlb_odds.csv")
+    odds.to_csv(csv_path("mlb_odds.csv"), index=False)
+    print(len(odds), "prices saved to data/mlb_odds.csv")

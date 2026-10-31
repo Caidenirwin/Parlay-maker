@@ -3,6 +3,7 @@ import time
 import requests
 import pandas as pd
 from Freshness import already_fresh, nhl_game_starts
+from paths import csv_path
 
 # Player-prop odds for tonight's NHL games from FanDuel, DraftKings and BetMGM,
 # through The Odds API (free key at https://the-odds-api.com - 500 credits a month).
@@ -44,7 +45,7 @@ if __name__ == "__main__":
                          "and restart VS Code.")
 
     # already downloaded today and no game has started since? reuse it - saves credits
-    if already_fresh("odds.csv", nhl_game_starts()):
+    if already_fresh(csv_path("odds.csv"), nhl_game_starts()):
         raise SystemExit(0)
 
     # 1. the list of upcoming games (this call is free)
@@ -84,8 +85,8 @@ if __name__ == "__main__":
 
     # the book's chance = 1 / decimal odds (this still includes the book's cut, so it's a bit high)
     odds["book_chance"] = (1 / odds["price"]).round(3)
-    odds.to_csv("odds.csv", index=False)
-    print(len(odds), "prices saved to odds.csv")
+    odds.to_csv(csv_path("odds.csv"), index=False)
+    print(len(odds), "prices saved to data/odds.csv")
 
     # 3. best price for each bet across the 3 books (higher decimal odds = bigger payout)
     best = odds.sort_values("price", ascending=False).drop_duplicates(["player", "market", "side", "line"])

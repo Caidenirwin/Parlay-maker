@@ -8,6 +8,7 @@ from sklearn.ensemble import HistGradientBoostingRegressor
 from sklearn.linear_model import LogisticRegression
 from Bet_Tracker import save_found
 from NFL_Live import clean_name
+from paths import csv_path
 
 # ---- your settings (same idea as ML.py, a bit stricter - the NFL is the sharpest betting market) ----
 BANKROLL = 100        # your betting money in Canadian dollars (CA$)
@@ -24,7 +25,7 @@ MAX_BETS = 8          # never more than 8 single bets a week
 MAX_PER_GAME = 2      # at most 2 bets on the same game
 SHOW_BACKTEST = False # True = print each model's backtest tables
 
-df = pd.read_csv("nfl_players.csv")
+df = pd.read_csv(csv_path("nfl_players.csv"))
 df = df.sort_values(["player_id", "season", "week"])
 
 # what we'll predict (the stats books offer props on)
@@ -104,7 +105,7 @@ for stat in targets_to_predict:
     models[stat] = new_model().fit(data[features], data[stat])   # now learn from every game, 2018 to now
 
 # ---- Step 5: face-offs - who wins the game (moneyline model) ----
-games = pd.read_csv("nfl_games.csv")
+games = pd.read_csv(csv_path("nfl_games.csv"))
 done = games.dropna(subset=["home_score"])
 # one row per team per game, from each team's point of view
 rows = []
@@ -135,13 +136,13 @@ if SHOW_BACKTEST:
 ml_model.fit(team_games[ml_features], team_games["win"])
 
 # ---- Step 6: this week's odds ----
-if not os.path.exists("nfl_odds.csv"):
-    raise SystemExit("No nfl_odds.csv yet - run: python NFL_Odds_Scraper.py")
+if not os.path.exists(csv_path("nfl_odds.csv")):
+    raise SystemExit("No data/nfl_odds.csv yet - run: python NFL_Odds_Scraper.py")
 today = pd.Timestamp.now(tz="America/Toronto").strftime("%Y-%m-%d")
-odds = pd.read_csv("nfl_odds.csv")
+odds = pd.read_csv(csv_path("nfl_odds.csv"))
 odds = odds[odds["game_date"] >= today]   # only games that haven't happened yet
 if odds.empty:
-    raise SystemExit("nfl_odds.csv has no upcoming games - run: python NFL_Odds_Scraper.py")
+    raise SystemExit("data/nfl_odds.csv has no upcoming games - run: python NFL_Odds_Scraper.py")
 
 TEAMS = {"Arizona Cardinals": "ARI", "Atlanta Falcons": "ATL", "Baltimore Ravens": "BAL", "Buffalo Bills": "BUF",
          "Carolina Panthers": "CAR", "Chicago Bears": "CHI", "Cincinnati Bengals": "CIN", "Cleveland Browns": "CLE",
@@ -182,7 +183,7 @@ for team, (opp, home, label, date) in matchups.items():
     win_prob[team], win_prob[opp] = p, 1 - p
     print(f"  {opp} {1 - p:4.0%}  @  {team} {p:4.0%}   ({date})")
     faceoffs.append({"away": opp, "away_win": round(1 - p, 3), "home": team, "home_win": round(p, 3), "date": date})
-pd.DataFrame(faceoffs).to_csv("nfl_faceoffs_today.csv", index=False)
+pd.DataFrame(faceoffs).to_csv(csv_path("nfl_faceoffs_today.csv"), index=False)
 
 # ---- Step 7: every player's form going INTO this week (no shift: all of these games are in the past) ----
 recent = all_games.groupby("player_id")
@@ -291,8 +292,8 @@ for _, b in singles.iterrows():
     print(f"  {b['game_date']}  {b['player']} ({b['team']}) - {b['bet']} at {b['book']} {b['price']:.2f} | "
           f"model {b['raw_chance']:.0%} blend {b['model_chance']:.0%} book {b['book_chance']:.0%} | ev {b['ev']:+.0%}")
 singles[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev", "stake", "min_price"]].to_csv(
-    "nfl_bets_today.csv", index=False)
-odds[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev"]].to_csv("nfl_lines_today.csv", index=False)
+    csv_path("nfl_bets_today.csv"), index=False)
+odds[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev"]].to_csv(csv_path("nfl_lines_today.csv"), index=False)
 
 # ---- Step 9: value parlays (one book, different games) ----
 parlays = []
@@ -315,7 +316,7 @@ for p in best:
 pd.DataFrame([{"book": p["book"], "price": p["price"], "chance": p["chance"], "ev": p["ev"], "stake": p["stake"],
                "legs": json.dumps([{c: leg[c] for c in leg_columns} for leg in p["legs"]], default=float)}
               for p in best], columns=["book", "price", "chance", "ev", "stake", "legs"]).to_csv(
-    "nfl_parlays_today.csv", index=False)
+    csv_path("nfl_parlays_today.csv"), index=False)
 print(f"{len(best)} NFL value parlays")
 
 # remember everything it found (the dashboard's Fumbles page grades these too)

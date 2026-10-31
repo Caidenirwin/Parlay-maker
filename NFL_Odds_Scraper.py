@@ -4,6 +4,7 @@ import requests
 import pandas as pd
 from Odds_Scraper import flatten   # same "nested odds -> simple rows" function the NHL odds use
 from Freshness import already_fresh, football_game_starts
+from paths import csv_path
 
 # NFL odds from FanDuel, DraftKings and BetMGM, through The Odds API - with its OWN key,
 # so the NFL never uses up your hockey credits.
@@ -26,7 +27,7 @@ if __name__ == "__main__":
         print("Using your hockey key for NFL odds (they share its credits).")
 
     # already downloaded today and no game has started since? reuse it - saves credits
-    if already_fresh("nfl_odds.csv", football_game_starts("nfl")):
+    if already_fresh(csv_path("nfl_odds.csv"), football_game_starts("nfl")):
         raise SystemExit(0)
 
     # 1. the list of upcoming games (this call is free)
@@ -63,5 +64,5 @@ if __name__ == "__main__":
 
     # the book's chance = 1 / decimal odds (still includes the book's cut - the model removes it later)
     odds["book_chance"] = (1 / odds["price"]).round(3)
-    odds.to_csv("nfl_odds.csv", index=False)   # replaced every run, like odds.csv for hockey
-    print(len(odds), "prices saved to nfl_odds.csv")
+    odds.to_csv(csv_path("nfl_odds.csv"), index=False)   # replaced every run, like data/odds.csv for hockey
+    print(len(odds), "prices saved to data/nfl_odds.csv")
