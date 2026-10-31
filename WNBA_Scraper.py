@@ -4,11 +4,12 @@ from concurrent.futures import ThreadPoolExecutor
 import requests
 import pandas as pd
 from Freshness import already_fresh, football_game_starts
+from paths import csv_path
 
 # WNBA stats from ESPN's free feed - no key needed.
-#   wnba_games.csv   every regular-season and playoff game (scores), including upcoming ones
-#   wnba_teams.csv    team abbreviation / name / logo
-#   wnba_players.csv  every player's points, rebounds, assists, 3-pointers and minutes in every finished game
+#   data/wnba_games.csv   every regular-season and playoff game (scores), including upcoming ones
+#   data/wnba_teams.csv    team abbreviation / name / logo
+#   data/wnba_players.csv  every player's points, rebounds, assists, 3-pointers and minutes in every finished game
 # The FIRST run downloads ~800 box scores (several at a time, ~5 min). After that only new games.
 
 ESPN = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba"
@@ -18,7 +19,7 @@ SEASONS = {2024: ("2024-05-10", "2024-10-25"), 2025: ("2025-05-12", "2025-10-25"
 if pd.Timestamp.now() >= pd.Timestamp("2027-05-01"):   # next season: picked up automatically
     SEASONS[2027] = ("2027-05-01", pd.Timestamp.now().strftime("%Y-%m-%d"))
 
-if already_fresh("wnba_games.csv", football_game_starts("wnba")):   # same "nothing new today" check as the others
+if already_fresh(csv_path("wnba_games.csv"), football_game_starts("wnba")):   # same "nothing new today" check as the others
     raise SystemExit(0)
 
 
@@ -64,7 +65,7 @@ for season, (first, last) in SEASONS.items():
     print(season, "->", sum(g["season"] == season for g in games), "games")
 
 games = pd.DataFrame(games).drop_duplicates("game_id")
-pd.DataFrame(teams.values()).to_csv("wnba_teams.csv", index=False)
+pd.DataFrame(teams.values()).to_csv(csv_path("wnba_teams.csv"), index=False)
 print(len(games), "regular-season games |", len(teams), "teams")
 
 
@@ -104,7 +105,7 @@ def safe_box_rows(game):
         return []
 
 
-old = pd.read_csv("wnba_players.csv") if os.path.exists("wnba_players.csv") else pd.DataFrame()
+old = pd.read_csv(csv_path("wnba_players.csv")) if os.path.exists(csv_path("wnba_players.csv")) else pd.DataFrame()
 have = set(old["game_id"].astype(str)) if len(old) else set()
 todo = games[games["completed"] & ~games["game_id"].astype(str).isin(have)]
 print(len(todo), "new finished games to download")
@@ -117,10 +118,10 @@ with ThreadPoolExecutor(max_workers=4) as pool:
         if i % 300 == 0 or i == len(todo):
             new = pd.DataFrame(rows)
             everyone = pd.concat([old, new], ignore_index=True) if len(old) else new
-            everyone.sort_values(["player_id", "date"]).to_csv("wnba_players.csv", index=False)
+            everyone.sort_values(["player_id", "date"]).to_csv(csv_path("wnba_players.csv"), index=False)
             print(f"  {i}/{len(todo)} games done - {len(everyone)} player-games saved")
 
 # saved LAST, on purpose: the "already up to date today" check looks at this file,
 # so a download that crashes halfway never counts as finished
-games.to_csv("wnba_games.csv", index=False)
-print(len(games), "games saved to wnba_games.csv - all done")
+games.to_csv(csv_path("wnba_games.csv"), index=False)
+print(len(games), "games saved to data/wnba_games.csv - all done")

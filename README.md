@@ -1,5 +1,7 @@
 ﻿# Parlay Quant
 
+Research and educational project. Not betting advice.
+
 A multi-sport sports-betting research model covering NHL, NBA, NFL, college football, MLB, WNBA and PWHL. It scrapes team, player and game data, pulls live odds from The Odds API, estimates win probabilities with gradient-boosted tree models, and surfaces positive-expected-value (EV) bets and parlays in a Streamlit dashboard.
 
 ## How it works
@@ -13,7 +15,7 @@ A multi-sport sports-betting research model covering NHL, NBA, NFL, college foot
 ## Setup
 
 ```bash
-pip install pandas numpy scikit-learn requests streamlit
+pip install -r requirements.txt
 ```
 
 Get a free API key at [the-odds-api.com](https://the-odds-api.com) and set it as an environment variable (never commit keys):
@@ -28,7 +30,7 @@ Run the dashboard:
 streamlit run dashboard.py
 ```
 
-Large raw data files (player stats) are not included. Re-generate them with the scraper scripts.
+CSV tables live in `data/`. Large raw player-stat files are not included; the scraper scripts write them there. [docs/DATA.md](docs/DATA.md) lists which file each script reads and writes.
 
 ## Disclaimer
 

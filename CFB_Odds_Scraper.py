@@ -5,6 +5,7 @@ import pandas as pd
 from Odds_Scraper import flatten
 from NFL_Live import clean_name
 from Freshness import already_fresh, football_game_starts
+from paths import csv_path
 
 # College football odds from FanDuel, DraftKings and BetMGM (The Odds API).
 # A Saturday has ~50 games - player props for all of them would cost ~250 credits - so:
@@ -27,7 +28,7 @@ if __name__ == "__main__":
     in_window = lambda t: now < pd.Timestamp(t) <= now + pd.Timedelta(days=DAYS_AHEAD)
 
     # already downloaded today and no game has started since? reuse it - saves credits
-    if already_fresh("cfb_odds.csv", football_game_starts("cfb")):
+    if already_fresh(csv_path("cfb_odds.csv"), football_game_starts("cfb")):
         raise SystemExit(0)
 
     # 1. moneylines for every game - one request
@@ -42,10 +43,10 @@ if __name__ == "__main__":
     print(f"moneylines: {len(events)} games | credits left: {response.headers.get('x-requests-remaining')}")
 
     # 2. pick the biggest games for player props: games with ranked teams first (rank 1 = best)
-    # rankings come from cfb_games.csv (CFB_Scraper.py saves each team's current AP ranking)
+    # rankings come from data/cfb_games.csv (CFB_Scraper.py saves each team's current AP ranking)
     rank = {}
-    if os.path.exists("cfb_games.csv"):
-        listed = pd.read_csv("cfb_games.csv")
+    if os.path.exists(csv_path("cfb_games.csv")):
+        listed = pd.read_csv(csv_path("cfb_games.csv"))
         for side in ("home", "away"):
             for name, r in zip(listed[f"{side}_name"], listed[f"{side}_rank"]):
                 rank[clean_name(name)] = r   # latest season's rank wins (file is in date order)
@@ -75,5 +76,5 @@ if __name__ == "__main__":
     if odds.empty:
         raise SystemExit("No college odds in the next few days.")
     odds["book_chance"] = (1 / odds["price"]).round(3)
-    odds.to_csv("cfb_odds.csv", index=False)
-    print(len(odds), "prices saved to cfb_odds.csv")
+    odds.to_csv(csv_path("cfb_odds.csv"), index=False)
+    print(len(odds), "prices saved to data/cfb_odds.csv")

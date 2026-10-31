@@ -5,15 +5,16 @@ import unicodedata
 import pandas as pd
 from Live_Tracker import find_player, get_boxscore, get_scoreboard
 from NFL_Live import get_nfl_box, get_nfl_scoreboard, grade_nfl_leg
+from paths import csv_path
 
-# Keeps track of the bets you actually placed (my_bets.csv) and every bet the model FOUND (found_bets.csv,
+# Keeps track of the bets you actually placed (data/my_bets.csv) and every bet the model FOUND (data/found_bets.csv,
 # whether you took it or not), and grades both from the NHL results that NHL_Scraper.py downloads.
 # The dashboard and ML.py use this - you don't need to run it yourself.
 #
 # Every bet is a list of "legs": a single bet has 1 leg, a parlay has 2-3.
 
-BETS_FILE = "my_bets.csv"
-FOUND_FILE = "found_bets.csv"
+BETS_FILE = csv_path("my_bets.csv")
+FOUND_FILE = csv_path("found_bets.csv")
 COLUMNS = ["id", "placed", "game_date", "type", "book", "description", "legs", "price", "stake", "status", "profit"]
 
 
@@ -128,7 +129,7 @@ def grade_leg(leg, game, box):
 
 
 def grade_bets(path=BETS_FILE):
-    """grade every open bet (in my_bets.csv, or found_bets.csv) whose games are over. returns how many got graded."""
+    """grade every open bet (in data/my_bets.csv, or data/found_bets.csv) whose games are over. returns how many got graded."""
     bets = load_bets(path)
     if bets.empty:
         return 0

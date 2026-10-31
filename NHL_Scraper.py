@@ -12,7 +12,8 @@ team_url = "https://api.nhle.com/stats/rest/en/team/summary"      # team results
 # the current season runs up to today, so new players and rookies are included
 # already updated today and no game has started since? nothing new to download
 from Freshness import already_fresh, nhl_game_starts
-if already_fresh("skaters.csv", nhl_game_starts()):
+from paths import csv_path
+if already_fresh(csv_path("skaters.csv"), nhl_game_starts()):
     raise SystemExit(0)
 
 today = pd.Timestamp.today().normalize()
@@ -87,9 +88,9 @@ df = df[["season", "gameDate", "gameId", "playerId", "skaterFullName", "position
 # each player's games together, oldest to newest
 df = df.sort_values(["playerId", "gameDate"])
 
-df.to_csv("skaters.csv", index=False)   # replaces the old file, so it's always one fresh, up-to-date copy
+df.to_csv(csv_path("skaters.csv"), index=False)   # replaces the old file, so it's always one fresh, up-to-date copy
 print(len(df), "rows |", df["playerId"].nunique(), "players |", df["gameId"].nunique(), "games")
-print("saved skaters.csv")
+print("saved data/skaters.csv")
 
 # ---- goalies ----
 gl = pd.concat(goalie_tables, ignore_index=True)
@@ -98,8 +99,8 @@ gl["toiMinutes"] = (gl["timeOnIce"] / 60).round(1)
 gl = gl[["season", "gameDate", "gameId", "playerId", "goalieFullName", "teamAbbrev", "opponentTeamAbbrev",
          "home", "gamesStarted", "toiMinutes", "shotsAgainst", "saves", "goalsAgainst"]]
 gl = gl.sort_values(["playerId", "gameDate"])
-gl.to_csv("goalies.csv", index=False)   # also replaced every run
-print(len(gl), "goalie games |", gl["playerId"].nunique(), "goalies | saved goalies.csv")
+gl.to_csv(csv_path("goalies.csv"), index=False)   # also replaced every run
+print(len(gl), "goalie games |", gl["playerId"].nunique(), "goalies | saved data/goalies.csv")
 
 # ---- teams ----
 tm = pd.concat(team_tables, ignore_index=True)
@@ -114,5 +115,5 @@ tm = tm.rename(columns={"opponentTeamAbbrev": "opponent", "wins": "win",
 tm = tm[["season", "gameDate", "gameId", "team", "opponent", "home", "win",
          "goalsFor", "goalsAgainst", "shotsFor", "shotsAgainst"]]
 tm = tm.sort_values(["team", "gameDate"])
-tm.to_csv("teams.csv", index=False)   # also replaced every run
-print(len(tm), "team games | saved teams.csv")
+tm.to_csv(csv_path("teams.csv"), index=False)   # also replaced every run
+print(len(tm), "team games | saved data/teams.csv")

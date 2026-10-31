@@ -8,6 +8,7 @@ from sklearn.ensemble import HistGradientBoostingRegressor
 from sklearn.linear_model import LogisticRegression
 from Bet_Tracker import save_found
 from NFL_Live import clean_name
+from paths import csv_path
 
 # WNBA model - the same strict recipe as the hockey and football models, with basketball stats:
 # points (bell curve), rebounds / assists / threes (whole-number counts -> Poisson), plus who wins each game.
@@ -29,9 +30,9 @@ MAX_PER_GAME = 2      # at most 2 bets on the same game
 MIN_MINUTES = 20      # only players averaging 20+ minutes over their last 5 games (bench guys are coin flips)
 SHOW_BACKTEST = False # True = print each model's backtest
 
-if not os.path.exists("wnba_players.csv") or not os.path.exists("wnba_games.csv"):
+if not os.path.exists(csv_path("wnba_players.csv")) or not os.path.exists(csv_path("wnba_games.csv")):
     raise SystemExit("No WNBA stats yet - run: python WNBA_Scraper.py (the first download takes ~5 minutes)")
-df = pd.read_csv("wnba_players.csv").sort_values(["player_id", "date"])
+df = pd.read_csv(csv_path("wnba_players.csv")).sort_values(["player_id", "date"])
 targets_to_predict = ["points", "rebounds", "assists", "threes"]
 opportunity = ["minutes", "shots_tried", "threes_tried"]
 COUNT_STATS = {"rebounds", "assists", "threes"}
@@ -94,8 +95,8 @@ for stat in targets_to_predict:
     models[stat] = new_model().fit(data[features], data[stat])
 
 # ---- face-offs: who wins (moneyline model) ----
-games = pd.read_csv("wnba_games.csv")
-teams_list = pd.read_csv("wnba_teams.csv")
+games = pd.read_csv(csv_path("wnba_games.csv"))
+teams_list = pd.read_csv(csv_path("wnba_teams.csv"))
 done = games[games["completed"] & games["home_score"].notna()]
 rows = []
 for side, other in (("home", "away"), ("away", "home")):
@@ -124,13 +125,13 @@ if SHOW_BACKTEST:
 ml_model.fit(team_games[ml_features], team_games["win"])
 
 # ---- tonight's odds ----
-if not os.path.exists("wnba_odds.csv"):
-    raise SystemExit("No wnba_odds.csv yet - run: python WNBA_Odds_Scraper.py")
+if not os.path.exists(csv_path("wnba_odds.csv")):
+    raise SystemExit("No data/wnba_odds.csv yet - run: python WNBA_Odds_Scraper.py")
 today = pd.Timestamp.now(tz="America/Toronto").strftime("%Y-%m-%d")
-odds = pd.read_csv("wnba_odds.csv")
+odds = pd.read_csv(csv_path("wnba_odds.csv"))
 odds = odds[odds["game_date"] >= today]
 if odds.empty:
-    raise SystemExit("wnba_odds.csv has no games tonight - run: python WNBA_Odds_Scraper.py")
+    raise SystemExit("data/wnba_odds.csv has no games tonight - run: python WNBA_Odds_Scraper.py")
 # the game day these odds are for: usually tonight, but with no game tonight the odds scraper gets tomorrow's
 game_day = odds["game_date"].min()
 odds = odds[odds["game_date"] == game_day]
@@ -165,7 +166,7 @@ for team, (opp, home, label, date) in matchups.items():
     win_prob[team], win_prob[opp] = p, 1 - p
     print(f"  {opp} {1 - p:4.0%}  @  {team} {p:4.0%}")
     faceoffs.append({"away": opp, "away_win": round(1 - p, 3), "home": team, "home_win": round(p, 3), "date": date})
-pd.DataFrame(faceoffs).to_csv("wnba_faceoffs_today.csv", index=False)
+pd.DataFrame(faceoffs).to_csv(csv_path("wnba_faceoffs_today.csv"), index=False)
 
 # ---- every player's form going into tonight ----
 recent = all_games.groupby("player_id")
@@ -268,8 +269,8 @@ for _, b in singles.iterrows():
     print(f"  {b['player']} ({b['team']}) - {b['bet']} at {b['book']} {b['price']:.2f} | "
           f"model {b['raw_chance']:.0%} blend {b['model_chance']:.0%} book {b['book_chance']:.0%} | ev {b['ev']:+.0%}")
 singles[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev", "stake", "min_price"]].to_csv(
-    "wnba_bets_today.csv", index=False)
-odds[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev"]].to_csv("wnba_lines_today.csv", index=False)
+    csv_path("wnba_bets_today.csv"), index=False)
+odds[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev"]].to_csv(csv_path("wnba_lines_today.csv"), index=False)
 
 # ---- value parlays (one book, different games) ----
 parlays = []
@@ -292,7 +293,7 @@ for p in best:
 pd.DataFrame([{"book": p["book"], "price": p["price"], "chance": p["chance"], "ev": p["ev"], "stake": p["stake"],
                "legs": json.dumps([{c: leg[c] for c in leg_columns} for leg in p["legs"]], default=float)}
               for p in best], columns=["book", "price", "chance", "ev", "stake", "legs"]).to_csv(
-    "wnba_parlays_today.csv", index=False)
+    csv_path("wnba_parlays_today.csv"), index=False)
 print(f"{len(best)} WNBA value parlays")
 
 found = [{"legs": [{c: row[c] for c in leg_columns}], "book": row["book"], "price": row["price"],

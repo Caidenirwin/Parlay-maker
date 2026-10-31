@@ -11,6 +11,7 @@ from sklearn.ensemble import HistGradientBoostingRegressor
 from sklearn.linear_model import LogisticRegression
 from Goalie_Scraper import get_starting_goalies
 from Bet_Tracker import save_found
+from paths import csv_path
 
 # ---- your settings ----
 BANKROLL = 100        # your betting money in Canadian dollars (CA$); stakes are worked out from this
@@ -42,7 +43,7 @@ def clean_name(name):
     return re.sub(r"[^a-z ]", "", name.lower()).strip()
 
 
-df = pd.read_csv("skaters.csv")
+df = pd.read_csv(csv_path("skaters.csv"))
 say(df.shape)
 
 # the stats we predict, and the betting lines to check for each
@@ -140,7 +141,7 @@ for stat in stats:
     models[stat] = model
 
 # ---- Goalies: a separate saves model (goalies are in their own file) ----
-goalies = pd.read_csv("goalies.csv")
+goalies = pd.read_csv(csv_path("goalies.csv"))
 # only games he STARTED - a backup who comes in for the 3rd period would drag his averages down
 goalies = goalies[goalies["gamesStarted"] == 1].sort_values(["playerId", "gameDate"])
 for col in ["saves", "shotsAgainst"]:
@@ -191,7 +192,7 @@ for line in (22.5, 25.5, 28.5):
 goalie_model.fit(goalies[goalie_features], goalies["saves"])   # now learn from every start
 
 # ---- Moneyline: who wins the game (the two teams "face off") ----
-teams = pd.read_csv("teams.csv").sort_values(["team", "gameDate"])
+teams = pd.read_csv(csv_path("teams.csv")).sort_values(["team", "gameDate"])
 teams["goalDiff"] = teams["goalsFor"] - teams["goalsAgainst"]   # +2 = won by 2, -1 = lost by 1
 for col in ["goalDiff", "shotsFor", "shotsAgainst"]:
     teams[f"{col}_last10"] = teams.groupby("team")[col].transform(lambda s: s.shift().rolling(10).mean())
@@ -350,7 +351,7 @@ else:
     goalie_form["predicted_saves"] = goalie_model.predict(goalie_form[goalie_features]).round(1)
 
 # tonight's face-offs: each team's last 10 games + its starting goalie's last 10 starts
-raw_teams = pd.read_csv("teams.csv").sort_values(["team", "gameDate"])
+raw_teams = pd.read_csv(csv_path("teams.csv")).sort_values(["team", "gameDate"])
 raw_teams["goalDiff"] = raw_teams["goalsFor"] - raw_teams["goalsAgainst"]
 team_now = raw_teams.groupby("team")[["goalDiff", "shotsFor", "shotsAgainst"]].apply(lambda t: t.tail(10).mean())
 team_now.columns = ["goalDiff_last10", "shotsFor_last10", "shotsAgainst_last10"]
@@ -380,7 +381,7 @@ for game in games_tonight:
           f"(goalies: {starter_of.get(away_team, '?')} vs {starter_of.get(home_team, '?')})")
     faceoffs.append({"away": away_team, "away_win": round(1 - p, 3), "home": home_team, "home_win": round(p, 3),
                      "away_goalie": starter_of.get(away_team, "?"), "home_goalie": starter_of.get(home_team, "?")})
-pd.DataFrame(faceoffs).to_csv("faceoffs_today.csv", index=False)
+pd.DataFrame(faceoffs).to_csv(csv_path("faceoffs_today.csv"), index=False)
 
 # 5. print the top 10 players on each team tonight, best chance of a point first
 for game in games_tonight:
@@ -407,12 +408,12 @@ def american_odds(decimal_price):
 
 
 # 1. load tonight's odds (made by Odds_Scraper.py, so this script never spends API credits)
-if not os.path.exists("odds.csv"):
-    raise SystemExit("No odds.csv yet - run: python Odds_Scraper.py")
-odds_day = pd.Timestamp.fromtimestamp(os.path.getmtime("odds.csv")).strftime("%Y-%m-%d")   # local time, not UTC
+if not os.path.exists(csv_path("odds.csv")):
+    raise SystemExit("No data/odds.csv yet - run: python Odds_Scraper.py")
+odds_day = pd.Timestamp.fromtimestamp(os.path.getmtime(csv_path("odds.csv"))).strftime("%Y-%m-%d")   # local time, not UTC
 if odds_day != today:
-    raise SystemExit(f"odds.csv is from {odds_day}, not today - run: python Odds_Scraper.py")
-odds = pd.read_csv("odds.csv")
+    raise SystemExit(f"data/odds.csv is from {odds_day}, not today - run: python Odds_Scraper.py")
+odds = pd.read_csv(csv_path("odds.csv"))
 # only odds for TONIGHT's games - the file could hold another day's games (e.g. scraped late at night),
 # and a team that plays tonight AND tomorrow would otherwise get tomorrow's odds matched to tonight's game
 tonight_full_names = set()
@@ -422,7 +423,7 @@ for game in games_tonight:
     tonight_full_names.add(full(game["awayTeam"]) + " @ " + full(game["homeTeam"]))
 odds = odds[odds["game"].map(lambda g: " @ ".join(clean_name(t) for t in str(g).split(" @ "))).isin(tonight_full_names)]
 if odds.empty:
-    raise SystemExit("odds.csv has no odds for tonight's games - run: python Odds_Scraper.py")
+    raise SystemExit("data/odds.csv has no odds for tonight's games - run: python Odds_Scraper.py")
 
 # 2. the book's real opinion: remove its cut (the "vig") by scaling Over + Under so they add up to 100%
 odds["implied"] = 1 / odds["price"]
@@ -521,7 +522,7 @@ good["bet"] = [describe(row) for _, row in good.iterrows()]   # loop works even 
 odds["bet"] = [describe(row) for _, row in odds.iterrows()]
 lines = odds[(odds["model_chance"] > 0) & (odds["model_chance"] < 1)].copy()
 lines[["player", "team", "game", "stat", "side", "line", "bet", "price", "mean", "sd",
-       "book", "raw_chance", "model_chance", "book_chance", "ev"]].to_csv("lines_today.csv", index=False)
+       "book", "raw_chance", "model_chance", "book_chance", "ev"]].to_csv(csv_path("lines_today.csv"), index=False)
 
 # the same bet at the best-paying book only
 singles = good.sort_values("price", ascending=False).drop_duplicates(["name_key", "market", "side", "line"])
@@ -554,7 +555,7 @@ for _, b in singles.iterrows():
 
 # save tonight's bets for the dashboard (every run replaces the file)
 leg_columns = ["player", "team", "game", "stat", "side", "line", "bet", "price", "mean", "sd"]
-singles[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev", "stake", "min_price"]].to_csv("bets_today.csv", index=False)
+singles[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev", "stake", "min_price"]].to_csv(csv_path("bets_today.csv"), index=False)
 
 # ---- Step 10: value parlays (every leg must be at the SAME book - you can't mix books on one slip) ----
 parlays = []
@@ -593,7 +594,7 @@ for i, p in enumerate(best_parlays, start=1):
 # save tonight's parlays for the dashboard - the legs go in as JSON text so a whole parlay fits in one row
 pd.DataFrame([{"book": p["book"], "price": p["price"], "chance": p["chance"], "ev": p["ev"], "stake": p["stake"],
                "legs": json.dumps([{c: leg[c] for c in leg_columns} for leg in p["legs"]], default=float)}
-              for p in best_parlays], columns=["book", "price", "chance", "ev", "stake", "legs"]).to_csv("parlays_today.csv", index=False)
+              for p in best_parlays], columns=["book", "price", "chance", "ev", "stake", "legs"]).to_csv(csv_path("parlays_today.csv"), index=False)
 
 # keep a permanent record of EVERY bet the model found (taken or not) - the dashboard's Fumbles page
 # grades these too, so you can see how the bets you skipped would have done

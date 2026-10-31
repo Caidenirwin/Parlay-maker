@@ -9,6 +9,7 @@ from sklearn.ensemble import HistGradientBoostingRegressor
 from sklearn.linear_model import LogisticRegression
 from Bet_Tracker import save_found
 from NFL_Live import clean_name
+from paths import csv_path
 
 # MLB model - the same strict recipe as the other sports, with baseball's big extra: WHO IS PITCHING.
 #   batters:  hits, home runs, RBIs  - his recent form + the opposing STARTING PITCHER's recent form
@@ -38,9 +39,9 @@ MAX_PER_GAME = 2      # at most 2 bets on the same game
 SHOW_BACKTEST = False # True = print each model's backtest
 
 ESPN = "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb"
-if not os.path.exists("mlb_players.csv") or not os.path.exists("mlb_games.csv"):
+if not os.path.exists(csv_path("mlb_players.csv")) or not os.path.exists(csv_path("mlb_games.csv")):
     raise SystemExit("No MLB stats yet - run: python MLB_Scraper.py (the first download takes ~30 minutes)")
-df = pd.read_csv("mlb_players.csv").sort_values(["player_id", "date", "game_id"]).reset_index(drop=True)
+df = pd.read_csv(csv_path("mlb_players.csv")).sort_values(["player_id", "date", "game_id"]).reset_index(drop=True)
 df = df[~df["team"].isin(["AL", "NL"])].reset_index(drop=True)   # the All-Star Game isn't a real game
 bat = df[df["role"] == "batter"].reset_index(drop=True)
 pit = df[(df["role"] == "pitcher") & (df["starter"] == 1)].reset_index(drop=True)   # starting pitchers only
@@ -149,8 +150,8 @@ for stat, (frame, feats) in TARGETS.items():
     models[stat] = new_model().fit(data[feats], data[stat])
 
 # ---- face-offs: who wins (moneyline model) ----
-games = pd.read_csv("mlb_games.csv")
-teams_list = pd.read_csv("mlb_teams.csv")
+games = pd.read_csv(csv_path("mlb_games.csv"))
+teams_list = pd.read_csv(csv_path("mlb_teams.csv"))
 done = games[games["completed"] & games["home_score"].notna()]
 rows = []
 for side, other in (("home", "away"), ("away", "home")):
@@ -182,13 +183,13 @@ if SHOW_BACKTEST:
 ml_model.fit(team_games[ml_features], team_games["win"])
 
 # ---- tonight's odds ----
-if not os.path.exists("mlb_odds.csv"):
-    raise SystemExit("No mlb_odds.csv yet - run: python MLB_Odds_Scraper.py")
+if not os.path.exists(csv_path("mlb_odds.csv")):
+    raise SystemExit("No data/mlb_odds.csv yet - run: python MLB_Odds_Scraper.py")
 today = pd.Timestamp.now(tz="America/Toronto").strftime("%Y-%m-%d")
-odds = pd.read_csv("mlb_odds.csv")
+odds = pd.read_csv(csv_path("mlb_odds.csv"))
 odds = odds[odds["game_date"] >= today]
 if odds.empty:
-    raise SystemExit("mlb_odds.csv has no games today - run: python MLB_Odds_Scraper.py")
+    raise SystemExit("data/mlb_odds.csv has no games today - run: python MLB_Odds_Scraper.py")
 # the game day these odds are for: usually today, but with no games left today the odds scraper gets tomorrow's
 game_day = odds["game_date"].min()
 odds = odds[odds["game_date"] == game_day]
@@ -259,7 +260,7 @@ for team, (opp, home, label, date) in matchups.items():
     print(f"  {opp} {1 - p:4.0%}  @  {team} {p:4.0%}   ({pitchers})")
     faceoffs.append({"away": opp, "away_win": round(1 - p, 3), "home": team, "home_win": round(p, 3), "date": date,
                      "away_pitcher": probable.get(opp, "?").title(), "home_pitcher": probable.get(team, "?").title()})
-pd.DataFrame(faceoffs).to_csv("mlb_faceoffs_today.csv", index=False)
+pd.DataFrame(faceoffs).to_csv(csv_path("mlb_faceoffs_today.csv"), index=False)
 
 # ---- every batter's form going into today ----
 recent = bat.groupby("player_id")
@@ -379,8 +380,8 @@ for _, b in singles.iterrows():
     print(f"  {b['player']} ({b['team']}) - {b['bet']} at {b['book']} {b['price']:.2f} | "
           f"model {b['raw_chance']:.0%} blend {b['model_chance']:.0%} book {b['book_chance']:.0%} | ev {b['ev']:+.0%}")
 singles[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev", "stake", "min_price"]].to_csv(
-    "mlb_bets_today.csv", index=False)
-odds[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev"]].to_csv("mlb_lines_today.csv", index=False)
+    csv_path("mlb_bets_today.csv"), index=False)
+odds[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev"]].to_csv(csv_path("mlb_lines_today.csv"), index=False)
 
 # ---- value parlays (one book, different games) ----
 parlays = []
@@ -403,7 +404,7 @@ for p in best:
 pd.DataFrame([{"book": p["book"], "price": p["price"], "chance": p["chance"], "ev": p["ev"], "stake": p["stake"],
                "legs": json.dumps([{c: leg[c] for c in leg_columns} for leg in p["legs"]], default=float)}
               for p in best], columns=["book", "price", "chance", "ev", "stake", "legs"]).to_csv(
-    "mlb_parlays_today.csv", index=False)
+    csv_path("mlb_parlays_today.csv"), index=False)
 print(f"{len(best)} MLB value parlays")
 
 found = [{"legs": [{c: row[c] for c in leg_columns}], "book": row["book"], "price": row["price"],

@@ -4,9 +4,9 @@ import requests
 import pandas as pd
 
 # College football (FBS) stats from ESPN's free feed - no key needed.
-#   cfb_games.csv    every game (scores, rankings), including this week's upcoming ones
-#   cfb_teams.csv    team id / abbreviation / name / logo
-#   cfb_players.csv  every player's passing, rushing and receiving in every finished game
+#   data/cfb_games.csv    every game (scores, rankings), including this week's upcoming ones
+#   data/cfb_teams.csv    team id / abbreviation / name / logo
+#   data/cfb_players.csv  every player's passing, rushing and receiving in every finished game
 # The FIRST run downloads ~3,000 box scores (~25 min). After that it only fetches games it doesn't have yet.
 
 ESPN = "https://site.api.espn.com/apis/site/v2/sports/football/college-football"
@@ -15,7 +15,8 @@ WEEKS = range(1, 17)          # regular season weeks
 
 # already updated today and no game has started since? nothing new to download
 from Freshness import already_fresh, football_game_starts
-if already_fresh("cfb_games.csv", football_game_starts("cfb")):
+from paths import csv_path
+if already_fresh(csv_path("cfb_games.csv"), football_game_starts("cfb")):
     raise SystemExit(0)
 
 # ---- 1. every game, week by week ----
@@ -43,9 +44,9 @@ for season in SEASONS:
     print(season, "->", sum(g["season"] == season for g in games), "games")
 
 games = pd.DataFrame(games).drop_duplicates("game_id")
-games.to_csv("cfb_games.csv", index=False)
-pd.DataFrame(teams.values()).to_csv("cfb_teams.csv", index=False)
-print(len(games), "games saved to cfb_games.csv |", len(teams), "teams")
+games.to_csv(csv_path("cfb_games.csv"), index=False)
+pd.DataFrame(teams.values()).to_csv(csv_path("cfb_teams.csv"), index=False)
+print(len(games), "games saved to data/cfb_games.csv |", len(teams), "teams")
 
 # ---- 2. player stats from each finished game's box score (only the ones we don't have yet) ----
 WANTED = {("passing", "passingYards"): "passing_yards", ("passing", "completions/passingAttempts"): "attempts",
@@ -78,7 +79,7 @@ def box_rows(game):
     return list(players.values())
 
 
-old = pd.read_csv("cfb_players.csv") if os.path.exists("cfb_players.csv") else pd.DataFrame()
+old = pd.read_csv(csv_path("cfb_players.csv")) if os.path.exists(csv_path("cfb_players.csv")) else pd.DataFrame()
 have = set(old["game_id"].astype(str)) if len(old) else set()
 todo = games[games["completed"] & ~games["game_id"].astype(str).isin(have)]
 print(len(todo), "new finished games to download")
@@ -94,6 +95,6 @@ for _, game in todo.iterrows():
         new = pd.DataFrame(rows)
         all_players = pd.concat([old, new], ignore_index=True) if len(old) else new
         all_players = all_players.sort_values(["player_id", "season", "week"])
-        all_players.to_csv("cfb_players.csv", index=False)
+        all_players.to_csv(csv_path("cfb_players.csv"), index=False)
         print(f"  {done}/{len(todo)} games done - {len(all_players)} player-games saved")
     time.sleep(0.1)

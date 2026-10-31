@@ -6,19 +6,27 @@ venv/
 
 # Secrets / local config
 .env
+.env.*
+!.env.example
 .streamlit/secrets.toml
+**/secrets.toml
+*.pem
+*.p12
+credentials.json
+*service-account*.json
 
 # Obsidian workspace
 .obsidian/
 
-# Personal betting records
+# Personal betting records (matched in any directory, including data/)
 my_bets.csv
 found_bets.csv
 *bets_today.csv
 *parlays_today.csv
 *faceoffs_today.csv
 
-# Large raw data (re-generate with the *_Scraper.py scripts)
+# Large raw data (re-generate with the *_Scraper.py scripts).
+# These names match in any directory, including data/.
 *players.csv
 skaters.csv
 goalies.csv

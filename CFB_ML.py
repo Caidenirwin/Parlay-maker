@@ -8,6 +8,7 @@ from sklearn.ensemble import HistGradientBoostingRegressor
 from sklearn.linear_model import LogisticRegression
 from Bet_Tracker import save_found
 from NFL_Live import clean_name
+from paths import csv_path
 
 # College football model - the same recipe as NFL_ML.py, adapted for college data
 # (no "targets" or positions in college box scores; 130+ teams; ESPN's team names).
@@ -30,7 +31,7 @@ MAX_BETS = 8          # never more than 8 single bets a week
 MAX_PER_GAME = 2      # at most 2 bets on the same game
 SHOW_BACKTEST = False # True = print each model's backtest
 
-df = pd.read_csv("cfb_players.csv").sort_values(["player_id", "date"])
+df = pd.read_csv(csv_path("cfb_players.csv")).sort_values(["player_id", "date"])
 targets_to_predict = ["passing_yards", "rushing_yards", "receiving_yards", "receptions"]
 opportunity = ["attempts", "carries"]   # college box scores have no "targets" - receptions do that job
 all_games = df.copy()
@@ -95,8 +96,8 @@ for stat in targets_to_predict:
     models[stat] = new_model().fit(data[features], data[stat])
 
 # ---- face-offs: who wins (moneyline model) ----
-games = pd.read_csv("cfb_games.csv")
-teams_list = pd.read_csv("cfb_teams.csv")
+games = pd.read_csv(csv_path("cfb_games.csv"))
+teams_list = pd.read_csv(csv_path("cfb_teams.csv"))
 done = games[games["completed"] & games["home_score"].notna()]
 rows = []
 for side, other in (("home", "away"), ("away", "home")):
@@ -125,13 +126,13 @@ if SHOW_BACKTEST:
 ml_model.fit(team_games[ml_features], team_games["win"])
 
 # ---- this week's odds ----
-if not os.path.exists("cfb_odds.csv"):
-    raise SystemExit("No cfb_odds.csv yet - run: python CFB_Odds_Scraper.py")
+if not os.path.exists(csv_path("cfb_odds.csv")):
+    raise SystemExit("No data/cfb_odds.csv yet - run: python CFB_Odds_Scraper.py")
 today = pd.Timestamp.now(tz="America/Toronto").strftime("%Y-%m-%d")
-odds = pd.read_csv("cfb_odds.csv")
+odds = pd.read_csv(csv_path("cfb_odds.csv"))
 odds = odds[odds["game_date"] >= today]
 if odds.empty:
-    raise SystemExit("cfb_odds.csv has no upcoming games - run: python CFB_Odds_Scraper.py")
+    raise SystemExit("data/cfb_odds.csv has no upcoming games - run: python CFB_Odds_Scraper.py")
 
 TEAMS = {clean_name(n): t for n, t in zip(teams_list["name"], teams_list["team"])}   # "Texas Longhorns" -> "TEX"
 matchups = {}
@@ -161,7 +162,7 @@ for team, (opp, home, label, date) in matchups.items():
     win_prob[team], win_prob[opp] = p, 1 - p
     print(f"  {opp} {1 - p:4.0%}  @  {team} {p:4.0%}   ({date})")
     faceoffs.append({"away": opp, "away_win": round(1 - p, 3), "home": team, "home_win": round(p, 3), "date": date})
-pd.DataFrame(faceoffs).to_csv("cfb_faceoffs_today.csv", index=False)
+pd.DataFrame(faceoffs).to_csv(csv_path("cfb_faceoffs_today.csv"), index=False)
 
 # ---- every player's form going into this week ----
 recent = all_games.groupby("player_id")
@@ -267,8 +268,8 @@ for _, b in singles.iterrows():
     print(f"  {b['game_date']}  {b['player']} ({b['team']}) - {b['bet']} at {b['book']} {b['price']:.2f} | "
           f"model {b['raw_chance']:.0%} blend {b['model_chance']:.0%} book {b['book_chance']:.0%} | ev {b['ev']:+.0%}")
 singles[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev", "stake", "min_price"]].to_csv(
-    "cfb_bets_today.csv", index=False)
-odds[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev"]].to_csv("cfb_lines_today.csv", index=False)
+    csv_path("cfb_bets_today.csv"), index=False)
+odds[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev"]].to_csv(csv_path("cfb_lines_today.csv"), index=False)
 
 # ---- value parlays (one book, different games) ----
 parlays = []
@@ -291,7 +292,7 @@ for p in best:
 pd.DataFrame([{"book": p["book"], "price": p["price"], "chance": p["chance"], "ev": p["ev"], "stake": p["stake"],
                "legs": json.dumps([{c: leg[c] for c in leg_columns} for leg in p["legs"]], default=float)}
               for p in best], columns=["book", "price", "chance", "ev", "stake", "legs"]).to_csv(
-    "cfb_parlays_today.csv", index=False)
+    csv_path("cfb_parlays_today.csv"), index=False)
 print(f"{len(best)} college value parlays")
 
 found = [{"legs": [{c: row[c] for c in leg_columns}], "book": row["book"], "price": row["price"],
