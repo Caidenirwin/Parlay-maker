@@ -1,0 +1,926 @@
+game_id,season,date,completed,home_team,home_name,home_score,away_team,away_name,away_score
+401620178,2024,2024-05-14,True,WSH,Washington Mystics,80.0,NY,New York Liberty,85.0
+401620219,2024,2024-05-14,True,CON,Connecticut Sun,92.0,IND,Indiana Fever,71.0
+401620220,2024,2024-05-14,True,LV,Las Vegas Aces,89.0,PHX,Phoenix Mercury,80.0
+401620221,2024,2024-05-14,True,SEA,Seattle Storm,70.0,MIN,Minnesota Lynx,83.0
+401620222,2024,2024-05-15,True,DAL,Dallas Wings,87.0,CHI,Chicago Sky,79.0
+401620223,2024,2024-05-15,True,LA,Los Angeles Sparks,81.0,ATL,Atlanta Dream,92.0
+401620224,2024,2024-05-16,True,IND,Indiana Fever,66.0,NY,New York Liberty,102.0
+401620225,2024,2024-05-17,True,CON,Connecticut Sun,84.0,WSH,Washington Mystics,77.0
+401620226,2024,2024-05-17,True,MIN,Minnesota Lynx,102.0,SEA,Seattle Storm,93.0
+401620227,2024,2024-05-18,True,NY,New York Liberty,91.0,IND,Indiana Fever,80.0
+401620228,2024,2024-05-18,True,LV,Las Vegas Aces,89.0,LA,Los Angeles Sparks,82.0
+401620229,2024,2024-05-18,True,DAL,Dallas Wings,74.0,CHI,Chicago Sky,83.0
+401620230,2024,2024-05-18,True,PHX,Phoenix Mercury,88.0,ATL,Atlanta Dream,85.0
+401620231,2024,2024-05-19,True,WSH,Washington Mystics,75.0,SEA,Seattle Storm,84.0
+401620232,2024,2024-05-20,True,IND,Indiana Fever,84.0,CON,Connecticut Sun,88.0
+401620233,2024,2024-05-20,True,NY,New York Liberty,74.0,SEA,Seattle Storm,63.0
+401620234,2024,2024-05-21,True,ATL,Atlanta Dream,83.0,DAL,Dallas Wings,78.0
+401620235,2024,2024-05-21,True,LV,Las Vegas Aces,88.0,PHX,Phoenix Mercury,98.0
+401620236,2024,2024-05-21,True,LA,Los Angeles Sparks,70.0,WSH,Washington Mystics,68.0
+401620237,2024,2024-05-22,True,SEA,Seattle Storm,85.0,IND,Indiana Fever,83.0
+401620238,2024,2024-05-23,True,CON,Connecticut Sun,83.0,MIN,Minnesota Lynx,82.0
+401620239,2024,2024-05-23,True,NY,New York Liberty,81.0,CHI,Chicago Sky,90.0
+401620240,2024,2024-05-23,True,PHX,Phoenix Mercury,83.0,WSH,Washington Mystics,80.0
+401620241,2024,2024-05-24,True,LA,Los Angeles Sparks,73.0,IND,Indiana Fever,78.0
+401620242,2024,2024-05-25,True,MIN,Minnesota Lynx,84.0,NY,New York Liberty,67.0
+401620243,2024,2024-05-25,True,CHI,Chicago Sky,82.0,CON,Connecticut Sun,86.0
+401620244,2024,2024-05-25,True,LV,Las Vegas Aces,99.0,IND,Indiana Fever,80.0
+401620245,2024,2024-05-25,True,SEA,Seattle Storm,101.0,WSH,Washington Mystics,69.0
+401620246,2024,2024-05-25,True,PHX,Phoenix Mercury,92.0,DAL,Dallas Wings,107.0
+401620247,2024,2024-05-26,True,ATL,Atlanta Dream,79.0,MIN,Minnesota Lynx,92.0
+401620248,2024,2024-05-26,True,LA,Los Angeles Sparks,83.0,DAL,Dallas Wings,84.0
+401620249,2024,2024-05-28,True,CON,Connecticut Sun,70.0,PHX,Phoenix Mercury,47.0
+401620250,2024,2024-05-28,True,IND,Indiana Fever,82.0,LA,Los Angeles Sparks,88.0
+401620251,2024,2024-05-28,True,CHI,Chicago Sky,68.0,SEA,Seattle Storm,77.0
+401620252,2024,2024-05-29,True,NY,New York Liberty,81.0,PHX,Phoenix Mercury,78.0
+401620253,2024,2024-05-29,True,WSH,Washington Mystics,67.0,ATL,Atlanta Dream,73.0
+401620254,2024,2024-05-29,True,MIN,Minnesota Lynx,66.0,LV,Las Vegas Aces,80.0
+401620255,2024,2024-05-30,True,IND,Indiana Fever,88.0,SEA,Seattle Storm,103.0
+401620256,2024,2024-05-30,True,CHI,Chicago Sky,83.0,LA,Los Angeles Sparks,73.0
+401620257,2024,2024-05-31,True,ATL,Atlanta Dream,78.0,LV,Las Vegas Aces,74.0
+401620258,2024,2024-05-31,True,CON,Connecticut Sun,74.0,DAL,Dallas Wings,72.0
+401620259,2024,2024-05-31,True,NY,New York Liberty,90.0,WSH,Washington Mystics,79.0
+401620260,2024,2024-05-31,True,MIN,Minnesota Lynx,95.0,PHX,Phoenix Mercury,71.0
+401620261,2024,2024-06-01,True,IND,Indiana Fever,71.0,CHI,Chicago Sky,70.0
+401620262,2024,2024-06-02,True,ATL,Atlanta Dream,50.0,CON,Connecticut Sun,69.0
+401620265,2024,2024-06-02,True,PHX,Phoenix Mercury,87.0,LA,Los Angeles Sparks,68.0
+401620263,2024,2024-06-02,True,NY,New York Liberty,104.0,IND,Indiana Fever,68.0
+401620264,2024,2024-06-02,True,MIN,Minnesota Lynx,87.0,DAL,Dallas Wings,76.0
+401620266,2024,2024-06-04,True,CON,Connecticut Sun,76.0,WSH,Washington Mystics,59.0
+401620267,2024,2024-06-04,True,CHI,Chicago Sky,75.0,NY,New York Liberty,88.0
+401620268,2024,2024-06-04,True,SEA,Seattle Storm,80.0,PHX,Phoenix Mercury,62.0
+401620269,2024,2024-06-05,True,DAL,Dallas Wings,81.0,LV,Las Vegas Aces,95.0
+401620270,2024,2024-06-05,True,LA,Los Angeles Sparks,62.0,MIN,Minnesota Lynx,86.0
+401620271,2024,2024-06-06,True,WSH,Washington Mystics,71.0,CHI,Chicago Sky,79.0
+401620272,2024,2024-06-06,True,ATL,Atlanta Dream,61.0,NY,New York Liberty,78.0
+401620273,2024,2024-06-07,True,WSH,Washington Mystics,83.0,IND,Indiana Fever,85.0
+401620274,2024,2024-06-07,True,LV,Las Vegas Aces,65.0,SEA,Seattle Storm,78.0
+401620275,2024,2024-06-07,True,LA,Los Angeles Sparks,81.0,DAL,Dallas Wings,72.0
+401620276,2024,2024-06-07,True,PHX,Phoenix Mercury,81.0,MIN,Minnesota Lynx,80.0
+401620277,2024,2024-06-08,True,CON,Connecticut Sun,75.0,NY,New York Liberty,82.0
+401620278,2024,2024-06-08,True,CHI,Chicago Sky,80.0,ATL,Atlanta Dream,89.0
+401620279,2024,2024-06-09,True,NY,New York Liberty,93.0,WSH,Washington Mystics,88.0
+401620280,2024,2024-06-09,True,DAL,Dallas Wings,90.0,PHX,Phoenix Mercury,97.0
+401620281,2024,2024-06-09,True,MIN,Minnesota Lynx,83.0,SEA,Seattle Storm,64.0
+401620282,2024,2024-06-09,True,LA,Los Angeles Sparks,96.0,LV,Las Vegas Aces,92.0
+401620283,2024,2024-06-10,True,CON,Connecticut Sun,89.0,IND,Indiana Fever,72.0
+401620284,2024,2024-06-11,True,ATL,Atlanta Dream,68.0,WSH,Washington Mystics,87.0
+401620285,2024,2024-06-11,True,LV,Las Vegas Aces,86.0,MIN,Minnesota Lynx,100.0
+401620286,2024,2024-06-11,True,SEA,Seattle Storm,95.0,LA,Los Angeles Sparks,79.0
+401620287,2024,2024-06-12,True,CHI,Chicago Sky,75.0,CON,Connecticut Sun,83.0
+401620288,2024,2024-06-13,True,IND,Indiana Fever,91.0,ATL,Atlanta Dream,84.0
+401620289,2024,2024-06-13,True,DAL,Dallas Wings,84.0,SEA,Seattle Storm,92.0
+401620290,2024,2024-06-13,True,PHX,Phoenix Mercury,99.0,LV,Las Vegas Aces,103.0
+401620291,2024,2024-06-14,True,WSH,Washington Mystics,83.0,CHI,Chicago Sky,81.0
+401620292,2024,2024-06-14,True,MIN,Minnesota Lynx,81.0,LA,Los Angeles Sparks,76.0
+401620293,2024,2024-06-15,True,DAL,Dallas Wings,67.0,CON,Connecticut Sun,85.0
+401620294,2024,2024-06-15,True,LV,Las Vegas Aces,82.0,NY,New York Liberty,90.0
+401620296,2024,2024-06-16,True,IND,Indiana Fever,91.0,CHI,Chicago Sky,83.0
+401620295,2024,2024-06-16,True,PHX,Phoenix Mercury,87.0,SEA,Seattle Storm,78.0
+401620297,2024,2024-06-16,True,ATL,Atlanta Dream,87.0,LA,Los Angeles Sparks,74.0
+401620298,2024,2024-06-17,True,MIN,Minnesota Lynx,90.0,DAL,Dallas Wings,78.0
+401620299,2024,2024-06-18,True,CON,Connecticut Sun,79.0,LA,Los Angeles Sparks,70.0
+401620300,2024,2024-06-18,True,PHX,Phoenix Mercury,99.0,NY,New York Liberty,93.0
+401620301,2024,2024-06-19,True,IND,Indiana Fever,88.0,WSH,Washington Mystics,81.0
+401620302,2024,2024-06-19,True,MIN,Minnesota Lynx,68.0,ATL,Atlanta Dream,55.0
+401620303,2024,2024-06-19,True,LV,Las Vegas Aces,94.0,SEA,Seattle Storm,83.0
+401620304,2024,2024-06-20,True,CHI,Chicago Sky,83.0,DAL,Dallas Wings,72.0
+401620305,2024,2024-06-20,True,NY,New York Liberty,93.0,LA,Los Angeles Sparks,80.0
+401620306,2024,2024-06-21,True,ATL,Atlanta Dream,79.0,IND,Indiana Fever,91.0
+401620307,2024,2024-06-21,True,LV,Las Vegas Aces,85.0,CON,Connecticut Sun,74.0
+401620308,2024,2024-06-22,True,WSH,Washington Mystics,97.0,DAL,Dallas Wings,69.0
+401620309,2024,2024-06-22,True,NY,New York Liberty,98.0,LA,Los Angeles Sparks,88.0
+401620310,2024,2024-06-22,True,MIN,Minnesota Lynx,73.0,PHX,Phoenix Mercury,60.0
+401620311,2024,2024-06-23,True,ATL,Atlanta Dream,75.0,NY,New York Liberty,96.0
+401620312,2024,2024-06-23,True,WSH,Washington Mystics,92.0,DAL,Dallas Wings,84.0
+401620314,2024,2024-06-23,True,SEA,Seattle Storm,72.0,CON,Connecticut Sun,61.0
+401620313,2024,2024-06-23,True,CHI,Chicago Sky,88.0,IND,Indiana Fever,87.0
+401677672,2024,2024-06-25,True,NY,New York Liberty,89.0,MIN,Minnesota Lynx,94.0
+401620315,2024,2024-06-27,True,DAL,Dallas Wings,94.0,MIN,Minnesota Lynx,88.0
+401620316,2024,2024-06-27,True,WSH,Washington Mystics,91.0,CON,Connecticut Sun,94.0
+401620317,2024,2024-06-27,True,CHI,Chicago Sky,83.0,LV,Las Vegas Aces,95.0
+401620318,2024,2024-06-27,True,SEA,Seattle Storm,89.0,IND,Indiana Fever,77.0
+401620319,2024,2024-06-28,True,CON,Connecticut Sun,74.0,ATL,Atlanta Dream,78.0
+401620320,2024,2024-06-28,True,PHX,Phoenix Mercury,92.0,LA,Los Angeles Sparks,78.0
+401620321,2024,2024-06-29,True,WSH,Washington Mystics,77.0,LV,Las Vegas Aces,88.0
+401620322,2024,2024-06-29,True,SEA,Seattle Storm,97.0,DAL,Dallas Wings,76.0
+401620323,2024,2024-06-30,True,NY,New York Liberty,81.0,ATL,Atlanta Dream,75.0
+401620324,2024,2024-06-30,True,CHI,Chicago Sky,62.0,MIN,Minnesota Lynx,70.0
+401620325,2024,2024-06-30,True,PHX,Phoenix Mercury,82.0,IND,Indiana Fever,88.0
+401620326,2024,2024-07-01,True,PHX,Phoenix Mercury,72.0,CON,Connecticut Sun,83.0
+401620327,2024,2024-07-01,True,SEA,Seattle Storm,95.0,DAL,Dallas Wings,71.0
+401620328,2024,2024-07-02,True,NY,New York Liberty,76.0,MIN,Minnesota Lynx,67.0
+401620329,2024,2024-07-02,True,ATL,Atlanta Dream,77.0,CHI,Chicago Sky,85.0
+401620330,2024,2024-07-02,True,LV,Las Vegas Aces,88.0,IND,Indiana Fever,69.0
+401620331,2024,2024-07-02,True,LA,Los Angeles Sparks,80.0,WSH,Washington Mystics,82.0
+401620332,2024,2024-07-03,True,DAL,Dallas Wings,96.0,PHX,Phoenix Mercury,104.0
+401620333,2024,2024-07-04,True,MIN,Minnesota Lynx,73.0,CON,Connecticut Sun,78.0
+401620334,2024,2024-07-04,True,LV,Las Vegas Aces,98.0,WSH,Washington Mystics,77.0
+401620335,2024,2024-07-05,True,DAL,Dallas Wings,85.0,ATL,Atlanta Dream,82.0
+401620336,2024,2024-07-05,True,LA,Los Angeles Sparks,98.0,LV,Las Vegas Aces,93.0
+401620337,2024,2024-07-05,True,SEA,Seattle Storm,84.0,CHI,Chicago Sky,88.0
+401620338,2024,2024-07-06,True,IND,Indiana Fever,83.0,NY,New York Liberty,78.0
+401620339,2024,2024-07-06,True,MIN,Minnesota Lynx,74.0,WSH,Washington Mystics,67.0
+401620340,2024,2024-07-07,True,CON,Connecticut Sun,80.0,ATL,Atlanta Dream,67.0
+401620341,2024,2024-07-07,True,LV,Las Vegas Aces,104.0,DAL,Dallas Wings,85.0
+401620342,2024,2024-07-07,True,SEA,Seattle Storm,84.0,CHI,Chicago Sky,71.0
+401620343,2024,2024-07-07,True,LA,Los Angeles Sparks,78.0,PHX,Phoenix Mercury,84.0
+401620344,2024,2024-07-09,True,LA,Los Angeles Sparks,67.0,MIN,Minnesota Lynx,82.0
+401620345,2024,2024-07-10,True,CON,Connecticut Sun,68.0,NY,New York Liberty,71.0
+401620346,2024,2024-07-10,True,IND,Indiana Fever,84.0,WSH,Washington Mystics,89.0
+401620347,2024,2024-07-10,True,CHI,Chicago Sky,78.0,ATL,Atlanta Dream,69.0
+401620348,2024,2024-07-10,True,SEA,Seattle Storm,79.0,LV,Las Vegas Aces,84.0
+401620349,2024,2024-07-10,True,PHX,Phoenix Mercury,100.0,DAL,Dallas Wings,84.0
+401620350,2024,2024-07-11,True,NY,New York Liberty,91.0,CHI,Chicago Sky,76.0
+401620351,2024,2024-07-12,True,ATL,Atlanta Dream,70.0,LV,Las Vegas Aces,84.0
+401620352,2024,2024-07-12,True,IND,Indiana Fever,95.0,PHX,Phoenix Mercury,86.0
+401620353,2024,2024-07-12,True,SEA,Seattle Storm,91.0,MIN,Minnesota Lynx,63.0
+401620354,2024,2024-07-13,True,CHI,Chicago Sky,67.0,NY,New York Liberty,81.0
+401620355,2024,2024-07-13,True,DAL,Dallas Wings,81.0,LA,Los Angeles Sparks,87.0
+401620356,2024,2024-07-14,True,CON,Connecticut Sun,96.0,PHX,Phoenix Mercury,69.0
+401620357,2024,2024-07-14,True,WSH,Washington Mystics,77.0,LV,Las Vegas Aces,89.0
+401620359,2024,2024-07-14,True,MIN,Minnesota Lynx,74.0,IND,Indiana Fever,81.0
+401620358,2024,2024-07-14,True,SEA,Seattle Storm,81.0,ATL,Atlanta Dream,70.0
+401620360,2024,2024-07-16,True,WSH,Washington Mystics,87.0,PHX,Phoenix Mercury,96.0
+401620361,2024,2024-07-16,True,LA,Los Angeles Sparks,83.0,SEA,Seattle Storm,89.0
+401620362,2024,2024-07-16,True,NY,New York Liberty,82.0,CON,Connecticut Sun,74.0
+401620363,2024,2024-07-16,True,LV,Las Vegas Aces,85.0,CHI,Chicago Sky,93.0
+401620364,2024,2024-07-17,True,MIN,Minnesota Lynx,86.0,ATL,Atlanta Dream,79.0
+401620365,2024,2024-07-17,True,DAL,Dallas Wings,101.0,IND,Indiana Fever,93.0
+401620458,2024,2024-07-20,True,WNBASTARS,Team WNBA,117.0,USA,Team USA,109.0
+401620366,2024,2024-08-15,True,CHI,Chicago Sky,65.0,PHX,Phoenix Mercury,85.0
+401620367,2024,2024-08-15,True,MIN,Minnesota Lynx,79.0,WSH,Washington Mystics,68.0
+401620368,2024,2024-08-15,True,LA,Los Angeles Sparks,68.0,NY,New York Liberty,103.0
+401620369,2024,2024-08-16,True,ATL,Atlanta Dream,83.0,SEA,Seattle Storm,81.0
+401620370,2024,2024-08-16,True,IND,Indiana Fever,98.0,PHX,Phoenix Mercury,89.0
+401620371,2024,2024-08-16,True,DAL,Dallas Wings,91.0,CON,Connecticut Sun,109.0
+401620372,2024,2024-08-17,True,WSH,Washington Mystics,83.0,MIN,Minnesota Lynx,99.0
+401620373,2024,2024-08-17,True,LV,Las Vegas Aces,67.0,NY,New York Liberty,79.0
+401620374,2024,2024-08-17,True,LA,Los Angeles Sparks,86.0,CHI,Chicago Sky,90.0
+401620375,2024,2024-08-18,True,ATL,Atlanta Dream,82.0,CON,Connecticut Sun,70.0
+401620377,2024,2024-08-18,True,IND,Indiana Fever,92.0,SEA,Seattle Storm,75.0
+401620376,2024,2024-08-18,True,LV,Las Vegas Aces,87.0,LA,Los Angeles Sparks,71.0
+401620378,2024,2024-08-18,True,PHX,Phoenix Mercury,86.0,CHI,Chicago Sky,68.0
+401620379,2024,2024-08-20,True,CON,Connecticut Sun,69.0,LA,Los Angeles Sparks,61.0
+401620380,2024,2024-08-20,True,NY,New York Liberty,94.0,DAL,Dallas Wings,74.0
+401620381,2024,2024-08-20,True,WSH,Washington Mystics,77.0,SEA,Seattle Storm,83.0
+401620382,2024,2024-08-21,True,ATL,Atlanta Dream,72.0,PHX,Phoenix Mercury,63.0
+401620383,2024,2024-08-21,True,LV,Las Vegas Aces,87.0,MIN,Minnesota Lynx,98.0
+401620384,2024,2024-08-22,True,NY,New York Liberty,79.0,DAL,Dallas Wings,71.0
+401620385,2024,2024-08-23,True,ATL,Atlanta Dream,80.0,PHX,Phoenix Mercury,82.0
+401620386,2024,2024-08-23,True,CON,Connecticut Sun,82.0,CHI,Chicago Sky,80.0
+401620387,2024,2024-08-23,True,WSH,Washington Mystics,80.0,LA,Los Angeles Sparks,74.0
+401620388,2024,2024-08-23,True,MIN,Minnesota Lynx,87.0,LV,Las Vegas Aces,74.0
+401620389,2024,2024-08-24,True,NY,New York Liberty,64.0,CON,Connecticut Sun,72.0
+401620390,2024,2024-08-24,True,MIN,Minnesota Lynx,90.0,IND,Indiana Fever,80.0
+401620391,2024,2024-08-25,True,CHI,Chicago Sky,75.0,LV,Las Vegas Aces,77.0
+401620392,2024,2024-08-25,True,DAL,Dallas Wings,113.0,LA,Los Angeles Sparks,110.0
+401620393,2024,2024-08-26,True,ATL,Atlanta Dream,79.0,IND,Indiana Fever,84.0
+401620394,2024,2024-08-26,True,PHX,Phoenix Mercury,70.0,NY,New York Liberty,84.0
+401620395,2024,2024-08-26,True,SEA,Seattle Storm,72.0,WSH,Washington Mystics,74.0
+401620396,2024,2024-08-27,True,DAL,Dallas Wings,93.0,LV,Las Vegas Aces,90.0
+401620397,2024,2024-08-28,True,IND,Indiana Fever,84.0,CON,Connecticut Sun,80.0
+401620398,2024,2024-08-28,True,CHI,Chicago Sky,70.0,WSH,Washington Mystics,74.0
+401620399,2024,2024-08-28,True,LA,Los Angeles Sparks,94.0,NY,New York Liberty,88.0
+401620400,2024,2024-08-28,True,PHX,Phoenix Mercury,76.0,MIN,Minnesota Lynx,89.0
+401620401,2024,2024-08-28,True,SEA,Seattle Storm,85.0,ATL,Atlanta Dream,81.0
+401620402,2024,2024-08-30,True,CHI,Chicago Sky,81.0,IND,Indiana Fever,100.0
+401620403,2024,2024-08-30,True,DAL,Dallas Wings,94.0,MIN,Minnesota Lynx,76.0
+401620404,2024,2024-08-30,True,LV,Las Vegas Aces,83.0,ATL,Atlanta Dream,72.0
+401620405,2024,2024-08-30,True,SEA,Seattle Storm,85.0,NY,New York Liberty,98.0
+401620406,2024,2024-08-31,True,WSH,Washington Mystics,85.0,CON,Connecticut Sun,96.0
+401620407,2024,2024-09-01,True,CON,Connecticut Sun,93.0,SEA,Seattle Storm,86.0
+401620408,2024,2024-09-01,True,MIN,Minnesota Lynx,79.0,CHI,Chicago Sky,74.0
+401620409,2024,2024-09-01,True,DAL,Dallas Wings,93.0,IND,Indiana Fever,100.0
+401620411,2024,2024-09-01,True,PHX,Phoenix Mercury,79.0,LV,Las Vegas Aces,97.0
+401620410,2024,2024-09-01,True,LA,Los Angeles Sparks,62.0,ATL,Atlanta Dream,80.0
+401620412,2024,2024-09-03,True,CON,Connecticut Sun,64.0,SEA,Seattle Storm,71.0
+401620413,2024,2024-09-03,True,DAL,Dallas Wings,86.0,WSH,Washington Mystics,90.0
+401620414,2024,2024-09-03,True,LV,Las Vegas Aces,90.0,CHI,Chicago Sky,71.0
+401620415,2024,2024-09-03,True,PHX,Phoenix Mercury,74.0,ATL,Atlanta Dream,66.0
+401620416,2024,2024-09-04,True,IND,Indiana Fever,93.0,LA,Los Angeles Sparks,86.0
+401620417,2024,2024-09-05,True,NY,New York Liberty,77.0,SEA,Seattle Storm,70.0
+401620418,2024,2024-09-05,True,PHX,Phoenix Mercury,77.0,WSH,Washington Mystics,90.0
+401620419,2024,2024-09-06,True,ATL,Atlanta Dream,107.0,DAL,Dallas Wings,96.0
+401620420,2024,2024-09-06,True,CON,Connecticut Sun,67.0,LV,Las Vegas Aces,72.0
+401620421,2024,2024-09-06,True,IND,Indiana Fever,88.0,MIN,Minnesota Lynx,99.0
+401620422,2024,2024-09-06,True,CHI,Chicago Sky,92.0,LA,Los Angeles Sparks,78.0
+401620423,2024,2024-09-07,True,SEA,Seattle Storm,90.0,PHX,Phoenix Mercury,66.0
+401620424,2024,2024-09-08,True,WSH,Washington Mystics,71.0,MIN,Minnesota Lynx,78.0
+401620425,2024,2024-09-08,True,IND,Indiana Fever,104.0,ATL,Atlanta Dream,100.0
+401620426,2024,2024-09-08,True,NY,New York Liberty,75.0,LV,Las Vegas Aces,71.0
+401620427,2024,2024-09-08,True,CHI,Chicago Sky,92.0,DAL,Dallas Wings,77.0
+401620428,2024,2024-09-08,True,LA,Los Angeles Sparks,67.0,CON,Connecticut Sun,79.0
+401620429,2024,2024-09-10,True,ATL,Atlanta Dream,64.0,MIN,Minnesota Lynx,76.0
+401620430,2024,2024-09-10,True,DAL,Dallas Wings,91.0,NY,New York Liberty,105.0
+401620431,2024,2024-09-10,True,LA,Los Angeles Sparks,66.0,CON,Connecticut Sun,86.0
+401620432,2024,2024-09-11,True,IND,Indiana Fever,75.0,LV,Las Vegas Aces,86.0
+401620433,2024,2024-09-11,True,CHI,Chicago Sky,58.0,WSH,Washington Mystics,89.0
+401620434,2024,2024-09-11,True,LA,Los Angeles Sparks,82.0,SEA,Seattle Storm,90.0
+401620435,2024,2024-09-12,True,DAL,Dallas Wings,67.0,NY,New York Liberty,99.0
+401620436,2024,2024-09-13,True,ATL,Atlanta Dream,69.0,WSH,Washington Mystics,72.0
+401620437,2024,2024-09-13,True,IND,Indiana Fever,74.0,LV,Las Vegas Aces,78.0
+401620438,2024,2024-09-13,True,DAL,Dallas Wings,81.0,SEA,Seattle Storm,83.0
+401620439,2024,2024-09-13,True,MIN,Minnesota Lynx,83.0,CHI,Chicago Sky,66.0
+401620440,2024,2024-09-13,True,PHX,Phoenix Mercury,69.0,CON,Connecticut Sun,88.0
+401620441,2024,2024-09-15,True,IND,Indiana Fever,110.0,DAL,Dallas Wings,109.0
+401620442,2024,2024-09-15,True,NY,New York Liberty,79.0,MIN,Minnesota Lynx,88.0
+401620443,2024,2024-09-15,True,WSH,Washington Mystics,73.0,ATL,Atlanta Dream,76.0
+401620444,2024,2024-09-15,True,CHI,Chicago Sky,88.0,PHX,Phoenix Mercury,93.0
+401620445,2024,2024-09-15,True,LV,Las Vegas Aces,84.0,CON,Connecticut Sun,71.0
+401620446,2024,2024-09-15,True,SEA,Seattle Storm,90.0,LA,Los Angeles Sparks,87.0
+401620447,2024,2024-09-17,True,CON,Connecticut Sun,76.0,MIN,Minnesota Lynx,78.0
+401620448,2024,2024-09-17,True,WSH,Washington Mystics,71.0,NY,New York Liberty,87.0
+401620449,2024,2024-09-17,True,ATL,Atlanta Dream,86.0,CHI,Chicago Sky,70.0
+401620451,2024,2024-09-17,True,SEA,Seattle Storm,72.0,LV,Las Vegas Aces,85.0
+401620450,2024,2024-09-17,True,LA,Los Angeles Sparks,81.0,PHX,Phoenix Mercury,85.0
+401620452,2024,2024-09-19,True,CON,Connecticut Sun,87.0,CHI,Chicago Sky,54.0
+401620453,2024,2024-09-19,True,NY,New York Liberty,67.0,ATL,Atlanta Dream,78.0
+401620454,2024,2024-09-19,True,WSH,Washington Mystics,92.0,IND,Indiana Fever,91.0
+401620455,2024,2024-09-19,True,MIN,Minnesota Lynx,51.0,LA,Los Angeles Sparks,68.0
+401620456,2024,2024-09-19,True,LV,Las Vegas Aces,98.0,DAL,Dallas Wings,84.0
+401620457,2024,2024-09-19,True,PHX,Phoenix Mercury,70.0,SEA,Seattle Storm,89.0
+401721255,2024,2024-09-22,True,NY,New York Liberty,83.0,ATL,Atlanta Dream,69.0
+401721253,2024,2024-09-22,True,CON,Connecticut Sun,93.0,IND,Indiana Fever,69.0
+401721261,2024,2024-09-22,True,MIN,Minnesota Lynx,102.0,PHX,Phoenix Mercury,95.0
+401721256,2024,2024-09-22,True,LV,Las Vegas Aces,78.0,SEA,Seattle Storm,67.0
+401721258,2024,2024-09-24,True,NY,New York Liberty,91.0,ATL,Atlanta Dream,82.0
+401721262,2024,2024-09-24,True,LV,Las Vegas Aces,83.0,SEA,Seattle Storm,76.0
+401721254,2024,2024-09-25,True,CON,Connecticut Sun,87.0,IND,Indiana Fever,81.0
+401721260,2024,2024-09-25,True,MIN,Minnesota Lynx,101.0,PHX,Phoenix Mercury,88.0
+401724938,2024,2024-09-29,True,NY,New York Liberty,87.0,LV,Las Vegas Aces,77.0
+401725075,2024,2024-09-29,True,MIN,Minnesota Lynx,70.0,CON,Connecticut Sun,73.0
+401724939,2024,2024-10-01,True,NY,New York Liberty,88.0,LV,Las Vegas Aces,84.0
+401725076,2024,2024-10-01,True,MIN,Minnesota Lynx,77.0,CON,Connecticut Sun,70.0
+401725077,2024,2024-10-04,True,CON,Connecticut Sun,81.0,MIN,Minnesota Lynx,90.0
+401724940,2024,2024-10-04,True,LV,Las Vegas Aces,95.0,NY,New York Liberty,81.0
+401724941,2024,2024-10-06,True,LV,Las Vegas Aces,62.0,NY,New York Liberty,76.0
+401725078,2024,2024-10-06,True,CON,Connecticut Sun,92.0,MIN,Minnesota Lynx,82.0
+401725079,2024,2024-10-08,True,MIN,Minnesota Lynx,88.0,CON,Connecticut Sun,77.0
+401726988,2024,2024-10-10,True,NY,New York Liberty,93.0,MIN,Minnesota Lynx,95.0
+401726989,2024,2024-10-13,True,NY,New York Liberty,80.0,MIN,Minnesota Lynx,66.0
+401726990,2024,2024-10-16,True,MIN,Minnesota Lynx,77.0,NY,New York Liberty,80.0
+401726991,2024,2024-10-18,True,MIN,Minnesota Lynx,82.0,NY,New York Liberty,80.0
+401726992,2024,2024-10-20,True,NY,New York Liberty,67.0,MIN,Minnesota Lynx,62.0
+401736112,2025,2025-05-16,True,WSH,Washington Mystics,94.0,ATL,Atlanta Dream,90.0
+401736113,2025,2025-05-16,True,DAL,Dallas Wings,84.0,MIN,Minnesota Lynx,99.0
+401736114,2025,2025-05-16,True,GS,Golden State Valkyries,67.0,LA,Los Angeles Sparks,84.0
+401736116,2025,2025-05-17,True,NY,New York Liberty,92.0,LV,Las Vegas Aces,78.0
+401736115,2025,2025-05-17,True,IND,Indiana Fever,93.0,CHI,Chicago Sky,58.0
+401736117,2025,2025-05-17,True,PHX,Phoenix Mercury,81.0,SEA,Seattle Storm,59.0
+401736118,2025,2025-05-18,True,CON,Connecticut Sun,85.0,WSH,Washington Mystics,90.0
+401736119,2025,2025-05-18,True,LA,Los Angeles Sparks,75.0,MIN,Minnesota Lynx,89.0
+401736120,2025,2025-05-19,True,DAL,Dallas Wings,71.0,SEA,Seattle Storm,79.0
+401736121,2025,2025-05-20,True,CON,Connecticut Sun,62.0,LV,Las Vegas Aces,87.0
+401736122,2025,2025-05-20,True,IND,Indiana Fever,90.0,ATL,Atlanta Dream,91.0
+401736123,2025,2025-05-21,True,MIN,Minnesota Lynx,85.0,DAL,Dallas Wings,81.0
+401736124,2025,2025-05-21,True,GS,Golden State Valkyries,76.0,WSH,Washington Mystics,74.0
+401736125,2025,2025-05-21,True,PHX,Phoenix Mercury,89.0,LA,Los Angeles Sparks,86.0
+401736126,2025,2025-05-22,True,ATL,Atlanta Dream,76.0,IND,Indiana Fever,81.0
+401736127,2025,2025-05-22,True,CHI,Chicago Sky,74.0,NY,New York Liberty,99.0
+401736128,2025,2025-05-23,True,MIN,Minnesota Lynx,76.0,CON,Connecticut Sun,70.0
+401736129,2025,2025-05-23,True,LV,Las Vegas Aces,75.0,WSH,Washington Mystics,72.0
+401736130,2025,2025-05-23,True,LA,Los Angeles Sparks,73.0,GS,Golden State Valkyries,82.0
+401736131,2025,2025-05-23,True,SEA,Seattle Storm,77.0,PHX,Phoenix Mercury,70.0
+401736132,2025,2025-05-24,True,IND,Indiana Fever,88.0,NY,New York Liberty,90.0
+401736133,2025,2025-05-24,True,ATL,Atlanta Dream,83.0,DAL,Dallas Wings,75.0
+401736134,2025,2025-05-25,True,ATL,Atlanta Dream,79.0,CON,Connecticut Sun,55.0
+401736135,2025,2025-05-25,True,LA,Los Angeles Sparks,91.0,CHI,Chicago Sky,78.0
+401736136,2025,2025-05-25,True,PHX,Phoenix Mercury,68.0,WSH,Washington Mystics,62.0
+401736137,2025,2025-05-25,True,SEA,Seattle Storm,102.0,LV,Las Vegas Aces,82.0
+401736138,2025,2025-05-27,True,CON,Connecticut Sun,87.0,DAL,Dallas Wings,109.0
+401736139,2025,2025-05-27,True,NY,New York Liberty,95.0,GS,Golden State Valkyries,67.0
+401736140,2025,2025-05-27,True,MIN,Minnesota Lynx,82.0,SEA,Seattle Storm,77.0
+401736141,2025,2025-05-27,True,LA,Los Angeles Sparks,82.0,ATL,Atlanta Dream,88.0
+401736142,2025,2025-05-27,True,PHX,Phoenix Mercury,94.0,CHI,Chicago Sky,89.0
+401736143,2025,2025-05-28,True,WSH,Washington Mystics,83.0,IND,Indiana Fever,77.0
+401736144,2025,2025-05-29,True,NY,New York Liberty,82.0,GS,Golden State Valkyries,77.0
+401736145,2025,2025-05-29,True,CHI,Chicago Sky,97.0,DAL,Dallas Wings,92.0
+401736146,2025,2025-05-30,True,IND,Indiana Fever,83.0,CON,Connecticut Sun,85.0
+401736147,2025,2025-05-30,True,WSH,Washington Mystics,63.0,NY,New York Liberty,85.0
+401736148,2025,2025-05-30,True,LV,Las Vegas Aces,96.0,LA,Los Angeles Sparks,81.0
+401736149,2025,2025-05-30,True,PHX,Phoenix Mercury,71.0,MIN,Minnesota Lynx,74.0
+401736150,2025,2025-05-30,True,SEA,Seattle Storm,87.0,ATL,Atlanta Dream,94.0
+401736151,2025,2025-05-31,True,DAL,Dallas Wings,83.0,CHI,Chicago Sky,94.0
+401736152,2025,2025-06-01,True,NY,New York Liberty,100.0,CON,Connecticut Sun,52.0
+401736153,2025,2025-06-01,True,LA,Los Angeles Sparks,80.0,PHX,Phoenix Mercury,85.0
+401736154,2025,2025-06-01,True,SEA,Seattle Storm,70.0,LV,Las Vegas Aces,75.0
+401736155,2025,2025-06-01,True,GS,Golden State Valkyries,75.0,MIN,Minnesota Lynx,86.0
+401736156,2025,2025-06-03,True,IND,Indiana Fever,85.0,WSH,Washington Mystics,76.0
+401736157,2025,2025-06-03,True,MIN,Minnesota Lynx,88.0,PHX,Phoenix Mercury,65.0
+401736158,2025,2025-06-03,True,SEA,Seattle Storm,83.0,DAL,Dallas Wings,77.0
+401736159,2025,2025-06-05,True,WSH,Washington Mystics,78.0,NY,New York Liberty,86.0
+401736160,2025,2025-06-05,True,PHX,Phoenix Mercury,86.0,GS,Golden State Valkyries,77.0
+401736161,2025,2025-06-06,True,CON,Connecticut Sun,84.0,ATL,Atlanta Dream,76.0
+401736162,2025,2025-06-06,True,DAL,Dallas Wings,79.0,LA,Los Angeles Sparks,93.0
+401736163,2025,2025-06-07,True,GS,Golden State Valkyries,95.0,LV,Las Vegas Aces,68.0
+401736164,2025,2025-06-07,True,CHI,Chicago Sky,52.0,IND,Indiana Fever,79.0
+401736165,2025,2025-06-07,True,PHX,Phoenix Mercury,77.0,SEA,Seattle Storm,89.0
+401736166,2025,2025-06-08,True,WSH,Washington Mystics,104.0,CON,Connecticut Sun,67.0
+401736167,2025,2025-06-08,True,DAL,Dallas Wings,65.0,MIN,Minnesota Lynx,81.0
+401736168,2025,2025-06-09,True,LA,Los Angeles Sparks,81.0,GS,Golden State Valkyries,89.0
+401736169,2025,2025-06-10,True,ATL,Atlanta Dream,77.0,IND,Indiana Fever,58.0
+401736170,2025,2025-06-10,True,NY,New York Liberty,85.0,CHI,Chicago Sky,66.0
+401736171,2025,2025-06-11,True,LV,Las Vegas Aces,89.0,LA,Los Angeles Sparks,97.0
+401736172,2025,2025-06-11,True,PHX,Phoenix Mercury,93.0,DAL,Dallas Wings,80.0
+401736173,2025,2025-06-11,True,SEA,Seattle Storm,94.0,MIN,Minnesota Lynx,84.0
+401736174,2025,2025-06-13,True,ATL,Atlanta Dream,88.0,CHI,Chicago Sky,70.0
+401736175,2025,2025-06-13,True,LV,Las Vegas Aces,88.0,DAL,Dallas Wings,84.0
+401736176,2025,2025-06-14,True,MIN,Minnesota Lynx,101.0,LA,Los Angeles Sparks,78.0
+401736177,2025,2025-06-14,True,IND,Indiana Fever,102.0,NY,New York Liberty,88.0
+401736178,2025,2025-06-14,True,GS,Golden State Valkyries,76.0,SEA,Seattle Storm,70.0
+401736179,2025,2025-06-15,True,CON,Connecticut Sun,66.0,CHI,Chicago Sky,78.0
+401736180,2025,2025-06-15,True,WSH,Washington Mystics,56.0,ATL,Atlanta Dream,89.0
+401736181,2025,2025-06-15,True,LV,Las Vegas Aces,70.0,PHX,Phoenix Mercury,76.0
+401736182,2025,2025-06-17,True,IND,Indiana Fever,88.0,CON,Connecticut Sun,71.0
+401736183,2025,2025-06-17,True,NY,New York Liberty,86.0,ATL,Atlanta Dream,81.0
+401736184,2025,2025-06-17,True,CHI,Chicago Sky,72.0,WSH,Washington Mystics,79.0
+401736185,2025,2025-06-17,True,DAL,Dallas Wings,80.0,GS,Golden State Valkyries,71.0
+401736186,2025,2025-06-17,True,MIN,Minnesota Lynx,76.0,LV,Las Vegas Aces,62.0
+401736187,2025,2025-06-17,True,LA,Los Angeles Sparks,67.0,SEA,Seattle Storm,98.0
+401736188,2025,2025-06-18,True,CON,Connecticut Sun,75.0,PHX,Phoenix Mercury,83.0
+401736189,2025,2025-06-19,True,NY,New York Liberty,81.0,PHX,Phoenix Mercury,89.0
+401736190,2025,2025-06-19,True,GS,Golden State Valkyries,88.0,IND,Indiana Fever,77.0
+401736191,2025,2025-06-20,True,ATL,Atlanta Dream,92.0,WSH,Washington Mystics,91.0
+401736192,2025,2025-06-20,True,CON,Connecticut Sun,83.0,DAL,Dallas Wings,86.0
+401736193,2025,2025-06-20,True,LV,Las Vegas Aces,83.0,SEA,Seattle Storm,90.0
+401736194,2025,2025-06-21,True,CHI,Chicago Sky,86.0,PHX,Phoenix Mercury,107.0
+401736195,2025,2025-06-21,True,MIN,Minnesota Lynx,82.0,LA,Los Angeles Sparks,66.0
+401736196,2025,2025-06-22,True,ATL,Atlanta Dream,93.0,CHI,Chicago Sky,80.0
+401736197,2025,2025-06-22,True,WSH,Washington Mystics,91.0,DAL,Dallas Wings,88.0
+401736198,2025,2025-06-22,True,LV,Las Vegas Aces,89.0,IND,Indiana Fever,81.0
+401736199,2025,2025-06-22,True,SEA,Seattle Storm,89.0,NY,New York Liberty,79.0
+401736200,2025,2025-06-22,True,GS,Golden State Valkyries,87.0,CON,Connecticut Sun,63.0
+401736201,2025,2025-06-24,True,WSH,Washington Mystics,68.0,MIN,Minnesota Lynx,64.0
+401736202,2025,2025-06-24,True,CHI,Chicago Sky,97.0,LA,Los Angeles Sparks,86.0
+401736203,2025,2025-06-24,True,DAL,Dallas Wings,68.0,ATL,Atlanta Dream,55.0
+401736204,2025,2025-06-24,True,SEA,Seattle Storm,86.0,IND,Indiana Fever,94.0
+401736205,2025,2025-06-25,True,GS,Golden State Valkyries,78.0,NY,New York Liberty,81.0
+401736206,2025,2025-06-25,True,LV,Las Vegas Aces,85.0,CON,Connecticut Sun,59.0
+401736207,2025,2025-06-26,True,IND,Indiana Fever,75.0,LA,Los Angeles Sparks,85.0
+401736208,2025,2025-06-26,True,LV,Las Vegas Aces,83.0,WSH,Washington Mystics,94.0
+401736209,2025,2025-06-27,True,ATL,Atlanta Dream,92.0,MIN,Minnesota Lynx,96.0
+401736210,2025,2025-06-27,True,DAL,Dallas Wings,86.0,IND,Indiana Fever,94.0
+401736211,2025,2025-06-27,True,GS,Golden State Valkyries,83.0,CHI,Chicago Sky,78.0
+401736212,2025,2025-06-27,True,PHX,Phoenix Mercury,106.0,NY,New York Liberty,91.0
+401736213,2025,2025-06-27,True,SEA,Seattle Storm,97.0,CON,Connecticut Sun,81.0
+401736214,2025,2025-06-28,True,DAL,Dallas Wings,79.0,WSH,Washington Mystics,71.0
+401736215,2025,2025-06-29,True,ATL,Atlanta Dream,90.0,NY,New York Liberty,81.0
+401736216,2025,2025-06-29,True,LA,Los Angeles Sparks,85.0,CHI,Chicago Sky,92.0
+401736217,2025,2025-06-29,True,PHX,Phoenix Mercury,81.0,LV,Las Vegas Aces,84.0
+401736218,2025,2025-06-29,True,MIN,Minnesota Lynx,102.0,CON,Connecticut Sun,63.0
+401736219,2025,2025-06-29,True,GS,Golden State Valkyries,84.0,SEA,Seattle Storm,57.0
+401736430,2025,2025-07-01,True,MIN,Minnesota Lynx,59.0,IND,Indiana Fever,74.0
+401736220,2025,2025-07-03,True,IND,Indiana Fever,81.0,LV,Las Vegas Aces,54.0
+401736221,2025,2025-07-03,True,NY,New York Liberty,89.0,LA,Los Angeles Sparks,79.0
+401736222,2025,2025-07-03,True,ATL,Atlanta Dream,79.0,SEA,Seattle Storm,80.0
+401736223,2025,2025-07-03,True,DAL,Dallas Wings,98.0,PHX,Phoenix Mercury,89.0
+401736224,2025,2025-07-03,True,MIN,Minnesota Lynx,92.0,WSH,Washington Mystics,75.0
+401736225,2025,2025-07-05,True,IND,Indiana Fever,87.0,LA,Los Angeles Sparks,89.0
+401736226,2025,2025-07-05,True,MIN,Minnesota Lynx,82.0,GS,Golden State Valkyries,71.0
+401736228,2025,2025-07-06,True,NY,New York Liberty,70.0,SEA,Seattle Storm,79.0
+401736227,2025,2025-07-06,True,CON,Connecticut Sun,68.0,LV,Las Vegas Aces,86.0
+401736229,2025,2025-07-06,True,MIN,Minnesota Lynx,80.0,CHI,Chicago Sky,75.0
+401736230,2025,2025-07-07,True,ATL,Atlanta Dream,90.0,GS,Golden State Valkyries,81.0
+401736231,2025,2025-07-07,True,PHX,Phoenix Mercury,102.0,DAL,Dallas Wings,72.0
+401736232,2025,2025-07-08,True,WSH,Washington Mystics,81.0,CHI,Chicago Sky,79.0
+401736233,2025,2025-07-08,True,NY,New York Liberty,87.0,LV,Las Vegas Aces,78.0
+401736234,2025,2025-07-09,True,CON,Connecticut Sun,93.0,SEA,Seattle Storm,83.0
+401736235,2025,2025-07-09,True,IND,Indiana Fever,61.0,GS,Golden State Valkyries,80.0
+401736236,2025,2025-07-09,True,PHX,Phoenix Mercury,79.0,MIN,Minnesota Lynx,71.0
+401736237,2025,2025-07-09,True,CHI,Chicago Sky,87.0,DAL,Dallas Wings,76.0
+401736238,2025,2025-07-10,True,LA,Los Angeles Sparks,82.0,MIN,Minnesota Lynx,91.0
+401736239,2025,2025-07-10,True,WSH,Washington Mystics,70.0,LV,Las Vegas Aces,68.0
+401736240,2025,2025-07-11,True,IND,Indiana Fever,99.0,ATL,Atlanta Dream,82.0
+401736241,2025,2025-07-11,True,SEA,Seattle Storm,79.0,CON,Connecticut Sun,65.0
+401736242,2025,2025-07-12,True,CHI,Chicago Sky,87.0,MIN,Minnesota Lynx,81.0
+401736243,2025,2025-07-12,True,LV,Las Vegas Aces,104.0,GS,Golden State Valkyries,102.0
+401736244,2025,2025-07-13,True,IND,Indiana Fever,102.0,DAL,Dallas Wings,83.0
+401736245,2025,2025-07-13,True,NY,New York Liberty,79.0,ATL,Atlanta Dream,72.0
+401736246,2025,2025-07-13,True,LA,Los Angeles Sparks,92.0,CON,Connecticut Sun,88.0
+401736247,2025,2025-07-13,True,SEA,Seattle Storm,69.0,WSH,Washington Mystics,74.0
+401736248,2025,2025-07-14,True,CHI,Chicago Sky,78.0,MIN,Minnesota Lynx,91.0
+401736249,2025,2025-07-14,True,GS,Golden State Valkyries,77.0,PHX,Phoenix Mercury,78.0
+401736250,2025,2025-07-15,True,CON,Connecticut Sun,77.0,IND,Indiana Fever,85.0
+401736251,2025,2025-07-15,True,LA,Los Angeles Sparks,99.0,WSH,Washington Mystics,80.0
+401736252,2025,2025-07-16,True,CHI,Chicago Sky,49.0,ATL,Atlanta Dream,86.0
+401736253,2025,2025-07-16,True,MIN,Minnesota Lynx,79.0,PHX,Phoenix Mercury,66.0
+401736254,2025,2025-07-16,True,SEA,Seattle Storm,67.0,GS,Golden State Valkyries,58.0
+401736255,2025,2025-07-16,True,NY,New York Liberty,98.0,IND,Indiana Fever,77.0
+401736256,2025,2025-07-16,True,DAL,Dallas Wings,86.0,LV,Las Vegas Aces,90.0
+401781604,2025,2025-07-19,True,CLA,TEAM CLARK,131.0,COL,TEAM COLLIER,151.0
+401736257,2025,2025-07-22,True,WSH,Washington Mystics,86.0,LA,Los Angeles Sparks,93.0
+401736258,2025,2025-07-22,True,NY,New York Liberty,98.0,IND,Indiana Fever,84.0
+401736259,2025,2025-07-22,True,MIN,Minnesota Lynx,91.0,CHI,Chicago Sky,68.0
+401736260,2025,2025-07-22,True,LV,Las Vegas Aces,87.0,ATL,Atlanta Dream,72.0
+401736261,2025,2025-07-22,True,SEA,Seattle Storm,63.0,DAL,Dallas Wings,87.0
+401736262,2025,2025-07-23,True,PHX,Phoenix Mercury,79.0,ATL,Atlanta Dream,90.0
+401736263,2025,2025-07-24,True,CON,Connecticut Sun,86.0,LA,Los Angeles Sparks,101.0
+401736264,2025,2025-07-24,True,IND,Indiana Fever,80.0,LV,Las Vegas Aces,70.0
+401736265,2025,2025-07-24,True,CHI,Chicago Sky,57.0,SEA,Seattle Storm,95.0
+401736266,2025,2025-07-25,True,NY,New York Liberty,89.0,PHX,Phoenix Mercury,76.0
+401736267,2025,2025-07-25,True,MIN,Minnesota Lynx,109.0,LV,Las Vegas Aces,78.0
+401736268,2025,2025-07-25,True,GS,Golden State Valkyries,86.0,DAL,Dallas Wings,76.0
+401736270,2025,2025-07-26,True,NY,New York Liberty,99.0,LA,Los Angeles Sparks,101.0
+401736271,2025,2025-07-26,True,WSH,Washington Mystics,69.0,SEA,Seattle Storm,58.0
+401736272,2025,2025-07-27,True,CON,Connecticut Sun,95.0,GS,Golden State Valkyries,64.0
+401736269,2025,2025-07-27,True,CHI,Chicago Sky,78.0,IND,Indiana Fever,93.0
+401736273,2025,2025-07-27,True,DAL,Dallas Wings,80.0,LV,Las Vegas Aces,106.0
+401736274,2025,2025-07-27,True,WSH,Washington Mystics,72.0,PHX,Phoenix Mercury,88.0
+401736275,2025,2025-07-27,True,MIN,Minnesota Lynx,86.0,ATL,Atlanta Dream,90.0
+401736276,2025,2025-07-28,True,CON,Connecticut Sun,85.0,SEA,Seattle Storm,101.0
+401736277,2025,2025-07-28,True,DAL,Dallas Wings,92.0,NY,New York Liberty,82.0
+401736278,2025,2025-07-29,True,ATL,Atlanta Dream,75.0,GS,Golden State Valkyries,77.0
+401736279,2025,2025-07-29,True,WSH,Washington Mystics,103.0,CHI,Chicago Sky,86.0
+401736280,2025,2025-07-29,True,LA,Los Angeles Sparks,74.0,LV,Las Vegas Aces,89.0
+401736281,2025,2025-07-30,True,IND,Indiana Fever,107.0,PHX,Phoenix Mercury,101.0
+401736282,2025,2025-07-30,True,DAL,Dallas Wings,85.0,ATL,Atlanta Dream,88.0
+401736283,2025,2025-07-30,True,MIN,Minnesota Lynx,100.0,NY,New York Liberty,93.0
+401736284,2025,2025-07-31,True,WSH,Washington Mystics,67.0,GS,Golden State Valkyries,68.0
+401736285,2025,2025-08-01,True,ATL,Atlanta Dream,95.0,PHX,Phoenix Mercury,72.0
+401736286,2025,2025-08-01,True,CON,Connecticut Sun,78.0,NY,New York Liberty,62.0
+401736287,2025,2025-08-01,True,CHI,Chicago Sky,66.0,GS,Golden State Valkyries,73.0
+401736288,2025,2025-08-01,True,DAL,Dallas Wings,78.0,IND,Indiana Fever,88.0
+401736289,2025,2025-08-01,True,SEA,Seattle Storm,106.0,LA,Los Angeles Sparks,108.0
+401736290,2025,2025-08-02,True,LV,Las Vegas Aces,58.0,MIN,Minnesota Lynx,111.0
+401736292,2025,2025-08-03,True,CON,Connecticut Sun,78.0,NY,New York Liberty,87.0
+401736291,2025,2025-08-03,True,ATL,Atlanta Dream,99.0,WSH,Washington Mystics,83.0
+401736295,2025,2025-08-03,True,SEA,Seattle Storm,74.0,IND,Indiana Fever,78.0
+401736293,2025,2025-08-03,True,CHI,Chicago Sky,67.0,PHX,Phoenix Mercury,83.0
+401736294,2025,2025-08-03,True,LV,Las Vegas Aces,101.0,GS,Golden State Valkyries,77.0
+401736296,2025,2025-08-05,True,NY,New York Liberty,85.0,DAL,Dallas Wings,76.0
+401736297,2025,2025-08-05,True,CHI,Chicago Sky,78.0,WSH,Washington Mystics,64.0
+401736298,2025,2025-08-05,True,LA,Los Angeles Sparks,100.0,IND,Indiana Fever,91.0
+401736299,2025,2025-08-05,True,PHX,Phoenix Mercury,82.0,CON,Connecticut Sun,66.0
+401736300,2025,2025-08-05,True,SEA,Seattle Storm,87.0,MIN,Minnesota Lynx,91.0
+401736301,2025,2025-08-06,True,GS,Golden State Valkyries,72.0,LV,Las Vegas Aces,78.0
+401736302,2025,2025-08-07,True,CHI,Chicago Sky,65.0,ATL,Atlanta Dream,86.0
+401736303,2025,2025-08-07,True,LA,Los Angeles Sparks,102.0,CON,Connecticut Sun,91.0
+401736304,2025,2025-08-07,True,PHX,Phoenix Mercury,95.0,IND,Indiana Fever,60.0
+401736305,2025,2025-08-08,True,DAL,Dallas Wings,77.0,NY,New York Liberty,88.0
+401736306,2025,2025-08-08,True,MIN,Minnesota Lynx,80.0,WSH,Washington Mystics,76.0
+401736307,2025,2025-08-08,True,LV,Las Vegas Aces,90.0,SEA,Seattle Storm,86.0
+401736309,2025,2025-08-09,True,IND,Indiana Fever,92.0,CHI,Chicago Sky,70.0
+401736308,2025,2025-08-09,True,GS,Golden State Valkyries,72.0,LA,Los Angeles Sparks,59.0
+401736310,2025,2025-08-10,True,NY,New York Liberty,71.0,MIN,Minnesota Lynx,83.0
+401736311,2025,2025-08-10,True,DAL,Dallas Wings,78.0,WSH,Washington Mystics,91.0
+401736313,2025,2025-08-10,True,PHX,Phoenix Mercury,66.0,ATL,Atlanta Dream,74.0
+401736312,2025,2025-08-10,True,LA,Los Angeles Sparks,94.0,SEA,Seattle Storm,91.0
+401736314,2025,2025-08-10,True,LV,Las Vegas Aces,94.0,CON,Connecticut Sun,86.0
+401736315,2025,2025-08-11,True,GS,Golden State Valkyries,74.0,CON,Connecticut Sun,57.0
+401736316,2025,2025-08-12,True,IND,Indiana Fever,80.0,DAL,Dallas Wings,81.0
+401736317,2025,2025-08-12,True,LA,Los Angeles Sparks,97.0,NY,New York Liberty,105.0
+401736318,2025,2025-08-13,True,CON,Connecticut Sun,71.0,CHI,Chicago Sky,62.0
+401736319,2025,2025-08-13,True,WSH,Washington Mystics,83.0,GS,Golden State Valkyries,88.0
+401736320,2025,2025-08-13,True,LV,Las Vegas Aces,83.0,NY,New York Liberty,77.0
+401736321,2025,2025-08-13,True,SEA,Seattle Storm,75.0,ATL,Atlanta Dream,85.0
+401736322,2025,2025-08-15,True,IND,Indiana Fever,84.0,WSH,Washington Mystics,88.0
+401736323,2025,2025-08-15,True,CHI,Chicago Sky,59.0,GS,Golden State Valkyries,90.0
+401736324,2025,2025-08-15,True,DAL,Dallas Wings,96.0,LA,Los Angeles Sparks,97.0
+401736325,2025,2025-08-15,True,ATL,Atlanta Dream,78.0,SEA,Seattle Storm,80.0
+401736326,2025,2025-08-15,True,PHX,Phoenix Mercury,83.0,LV,Las Vegas Aces,86.0
+401736327,2025,2025-08-16,True,MIN,Minnesota Lynx,86.0,NY,New York Liberty,80.0
+401736329,2025,2025-08-17,True,CON,Connecticut Sun,93.0,IND,Indiana Fever,99.0
+401736328,2025,2025-08-17,True,WSH,Washington Mystics,95.0,LA,Los Angeles Sparks,86.0
+401736330,2025,2025-08-17,True,LV,Las Vegas Aces,106.0,DAL,Dallas Wings,87.0
+401736331,2025,2025-08-17,True,SEA,Seattle Storm,82.0,PHX,Phoenix Mercury,85.0
+401736332,2025,2025-08-17,True,GS,Golden State Valkyries,63.0,ATL,Atlanta Dream,79.0
+401736333,2025,2025-08-19,True,NY,New York Liberty,85.0,MIN,Minnesota Lynx,75.0
+401736334,2025,2025-08-19,True,WSH,Washington Mystics,69.0,CON,Connecticut Sun,80.0
+401736335,2025,2025-08-19,True,CHI,Chicago Sky,88.0,SEA,Seattle Storm,94.0
+401736336,2025,2025-08-19,True,LV,Las Vegas Aces,74.0,ATL,Atlanta Dream,72.0
+401736337,2025,2025-08-19,True,GS,Golden State Valkyries,91.0,PHX,Phoenix Mercury,98.0
+401736338,2025,2025-08-20,True,LA,Los Angeles Sparks,81.0,DAL,Dallas Wings,80.0
+401736339,2025,2025-08-21,True,CON,Connecticut Sun,67.0,WSH,Washington Mystics,56.0
+401736340,2025,2025-08-21,True,NY,New York Liberty,85.0,CHI,Chicago Sky,91.0
+401736341,2025,2025-08-21,True,ATL,Atlanta Dream,75.0,MIN,Minnesota Lynx,73.0
+401736342,2025,2025-08-21,True,LV,Las Vegas Aces,83.0,PHX,Phoenix Mercury,61.0
+401736343,2025,2025-08-22,True,IND,Indiana Fever,90.0,MIN,Minnesota Lynx,95.0
+401736344,2025,2025-08-22,True,DAL,Dallas Wings,60.0,SEA,Seattle Storm,95.0
+401736345,2025,2025-08-22,True,PHX,Phoenix Mercury,81.0,GS,Golden State Valkyries,72.0
+401736346,2025,2025-08-23,True,ATL,Atlanta Dream,78.0,NY,New York Liberty,62.0
+401736347,2025,2025-08-23,True,WSH,Washington Mystics,81.0,LV,Las Vegas Aces,91.0
+401736348,2025,2025-08-23,True,CHI,Chicago Sky,84.0,CON,Connecticut Sun,94.0
+401736349,2025,2025-08-24,True,WSH,Washington Mystics,82.0,SEA,Seattle Storm,84.0
+401736350,2025,2025-08-24,True,DAL,Dallas Wings,81.0,GS,Golden State Valkyries,90.0
+401736351,2025,2025-08-24,True,MIN,Minnesota Lynx,97.0,IND,Indiana Fever,84.0
+401736352,2025,2025-08-25,True,NY,New York Liberty,81.0,CON,Connecticut Sun,79.0
+401736353,2025,2025-08-25,True,CHI,Chicago Sky,74.0,LV,Las Vegas Aces,79.0
+401736354,2025,2025-08-26,True,IND,Indiana Fever,95.0,SEA,Seattle Storm,75.0
+401736355,2025,2025-08-26,True,LA,Los Angeles Sparks,84.0,PHX,Phoenix Mercury,92.0
+401736356,2025,2025-08-27,True,ATL,Atlanta Dream,75.0,LV,Las Vegas Aces,81.0
+401736357,2025,2025-08-27,True,DAL,Dallas Wings,95.0,CON,Connecticut Sun,101.0
+401736358,2025,2025-08-28,True,NY,New York Liberty,89.0,WSH,Washington Mystics,63.0
+401736359,2025,2025-08-28,True,MIN,Minnesota Lynx,79.0,SEA,Seattle Storm,93.0
+401736360,2025,2025-08-28,True,PHX,Phoenix Mercury,83.0,CHI,Chicago Sky,79.0
+401736361,2025,2025-08-29,True,ATL,Atlanta Dream,100.0,DAL,Dallas Wings,78.0
+401736362,2025,2025-08-29,True,LA,Los Angeles Sparks,75.0,IND,Indiana Fever,76.0
+401736363,2025,2025-08-30,True,CON,Connecticut Sun,70.0,MIN,Minnesota Lynx,94.0
+401736364,2025,2025-08-30,True,GS,Golden State Valkyries,99.0,WSH,Washington Mystics,62.0
+401736365,2025,2025-08-30,True,SEA,Seattle Storm,79.0,CHI,Chicago Sky,69.0
+401736366,2025,2025-08-30,True,PHX,Phoenix Mercury,80.0,NY,New York Liberty,63.0
+401736367,2025,2025-08-31,True,LA,Los Angeles Sparks,81.0,WSH,Washington Mystics,78.0
+401736368,2025,2025-08-31,True,GS,Golden State Valkyries,75.0,IND,Indiana Fever,63.0
+401736369,2025,2025-09-01,True,CON,Connecticut Sun,76.0,ATL,Atlanta Dream,93.0
+401736370,2025,2025-09-01,True,MIN,Minnesota Lynx,96.0,DAL,Dallas Wings,71.0
+401736371,2025,2025-09-01,True,SEA,Seattle Storm,85.0,LA,Los Angeles Sparks,91.0
+401736372,2025,2025-09-02,True,GS,Golden State Valkyries,66.0,NY,New York Liberty,58.0
+401736373,2025,2025-09-02,True,PHX,Phoenix Mercury,85.0,IND,Indiana Fever,79.0
+401736374,2025,2025-09-03,True,ATL,Atlanta Dream,86.0,LA,Los Angeles Sparks,75.0
+401736375,2025,2025-09-03,True,CHI,Chicago Sky,88.0,CON,Connecticut Sun,64.0
+401736376,2025,2025-09-04,True,WSH,Washington Mystics,69.0,PHX,Phoenix Mercury,75.0
+401736377,2025,2025-09-04,True,GS,Golden State Valkyries,84.0,DAL,Dallas Wings,80.0
+401736378,2025,2025-09-04,True,LV,Las Vegas Aces,97.0,MIN,Minnesota Lynx,87.0
+401736379,2025,2025-09-05,True,ATL,Atlanta Dream,104.0,LA,Los Angeles Sparks,85.0
+401736380,2025,2025-09-05,True,IND,Indiana Fever,97.0,CHI,Chicago Sky,77.0
+401736381,2025,2025-09-05,True,SEA,Seattle Storm,76.0,NY,New York Liberty,84.0
+401736382,2025,2025-09-06,True,CON,Connecticut Sun,87.0,PHX,Phoenix Mercury,84.0
+401736383,2025,2025-09-06,True,GS,Golden State Valkyries,72.0,MIN,Minnesota Lynx,78.0
+401736384,2025,2025-09-07,True,WSH,Washington Mystics,65.0,IND,Indiana Fever,94.0
+401736385,2025,2025-09-07,True,LA,Los Angeles Sparks,91.0,DAL,Dallas Wings,77.0
+401736386,2025,2025-09-07,True,LV,Las Vegas Aces,80.0,CHI,Chicago Sky,66.0
+401736387,2025,2025-09-08,True,ATL,Atlanta Dream,87.0,CON,Connecticut Sun,62.0
+401736388,2025,2025-09-09,True,NY,New York Liberty,75.0,WSH,Washington Mystics,66.0
+401736389,2025,2025-09-09,True,IND,Indiana Fever,83.0,MIN,Minnesota Lynx,72.0
+401736390,2025,2025-09-09,True,LV,Las Vegas Aces,92.0,CHI,Chicago Sky,61.0
+401736391,2025,2025-09-09,True,PHX,Phoenix Mercury,83.0,LA,Los Angeles Sparks,88.0
+401736392,2025,2025-09-09,True,SEA,Seattle Storm,74.0,GS,Golden State Valkyries,73.0
+401736393,2025,2025-09-10,True,CON,Connecticut Sun,72.0,ATL,Atlanta Dream,88.0
+401736394,2025,2025-09-11,True,CHI,Chicago Sky,86.0,NY,New York Liberty,91.0
+401736395,2025,2025-09-11,True,DAL,Dallas Wings,97.0,PHX,Phoenix Mercury,76.0
+401736396,2025,2025-09-11,True,MIN,Minnesota Lynx,72.0,GS,Golden State Valkyries,53.0
+401736397,2025,2025-09-11,True,LA,Los Angeles Sparks,75.0,LV,Las Vegas Aces,103.0
+401820272,2025,2025-09-14,True,MIN,Minnesota Lynx,101.0,GS,Golden State Valkyries,72.0
+401820313,2025,2025-09-14,True,ATL,Atlanta Dream,80.0,IND,Indiana Fever,68.0
+401820314,2025,2025-09-14,True,PHX,Phoenix Mercury,69.0,NY,New York Liberty,76.0
+401820315,2025,2025-09-14,True,LV,Las Vegas Aces,102.0,SEA,Seattle Storm,77.0
+401820316,2025,2025-09-16,True,IND,Indiana Fever,77.0,ATL,Atlanta Dream,60.0
+401820317,2025,2025-09-16,True,SEA,Seattle Storm,86.0,LV,Las Vegas Aces,83.0
+401820318,2025,2025-09-17,True,NY,New York Liberty,60.0,PHX,Phoenix Mercury,86.0
+401820319,2025,2025-09-17,True,GS,Golden State Valkyries,74.0,MIN,Minnesota Lynx,75.0
+401820320,2025,2025-09-18,True,ATL,Atlanta Dream,85.0,IND,Indiana Fever,87.0
+401820321,2025,2025-09-18,True,LV,Las Vegas Aces,74.0,SEA,Seattle Storm,73.0
+401820324,2025,2025-09-19,True,PHX,Phoenix Mercury,79.0,NY,New York Liberty,73.0
+401820327,2025,2025-09-21,True,LV,Las Vegas Aces,73.0,IND,Indiana Fever,89.0
+401820328,2025,2025-09-21,True,MIN,Minnesota Lynx,82.0,PHX,Phoenix Mercury,69.0
+401820330,2025,2025-09-23,True,MIN,Minnesota Lynx,83.0,PHX,Phoenix Mercury,89.0
+401820331,2025,2025-09-23,True,LV,Las Vegas Aces,90.0,IND,Indiana Fever,68.0
+401820334,2025,2025-09-26,True,IND,Indiana Fever,72.0,LV,Las Vegas Aces,84.0
+401820333,2025,2025-09-26,True,PHX,Phoenix Mercury,84.0,MIN,Minnesota Lynx,76.0
+401820337,2025,2025-09-28,True,IND,Indiana Fever,90.0,LV,Las Vegas Aces,83.0
+401820338,2025,2025-09-28,True,PHX,Phoenix Mercury,86.0,MIN,Minnesota Lynx,81.0
+401820340,2025,2025-09-30,True,LV,Las Vegas Aces,107.0,IND,Indiana Fever,98.0
+401820322,2025,2025-10-03,True,LV,Las Vegas Aces,89.0,PHX,Phoenix Mercury,86.0
+401820325,2025,2025-10-05,True,LV,Las Vegas Aces,91.0,PHX,Phoenix Mercury,78.0
+401820326,2025,2025-10-08,True,PHX,Phoenix Mercury,88.0,LV,Las Vegas Aces,90.0
+401820329,2025,2025-10-10,True,PHX,Phoenix Mercury,86.0,LV,Las Vegas Aces,97.0
+401856890,2026,2026-05-08,True,NY,New York Liberty,106.0,CON,Connecticut Sun,75.0
+401856891,2026,2026-05-08,True,TOR,Toronto Tempo,65.0,WSH,Washington Mystics,68.0
+401856892,2026,2026-05-08,True,SEA,Seattle Storm,80.0,GS,Golden State Valkyries,91.0
+401856893,2026,2026-05-09,True,IND,Indiana Fever,104.0,DAL,Dallas Wings,107.0
+401856894,2026,2026-05-09,True,LV,Las Vegas Aces,66.0,PHX,Phoenix Mercury,99.0
+401856899,2026,2026-05-09,True,MIN,Minnesota Lynx,90.0,ATL,Atlanta Dream,91.0
+401856895,2026,2026-05-09,True,POR,Portland Fire,83.0,CHI,Chicago Sky,98.0
+401856896,2026,2026-05-10,True,CON,Connecticut Sun,82.0,SEA,Seattle Storm,89.0
+401856897,2026,2026-05-10,True,WSH,Washington Mystics,93.0,NY,New York Liberty,98.0
+401856898,2026,2026-05-10,True,LA,Los Angeles Sparks,78.0,LV,Las Vegas Aces,105.0
+401856900,2026,2026-05-10,True,GS,Golden State Valkyries,95.0,PHX,Phoenix Mercury,79.0
+401856901,2026,2026-05-12,True,DAL,Dallas Wings,72.0,ATL,Atlanta Dream,77.0
+401856902,2026,2026-05-12,True,PHX,Phoenix Mercury,84.0,MIN,Minnesota Lynx,88.0
+401856903,2026,2026-05-12,True,POR,Portland Fire,98.0,NY,New York Liberty,96.0
+401856904,2026,2026-05-13,True,TOR,Toronto Tempo,86.0,SEA,Seattle Storm,73.0
+401856905,2026,2026-05-13,True,CON,Connecticut Sun,69.0,LV,Las Vegas Aces,98.0
+401856906,2026,2026-05-13,True,GS,Golden State Valkyries,63.0,CHI,Chicago Sky,69.0
+401856907,2026,2026-05-13,True,LA,Los Angeles Sparks,78.0,IND,Indiana Fever,87.0
+401856908,2026,2026-05-14,True,DAL,Dallas Wings,86.0,MIN,Minnesota Lynx,90.0
+401856909,2026,2026-05-14,True,POR,Portland Fire,82.0,NY,New York Liberty,100.0
+401856910,2026,2026-05-15,True,CON,Connecticut Sun,94.0,LV,Las Vegas Aces,101.0
+401856911,2026,2026-05-15,True,IND,Indiana Fever,102.0,WSH,Washington Mystics,104.0
+401856912,2026,2026-05-15,True,LA,Los Angeles Sparks,99.0,TOR,Toronto Tempo,95.0
+401856913,2026,2026-05-15,True,PHX,Phoenix Mercury,91.0,CHI,Chicago Sky,83.0
+401856915,2026,2026-05-17,True,ATL,Atlanta Dream,84.0,LV,Las Vegas Aces,85.0
+401856916,2026,2026-05-17,True,IND,Indiana Fever,89.0,SEA,Seattle Storm,78.0
+401856914,2026,2026-05-17,True,MIN,Minnesota Lynx,79.0,CHI,Chicago Sky,86.0
+401856917,2026,2026-05-17,True,LA,Los Angeles Sparks,96.0,TOR,Toronto Tempo,106.0
+401856918,2026,2026-05-18,True,DAL,Dallas Wings,92.0,WSH,Washington Mystics,69.0
+401856919,2026,2026-05-18,True,POR,Portland Fire,83.0,CON,Connecticut Sun,82.0
+401856920,2026,2026-05-19,True,PHX,Phoenix Mercury,90.0,TOR,Toronto Tempo,98.0
+401856921,2026,2026-05-20,True,IND,Indiana Fever,90.0,POR,Portland Fire,73.0
+401856922,2026,2026-05-20,True,CHI,Chicago Sky,89.0,DAL,Dallas Wings,99.0
+401856923,2026,2026-05-20,True,SEA,Seattle Storm,78.0,CON,Connecticut Sun,80.0
+401856924,2026,2026-05-21,True,NY,New York Liberty,70.0,GS,Golden State Valkyries,87.0
+401856925,2026,2026-05-21,True,MIN,Minnesota Lynx,100.0,TOR,Toronto Tempo,72.0
+401856926,2026,2026-05-21,True,PHX,Phoenix Mercury,88.0,LA,Los Angeles Sparks,97.0
+401856927,2026,2026-05-22,True,ATL,Atlanta Dream,86.0,DAL,Dallas Wings,69.0
+401856928,2026,2026-05-22,True,IND,Indiana Fever,90.0,GS,Golden State Valkyries,82.0
+401856929,2026,2026-05-22,True,SEA,Seattle Storm,77.0,CON,Connecticut Sun,59.0
+401856930,2026,2026-05-23,True,CHI,Chicago Sky,75.0,MIN,Minnesota Lynx,85.0
+401856931,2026,2026-05-23,True,TOR,Toronto Tempo,80.0,POR,Portland Fire,99.0
+401856932,2026,2026-05-23,True,LV,Las Vegas Aces,95.0,LA,Los Angeles Sparks,101.0
+401856933,2026,2026-05-24,True,ATL,Atlanta Dream,82.0,PHX,Phoenix Mercury,80.0
+401856934,2026,2026-05-24,True,NY,New York Liberty,76.0,DAL,Dallas Wings,91.0
+401856935,2026,2026-05-24,True,SEA,Seattle Storm,97.0,WSH,Washington Mystics,85.0
+401856936,2026,2026-05-25,True,NY,New York Liberty,74.0,POR,Portland Fire,81.0
+401856937,2026,2026-05-25,True,GS,Golden State Valkyries,97.0,CON,Connecticut Sun,70.0
+401856938,2026,2026-05-27,True,NY,New York Liberty,84.0,PHX,Phoenix Mercury,74.0
+401856939,2026,2026-05-27,True,CHI,Chicago Sky,104.0,TOR,Toronto Tempo,111.0
+401856940,2026,2026-05-27,True,MIN,Minnesota Lynx,96.0,ATL,Atlanta Dream,81.0
+401856941,2026,2026-05-27,True,POR,Portland Fire,71.0,CON,Connecticut Sun,61.0
+401856942,2026,2026-05-27,True,SEA,Seattle Storm,64.0,WSH,Washington Mystics,78.0
+401856943,2026,2026-05-28,True,DAL,Dallas Wings,95.0,LV,Las Vegas Aces,87.0
+401856944,2026,2026-05-28,True,GS,Golden State Valkyries,90.0,IND,Indiana Fever,88.0
+401856945,2026,2026-05-29,True,NY,New York Liberty,75.0,PHX,Phoenix Mercury,68.0
+401856946,2026,2026-05-29,True,WSH,Washington Mystics,87.0,LA,Los Angeles Sparks,92.0
+401856947,2026,2026-05-29,True,CHI,Chicago Sky,58.0,MIN,Minnesota Lynx,79.0
+401856948,2026,2026-05-29,True,POR,Portland Fire,66.0,ATL,Atlanta Dream,86.0
+401856949,2026,2026-05-30,True,TOR,Toronto Tempo,93.0,SEA,Seattle Storm,72.0
+401856950,2026,2026-05-30,True,CON,Connecticut Sun,84.0,LA,Los Angeles Sparks,81.0
+401856951,2026,2026-05-30,True,POR,Portland Fire,100.0,IND,Indiana Fever,84.0
+401856952,2026,2026-05-31,True,GS,Golden State Valkyries,81.0,LV,Las Vegas Aces,91.0
+401856953,2026,2026-06-01,True,DAL,Dallas Wings,79.0,SEA,Seattle Storm,56.0
+401856954,2026,2026-06-01,True,PHX,Phoenix Mercury,77.0,MIN,Minnesota Lynx,111.0
+401856955,2026,2026-06-02,True,ATL,Atlanta Dream,91.0,CON,Connecticut Sun,75.0
+401856956,2026,2026-06-02,True,WSH,Washington Mystics,90.0,CHI,Chicago Sky,72.0
+401856957,2026,2026-06-02,True,GS,Golden State Valkyries,95.0,POR,Portland Fire,77.0
+401856958,2026,2026-06-02,True,LA,Los Angeles Sparks,69.0,LV,Las Vegas Aces,79.0
+401856959,2026,2026-06-03,True,NY,New York Liberty,97.0,TOR,Toronto Tempo,82.0
+401856960,2026,2026-06-03,True,SEA,Seattle Storm,68.0,PHX,Phoenix Mercury,72.0
+401856961,2026,2026-06-04,True,IND,Indiana Fever,83.0,ATL,Atlanta Dream,71.0
+401856962,2026,2026-06-04,True,MIN,Minnesota Lynx,87.0,GS,Golden State Valkyries,84.0
+401856963,2026,2026-06-05,True,CHI,Chicago Sky,85.0,CON,Connecticut Sun,80.0
+401856964,2026,2026-06-05,True,LA,Los Angeles Sparks,96.0,DAL,Dallas Wings,104.0
+401856965,2026,2026-06-05,True,POR,Portland Fire,72.0,PHX,Phoenix Mercury,78.0
+401856966,2026,2026-06-06,True,MIN,Minnesota Lynx,88.0,SEA,Seattle Storm,68.0
+401856967,2026,2026-06-06,True,LV,Las Vegas Aces,84.0,GS,Golden State Valkyries,79.0
+401856968,2026,2026-06-06,True,ATL,Atlanta Dream,109.0,WSH,Washington Mystics,77.0
+401856969,2026,2026-06-06,True,NY,New York Liberty,83.0,IND,Indiana Fever,75.0
+401856970,2026,2026-06-07,True,TOR,Toronto Tempo,85.0,CHI,Chicago Sky,68.0
+401856971,2026,2026-06-07,True,LA,Los Angeles Sparks,89.0,POR,Portland Fire,72.0
+401856972,2026,2026-06-08,True,CON,Connecticut Sun,80.0,NY,New York Liberty,89.0
+401856973,2026,2026-06-08,True,WSH,Washington Mystics,76.0,IND,Indiana Fever,78.0
+401856974,2026,2026-06-08,True,LV,Las Vegas Aces,101.0,SEA,Seattle Storm,91.0
+401856975,2026,2026-06-09,True,CHI,Chicago Sky,75.0,ATL,Atlanta Dream,82.0
+401856976,2026,2026-06-09,True,MIN,Minnesota Lynx,100.0,DAL,Dallas Wings,76.0
+401856977,2026,2026-06-09,True,GS,Golden State Valkyries,87.0,PHX,Phoenix Mercury,81.0
+401856978,2026,2026-06-10,True,TOR,Toronto Tempo,106.0,CON,Connecticut Sun,102.0
+401856979,2026,2026-06-10,True,SEA,Seattle Storm,83.0,LA,Los Angeles Sparks,88.0
+401856980,2026,2026-06-11,True,IND,Indiana Fever,114.0,CHI,Chicago Sky,106.0
+401856981,2026,2026-06-11,True,ATL,Atlanta Dream,90.0,NY,New York Liberty,104.0
+401856982,2026,2026-06-11,True,DAL,Dallas Wings,85.0,PHX,Phoenix Mercury,70.0
+401856983,2026,2026-06-11,True,POR,Portland Fire,89.0,LV,Las Vegas Aces,105.0
+401856984,2026,2026-06-12,True,WSH,Washington Mystics,86.0,TOR,Toronto Tempo,85.0
+401856985,2026,2026-06-12,True,SEA,Seattle Storm,72.0,GS,Golden State Valkyries,76.0
+401856986,2026,2026-06-13,True,CON,Connecticut Sun,75.0,IND,Indiana Fever,85.0
+401856987,2026,2026-06-13,True,LV,Las Vegas Aces,100.0,MIN,Minnesota Lynx,97.0
+401856988,2026,2026-06-13,True,POR,Portland Fire,84.0,DAL,Dallas Wings,83.0
+401856989,2026,2026-06-13,True,PHX,Phoenix Mercury,102.0,LA,Los Angeles Sparks,111.0
+401856990,2026,2026-06-14,True,NY,New York Liberty,86.0,WSH,Washington Mystics,64.0
+401856991,2026,2026-06-14,True,TOR,Toronto Tempo,77.0,ATL,Atlanta Dream,102.0
+401856992,2026,2026-06-15,True,DAL,Dallas Wings,96.0,LV,Las Vegas Aces,66.0
+401856993,2026,2026-06-15,True,MIN,Minnesota Lynx,107.0,POR,Portland Fire,74.0
+401856994,2026,2026-06-15,True,GS,Golden State Valkyries,78.0,LA,Los Angeles Sparks,58.0
+401856995,2026,2026-06-16,True,IND,Indiana Fever,113.0,TOR,Toronto Tempo,91.0
+401856996,2026,2026-06-17,True,CON,Connecticut Sun,81.0,WSH,Washington Mystics,88.0
+401856997,2026,2026-06-17,True,CHI,Chicago Sky,95.0,NY,New York Liberty,96.0
+401856998,2026,2026-06-17,True,GS,Golden State Valkyries,91.0,DAL,Dallas Wings,80.0
+401856999,2026,2026-06-17,True,LA,Los Angeles Sparks,83.0,MIN,Minnesota Lynx,99.0
+401857000,2026,2026-06-17,True,PHX,Phoenix Mercury,76.0,LV,Las Vegas Aces,86.0
+401857001,2026,2026-06-17,True,POR,Portland Fire,94.0,SEA,Seattle Storm,89.0
+401857002,2026,2026-06-18,True,IND,Indiana Fever,101.0,ATL,Atlanta Dream,108.0
+401857003,2026,2026-06-19,True,CON,Connecticut Sun,97.0,TOR,Toronto Tempo,101.0
+401857004,2026,2026-06-19,True,NY,New York Liberty,83.0,WSH,Washington Mystics,86.0
+401857005,2026,2026-06-19,True,GS,Golden State Valkyries,75.0,MIN,Minnesota Lynx,81.0
+401857006,2026,2026-06-20,True,ATL,Atlanta Dream,113.0,IND,Indiana Fever,96.0
+401857007,2026,2026-06-20,True,PHX,Phoenix Mercury,93.0,SEA,Seattle Storm,73.0
+401857008,2026,2026-06-20,True,DAL,Dallas Wings,93.0,CHI,Chicago Sky,92.0
+401857009,2026,2026-06-21,True,LV,Las Vegas Aces,92.0,GS,Golden State Valkyries,73.0
+401857010,2026,2026-06-21,True,MIN,Minnesota Lynx,79.0,WSH,Washington Mystics,84.0
+401857011,2026,2026-06-21,True,LA,Los Angeles Sparks,98.0,NY,New York Liberty,97.0
+401857012,2026,2026-06-22,True,CON,Connecticut Sun,92.0,CHI,Chicago Sky,63.0
+401857013,2026,2026-06-22,True,ATL,Atlanta Dream,94.0,TOR,Toronto Tempo,87.0
+401857014,2026,2026-06-22,True,IND,Indiana Fever,86.0,PHX,Phoenix Mercury,77.0
+401857015,2026,2026-06-22,True,SEA,Seattle Storm,110.0,DAL,Dallas Wings,112.0
+401857016,2026,2026-06-23,True,LV,Las Vegas Aces,76.0,NY,New York Liberty,87.0
+401857017,2026,2026-06-24,True,IND,Indiana Fever,109.0,PHX,Phoenix Mercury,111.0
+401857018,2026,2026-06-24,True,WSH,Washington Mystics,76.0,MIN,Minnesota Lynx,78.0
+401857019,2026,2026-06-24,True,CHI,Chicago Sky,101.0,POR,Portland Fire,78.0
+401857020,2026,2026-06-24,True,GS,Golden State Valkyries,77.0,ATL,Atlanta Dream,66.0
+401857021,2026,2026-06-25,True,TOR,Toronto Tempo,125.0,LA,Los Angeles Sparks,97.0
+401857022,2026,2026-06-25,True,LV,Las Vegas Aces,99.0,DAL,Dallas Wings,84.0
+401857023,2026,2026-06-25,True,SEA,Seattle Storm,99.0,NY,New York Liberty,88.0
+401857024,2026,2026-06-26,True,CON,Connecticut Sun,68.0,WSH,Washington Mystics,57.0
+401857025,2026,2026-06-26,True,CHI,Chicago Sky,124.0,POR,Portland Fire,94.0
+401857026,2026,2026-06-26,True,GS,Golden State Valkyries,78.0,ATL,Atlanta Dream,75.0
+401857027,2026,2026-06-27,True,TOR,Toronto Tempo,80.0,PHX,Phoenix Mercury,89.0
+401857028,2026,2026-06-27,True,IND,Indiana Fever,111.0,LA,Los Angeles Sparks,87.0
+401857029,2026,2026-06-27,True,SEA,Seattle Storm,105.0,ATL,Atlanta Dream,90.0
+401857030,2026,2026-06-28,True,DAL,Dallas Wings,77.0,MIN,Minnesota Lynx,85.0
+401857031,2026,2026-06-28,True,WSH,Washington Mystics,124.0,POR,Portland Fire,123.0
+401857032,2026,2026-06-28,True,CHI,Chicago Sky,99.0,LV,Las Vegas Aces,107.0
+401857033,2026,2026-06-28,True,GS,Golden State Valkyries,76.0,NY,New York Liberty,67.0
+401857321,2026,2026-06-30,True,NY,New York Liberty,93.0,LV,Las Vegas Aces,85.0
+401857034,2026,2026-07-02,True,WSH,Washington Mystics,81.0,ATL,Atlanta Dream,76.0
+401857035,2026,2026-07-02,True,CON,Connecticut Sun,83.0,DAL,Dallas Wings,86.0
+401857036,2026,2026-07-02,True,PHX,Phoenix Mercury,90.0,SEA,Seattle Storm,67.0
+401857037,2026,2026-07-03,True,NY,New York Liberty,99.0,MIN,Minnesota Lynx,86.0
+401857038,2026,2026-07-03,True,LV,Las Vegas Aces,98.0,CHI,Chicago Sky,90.0
+401857039,2026,2026-07-04,True,ATL,Atlanta Dream,83.0,GS,Golden State Valkyries,88.0
+401857040,2026,2026-07-04,True,SEA,Seattle Storm,72.0,POR,Portland Fire,77.0
+401857041,2026,2026-07-05,True,TOR,Toronto Tempo,76.0,DAL,Dallas Wings,89.0
+401857042,2026,2026-07-05,True,LV,Las Vegas Aces,68.0,IND,Indiana Fever,84.0
+401857043,2026,2026-07-06,True,WSH,Washington Mystics,49.0,GS,Golden State Valkyries,62.0
+401857044,2026,2026-07-06,True,MIN,Minnesota Lynx,89.0,CON,Connecticut Sun,90.0
+401857045,2026,2026-07-06,True,LA,Los Angeles Sparks,64.0,SEA,Seattle Storm,82.0
+401857046,2026,2026-07-07,True,NY,New York Liberty,77.0,DAL,Dallas Wings,88.0
+401857047,2026,2026-07-07,True,PHX,Phoenix Mercury,66.0,CHI,Chicago Sky,77.0
+401857048,2026,2026-07-08,True,TOR,Toronto Tempo,75.0,GS,Golden State Valkyries,83.0
+401857049,2026,2026-07-08,True,CON,Connecticut Sun,80.0,MIN,Minnesota Lynx,86.0
+401857050,2026,2026-07-08,True,LA,Los Angeles Sparks,106.0,IND,Indiana Fever,92.0
+401857051,2026,2026-07-09,True,ATL,Atlanta Dream,89.0,SEA,Seattle Storm,78.0
+401857052,2026,2026-07-09,True,PHX,Phoenix Mercury,89.0,IND,Indiana Fever,92.0
+401857053,2026,2026-07-09,True,POR,Portland Fire,80.0,LV,Las Vegas Aces,88.0
+401857054,2026,2026-07-10,True,CON,Connecticut Sun,64.0,GS,Golden State Valkyries,79.0
+401857055,2026,2026-07-10,True,TOR,Toronto Tempo,95.0,DAL,Dallas Wings,108.0
+401857056,2026,2026-07-10,True,LA,Los Angeles Sparks,102.0,CHI,Chicago Sky,87.0
+401857057,2026,2026-07-11,True,MIN,Minnesota Lynx,90.0,NY,New York Liberty,85.0
+401857059,2026,2026-07-11,True,ATL,Atlanta Dream,92.0,POR,Portland Fire,102.0
+401857058,2026,2026-07-11,True,LV,Las Vegas Aces,106.0,PHX,Phoenix Mercury,58.0
+401857060,2026,2026-07-12,True,TOR,Toronto Tempo,93.0,NY,New York Liberty,91.0
+401857061,2026,2026-07-12,True,WSH,Washington Mystics,84.0,SEA,Seattle Storm,79.0
+401857062,2026,2026-07-12,True,DAL,Dallas Wings,96.0,CHI,Chicago Sky,91.0
+401857063,2026,2026-07-12,True,LV,Las Vegas Aces,75.0,IND,Indiana Fever,109.0
+401857064,2026,2026-07-13,True,ATL,Atlanta Dream,101.0,LA,Los Angeles Sparks,92.0
+401857065,2026,2026-07-13,True,MIN,Minnesota Lynx,104.0,PHX,Phoenix Mercury,100.0
+401857066,2026,2026-07-14,True,CON,Connecticut Sun,90.0,POR,Portland Fire,87.0
+401857067,2026,2026-07-14,True,TOR,Toronto Tempo,62.0,WSH,Washington Mystics,79.0
+401857068,2026,2026-07-15,True,CHI,Chicago Sky,95.0,SEA,Seattle Storm,90.0
+401857069,2026,2026-07-15,True,MIN,Minnesota Lynx,96.0,LA,Los Angeles Sparks,87.0
+401857070,2026,2026-07-15,True,IND,Indiana Fever,75.0,GS,Golden State Valkyries,88.0
+401857071,2026,2026-07-16,True,WSH,Washington Mystics,56.0,POR,Portland Fire,75.0
+401857072,2026,2026-07-16,False,DAL,Dallas Wings,0.0,NY,New York Liberty,0.0
+401857073,2026,2026-07-17,True,IND,Indiana Fever,110.0,SEA,Seattle Storm,107.0
+401857074,2026,2026-07-17,True,TOR,Toronto Tempo,92.0,ATL,Atlanta Dream,111.0
+401857075,2026,2026-07-17,True,CHI,Chicago Sky,96.0,LA,Los Angeles Sparks,82.0
+401857076,2026,2026-07-17,True,PHX,Phoenix Mercury,83.0,CON,Connecticut Sun,96.0
+401857077,2026,2026-07-18,True,IND,Indiana Fever,108.0,NY,New York Liberty,88.0
+401857078,2026,2026-07-18,True,MIN,Minnesota Lynx,101.0,POR,Portland Fire,93.0
+401857079,2026,2026-07-18,True,GS,Golden State Valkyries,74.0,WSH,Washington Mystics,69.0
+401857080,2026,2026-07-19,True,DAL,Dallas Wings,90.0,LA,Los Angeles Sparks,82.0
+401857081,2026,2026-07-19,True,ATL,Atlanta Dream,93.0,CHI,Chicago Sky,91.0
+401857082,2026,2026-07-19,True,PHX,Phoenix Mercury,72.0,CON,Connecticut Sun,63.0
+401857083,2026,2026-07-20,True,TOR,Toronto Tempo,83.0,LV,Las Vegas Aces,109.0
+401892393,2026,2026-07-20,True,DAL,Dallas Wings,98.0,NY,New York Liberty,99.0
+401857084,2026,2026-07-20,True,GS,Golden State Valkyries,82.0,WSH,Washington Mystics,90.0
+401857085,2026,2026-07-20,True,SEA,Seattle Storm,102.0,MIN,Minnesota Lynx,105.0
+401857086,2026,2026-07-22,True,LA,Los Angeles Sparks,82.0,PHX,Phoenix Mercury,86.0
+401857087,2026,2026-07-22,True,SEA,Seattle Storm,76.0,MIN,Minnesota Lynx,86.0
+401857088,2026,2026-07-22,True,NY,New York Liberty,95.0,CHI,Chicago Sky,94.0
+401857089,2026,2026-07-22,True,WSH,Washington Mystics,100.0,LV,Las Vegas Aces,99.0
+401857090,2026,2026-07-22,True,IND,Indiana Fever,123.0,CON,Connecticut Sun,88.0
+401857091,2026,2026-07-22,True,POR,Portland Fire,97.0,DAL,Dallas Wings,101.0
+401857320,2026,2026-07-25,True,COOP,TEAM COOP,122.0,SPO,TEAM SPOON,129.0
+401857092,2026,2026-07-28,True,WSH,Washington Mystics,92.0,CON,Connecticut Sun,84.0
+401857093,2026,2026-07-28,True,MIN,Minnesota Lynx,100.0,TOR,Toronto Tempo,93.0
+401857094,2026,2026-07-28,True,SEA,Seattle Storm,95.0,IND,Indiana Fever,105.0
+401857095,2026,2026-07-28,True,LV,Las Vegas Aces,98.0,POR,Portland Fire,83.0
+401857096,2026,2026-07-28,True,LA,Los Angeles Sparks,109.0,NY,New York Liberty,113.0
+401857097,2026,2026-07-29,True,DAL,Dallas Wings,81.0,ATL,Atlanta Dream,82.0
+401857098,2026,2026-07-29,True,PHX,Phoenix Mercury,91.0,GS,Golden State Valkyries,89.0
+401857099,2026,2026-07-30,True,TOR,Toronto Tempo,72.0,MIN,Minnesota Lynx,104.0
+401857100,2026,2026-07-30,True,CHI,Chicago Sky,94.0,CON,Connecticut Sun,88.0
+401857101,2026,2026-07-30,True,LV,Las Vegas Aces,104.0,NY,New York Liberty,99.0
+401857102,2026,2026-07-31,True,ATL,Atlanta Dream,98.0,SEA,Seattle Storm,89.0
+401857103,2026,2026-07-31,True,WSH,Washington Mystics,81.0,DAL,Dallas Wings,75.0
+401857104,2026,2026-07-31,True,POR,Portland Fire,98.0,IND,Indiana Fever,112.0
+401857105,2026,2026-08-01,True,CHI,Chicago Sky,84.0,LV,Las Vegas Aces,83.0
+401857106,2026,2026-08-01,True,PHX,Phoenix Mercury,92.0,NY,New York Liberty,94.0
+401857107,2026,2026-08-02,True,MIN,Minnesota Lynx,108.0,IND,Indiana Fever,100.0
+401857108,2026,2026-08-02,True,POR,Portland Fire,101.0,LA,Los Angeles Sparks,106.0
+401857109,2026,2026-08-02,True,DAL,Dallas Wings,83.0,CON,Connecticut Sun,63.0
+401857110,2026,2026-08-02,True,GS,Golden State Valkyries,96.0,TOR,Toronto Tempo,79.0
+401857111,2026,2026-08-03,True,ATL,Atlanta Dream,87.0,LV,Las Vegas Aces,109.0
+401857112,2026,2026-08-03,True,NY,New York Liberty,95.0,SEA,Seattle Storm,83.0
+401857113,2026,2026-08-03,True,CHI,Chicago Sky,101.0,PHX,Phoenix Mercury,106.0
+401857114,2026,2026-08-04,True,GS,Golden State Valkyries,92.0,TOR,Toronto Tempo,81.0
+401857115,2026,2026-08-05,True,ATL,Atlanta Dream,96.0,PHX,Phoenix Mercury,82.0
+401857116,2026,2026-08-05,True,NY,New York Liberty,92.0,SEA,Seattle Storm,86.0
+401857117,2026,2026-08-05,True,WSH,Washington Mystics,96.0,DAL,Dallas Wings,92.0
+401857118,2026,2026-08-05,True,CHI,Chicago Sky,95.0,LA,Los Angeles Sparks,88.0
+401857119,2026,2026-08-06,True,IND,Indiana Fever,84.0,LV,Las Vegas Aces,86.0
+401857120,2026,2026-08-06,True,MIN,Minnesota Lynx,82.0,LA,Los Angeles Sparks,89.0
+401857121,2026,2026-08-06,True,POR,Portland Fire,97.0,TOR,Toronto Tempo,83.0
+401857122,2026,2026-08-07,True,CON,Connecticut Sun,75.0,PHX,Phoenix Mercury,72.0
+401857123,2026,2026-08-07,True,WSH,Washington Mystics,79.0,ATL,Atlanta Dream,74.0
+401857124,2026,2026-08-07,True,DAL,Dallas Wings,76.0,GS,Golden State Valkyries,94.0
+401857125,2026,2026-08-08,True,MIN,Minnesota Lynx,98.0,LV,Las Vegas Aces,87.0
+401857126,2026,2026-08-08,True,CHI,Chicago Sky,86.0,IND,Indiana Fever,90.0
+401857127,2026,2026-08-08,True,POR,Portland Fire,100.0,SEA,Seattle Storm,93.0
+401857128,2026,2026-08-09,True,NY,New York Liberty,111.0,LV,Las Vegas Aces,71.0
+401857129,2026,2026-08-09,True,WSH,Washington Mystics,95.0,PHX,Phoenix Mercury,75.0
+401857130,2026,2026-08-09,True,MIN,Minnesota Lynx,103.0,DAL,Dallas Wings,90.0
+401857131,2026,2026-08-09,True,LA,Los Angeles Sparks,78.0,GS,Golden State Valkyries,84.0
+401857132,2026,2026-08-10,True,ATL,Atlanta Dream,107.0,TOR,Toronto Tempo,95.0
+401857133,2026,2026-08-10,True,SEA,Seattle Storm,97.0,CHI,Chicago Sky,88.0
+401857134,2026,2026-08-11,True,IND,Indiana Fever,106.0,NY,New York Liberty,92.0
+401857135,2026,2026-08-11,True,LV,Las Vegas Aces,86.0,WSH,Washington Mystics,76.0
+401857136,2026,2026-08-11,True,LA,Los Angeles Sparks,87.0,PHX,Phoenix Mercury,94.0
+401857137,2026,2026-08-12,True,DAL,Dallas Wings,94.0,TOR,Toronto Tempo,88.0
+401857138,2026,2026-08-12,True,GS,Golden State Valkyries,91.0,CHI,Chicago Sky,71.0
+401857139,2026,2026-08-12,True,POR,Portland Fire,81.0,MIN,Minnesota Lynx,85.0
+401857140,2026,2026-08-13,True,CON,Connecticut Sun,69.0,ATL,Atlanta Dream,104.0
+401857141,2026,2026-08-13,True,NY,New York Liberty,85.0,LA,Los Angeles Sparks,81.0
+401857142,2026,2026-08-13,True,LV,Las Vegas Aces,83.0,WSH,Washington Mystics,76.0
+401857143,2026,2026-08-14,True,IND,Indiana Fever,98.0,DAL,Dallas Wings,87.0
+401857144,2026,2026-08-14,True,SEA,Seattle Storm,82.0,POR,Portland Fire,84.0
+401857145,2026,2026-08-15,True,CON,Connecticut Sun,75.0,NY,New York Liberty,82.0
+401857146,2026,2026-08-15,True,WSH,Washington Mystics,80.0,LA,Los Angeles Sparks,70.0
+401857147,2026,2026-08-15,True,LV,Las Vegas Aces,87.0,MIN,Minnesota Lynx,92.0
+401857148,2026,2026-08-16,True,SEA,Seattle Storm,80.0,CHI,Chicago Sky,82.0
+401857150,2026,2026-08-16,True,ATL,Atlanta Dream,91.0,IND,Indiana Fever,95.0
+401857149,2026,2026-08-16,True,PHX,Phoenix Mercury,85.0,POR,Portland Fire,88.0
+401857151,2026,2026-08-17,True,GS,Golden State Valkyries,78.0,DAL,Dallas Wings,70.0
+401857152,2026,2026-08-18,True,CON,Connecticut Sun,85.0,LA,Los Angeles Sparks,77.0
+401857153,2026,2026-08-18,True,TOR,Toronto Tempo,95.0,IND,Indiana Fever,101.0
+401857154,2026,2026-08-18,True,CHI,Chicago Sky,93.0,NY,New York Liberty,86.0
+401857155,2026,2026-08-18,True,LV,Las Vegas Aces,82.0,ATL,Atlanta Dream,97.0
+401857156,2026,2026-08-19,True,WSH,Washington Mystics,93.0,TOR,Toronto Tempo,82.0
+401857157,2026,2026-08-19,True,GS,Golden State Valkyries,66.0,MIN,Minnesota Lynx,77.0
+401857158,2026,2026-08-20,True,DAL,Dallas Wings,91.0,IND,Indiana Fever,85.0
+401857159,2026,2026-08-20,True,LV,Las Vegas Aces,101.0,CON,Connecticut Sun,78.0
+401857160,2026,2026-08-20,True,LA,Los Angeles Sparks,88.0,ATL,Atlanta Dream,124.0
+401857161,2026,2026-08-21,True,WSH,Washington Mystics,84.0,MIN,Minnesota Lynx,94.0
+401857162,2026,2026-08-21,True,CHI,Chicago Sky,73.0,GS,Golden State Valkyries,70.0
+401857163,2026,2026-08-21,True,TOR,Toronto Tempo,82.0,POR,Portland Fire,79.0
+401857164,2026,2026-08-22,True,NY,New York Liberty,109.0,IND,Indiana Fever,102.0
+401857165,2026,2026-08-22,True,LA,Los Angeles Sparks,77.0,CON,Connecticut Sun,68.0
+401857166,2026,2026-08-22,True,PHX,Phoenix Mercury,89.0,ATL,Atlanta Dream,99.0
+401857167,2026,2026-08-23,True,DAL,Dallas Wings,92.0,SEA,Seattle Storm,70.0
+401857168,2026,2026-08-23,True,CHI,Chicago Sky,90.0,IND,Indiana Fever,113.0
+401857169,2026,2026-08-23,True,POR,Portland Fire,100.0,WSH,Washington Mystics,105.0
+401857170,2026,2026-08-23,True,TOR,Toronto Tempo,78.0,LV,Las Vegas Aces,88.0
+401857171,2026,2026-08-24,True,MIN,Minnesota Lynx,66.0,GS,Golden State Valkyries,80.0
+401857172,2026,2026-08-24,True,LA,Los Angeles Sparks,71.0,ATL,Atlanta Dream,78.0
+401857173,2026,2026-08-25,True,CON,Connecticut Sun,87.0,CHI,Chicago Sky,81.0
+401857174,2026,2026-08-25,True,DAL,Dallas Wings,96.0,POR,Portland Fire,78.0
+401857175,2026,2026-08-25,True,PHX,Phoenix Mercury,84.0,WSH,Washington Mystics,94.0
+401857176,2026,2026-08-26,True,CON,Connecticut Sun,64.0,GS,Golden State Valkyries,89.0
+401857177,2026,2026-08-26,True,SEA,Seattle Storm,90.0,TOR,Toronto Tempo,78.0
+401857178,2026,2026-08-27,True,NY,New York Liberty,60.0,GS,Golden State Valkyries,79.0
+401857179,2026,2026-08-27,True,PHX,Phoenix Mercury,73.0,WSH,Washington Mystics,80.0
+401857180,2026,2026-08-28,True,ATL,Atlanta Dream,83.0,POR,Portland Fire,101.0
+401857181,2026,2026-08-28,True,IND,Indiana Fever,111.0,CON,Connecticut Sun,91.0
+401857182,2026,2026-08-28,True,LV,Las Vegas Aces,93.0,TOR,Toronto Tempo,73.0
+401857183,2026,2026-08-28,True,LA,Los Angeles Sparks,88.0,WSH,Washington Mystics,82.0
+401857184,2026,2026-08-29,True,NY,New York Liberty,85.0,CHI,Chicago Sky,66.0
+401857185,2026,2026-08-29,True,PHX,Phoenix Mercury,101.0,TOR,Toronto Tempo,69.0
+401857186,2026,2026-08-30,True,ATL,Atlanta Dream,89.0,MIN,Minnesota Lynx,81.0
+401857187,2026,2026-08-30,True,SEA,Seattle Storm,74.0,LA,Los Angeles Sparks,90.0
+401857188,2026,2026-08-30,True,POR,Portland Fire,69.0,GS,Golden State Valkyries,86.0
+401857189,2026,2026-08-30,True,DAL,Dallas Wings,97.0,CON,Connecticut Sun,71.0
+401857190,2026,2026-09-17,True,ATL,Atlanta Dream,103.0,CON,Connecticut Sun,59.0
+401857191,2026,2026-09-17,True,CHI,Chicago Sky,80.0,WSH,Washington Mystics,110.0
+401857192,2026,2026-09-17,True,DAL,Dallas Wings,97.0,LA,Los Angeles Sparks,77.0
+401857193,2026,2026-09-17,True,POR,Portland Fire,91.0,PHX,Phoenix Mercury,94.0
+401857194,2026,2026-09-17,True,SEA,Seattle Storm,77.0,LV,Las Vegas Aces,114.0
+401857195,2026,2026-09-18,True,TOR,Toronto Tempo,85.0,IND,Indiana Fever,103.0
+401857196,2026,2026-09-18,True,MIN,Minnesota Lynx,81.0,NY,New York Liberty,93.0
+401857197,2026,2026-09-18,True,GS,Golden State Valkyries,82.0,POR,Portland Fire,66.0
+401857198,2026,2026-09-19,True,DAL,Dallas Wings,87.0,PHX,Phoenix Mercury,82.0
+401857199,2026,2026-09-19,True,ATL,Atlanta Dream,106.0,CHI,Chicago Sky,81.0
+401857200,2026,2026-09-19,True,GS,Golden State Valkyries,70.0,SEA,Seattle Storm,57.0
+401857201,2026,2026-09-20,True,CON,Connecticut Sun,89.0,MIN,Minnesota Lynx,101.0
+401857202,2026,2026-09-20,True,TOR,Toronto Tempo,69.0,NY,New York Liberty,106.0
+401857203,2026,2026-09-20,True,IND,Indiana Fever,77.0,WSH,Washington Mystics,93.0
+401857204,2026,2026-09-20,True,LA,Los Angeles Sparks,105.0,POR,Portland Fire,84.0
+401857205,2026,2026-09-20,True,LV,Las Vegas Aces,98.0,SEA,Seattle Storm,77.0
+401857206,2026,2026-09-21,True,NY,New York Liberty,84.0,ATL,Atlanta Dream,95.0
+401857207,2026,2026-09-21,True,PHX,Phoenix Mercury,87.0,DAL,Dallas Wings,86.0
+401857208,2026,2026-09-22,True,WSH,Washington Mystics,79.0,CON,Connecticut Sun,69.0
+401857209,2026,2026-09-22,True,IND,Indiana Fever,96.0,MIN,Minnesota Lynx,77.0
+401857210,2026,2026-09-22,True,CHI,Chicago Sky,97.0,TOR,Toronto Tempo,85.0
+401857211,2026,2026-09-22,True,LV,Las Vegas Aces,89.0,LA,Los Angeles Sparks,79.0
+401857212,2026,2026-09-22,True,POR,Portland Fire,90.0,GS,Golden State Valkyries,82.0
+401857213,2026,2026-09-23,True,NY,New York Liberty,65.0,ATL,Atlanta Dream,83.0
+401857214,2026,2026-09-23,True,SEA,Seattle Storm,91.0,DAL,Dallas Wings,103.0
+401857215,2026,2026-09-24,True,CON,Connecticut Sun,95.0,TOR,Toronto Tempo,81.0
+401857216,2026,2026-09-24,True,WSH,Washington Mystics,101.0,CHI,Chicago Sky,93.0
+401857217,2026,2026-09-24,True,MIN,Minnesota Lynx,86.0,IND,Indiana Fever,66.0
+401857218,2026,2026-09-24,True,LA,Los Angeles Sparks,75.0,GS,Golden State Valkyries,76.0
+401857219,2026,2026-09-24,True,PHX,Phoenix Mercury,82.0,LV,Las Vegas Aces,100.0
+401918014,2026,2026-09-27,True,MIN,Minnesota Lynx,75.0,NY,New York Liberty,91.0
+401918015,2026,2026-09-27,True,LV,Las Vegas Aces,102.0,IND,Indiana Fever,85.0
+401918013,2026,2026-09-27,True,ATL,Atlanta Dream,92.0,WSH,Washington Mystics,77.0
+401918016,2026,2026-09-27,True,GS,Golden State Valkyries,104.0,DAL,Dallas Wings,80.0
+401918018,2026,2026-09-29,True,IND,Indiana Fever,99.0,LV,Las Vegas Aces,89.0
+401918017,2026,2026-09-29,True,NY,New York Liberty,87.0,MIN,Minnesota Lynx,71.0
+401918019,2026,2026-09-30,True,WSH,Washington Mystics,75.0,ATL,Atlanta Dream,93.0
+401918020,2026,2026-09-30,True,DAL,Dallas Wings,108.0,GS,Golden State Valkyries,100.0
+401918022,2026,2026-10-01,True,LV,Las Vegas Aces,94.0,IND,Indiana Fever,83.0
+401918294,2026,2026-10-02,True,GS,Golden State Valkyries,77.0,DAL,Dallas Wings,73.0
+401918295,2026,2026-10-04,True,ATL,Atlanta Dream,92.0,NY,New York Liberty,82.0
+401918296,2026,2026-10-04,True,GS,Golden State Valkyries,71.0,LV,Las Vegas Aces,60.0
+401918297,2026,2026-10-07,True,ATL,Atlanta Dream,101.0,NY,New York Liberty,98.0
+401918298,2026,2026-10-07,True,GS,Golden State Valkyries,83.0,LV,Las Vegas Aces,81.0
+401918299,2026,2026-10-09,True,NY,New York Liberty,83.0,ATL,Atlanta Dream,85.0
+401918300,2026,2026-10-09,True,LV,Las Vegas Aces,77.0,GS,Golden State Valkyries,87.0

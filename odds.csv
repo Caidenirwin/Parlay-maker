@@ -1,0 +1,937 @@
+game,book,market,player,side,line,price,book_chance
+Philadelphia Flyers @ Washington Capitals,draftkings,h2h,,Philadelphia Flyers,0.5,2.9,0.345
+Philadelphia Flyers @ Washington Capitals,draftkings,h2h,,Washington Capitals,0.5,1.43,0.699
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Dylan Strome,Yes,0.5,2.8,0.357
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Matvei Michkov,Yes,0.5,2.9,0.345
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Alex Tuch,Yes,0.5,3.05,0.328
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Alex Ovechkin,Yes,0.5,3.35,0.299
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Jordan Kyrou,Yes,0.5,3.4,0.294
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Tom Wilson,Yes,0.5,3.45,0.29
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Ryan Leonard,Yes,0.5,3.75,0.267
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Trevor Zegras,Yes,0.5,3.85,0.26
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Tyson Foerster,Yes,0.5,4.0,0.25
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Porter Martone,Yes,0.5,4.0,0.25
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Jakob Chychrun,Yes,0.5,4.1,0.244
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Ilya Protas,Yes,0.5,4.5,0.222
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Pierre-Luc Dubois,Yes,0.5,4.5,0.222
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Aliaksei Protas,Yes,0.5,5.0,0.2
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Boone Jenner,Yes,0.5,5.0,0.2
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Cole Hutson,Yes,0.5,6.0,0.167
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Cole Knuble,Yes,0.5,6.0,0.167
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Anthony Beauvillier,Yes,0.5,6.0,0.167
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Michael Bunting,Yes,0.5,6.5,0.154
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Justin Sourdif,Yes,0.5,6.5,0.154
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Alex Bump,Yes,0.5,6.5,0.154
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Christian Dvorak,Yes,0.5,6.5,0.154
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Denver Barkey,Yes,0.5,7.0,0.143
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Noah Cates,Yes,0.5,7.5,0.133
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Jamie Drysdale,Yes,0.5,8.0,0.125
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Sean Couturier,Yes,0.5,9.5,0.105
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Travis Sanheim,Yes,0.5,9.5,0.105
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Noel Acciari,Yes,0.5,11.0,0.091
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Oliver Bonk,Yes,0.5,11.0,0.091
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Cam York,Yes,0.5,12.0,0.083
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Martin Fehervary,Yes,0.5,14.0,0.071
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Matt Roy,Yes,0.5,15.0,0.067
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Hunter McDonald,Yes,0.5,16.0,0.062
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Nick Seeler,Yes,0.5,20.0,0.05
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Timothy Liljegren,Yes,0.5,21.0,0.048
+Philadelphia Flyers @ Washington Capitals,draftkings,player_goal_scorer_anytime,Jack St. Ivany,Yes,0.5,23.0,0.043
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Dylan Strome,Over,0.5,1.53,0.654
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Dylan Strome,Under,0.5,2.4,0.417
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Jakob Chychrun,Over,0.5,1.67,0.599
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Jakob Chychrun,Under,0.5,2.1,0.476
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Jordan Kyrou,Over,0.5,1.74,0.575
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Jordan Kyrou,Under,0.5,2.0,0.5
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Matvei Michkov,Over,0.5,1.77,0.565
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Matvei Michkov,Under,0.5,1.95,0.513
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Tom Wilson,Over,0.5,1.8,0.556
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Tom Wilson,Under,0.5,1.91,0.524
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Alex Tuch,Over,0.5,1.83,0.546
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Alex Tuch,Under,0.5,1.87,0.535
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Pierre-Luc Dubois,Over,0.5,1.95,0.513
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Pierre-Luc Dubois,Under,0.5,1.77,0.565
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Trevor Zegras,Over,0.5,1.95,0.513
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Trevor Zegras,Under,0.5,1.8,0.556
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Alex Ovechkin,Over,0.5,2.0,0.5
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Alex Ovechkin,Under,0.5,1.74,0.575
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Cole Hutson,Over,0.5,2.0,0.5
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Cole Hutson,Under,0.5,1.74,0.575
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Ryan Leonard,Over,0.5,2.1,0.476
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Ryan Leonard,Under,0.5,1.69,0.592
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Porter Martone,Over,0.5,2.2,0.455
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Porter Martone,Under,0.5,1.61,0.621
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Aliaksei Protas,Over,0.5,2.35,0.426
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Aliaksei Protas,Under,0.5,1.54,0.649
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Jamie Drysdale,Over,0.5,2.35,0.426
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Jamie Drysdale,Under,0.5,1.56,0.641
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Tyson Foerster,Over,0.5,2.45,0.408
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Tyson Foerster,Under,0.5,1.51,0.662
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Christian Dvorak,Over,0.5,2.7,0.37
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Christian Dvorak,Under,0.5,1.43,0.699
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Denver Barkey,Over,0.5,2.75,0.364
+Philadelphia Flyers @ Washington Capitals,draftkings,player_points,Denver Barkey,Under,0.5,1.41,0.709
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Jakob Chychrun,Over,2.5,1.8,0.556
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Jakob Chychrun,Under,2.5,1.95,0.513
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Alex Tuch,Over,2.5,1.91,0.524
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Alex Tuch,Under,2.5,1.8,0.556
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Alex Ovechkin,Over,2.5,2.2,0.455
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Alex Ovechkin,Under,2.5,1.61,0.621
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Jordan Kyrou,Over,2.5,2.35,0.426
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Jordan Kyrou,Under,2.5,1.54,0.649
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Ryan Leonard,Over,1.5,1.53,0.654
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Ryan Leonard,Under,1.5,2.4,0.417
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Tom Wilson,Over,1.5,1.56,0.641
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Tom Wilson,Under,1.5,2.3,0.435
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Dylan Strome,Over,1.5,1.62,0.617
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Dylan Strome,Under,1.5,2.15,0.465
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Cole Hutson,Over,1.5,1.67,0.599
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Cole Hutson,Under,1.5,2.1,0.476
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Pierre-Luc Dubois,Over,1.5,1.71,0.585
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Pierre-Luc Dubois,Under,1.5,2.0,0.5
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Porter Martone,Over,1.5,1.71,0.585
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Porter Martone,Under,1.5,2.0,0.5
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Trevor Zegras,Over,1.5,1.74,0.575
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Trevor Zegras,Under,1.5,2.0,0.5
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Matvei Michkov,Over,1.5,1.77,0.565
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Matvei Michkov,Under,1.5,1.95,0.513
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Boone Jenner,Over,1.5,1.8,0.556
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Boone Jenner,Under,1.5,1.91,0.524
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Aliaksei Protas,Over,1.5,1.83,0.546
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Aliaksei Protas,Under,1.5,1.87,0.535
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Tyson Foerster,Over,1.5,1.87,0.535
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Tyson Foerster,Under,1.5,1.87,0.535
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Alex Bump,Over,1.5,1.95,0.513
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Alex Bump,Under,1.5,1.77,0.565
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Travis Sanheim,Over,1.5,2.3,0.435
+Philadelphia Flyers @ Washington Capitals,draftkings,player_shots_on_goal,Travis Sanheim,Under,1.5,1.57,0.637
+Philadelphia Flyers @ Washington Capitals,fanduel,h2h,,Philadelphia Flyers,0.5,2.95,0.339
+Philadelphia Flyers @ Washington Capitals,fanduel,h2h,,Washington Capitals,0.5,1.43,0.699
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Alex Tuch,Yes,0.5,2.9,0.345
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Dylan Strome,Yes,0.5,3.1,0.323
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Matvei Michkov,Yes,0.5,3.2,0.312
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Alex Ovechkin,Yes,0.5,3.3,0.303
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Jordan Kyrou,Yes,0.5,3.4,0.294
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Tom Wilson,Yes,0.5,3.4,0.294
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Jakob Chychrun,Yes,0.5,4.0,0.25
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Ryan Leonard,Yes,0.5,4.0,0.25
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Porter Martone,Yes,0.5,4.1,0.244
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Trevor Zegras,Yes,0.5,4.2,0.238
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Pierre-Luc Dubois,Yes,0.5,4.3,0.233
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Ilya Protas,Yes,0.5,4.6,0.217
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Tyson Foerster,Yes,0.5,4.7,0.213
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Boone Jenner,Yes,0.5,4.8,0.208
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Aliaksei Protas,Yes,0.5,5.2,0.192
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Anthony Beauvillier,Yes,0.5,5.6,0.179
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Christian Dvorak,Yes,0.5,5.8,0.172
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Justin Sourdif,Yes,0.5,6.0,0.167
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Cole Hutson,Yes,0.5,6.0,0.167
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Cole Knuble,Yes,0.5,6.25,0.16
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Denver Barkey,Yes,0.5,6.75,0.148
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Alex Bump,Yes,0.5,7.25,0.138
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Michael Bunting,Yes,0.5,7.5,0.133
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Sean Couturier,Yes,0.5,8.0,0.125
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Noah Cates,Yes,0.5,8.0,0.125
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Jamie Drysdale,Yes,0.5,9.0,0.111
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Noel Acciari,Yes,0.5,10.0,0.1
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Travis Sanheim,Yes,0.5,10.0,0.1
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Cam York,Yes,0.5,12.0,0.083
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Oliver Bonk,Yes,0.5,13.0,0.077
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Matt Roy,Yes,0.5,14.0,0.071
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Martin Fehervary,Yes,0.5,15.0,0.067
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Timothy Liljegren,Yes,0.5,18.0,0.056
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Jack St. Ivany,Yes,0.5,18.0,0.056
+Philadelphia Flyers @ Washington Capitals,fanduel,player_goal_scorer_anytime,Hunter McDonald,Yes,0.5,19.0,0.053
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Alex Tuch,Over,2.5,2.08,0.481
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Alex Tuch,Under,2.5,1.71,0.585
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Jakob Chychrun,Over,2.5,1.82,0.549
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Jakob Chychrun,Under,2.5,1.94,0.515
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Ryan Leonard,Over,1.5,1.64,0.61
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Ryan Leonard,Under,1.5,2.2,0.455
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Matvei Michkov,Over,1.5,1.72,0.581
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Matvei Michkov,Under,1.5,2.06,0.485
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Trevor Zegras,Over,1.5,1.74,0.575
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Trevor Zegras,Under,1.5,2.04,0.49
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Jordan Kyrou,Over,2.5,2.46,0.407
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Jordan Kyrou,Under,2.5,1.52,0.658
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Pierre-Luc Dubois,Over,1.5,1.77,0.565
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Pierre-Luc Dubois,Under,1.5,2.0,0.5
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Tom Wilson,Over,1.5,1.59,0.629
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Tom Wilson,Under,1.5,2.3,0.435
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Porter Martone,Over,1.5,1.72,0.581
+Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Porter Martone,Under,1.5,2.06,0.485
+Philadelphia Flyers @ Washington Capitals,betmgm,h2h,,Philadelphia Flyers,0.5,2.95,0.339
+Philadelphia Flyers @ Washington Capitals,betmgm,h2h,,Washington Capitals,0.5,1.43,0.699
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Matvei Michkov,Over,0.5,1.83,0.546
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Matvei Michkov,Under,0.5,1.91,0.524
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Alex Ovechkin,Over,0.5,1.9,0.526
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Alex Ovechkin,Under,0.5,1.83,0.546
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Denver Barkey,Over,0.5,2.4,0.417
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Denver Barkey,Under,0.5,1.53,0.654
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Alex Tuch,Over,0.5,1.74,0.575
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Alex Tuch,Under,0.5,2.0,0.5
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Tom Wilson,Over,0.5,1.67,0.599
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Tom Wilson,Under,0.5,2.1,0.476
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Trevor Zegras,Over,0.5,1.83,0.546
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Trevor Zegras,Under,0.5,1.9,0.526
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Alex Bump,Over,0.5,2.3,0.435
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Alex Bump,Under,0.5,1.57,0.637
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Pierre-Luc Dubois,Over,0.5,1.85,0.541
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Pierre-Luc Dubois,Under,0.5,1.9,0.526
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Jakob Chychrun,Over,0.5,1.71,0.585
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Jakob Chychrun,Under,0.5,2.05,0.488
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Boone Jenner,Over,0.5,2.35,0.426
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Boone Jenner,Under,0.5,1.54,0.649
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Ryan Leonard,Over,0.5,2.0,0.5
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Ryan Leonard,Under,0.5,1.74,0.575
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Dylan Strome,Over,0.5,1.61,0.621
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Dylan Strome,Under,0.5,2.25,0.444
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Porter Martone,Over,0.5,2.25,0.444
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Porter Martone,Under,0.5,1.61,0.621
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Tyson Foerster,Over,0.5,2.2,0.455
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Tyson Foerster,Under,0.5,1.62,0.617
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Aliaksei Protas,Over,0.5,2.2,0.455
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Aliaksei Protas,Under,0.5,1.62,0.617
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Jamie Drysdale,Over,0.5,2.4,0.417
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Jamie Drysdale,Under,0.5,1.53,0.654
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Jordan Kyrou,Over,0.5,1.87,0.535
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Jordan Kyrou,Under,0.5,1.87,0.535
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Christian Dvorak,Over,0.5,2.55,0.392
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Christian Dvorak,Under,0.5,1.48,0.676
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Cole Hutson,Over,0.5,2.1,0.476
+Philadelphia Flyers @ Washington Capitals,betmgm,player_points,Cole Hutson,Under,0.5,1.67,0.599
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Trevor Zegras,Over,1.5,1.8,0.556
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Trevor Zegras,Under,1.5,1.87,0.535
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Jordan Kyrou,Over,1.5,1.54,0.649
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Jordan Kyrou,Under,1.5,2.25,0.444
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Alex Ovechkin,Over,2.5,1.95,0.513
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Alex Ovechkin,Under,2.5,1.71,0.585
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Porter Martone,Over,1.5,1.71,0.585
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Porter Martone,Under,1.5,1.95,0.513
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Christian Dvorak,Over,1.5,1.95,0.513
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Christian Dvorak,Under,1.5,1.71,0.585
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Alex Bump,Over,1.5,1.8,0.556
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Alex Bump,Under,1.5,1.87,0.535
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Cole Hutson,Over,1.5,1.8,0.556
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Cole Hutson,Under,1.5,1.87,0.535
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Matvei Michkov,Over,1.5,1.62,0.617
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Matvei Michkov,Under,1.5,2.1,0.476
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Dylan Strome,Over,1.5,1.65,0.606
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Dylan Strome,Under,1.5,2.05,0.488
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Ryan Leonard,Over,1.5,1.57,0.637
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Ryan Leonard,Under,1.5,2.2,0.455
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Alex Tuch,Over,2.5,2.15,0.465
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Alex Tuch,Under,2.5,1.61,0.621
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Pierre-Luc Dubois,Over,1.5,1.69,0.592
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Pierre-Luc Dubois,Under,1.5,2.0,0.5
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Tyson Foerster,Over,1.5,1.74,0.575
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Tyson Foerster,Under,1.5,1.91,0.524
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Aliaksei Protas,Over,1.5,1.8,0.556
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Aliaksei Protas,Under,1.5,1.87,0.535
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Boone Jenner,Over,1.5,1.83,0.546
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Boone Jenner,Under,1.5,1.83,0.546
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Tom Wilson,Over,1.5,1.57,0.637
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Tom Wilson,Under,1.5,2.2,0.455
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Jakob Chychrun,Over,2.5,1.83,0.546
+Philadelphia Flyers @ Washington Capitals,betmgm,player_shots_on_goal,Jakob Chychrun,Under,2.5,1.83,0.546
+Calgary Flames @ Edmonton Oilers,draftkings,h2h,,Calgary Flames,0.5,2.6,0.385
+Calgary Flames @ Edmonton Oilers,draftkings,h2h,,Edmonton Oilers,0.5,1.52,0.658
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Leon Draisaitl,Yes,0.5,1.83,0.546
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Connor McDavid,Yes,0.5,2.0,0.5
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Vasily Podkolzin,Yes,0.5,2.9,0.345
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Ryan Nugent-Hopkins,Yes,0.5,3.3,0.303
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Joel Farabee,Yes,0.5,3.35,0.299
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Matt Coronato,Yes,0.5,3.7,0.27
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Matvei Gridin,Yes,0.5,3.75,0.267
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Evan Bouchard,Yes,0.5,3.8,0.263
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Morgan Frost,Yes,0.5,4.0,0.25
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Yegor Sharangovich,Yes,0.5,4.2,0.238
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Kasperi Kapanen,Yes,0.5,5.25,0.19
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Aydar Suniev,Yes,0.5,5.25,0.19
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Colton Dach,Yes,0.5,5.75,0.174
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Mikael Backlund,Yes,0.5,6.0,0.167
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Alex Formenton,Yes,0.5,6.0,0.167
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Isaac Howard,Yes,0.5,6.5,0.154
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Ryan Strome,Yes,0.5,6.5,0.154
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Adam Klapka,Yes,0.5,7.0,0.143
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Owen Michaels,Yes,0.5,7.5,0.133
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Trent Frederic,Yes,0.5,7.5,0.133
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Zayne Parekh,Yes,0.5,7.5,0.133
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Jason Dickinson,Yes,0.5,8.0,0.125
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Mathieu Joseph,Yes,0.5,9.0,0.111
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Martin Pospisil,Yes,0.5,9.0,0.111
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Jonathan Castagna,Yes,0.5,9.5,0.105
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Simon Nemec,Yes,0.5,10.5,0.095
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Ryan Shea,Yes,0.5,12.0,0.083
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Connor Murphy,Yes,0.5,12.0,0.083
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Brennan Othmann,Yes,0.5,12.0,0.083
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Mattias Ekholm,Yes,0.5,12.0,0.083
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Shakir Mukhamadullin,Yes,0.5,15.0,0.067
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Kevin Bahl,Yes,0.5,17.0,0.059
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Yan Kuznetsov,Yes,0.5,23.0,0.043
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Jake Middleton,Yes,0.5,23.0,0.043
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Zach Whitecloud,Yes,0.5,23.0,0.043
+Calgary Flames @ Edmonton Oilers,draftkings,player_goal_scorer_anytime,Ty Emberson,Yes,0.5,23.0,0.043
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Connor McDavid,Over,1.5,1.71,0.585
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Connor McDavid,Under,1.5,2.05,0.488
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Leon Draisaitl,Over,1.5,1.95,0.513
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Leon Draisaitl,Under,1.5,1.77,0.565
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Evan Bouchard,Over,1.5,2.75,0.364
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Evan Bouchard,Under,1.5,1.42,0.704
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Vasily Podkolzin,Over,0.5,1.69,0.592
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Vasily Podkolzin,Under,0.5,2.05,0.488
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Ryan Nugent-Hopkins,Over,0.5,1.71,0.585
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Ryan Nugent-Hopkins,Under,0.5,2.05,0.488
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Joel Farabee,Over,0.5,1.83,0.546
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Joel Farabee,Under,0.5,1.87,0.535
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Matt Coronato,Over,0.5,1.83,0.546
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Matt Coronato,Under,0.5,1.87,0.535
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Matvei Gridin,Over,0.5,1.91,0.524
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Matvei Gridin,Under,0.5,1.8,0.556
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Morgan Frost,Over,0.5,2.0,0.5
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Morgan Frost,Under,0.5,1.74,0.575
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Zayne Parekh,Over,0.5,2.2,0.455
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Zayne Parekh,Under,0.5,1.61,0.621
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Yegor Sharangovich,Over,0.5,2.25,0.444
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Yegor Sharangovich,Under,0.5,1.59,0.629
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Mikael Backlund,Over,0.5,2.55,0.392
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Mikael Backlund,Under,0.5,1.48,0.676
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Kasperi Kapanen,Over,0.5,2.7,0.37
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Kasperi Kapanen,Under,0.5,1.43,0.699
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Colton Dach,Over,0.5,2.75,0.364
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Colton Dach,Under,0.5,1.42,0.704
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Simon Nemec,Over,0.5,2.75,0.364
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Simon Nemec,Under,0.5,1.42,0.704
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Mattias Ekholm,Over,0.5,2.9,0.345
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Mattias Ekholm,Under,0.5,1.38,0.725
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Ryan Shea,Over,0.5,3.05,0.328
+Calgary Flames @ Edmonton Oilers,draftkings,player_points,Ryan Shea,Under,0.5,1.35,0.741
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Connor McDavid,Over,3.5,1.91,0.524
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Connor McDavid,Under,3.5,1.8,0.556
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Leon Draisaitl,Over,3.5,2.2,0.455
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Leon Draisaitl,Under,3.5,1.62,0.617
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Evan Bouchard,Over,3.5,2.3,0.435
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Evan Bouchard,Under,3.5,1.57,0.637
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Vasily Podkolzin,Over,2.5,2.15,0.465
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Vasily Podkolzin,Under,2.5,1.62,0.617
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Matt Coronato,Over,2.5,2.3,0.435
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Matt Coronato,Under,2.5,1.57,0.637
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Ryan Nugent-Hopkins,Over,2.5,2.3,0.435
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Ryan Nugent-Hopkins,Under,2.5,1.57,0.637
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Joel Farabee,Over,1.5,1.53,0.654
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Joel Farabee,Under,1.5,2.4,0.417
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Matvei Gridin,Over,1.5,1.69,0.592
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Matvei Gridin,Under,1.5,2.1,0.476
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Kasperi Kapanen,Over,1.5,1.74,0.575
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Kasperi Kapanen,Under,1.5,2.0,0.5
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Mikael Backlund,Over,1.5,1.74,0.575
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Mikael Backlund,Under,1.5,2.0,0.5
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Morgan Frost,Over,1.5,1.87,0.535
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Morgan Frost,Under,1.5,1.87,0.535
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Colton Dach,Over,1.5,2.0,0.5
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Colton Dach,Under,1.5,1.74,0.575
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Mattias Ekholm,Over,1.5,2.0,0.5
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Mattias Ekholm,Under,1.5,1.74,0.575
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Yegor Sharangovich,Over,1.5,2.0,0.5
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Yegor Sharangovich,Under,1.5,1.71,0.585
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Alex Formenton,Over,1.5,2.05,0.488
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Alex Formenton,Under,1.5,1.71,0.585
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Zayne Parekh,Over,1.5,2.05,0.488
+Calgary Flames @ Edmonton Oilers,draftkings,player_shots_on_goal,Zayne Parekh,Under,1.5,1.69,0.592
+Calgary Flames @ Edmonton Oilers,fanduel,h2h,,Calgary Flames,0.5,2.5,0.4
+Calgary Flames @ Edmonton Oilers,fanduel,h2h,,Edmonton Oilers,0.5,1.55,0.645
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Leon Draisaitl,Yes,0.5,1.91,0.524
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Connor McDavid,Yes,0.5,2.05,0.488
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Vasily Podkolzin,Yes,0.5,2.95,0.339
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Joel Farabee,Yes,0.5,3.3,0.303
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Ryan Nugent-Hopkins,Yes,0.5,3.3,0.303
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Matt Coronato,Yes,0.5,3.5,0.286
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Morgan Frost,Yes,0.5,3.6,0.278
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Evan Bouchard,Yes,0.5,3.7,0.27
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Matvei Gridin,Yes,0.5,3.7,0.27
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Yegor Sharangovich,Yes,0.5,4.1,0.244
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Aydar Suniev,Yes,0.5,4.8,0.208
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Kasperi Kapanen,Yes,0.5,5.3,0.189
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Mikael Backlund,Yes,0.5,5.5,0.182
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Colton Dach,Yes,0.5,5.6,0.179
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Isaac Howard,Yes,0.5,6.0,0.167
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Alex Formenton,Yes,0.5,6.0,0.167
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Ryan Strome,Yes,0.5,6.5,0.154
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Adam Klapka,Yes,0.5,7.0,0.143
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Martin Pospisil,Yes,0.5,8.0,0.125
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Trent Frederic,Yes,0.5,8.0,0.125
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Jason Dickinson,Yes,0.5,8.0,0.125
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Zayne Parekh,Yes,0.5,8.0,0.125
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Owen Michaels,Yes,0.5,8.25,0.121
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Mathieu Joseph,Yes,0.5,8.5,0.118
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Simon Nemec,Yes,0.5,9.5,0.105
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Jonathan Castagna,Yes,0.5,9.5,0.105
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Mattias Ekholm,Yes,0.5,11.0,0.091
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Ryan Shea,Yes,0.5,11.0,0.091
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Connor Murphy,Yes,0.5,12.0,0.083
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Brennan Othmann,Yes,0.5,12.0,0.083
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Shakir Mukhamadullin,Yes,0.5,15.0,0.067
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Kevin Bahl,Yes,0.5,16.0,0.062
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Jake Middleton,Yes,0.5,18.0,0.056
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Yan Kuznetsov,Yes,0.5,18.0,0.056
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Ty Emberson,Yes,0.5,21.0,0.048
+Calgary Flames @ Edmonton Oilers,fanduel,player_goal_scorer_anytime,Zach Whitecloud,Yes,0.5,22.0,0.045
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Matvei Gridin,Over,1.5,1.69,0.592
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Matvei Gridin,Under,1.5,2.1,0.476
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Joel Farabee,Over,1.5,1.59,0.629
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Joel Farabee,Under,1.5,2.3,0.435
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Mikael Backlund,Over,1.5,1.69,0.592
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Mikael Backlund,Under,1.5,2.1,0.476
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Matt Coronato,Over,2.5,2.25,0.444
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Matt Coronato,Under,2.5,1.61,0.621
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Morgan Frost,Over,1.5,1.88,0.532
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Morgan Frost,Under,1.5,1.88,0.532
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Ryan Nugent-Hopkins,Over,2.5,2.26,0.442
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Ryan Nugent-Hopkins,Under,2.5,1.61,0.621
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Connor McDavid,Over,3.5,1.83,0.546
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Connor McDavid,Under,3.5,1.93,0.518
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Vasily Podkolzin,Over,2.5,2.12,0.472
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Vasily Podkolzin,Under,2.5,1.68,0.595
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Yegor Sharangovich,Over,1.5,1.94,0.515
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Yegor Sharangovich,Under,1.5,1.82,0.549
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Leon Draisaitl,Over,3.5,2.12,0.472
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Leon Draisaitl,Under,3.5,1.68,0.595
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Evan Bouchard,Over,2.5,1.56,0.641
+Calgary Flames @ Edmonton Oilers,fanduel,player_shots_on_goal,Evan Bouchard,Under,2.5,2.36,0.424
+Calgary Flames @ Edmonton Oilers,betmgm,h2h,,Calgary Flames,0.5,2.55,0.392
+Calgary Flames @ Edmonton Oilers,betmgm,h2h,,Edmonton Oilers,0.5,1.53,0.654
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Yegor Sharangovich,Over,0.5,2.3,0.435
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Yegor Sharangovich,Under,0.5,1.57,0.637
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Mikael Backlund,Over,0.5,2.1,0.476
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Mikael Backlund,Under,0.5,1.67,0.599
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Morgan Frost,Over,0.5,1.87,0.535
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Morgan Frost,Under,0.5,1.87,0.535
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Ryan Nugent-Hopkins,Over,0.5,1.61,0.621
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Ryan Nugent-Hopkins,Under,0.5,2.25,0.444
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Leon Draisaitl,Over,1.5,1.9,0.526
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Leon Draisaitl,Under,1.5,1.83,0.546
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Vasily Podkolzin,Over,0.5,1.62,0.617
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Vasily Podkolzin,Under,0.5,2.2,0.455
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Evan Bouchard,Over,0.5,1.4,0.714
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Evan Bouchard,Under,0.5,2.8,0.357
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Simon Nemec,Over,0.5,2.5,0.4
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Simon Nemec,Under,0.5,1.5,0.667
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Zayne Parekh,Over,0.5,2.2,0.455
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Zayne Parekh,Under,0.5,1.62,0.617
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Connor McDavid,Over,1.5,1.74,0.575
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Connor McDavid,Under,1.5,2.0,0.5
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Joel Farabee,Over,0.5,1.71,0.585
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Joel Farabee,Under,0.5,2.05,0.488
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Kasperi Kapanen,Over,0.5,2.4,0.417
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Kasperi Kapanen,Under,0.5,1.53,0.654
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Aydar Suniev,Over,0.5,2.65,0.377
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Aydar Suniev,Under,0.5,1.45,0.69
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Matt Coronato,Over,0.5,1.8,0.556
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Matt Coronato,Under,0.5,1.95,0.513
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Mattias Ekholm,Over,0.5,2.55,0.392
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Mattias Ekholm,Under,0.5,1.48,0.676
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Colton Dach,Over,0.5,2.8,0.357
+Calgary Flames @ Edmonton Oilers,betmgm,player_points,Colton Dach,Under,0.5,1.4,0.714
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Yegor Sharangovich,Over,1.5,2.05,0.488
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Yegor Sharangovich,Under,1.5,1.65,0.606
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Zayne Parekh,Over,1.5,2.1,0.476
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Zayne Parekh,Under,1.5,1.62,0.617
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Vasily Podkolzin,Over,2.5,2.0,0.5
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Vasily Podkolzin,Under,2.5,1.69,0.592
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Joel Farabee,Over,1.5,1.54,0.649
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Joel Farabee,Under,1.5,2.25,0.444
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Morgan Frost,Over,1.5,1.85,0.541
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Morgan Frost,Under,1.5,1.85,0.541
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Ryan Nugent-Hopkins,Over,2.5,2.0,0.5
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Ryan Nugent-Hopkins,Under,2.5,1.69,0.592
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Kasperi Kapanen,Over,1.5,1.62,0.617
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Kasperi Kapanen,Under,1.5,2.1,0.476
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Simon Nemec,Over,1.5,2.3,0.435
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Simon Nemec,Under,1.5,1.53,0.654
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Connor McDavid,Over,3.5,1.83,0.546
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Connor McDavid,Under,3.5,1.83,0.546
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Evan Bouchard,Over,2.5,1.61,0.621
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Evan Bouchard,Under,2.5,2.15,0.465
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Leon Draisaitl,Over,3.5,1.87,0.535
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Leon Draisaitl,Under,3.5,1.8,0.556
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Mikael Backlund,Over,1.5,1.69,0.592
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Mikael Backlund,Under,1.5,2.0,0.5
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Colton Dach,Over,1.5,1.91,0.524
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Colton Dach,Under,1.5,1.74,0.575
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Matt Coronato,Over,2.5,2.1,0.476
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Matt Coronato,Under,2.5,1.62,0.617
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Mattias Ekholm,Over,1.5,2.0,0.5
+Calgary Flames @ Edmonton Oilers,betmgm,player_shots_on_goal,Mattias Ekholm,Under,1.5,1.69,0.592
+New Jersey Devils @ Colorado Avalanche,draftkings,h2h,,Colorado Avalanche,0.5,1.68,0.595
+New Jersey Devils @ Colorado Avalanche,draftkings,h2h,,New Jersey Devils,0.5,2.24,0.446
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Nathan MacKinnon,Yes,0.5,2.25,0.444
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Jack Hughes,Yes,0.5,2.9,0.345
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Martin Necas,Yes,0.5,2.95,0.339
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Nico Hischier,Yes,0.5,3.25,0.308
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Artturi Lehkonen,Yes,0.5,3.35,0.299
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Brock Nelson,Yes,0.5,3.7,0.27
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Nazem Kadri,Yes,0.5,3.75,0.267
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Timo Meier,Yes,0.5,4.0,0.25
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Gabriel Landeskog,Yes,0.5,4.1,0.244
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Jesper Bratt,Yes,0.5,4.3,0.233
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Luke Evangelista,Yes,0.5,4.4,0.227
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Cale Makar,Yes,0.5,4.6,0.217
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Arseny Gritsyuk,Yes,0.5,4.6,0.217
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Jaden Schwartz,Yes,0.5,4.8,0.208
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,T.J. Hughes,Yes,0.5,5.0,0.2
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Evan Rodrigues,Yes,0.5,5.75,0.174
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Anthony Mantha,Yes,0.5,5.75,0.174
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Jesper Boqvist,Yes,0.5,7.0,0.143
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Parker Kelly,Yes,0.5,7.0,0.143
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Nicolas Roy,Yes,0.5,7.5,0.133
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Cody Glass,Yes,0.5,7.5,0.133
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Connor Brown,Yes,0.5,7.5,0.133
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Dougie Hamilton,Yes,0.5,8.0,0.125
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Luke Hughes,Yes,0.5,8.0,0.125
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Fedor Svechkov,Yes,0.5,8.5,0.118
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Logan O'Connor,Yes,0.5,9.5,0.105
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Sam Malinski,Yes,0.5,10.0,0.1
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Devon Toews,Yes,0.5,10.0,0.1
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Amadeus Lombardi,Yes,0.5,10.5,0.095
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Brent Burns,Yes,0.5,17.0,0.059
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Brett Kulak,Yes,0.5,18.0,0.056
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Josh Manson,Yes,0.5,19.0,0.053
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Brett Pesce,Yes,0.5,23.0,0.043
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Brenden Dillon,Yes,0.5,23.0,0.043
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Jonas Siegenthaler,Yes,0.5,23.0,0.043
+New Jersey Devils @ Colorado Avalanche,draftkings,player_goal_scorer_anytime,Johnathan Kovacevic,Yes,0.5,26.0,0.038
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Nathan MacKinnon,Over,1.5,2.5,0.4
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Nathan MacKinnon,Under,1.5,1.49,0.671
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Martin Necas,Over,0.5,1.43,0.699
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Martin Necas,Under,0.5,2.65,0.377
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Jack Hughes,Over,0.5,1.54,0.649
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Jack Hughes,Under,0.5,2.35,0.426
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Cale Makar,Over,0.5,1.61,0.621
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Cale Makar,Under,0.5,2.2,0.455
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Nico Hischier,Over,0.5,1.71,0.585
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Nico Hischier,Under,0.5,2.05,0.488
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Artturi Lehkonen,Over,0.5,1.77,0.565
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Artturi Lehkonen,Under,0.5,1.95,0.513
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Jesper Bratt,Over,0.5,1.77,0.565
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Jesper Bratt,Under,0.5,1.95,0.513
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Nazem Kadri,Over,0.5,1.95,0.513
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Nazem Kadri,Under,0.5,1.77,0.565
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Brock Nelson,Over,0.5,2.0,0.5
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Brock Nelson,Under,0.5,1.74,0.575
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Luke Evangelista,Over,0.5,2.0,0.5
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Luke Evangelista,Under,0.5,1.74,0.575
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Gabriel Landeskog,Over,0.5,2.15,0.465
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Gabriel Landeskog,Under,0.5,1.65,0.606
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Luke Hughes,Over,0.5,2.15,0.465
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Luke Hughes,Under,0.5,1.62,0.617
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Timo Meier,Over,0.5,2.15,0.465
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Timo Meier,Under,0.5,1.65,0.606
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Arseny Gritsyuk,Over,0.5,2.35,0.426
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Arseny Gritsyuk,Under,0.5,1.54,0.649
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Jaden Schwartz,Over,0.5,2.35,0.426
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Jaden Schwartz,Under,0.5,1.54,0.649
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Devon Toews,Over,0.5,2.5,0.4
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Devon Toews,Under,0.5,1.49,0.671
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Dougie Hamilton,Over,0.5,2.5,0.4
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Dougie Hamilton,Under,0.5,1.49,0.671
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,T.J. Hughes,Over,0.5,2.5,0.4
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,T.J. Hughes,Under,0.5,1.5,0.667
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Evan Rodrigues,Over,0.5,2.8,0.357
+New Jersey Devils @ Colorado Avalanche,draftkings,player_points,Evan Rodrigues,Under,0.5,1.41,0.709
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Nathan MacKinnon,Over,3.5,1.67,0.599
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Nathan MacKinnon,Under,3.5,2.1,0.476
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Jack Hughes,Over,3.5,2.15,0.465
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Jack Hughes,Under,3.5,1.65,0.606
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Timo Meier,Over,2.5,1.59,0.629
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Timo Meier,Under,2.5,2.25,0.444
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Cale Makar,Over,2.5,2.0,0.5
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Cale Makar,Under,2.5,1.74,0.575
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Martin Necas,Over,2.5,2.0,0.5
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Martin Necas,Under,2.5,1.74,0.575
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Nazem Kadri,Over,2.5,2.05,0.488
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Nazem Kadri,Under,2.5,1.69,0.592
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Nico Hischier,Over,2.5,2.2,0.455
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Nico Hischier,Under,2.5,1.62,0.617
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Luke Hughes,Over,2.5,2.25,0.444
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Luke Hughes,Under,2.5,1.59,0.629
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Dougie Hamilton,Over,2.5,2.45,0.408
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Dougie Hamilton,Under,2.5,1.51,0.662
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Arseny Gritsyuk,Over,1.5,1.56,0.641
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Arseny Gritsyuk,Under,1.5,2.35,0.426
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Luke Evangelista,Over,1.5,1.56,0.641
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Luke Evangelista,Under,1.5,2.35,0.426
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Jesper Bratt,Over,1.5,1.57,0.637
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Jesper Bratt,Under,1.5,2.3,0.435
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Brock Nelson,Over,1.5,1.61,0.621
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Brock Nelson,Under,1.5,2.2,0.455
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,T.J. Hughes,Over,1.5,1.67,0.599
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,T.J. Hughes,Under,1.5,2.1,0.476
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Artturi Lehkonen,Over,1.5,1.69,0.592
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Artturi Lehkonen,Under,1.5,2.05,0.488
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Gabriel Landeskog,Over,1.5,1.74,0.575
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Gabriel Landeskog,Under,1.5,2.0,0.5
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Evan Rodrigues,Over,1.5,1.83,0.546
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Evan Rodrigues,Under,1.5,1.91,0.524
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Sam Malinski,Over,1.5,1.87,0.535
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Sam Malinski,Under,1.5,1.87,0.535
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Brent Burns,Over,1.5,2.1,0.476
+New Jersey Devils @ Colorado Avalanche,draftkings,player_shots_on_goal,Brent Burns,Under,1.5,1.67,0.599
+New Jersey Devils @ Colorado Avalanche,fanduel,h2h,,Colorado Avalanche,0.5,1.66,0.602
+New Jersey Devils @ Colorado Avalanche,fanduel,h2h,,New Jersey Devils,0.5,2.26,0.442
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Nathan MacKinnon,Yes,0.5,2.3,0.435
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Jack Hughes,Yes,0.5,2.8,0.357
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Martin Necas,Yes,0.5,2.95,0.339
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Nico Hischier,Yes,0.5,3.2,0.312
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Artturi Lehkonen,Yes,0.5,3.35,0.299
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Nazem Kadri,Yes,0.5,3.75,0.267
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Brock Nelson,Yes,0.5,3.7,0.27
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Timo Meier,Yes,0.5,4.0,0.25
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Jesper Bratt,Yes,0.5,4.1,0.244
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Gabriel Landeskog,Yes,0.5,4.1,0.244
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Luke Evangelista,Yes,0.5,4.4,0.227
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Cale Makar,Yes,0.5,4.4,0.227
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Arseny Gritsyuk,Yes,0.5,4.6,0.217
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Jaden Schwartz,Yes,0.5,4.9,0.204
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,T.J. Hughes,Yes,0.5,5.0,0.2
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Anthony Mantha,Yes,0.5,5.4,0.185
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Evan Rodrigues,Yes,0.5,6.0,0.167
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Luke Hughes,Yes,0.5,6.5,0.154
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Jesper Boqvist,Yes,0.5,6.75,0.148
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Connor Brown,Yes,0.5,7.0,0.143
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Parker Kelly,Yes,0.5,7.5,0.133
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Cody Glass,Yes,0.5,8.0,0.125
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Dougie Hamilton,Yes,0.5,8.0,0.125
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Nicolas Roy,Yes,0.5,8.0,0.125
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Fedor Svechkov,Yes,0.5,8.5,0.118
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Logan O'Connor,Yes,0.5,8.5,0.118
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Amadeus Lombardi,Yes,0.5,9.5,0.105
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Devon Toews,Yes,0.5,10.5,0.095
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Sam Malinski,Yes,0.5,12.0,0.083
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Brent Burns,Yes,0.5,15.0,0.067
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Brett Kulak,Yes,0.5,17.0,0.059
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Josh Manson,Yes,0.5,18.0,0.056
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Brenden Dillon,Yes,0.5,20.0,0.05
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Brett Pesce,Yes,0.5,21.0,0.048
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Johnathan Kovacevic,Yes,0.5,24.0,0.042
+New Jersey Devils @ Colorado Avalanche,fanduel,player_goal_scorer_anytime,Jonas Siegenthaler,Yes,0.5,25.0,0.04
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Timo Meier,Over,2.5,1.71,0.585
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Timo Meier,Under,2.5,2.08,0.481
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Nazem Kadri,Over,2.5,2.12,0.472
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Nazem Kadri,Under,2.5,1.68,0.595
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Martin Necas,Over,2.5,2.22,0.45
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Martin Necas,Under,2.5,1.62,0.617
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Nathan MacKinnon,Over,3.5,1.77,0.565
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Nathan MacKinnon,Under,3.5,2.0,0.5
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Jack Hughes,Over,3.5,2.16,0.463
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Jack Hughes,Under,3.5,1.66,0.602
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Dougie Hamilton,Over,1.5,1.57,0.637
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Dougie Hamilton,Under,1.5,2.34,0.427
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Arseny Gritsyuk,Over,1.5,1.62,0.617
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Arseny Gritsyuk,Under,1.5,2.22,0.45
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Cale Makar,Over,2.5,1.88,0.532
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Cale Makar,Under,2.5,1.88,0.532
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Luke Hughes,Over,2.5,2.26,0.442
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Luke Hughes,Under,2.5,1.61,0.621
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Nico Hischier,Over,2.5,2.42,0.413
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Nico Hischier,Under,2.5,1.53,0.654
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Luke Evangelista,Over,1.5,1.55,0.645
+New Jersey Devils @ Colorado Avalanche,fanduel,player_shots_on_goal,Luke Evangelista,Under,1.5,2.38,0.42
+New Jersey Devils @ Colorado Avalanche,betmgm,h2h,,Colorado Avalanche,0.5,1.67,0.599
+New Jersey Devils @ Colorado Avalanche,betmgm,h2h,,New Jersey Devils,0.5,2.25,0.444
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Arseny Gritsyuk,Over,0.5,2.55,0.392
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Arseny Gritsyuk,Under,0.5,1.48,0.676
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Jesper Bratt,Over,0.5,1.74,0.575
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Jesper Bratt,Under,0.5,2.0,0.5
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Devon Toews,Over,0.5,2.3,0.435
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Devon Toews,Under,0.5,1.57,0.637
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Artturi Lehkonen,Over,0.5,1.87,0.535
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Artturi Lehkonen,Under,0.5,1.87,0.535
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Nathan MacKinnon,Over,1.5,2.3,0.435
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Nathan MacKinnon,Under,1.5,1.57,0.637
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Martin Necas,Over,0.5,1.48,0.676
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Martin Necas,Under,0.5,2.55,0.392
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Luke Evangelista,Over,0.5,2.1,0.476
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Luke Evangelista,Under,0.5,1.67,0.599
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,T.J. Hughes,Over,0.5,2.35,0.426
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,T.J. Hughes,Under,0.5,1.54,0.649
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Gabriel Landeskog,Over,0.5,2.2,0.455
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Gabriel Landeskog,Under,0.5,1.62,0.617
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Nico Hischier,Over,0.5,1.67,0.599
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Nico Hischier,Under,0.5,2.1,0.476
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Evan Rodrigues,Over,0.5,2.75,0.364
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Evan Rodrigues,Under,0.5,1.43,0.699
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Brock Nelson,Over,0.5,1.95,0.513
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Brock Nelson,Under,0.5,1.8,0.556
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Timo Meier,Over,0.5,2.2,0.455
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Timo Meier,Under,0.5,1.62,0.617
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Jack Hughes,Over,0.5,1.5,0.667
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Jack Hughes,Under,0.5,2.45,0.408
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Luke Hughes,Over,0.5,1.95,0.513
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Luke Hughes,Under,0.5,1.8,0.556
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Dougie Hamilton,Over,0.5,2.35,0.426
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Dougie Hamilton,Under,0.5,1.54,0.649
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Nazem Kadri,Over,0.5,1.85,0.541
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Nazem Kadri,Under,0.5,1.9,0.526
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Cale Makar,Over,1.5,3.6,0.278
+New Jersey Devils @ Colorado Avalanche,betmgm,player_points,Cale Makar,Under,1.5,1.27,0.787
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Nathan MacKinnon,Over,3.5,1.69,0.592
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Nathan MacKinnon,Under,3.5,2.0,0.5
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Luke Evangelista,Over,1.5,1.61,0.621
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Luke Evangelista,Under,1.5,2.15,0.465
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Jesper Bratt,Over,1.5,1.69,0.592
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Jesper Bratt,Under,1.5,2.0,0.5
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Arseny Gritsyuk,Over,1.5,1.69,0.592
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Arseny Gritsyuk,Under,1.5,2.0,0.5
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Nico Hischier,Over,2.5,2.3,0.435
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Nico Hischier,Under,2.5,1.53,0.654
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Artturi Lehkonen,Over,1.5,1.71,0.585
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Artturi Lehkonen,Under,1.5,1.95,0.513
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,T.J. Hughes,Over,1.5,1.8,0.556
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,T.J. Hughes,Under,1.5,1.87,0.535
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Gabriel Landeskog,Over,1.5,1.71,0.585
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Gabriel Landeskog,Under,1.5,1.95,0.513
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Evan Rodrigues,Over,1.5,1.87,0.535
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Evan Rodrigues,Under,1.5,1.8,0.556
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Luke Hughes,Over,1.5,1.45,0.69
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Luke Hughes,Under,1.5,2.5,0.4
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Dougie Hamilton,Over,1.5,1.54,0.649
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Dougie Hamilton,Under,1.5,2.25,0.444
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Jack Hughes,Over,3.5,2.2,0.455
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Jack Hughes,Under,3.5,1.57,0.637
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Timo Meier,Over,2.5,1.69,0.592
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Timo Meier,Under,2.5,2.0,0.5
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Brock Nelson,Over,1.5,1.65,0.606
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Brock Nelson,Under,1.5,2.05,0.488
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Nazem Kadri,Over,2.5,2.0,0.5
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Nazem Kadri,Under,2.5,1.69,0.592
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Cale Makar,Over,2.5,1.83,0.546
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Cale Makar,Under,2.5,1.83,0.546
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Devon Toews,Over,1.5,1.95,0.513
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Devon Toews,Under,1.5,1.71,0.585
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Martin Necas,Over,2.5,2.3,0.435
+New Jersey Devils @ Colorado Avalanche,betmgm,player_shots_on_goal,Martin Necas,Under,2.5,1.53,0.654
+Toronto Maple Leafs @ Seattle Kraken,draftkings,h2h,,Seattle Kraken,0.5,2.14,0.467
+Toronto Maple Leafs @ Seattle Kraken,draftkings,h2h,,Toronto Maple Leafs,0.5,1.74,0.575
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Auston Matthews,Yes,0.5,2.1,0.476
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,William Nylander,Yes,0.5,2.4,0.417
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Bobby McMann,Yes,0.5,2.65,0.377
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Jordan Eberle,Yes,0.5,3.1,0.323
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Jack Roslovic,Yes,0.5,3.15,0.317
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Gavin McKenna,Yes,0.5,3.2,0.312
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Easton Cowan,Yes,0.5,3.25,0.308
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Matty Beniers,Yes,0.5,3.6,0.278
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Kaapo Kakko,Yes,0.5,4.0,0.25
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Nick Paul,Yes,0.5,4.1,0.244
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Chandler Stephenson,Yes,0.5,4.5,0.222
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Mackie Samoskevich,Yes,0.5,4.6,0.217
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Shane Wright,Yes,0.5,4.8,0.208
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Darren Raddysh,Yes,0.5,5.25,0.19
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Berkly Catton,Yes,0.5,5.5,0.182
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Frederick Gaudreau,Yes,0.5,5.75,0.174
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Jani Nyman,Yes,0.5,5.75,0.174
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Brandon Montour,Yes,0.5,6.0,0.167
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Vince Dunn,Yes,0.5,6.5,0.154
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Ryan Winterton,Yes,0.5,7.5,0.133
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Vinni Lettieri,Yes,0.5,7.5,0.133
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Colton Sissons,Yes,0.5,7.5,0.133
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Teddy Blueger,Yes,0.5,8.0,0.125
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Ben Meyers,Yes,0.5,8.0,0.125
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Brandon Duhaime,Yes,0.5,8.5,0.118
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Morgan Rielly,Yes,0.5,8.5,0.118
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Bo Groulx,Yes,0.5,8.5,0.118
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Oliver Ekman-Larsson,Yes,0.5,9.0,0.111
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Zack MacEwen,Yes,0.5,12.0,0.083
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Troy Stecher,Yes,0.5,13.0,0.077
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Ville Ottavainen,Yes,0.5,13.0,0.077
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Adam Larsson,Yes,0.5,13.0,0.077
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Jake McCabe,Yes,0.5,13.0,0.077
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Josh Mahura,Yes,0.5,16.0,0.062
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Ryker Evans,Yes,0.5,16.0,0.062
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_goal_scorer_anytime,Dakota Mermis,Yes,0.5,26.0,0.038
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Auston Matthews,Over,1.5,2.45,0.408
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Auston Matthews,Under,1.5,1.51,0.662
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,William Nylander,Over,1.5,2.8,0.357
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,William Nylander,Under,1.5,1.41,0.709
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Darren Raddysh,Over,0.5,1.74,0.575
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Darren Raddysh,Under,0.5,2.0,0.5
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Jordan Eberle,Over,0.5,1.74,0.575
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Jordan Eberle,Under,0.5,2.0,0.5
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Bobby McMann,Over,0.5,1.77,0.565
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Bobby McMann,Under,0.5,1.95,0.513
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Easton Cowan,Over,0.5,1.77,0.565
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Easton Cowan,Under,0.5,1.95,0.513
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Jack Roslovic,Over,0.5,1.8,0.556
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Jack Roslovic,Under,0.5,1.91,0.524
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Matty Beniers,Over,0.5,1.83,0.546
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Matty Beniers,Under,0.5,1.91,0.524
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Vince Dunn,Over,0.5,1.87,0.535
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Vince Dunn,Under,0.5,1.83,0.546
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Chandler Stephenson,Over,0.5,1.91,0.524
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Chandler Stephenson,Under,0.5,1.83,0.546
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Kaapo Kakko,Over,0.5,2.1,0.476
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Kaapo Kakko,Under,0.5,1.69,0.592
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Brandon Montour,Over,0.5,2.15,0.465
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Brandon Montour,Under,0.5,1.62,0.617
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Mackie Samoskevich,Over,0.5,2.25,0.444
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Mackie Samoskevich,Under,0.5,1.59,0.629
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Nick Paul,Over,0.5,2.25,0.444
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Nick Paul,Under,0.5,1.59,0.629
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Berkly Catton,Over,0.5,2.3,0.435
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Berkly Catton,Under,0.5,1.57,0.637
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Morgan Rielly,Over,0.5,2.4,0.417
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_points,Morgan Rielly,Under,0.5,1.53,0.654
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Auston Matthews,Over,3.5,1.91,0.524
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Auston Matthews,Under,3.5,1.8,0.556
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Bobby McMann,Over,2.5,1.71,0.585
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Bobby McMann,Under,2.5,2.05,0.488
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,William Nylander,Over,2.5,1.77,0.565
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,William Nylander,Under,2.5,1.95,0.513
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Darren Raddysh,Over,2.5,1.83,0.546
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Darren Raddysh,Under,2.5,1.87,0.535
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Brandon Montour,Over,2.5,1.87,0.535
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Brandon Montour,Under,2.5,1.83,0.546
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Vince Dunn,Over,2.5,2.1,0.476
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Vince Dunn,Under,2.5,1.67,0.599
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Jack Roslovic,Over,2.5,2.25,0.444
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Jack Roslovic,Under,2.5,1.59,0.629
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Jordan Eberle,Over,2.5,2.4,0.417
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Jordan Eberle,Under,2.5,1.53,0.654
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Mackie Samoskevich,Over,2.5,2.4,0.417
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Mackie Samoskevich,Under,2.5,1.51,0.662
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Matty Beniers,Over,1.5,1.62,0.617
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Matty Beniers,Under,1.5,2.2,0.455
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Berkly Catton,Over,1.5,1.87,0.535
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Berkly Catton,Under,1.5,1.87,0.535
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Easton Cowan,Over,1.5,1.87,0.535
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Easton Cowan,Under,1.5,1.87,0.535
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Gavin McKenna,Over,1.5,1.87,0.535
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Gavin McKenna,Under,1.5,1.83,0.546
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Nick Paul,Over,1.5,1.91,0.524
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Nick Paul,Under,1.5,1.8,0.556
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Adam Larsson,Over,1.5,2.0,0.5
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Adam Larsson,Under,1.5,1.74,0.575
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Shane Wright,Over,1.5,2.05,0.488
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Shane Wright,Under,1.5,1.71,0.585
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Vinni Lettieri,Over,1.5,2.1,0.476
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Vinni Lettieri,Under,1.5,1.67,0.599
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Morgan Rielly,Over,1.5,2.25,0.444
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Morgan Rielly,Under,1.5,1.61,0.621
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Ryan Winterton,Over,1.5,2.25,0.444
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Ryan Winterton,Under,1.5,1.59,0.629
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Jani Nyman,Over,1.5,2.3,0.435
+Toronto Maple Leafs @ Seattle Kraken,draftkings,player_shots_on_goal,Jani Nyman,Under,1.5,1.56,0.641
+Toronto Maple Leafs @ Seattle Kraken,fanduel,h2h,,Seattle Kraken,0.5,2.16,0.463
+Toronto Maple Leafs @ Seattle Kraken,fanduel,h2h,,Toronto Maple Leafs,0.5,1.71,0.585
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Auston Matthews,Yes,0.5,2.1,0.476
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,William Nylander,Yes,0.5,2.4,0.417
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Bobby McMann,Yes,0.5,2.7,0.37
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Jack Roslovic,Yes,0.5,3.0,0.333
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Easton Cowan,Yes,0.5,3.2,0.312
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Jordan Eberle,Yes,0.5,3.3,0.303
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Gavin McKenna,Yes,0.5,3.3,0.303
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Matty Beniers,Yes,0.5,3.75,0.267
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Kaapo Kakko,Yes,0.5,4.3,0.233
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Nick Paul,Yes,0.5,4.3,0.233
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Chandler Stephenson,Yes,0.5,4.4,0.227
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Mackie Samoskevich,Yes,0.5,4.4,0.227
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Darren Raddysh,Yes,0.5,5.0,0.2
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Shane Wright,Yes,0.5,5.2,0.192
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Jani Nyman,Yes,0.5,5.6,0.179
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Frederick Gaudreau,Yes,0.5,6.0,0.167
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Berkly Catton,Yes,0.5,6.0,0.167
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Brandon Montour,Yes,0.5,6.25,0.16
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Vince Dunn,Yes,0.5,7.0,0.143
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Colton Sissons,Yes,0.5,7.0,0.143
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Teddy Blueger,Yes,0.5,7.5,0.133
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Vinni Lettieri,Yes,0.5,7.5,0.133
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Bo Groulx,Yes,0.5,8.0,0.125
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Ryan Winterton,Yes,0.5,8.0,0.125
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Brandon Duhaime,Yes,0.5,8.25,0.121
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Morgan Rielly,Yes,0.5,8.5,0.118
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Ben Meyers,Yes,0.5,8.5,0.118
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Oliver Ekman-Larsson,Yes,0.5,9.0,0.111
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Ryker Evans,Yes,0.5,13.0,0.077
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Troy Stecher,Yes,0.5,14.0,0.071
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Adam Larsson,Yes,0.5,14.0,0.071
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Jake McCabe,Yes,0.5,15.0,0.067
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_goal_scorer_anytime,Josh Mahura,Yes,0.5,18.0,0.056
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_shots_on_goal,Brandon Montour,Over,2.5,1.85,0.541
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_shots_on_goal,Brandon Montour,Under,2.5,1.91,0.524
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_shots_on_goal,Jordan Eberle,Over,2.5,2.32,0.431
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_shots_on_goal,Jordan Eberle,Under,2.5,1.57,0.637
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_shots_on_goal,Vince Dunn,Over,2.5,2.14,0.467
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_shots_on_goal,Vince Dunn,Under,2.5,1.68,0.595
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_shots_on_goal,Auston Matthews,Over,3.5,2.0,0.5
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_shots_on_goal,Auston Matthews,Under,3.5,1.77,0.565
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_shots_on_goal,Bobby McMann,Over,2.5,1.68,0.595
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_shots_on_goal,Bobby McMann,Under,2.5,2.14,0.467
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_shots_on_goal,William Nylander,Over,2.5,1.77,0.565
+Toronto Maple Leafs @ Seattle Kraken,fanduel,player_shots_on_goal,William Nylander,Under,2.5,2.0,0.5
+Toronto Maple Leafs @ Seattle Kraken,betmgm,h2h,,Seattle Kraken,0.5,2.15,0.465
+Toronto Maple Leafs @ Seattle Kraken,betmgm,h2h,,Toronto Maple Leafs,0.5,1.71,0.585
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Easton Cowan,Over,0.5,1.91,0.524
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Easton Cowan,Under,0.5,1.83,0.546
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Jack Roslovic,Over,0.5,1.83,0.546
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Jack Roslovic,Under,0.5,1.91,0.524
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Vince Dunn,Over,0.5,1.71,0.585
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Vince Dunn,Under,0.5,2.05,0.488
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Kaapo Kakko,Over,0.5,2.2,0.455
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Kaapo Kakko,Under,0.5,1.62,0.617
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Matty Beniers,Over,0.5,1.95,0.513
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Matty Beniers,Under,0.5,1.8,0.556
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Kirill Marchenko,Over,0.5,1.61,0.621
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Kirill Marchenko,Under,0.5,2.25,0.444
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Jordan Eberle,Over,0.5,1.65,0.606
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Jordan Eberle,Under,0.5,2.15,0.465
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Gavin McKenna,Over,0.5,2.0,0.5
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Gavin McKenna,Under,0.5,1.74,0.575
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Darren Raddysh,Over,0.5,1.62,0.617
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Darren Raddysh,Under,0.5,2.2,0.455
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Bobby McMann,Over,0.5,1.83,0.546
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Bobby McMann,Under,0.5,1.91,0.524
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Chandler Stephenson,Over,0.5,1.87,0.535
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Chandler Stephenson,Under,0.5,1.87,0.535
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Mackie Samoskevich,Over,0.5,2.25,0.444
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Mackie Samoskevich,Under,0.5,1.61,0.621
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Auston Matthews,Over,1.5,2.5,0.4
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Auston Matthews,Under,1.5,1.5,0.667
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Berkly Catton,Over,0.5,2.2,0.455
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Berkly Catton,Under,0.5,1.62,0.617
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Brandon Montour,Over,0.5,1.95,0.513
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Brandon Montour,Under,0.5,1.8,0.556
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Morgan Rielly,Over,0.5,2.3,0.435
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,Morgan Rielly,Under,0.5,1.57,0.637
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,William Nylander,Over,1.5,2.75,0.364
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_points,William Nylander,Under,1.5,1.43,0.699
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Jack Roslovic,Over,1.5,1.53,0.654
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Jack Roslovic,Under,1.5,2.3,0.435
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Gavin McKenna,Over,1.5,1.77,0.565
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Gavin McKenna,Under,1.5,1.9,0.526
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Matty Beniers,Over,1.5,1.62,0.617
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Matty Beniers,Under,1.5,2.1,0.476
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Vince Dunn,Over,2.5,2.0,0.5
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Vince Dunn,Under,2.5,1.69,0.592
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Easton Cowan,Over,1.5,1.71,0.585
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Easton Cowan,Under,1.5,1.95,0.513
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Brandon Montour,Over,2.5,1.62,0.617
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Brandon Montour,Under,2.5,2.1,0.476
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Berkly Catton,Over,1.5,1.87,0.535
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Berkly Catton,Under,1.5,1.8,0.556
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Jordan Eberle,Over,2.5,2.15,0.465
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Jordan Eberle,Under,2.5,1.61,0.621
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Kirill Marchenko,Over,2.5,1.71,0.585
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Kirill Marchenko,Under,2.5,1.95,0.513
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,William Nylander,Over,3.5,2.6,0.385
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,William Nylander,Under,3.5,1.43,0.699
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Darren Raddysh,Over,2.5,1.85,0.541
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Darren Raddysh,Under,2.5,1.85,0.541
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Kaapo Kakko,Over,1.5,2.05,0.488
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Kaapo Kakko,Under,1.5,1.65,0.606
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Bobby McMann,Over,2.5,1.71,0.585
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Bobby McMann,Under,2.5,1.95,0.513
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Auston Matthews,Over,3.5,1.8,0.556
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Auston Matthews,Under,3.5,1.87,0.535
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Mackie Samoskevich,Over,1.5,1.5,0.667
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Mackie Samoskevich,Under,1.5,2.35,0.426
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Morgan Rielly,Over,1.5,2.1,0.476
+Toronto Maple Leafs @ Seattle Kraken,betmgm,player_shots_on_goal,Morgan Rielly,Under,1.5,1.62,0.617

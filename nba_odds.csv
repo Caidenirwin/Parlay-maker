@@ -1,0 +1,1572 @@
+game,book,market,player,side,line,price,game_date,book_chance
+Atlanta Hawks @ Charlotte Hornets,fanduel,h2h,,Atlanta Hawks,0.5,1.74,2026-10-23,0.575
+Atlanta Hawks @ Charlotte Hornets,fanduel,h2h,,Charlotte Hornets,0.5,2.16,2026-10-23,0.463
+Atlanta Hawks @ Charlotte Hornets,draftkings,h2h,,Atlanta Hawks,0.5,1.7,2026-10-23,0.588
+Atlanta Hawks @ Charlotte Hornets,draftkings,h2h,,Charlotte Hornets,0.5,2.2,2026-10-23,0.455
+Atlanta Hawks @ Charlotte Hornets,betmgm,h2h,,Atlanta Hawks,0.5,1.69,2026-10-23,0.592
+Atlanta Hawks @ Charlotte Hornets,betmgm,h2h,,Charlotte Hornets,0.5,2.2,2026-10-23,0.455
+New York Knicks @ Boston Celtics,draftkings,h2h,,Boston Celtics,0.5,1.7,2026-10-23,0.588
+New York Knicks @ Boston Celtics,draftkings,h2h,,New York Knicks,0.5,2.2,2026-10-23,0.455
+New York Knicks @ Boston Celtics,fanduel,h2h,,Boston Celtics,0.5,1.7,2026-10-23,0.588
+New York Knicks @ Boston Celtics,fanduel,h2h,,New York Knicks,0.5,2.2,2026-10-23,0.455
+New York Knicks @ Boston Celtics,betmgm,h2h,,Boston Celtics,0.5,1.69,2026-10-23,0.592
+New York Knicks @ Boston Celtics,betmgm,h2h,,New York Knicks,0.5,2.2,2026-10-23,0.455
+Dallas Mavericks @ Indiana Pacers,fanduel,h2h,,Dallas Mavericks,0.5,3.1,2026-10-23,0.323
+Dallas Mavericks @ Indiana Pacers,fanduel,h2h,,Indiana Pacers,0.5,1.39,2026-10-23,0.719
+Dallas Mavericks @ Indiana Pacers,draftkings,h2h,,Dallas Mavericks,0.5,3.15,2026-10-23,0.317
+Dallas Mavericks @ Indiana Pacers,draftkings,h2h,,Indiana Pacers,0.5,1.38,2026-10-23,0.725
+Dallas Mavericks @ Indiana Pacers,betmgm,h2h,,Dallas Mavericks,0.5,3.2,2026-10-23,0.312
+Dallas Mavericks @ Indiana Pacers,betmgm,h2h,,Indiana Pacers,0.5,1.36,2026-10-23,0.735
+Minnesota Timberwolves @ Orlando Magic,fanduel,h2h,,Minnesota Timberwolves,0.5,1.96,2026-10-23,0.51
+Minnesota Timberwolves @ Orlando Magic,fanduel,h2h,,Orlando Magic,0.5,1.89,2026-10-23,0.529
+Minnesota Timberwolves @ Orlando Magic,draftkings,h2h,,Minnesota Timberwolves,0.5,1.98,2026-10-23,0.505
+Minnesota Timberwolves @ Orlando Magic,draftkings,h2h,,Orlando Magic,0.5,1.85,2026-10-23,0.541
+Minnesota Timberwolves @ Orlando Magic,betmgm,h2h,,Minnesota Timberwolves,0.5,2.0,2026-10-23,0.5
+Minnesota Timberwolves @ Orlando Magic,betmgm,h2h,,Orlando Magic,0.5,1.83,2026-10-23,0.546
+Toronto Raptors @ Washington Wizards,fanduel,h2h,,Toronto Raptors,0.5,1.31,2026-10-23,0.763
+Toronto Raptors @ Washington Wizards,fanduel,h2h,,Washington Wizards,0.5,3.6,2026-10-23,0.278
+Toronto Raptors @ Washington Wizards,draftkings,h2h,,Toronto Raptors,0.5,1.29,2026-10-23,0.775
+Toronto Raptors @ Washington Wizards,draftkings,h2h,,Washington Wizards,0.5,3.7,2026-10-23,0.27
+Toronto Raptors @ Washington Wizards,betmgm,h2h,,Toronto Raptors,0.5,1.31,2026-10-23,0.763
+Toronto Raptors @ Washington Wizards,betmgm,h2h,,Washington Wizards,0.5,3.6,2026-10-23,0.278
+Detroit Pistons @ Miami Heat,fanduel,h2h,,Detroit Pistons,0.5,1.85,2026-10-23,0.541
+Detroit Pistons @ Miami Heat,fanduel,h2h,,Miami Heat,0.5,1.98,2026-10-23,0.505
+Detroit Pistons @ Miami Heat,draftkings,h2h,,Detroit Pistons,0.5,1.8,2026-10-23,0.556
+Detroit Pistons @ Miami Heat,draftkings,h2h,,Miami Heat,0.5,2.05,2026-10-23,0.488
+Detroit Pistons @ Miami Heat,betmgm,h2h,,Detroit Pistons,0.5,1.77,2026-10-23,0.565
+Detroit Pistons @ Miami Heat,betmgm,h2h,,Miami Heat,0.5,2.05,2026-10-23,0.488
+Houston Rockets @ San Antonio Spurs,draftkings,h2h,,Houston Rockets,0.5,2.6,2026-10-23,0.385
+Houston Rockets @ San Antonio Spurs,draftkings,h2h,,San Antonio Spurs,0.5,1.52,2026-10-23,0.658
+Houston Rockets @ San Antonio Spurs,fanduel,h2h,,Houston Rockets,0.5,2.64,2026-10-23,0.379
+Houston Rockets @ San Antonio Spurs,fanduel,h2h,,San Antonio Spurs,0.5,1.51,2026-10-23,0.662
+Houston Rockets @ San Antonio Spurs,betmgm,h2h,,Houston Rockets,0.5,2.65,2026-10-23,0.377
+Houston Rockets @ San Antonio Spurs,betmgm,h2h,,San Antonio Spurs,0.5,1.5,2026-10-23,0.667
+New Orleans Pelicans @ Utah Jazz,fanduel,h2h,,New Orleans Pelicans,0.5,1.98,2026-10-23,0.505
+New Orleans Pelicans @ Utah Jazz,fanduel,h2h,,Utah Jazz,0.5,1.86,2026-10-23,0.538
+New Orleans Pelicans @ Utah Jazz,draftkings,h2h,,New Orleans Pelicans,0.5,1.93,2026-10-23,0.518
+New Orleans Pelicans @ Utah Jazz,draftkings,h2h,,Utah Jazz,0.5,1.89,2026-10-23,0.529
+New Orleans Pelicans @ Utah Jazz,betmgm,h2h,,New Orleans Pelicans,0.5,1.98,2026-10-23,0.505
+New Orleans Pelicans @ Utah Jazz,betmgm,h2h,,Utah Jazz,0.5,1.85,2026-10-23,0.541
+Memphis Grizzlies @ Golden State Warriors,fanduel,h2h,,Golden State Warriors,0.5,1.63,2026-10-23,0.613
+Memphis Grizzlies @ Golden State Warriors,fanduel,h2h,,Memphis Grizzlies,0.5,2.34,2026-10-23,0.427
+Memphis Grizzlies @ Golden State Warriors,draftkings,h2h,,Golden State Warriors,0.5,1.62,2026-10-23,0.617
+Memphis Grizzlies @ Golden State Warriors,draftkings,h2h,,Memphis Grizzlies,0.5,2.36,2026-10-23,0.424
+Memphis Grizzlies @ Golden State Warriors,betmgm,h2h,,Golden State Warriors,0.5,1.59,2026-10-23,0.629
+Memphis Grizzlies @ Golden State Warriors,betmgm,h2h,,Memphis Grizzlies,0.5,2.4,2026-10-23,0.417
+Los Angeles Clippers @ Los Angeles Lakers,fanduel,h2h,,Los Angeles Clippers,0.5,3.75,2026-10-23,0.267
+Los Angeles Clippers @ Los Angeles Lakers,fanduel,h2h,,Los Angeles Lakers,0.5,1.29,2026-10-23,0.775
+Los Angeles Clippers @ Los Angeles Lakers,draftkings,h2h,,Los Angeles Clippers,0.5,3.85,2026-10-23,0.26
+Los Angeles Clippers @ Los Angeles Lakers,draftkings,h2h,,Los Angeles Lakers,0.5,1.28,2026-10-23,0.781
+Los Angeles Clippers @ Los Angeles Lakers,betmgm,h2h,,Los Angeles Clippers,0.5,3.75,2026-10-23,0.267
+Los Angeles Clippers @ Los Angeles Lakers,betmgm,h2h,,Los Angeles Lakers,0.5,1.29,2026-10-23,0.775
+Portland Trail Blazers @ Sacramento Kings,fanduel,h2h,,Portland Trail Blazers,0.5,1.25,2026-10-23,0.8
+Portland Trail Blazers @ Sacramento Kings,fanduel,h2h,,Sacramento Kings,0.5,4.15,2026-10-23,0.241
+Portland Trail Blazers @ Sacramento Kings,draftkings,h2h,,Portland Trail Blazers,0.5,1.21,2026-10-23,0.826
+Portland Trail Blazers @ Sacramento Kings,draftkings,h2h,,Sacramento Kings,0.5,4.6,2026-10-23,0.217
+Portland Trail Blazers @ Sacramento Kings,betmgm,h2h,,Portland Trail Blazers,0.5,1.22,2026-10-23,0.82
+Portland Trail Blazers @ Sacramento Kings,betmgm,h2h,,Sacramento Kings,0.5,4.4,2026-10-23,0.227
+New Orleans Pelicans @ Utah Jazz,fanduel,player_assists,Jeremiah Fears,Over,3.5,2.24,2026-10-23,0.446
+New Orleans Pelicans @ Utah Jazz,fanduel,player_assists,Jeremiah Fears,Under,3.5,1.63,2026-10-23,0.613
+New Orleans Pelicans @ Utah Jazz,fanduel,player_assists,Darryn Peterson,Over,3.5,1.88,2026-10-23,0.532
+New Orleans Pelicans @ Utah Jazz,fanduel,player_assists,Darryn Peterson,Under,3.5,1.88,2026-10-23,0.532
+New Orleans Pelicans @ Utah Jazz,fanduel,player_assists,Zion Williamson,Over,2.5,1.82,2026-10-23,0.549
+New Orleans Pelicans @ Utah Jazz,fanduel,player_assists,Zion Williamson,Under,2.5,1.96,2026-10-23,0.51
+New Orleans Pelicans @ Utah Jazz,fanduel,player_assists,Jaren Jackson Jr,Over,2.5,2.38,2026-10-23,0.42
+New Orleans Pelicans @ Utah Jazz,fanduel,player_assists,Jaren Jackson Jr,Under,2.5,1.56,2026-10-23,0.641
+New Orleans Pelicans @ Utah Jazz,fanduel,player_assists,Trey Murphy III,Over,3.5,2.14,2026-10-23,0.467
+New Orleans Pelicans @ Utah Jazz,fanduel,player_assists,Trey Murphy III,Under,3.5,1.68,2026-10-23,0.595
+New Orleans Pelicans @ Utah Jazz,fanduel,player_assists,Dejounte Murray,Over,6.5,2.12,2026-10-23,0.472
+New Orleans Pelicans @ Utah Jazz,fanduel,player_assists,Dejounte Murray,Under,6.5,1.7,2026-10-23,0.588
+New Orleans Pelicans @ Utah Jazz,fanduel,player_assists,Keyonte George,Over,6.5,1.93,2026-10-23,0.518
+New Orleans Pelicans @ Utah Jazz,fanduel,player_assists,Keyonte George,Under,6.5,1.87,2026-10-23,0.535
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Lauri Markkanen,Over,22.5,1.88,2026-10-23,0.532
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Lauri Markkanen,Under,22.5,1.88,2026-10-23,0.532
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Dejounte Murray,Over,17.5,2.0,2026-10-23,0.5
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Dejounte Murray,Under,17.5,1.78,2026-10-23,0.562
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Jeremiah Fears,Over,13.5,1.8,2026-10-23,0.556
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Jeremiah Fears,Under,13.5,1.98,2026-10-23,0.505
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Darryn Peterson,Over,13.5,1.88,2026-10-23,0.532
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Darryn Peterson,Under,13.5,1.88,2026-10-23,0.532
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Trey Murphy III,Over,18.5,1.87,2026-10-23,0.535
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Trey Murphy III,Under,18.5,1.9,2026-10-23,0.526
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Bennedict Mathurin,Over,11.5,2.08,2026-10-23,0.481
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Bennedict Mathurin,Under,11.5,1.72,2026-10-23,0.581
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Zion Williamson,Over,19.5,1.93,2026-10-23,0.518
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Zion Williamson,Under,19.5,1.87,2026-10-23,0.535
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Jaren Jackson Jr,Over,18.5,2.02,2026-10-23,0.495
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Jaren Jackson Jr,Under,18.5,1.77,2026-10-23,0.565
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Yves Missi,Over,7.5,1.88,2026-10-23,0.532
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Yves Missi,Under,7.5,1.88,2026-10-23,0.532
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Keyonte George,Over,19.5,1.87,2026-10-23,0.535
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Keyonte George,Under,19.5,1.9,2026-10-23,0.526
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Ace Bailey,Over,11.5,1.76,2026-10-23,0.568
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Ace Bailey,Under,11.5,2.04,2026-10-23,0.49
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Saddiq Bey,Over,11.5,2.0,2026-10-23,0.5
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Saddiq Bey,Under,11.5,1.78,2026-10-23,0.562
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Jaxson Hayes,Over,7.5,1.98,2026-10-23,0.505
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Jaxson Hayes,Under,7.5,1.8,2026-10-23,0.556
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Derik Queen,Over,7.5,1.77,2026-10-23,0.565
+New Orleans Pelicans @ Utah Jazz,fanduel,player_points,Derik Queen,Under,7.5,2.02,2026-10-23,0.495
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Lauri Markkanen,Over,7.5,2.24,2026-10-23,0.446
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Lauri Markkanen,Under,7.5,1.63,2026-10-23,0.613
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Dejounte Murray,Over,5.5,2.02,2026-10-23,0.495
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Dejounte Murray,Under,5.5,1.77,2026-10-23,0.565
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Zion Williamson,Over,5.5,2.22,2026-10-23,0.45
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Zion Williamson,Under,5.5,1.64,2026-10-23,0.61
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Darryn Peterson,Over,4.5,2.2,2026-10-23,0.455
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Darryn Peterson,Under,4.5,1.65,2026-10-23,0.606
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Jaren Jackson Jr,Over,6.5,2.22,2026-10-23,0.45
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Jaren Jackson Jr,Under,6.5,1.64,2026-10-23,0.61
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Yves Missi,Over,8.5,2.02,2026-10-23,0.495
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Yves Missi,Under,8.5,1.77,2026-10-23,0.565
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Trey Murphy III,Over,5.5,2.24,2026-10-23,0.446
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Trey Murphy III,Under,5.5,1.62,2026-10-23,0.617
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Keyonte George,Over,3.5,1.9,2026-10-23,0.526
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Keyonte George,Under,3.5,1.87,2026-10-23,0.535
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Saddiq Bey,Over,3.5,2.12,2026-10-23,0.472
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Saddiq Bey,Under,3.5,1.7,2026-10-23,0.588
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Ace Bailey,Over,4.5,2.34,2026-10-23,0.427
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Ace Bailey,Under,4.5,1.58,2026-10-23,0.633
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Jaxson Hayes,Over,5.5,1.64,2026-10-23,0.61
+New Orleans Pelicans @ Utah Jazz,fanduel,player_rebounds,Jaxson Hayes,Under,5.5,2.22,2026-10-23,0.45
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Trey Murphy III,Over,2.5,1.68,2026-10-23,0.595
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Trey Murphy III,Under,2.5,2.16,2026-10-23,0.463
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Lauri Markkanen,Over,2.5,1.96,2026-10-23,0.51
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Lauri Markkanen,Under,2.5,1.82,2026-10-23,0.549
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Darryn Peterson,Over,1.5,2.02,2026-10-23,0.495
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Darryn Peterson,Under,1.5,1.77,2026-10-23,0.565
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Jaren Jackson Jr,Over,1.5,1.68,2026-10-23,0.595
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Jaren Jackson Jr,Under,1.5,2.16,2026-10-23,0.463
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Dejounte Murray,Over,1.5,2.06,2026-10-23,0.485
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Dejounte Murray,Under,1.5,1.74,2026-10-23,0.575
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Jeremiah Fears,Over,1.5,2.54,2026-10-23,0.394
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Jeremiah Fears,Under,1.5,1.5,2026-10-23,0.667
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Keyonte George,Over,2.5,2.24,2026-10-23,0.446
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Keyonte George,Under,2.5,1.63,2026-10-23,0.613
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Saddiq Bey,Over,1.5,2.42,2026-10-23,0.413
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Saddiq Bey,Under,1.5,1.54,2026-10-23,0.649
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Ace Bailey,Over,1.5,1.68,2026-10-23,0.595
+New Orleans Pelicans @ Utah Jazz,fanduel,player_threes,Ace Bailey,Under,1.5,2.14,2026-10-23,0.467
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Keyonte George,Over,6.5,1.8,2026-10-23,0.556
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Keyonte George,Under,6.5,1.95,2026-10-23,0.513
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Dejounte Murray,Over,6.5,1.98,2026-10-23,0.505
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Dejounte Murray,Under,6.5,1.78,2026-10-23,0.562
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Darryn Peterson,Over,3.5,1.93,2026-10-23,0.518
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Darryn Peterson,Under,3.5,1.81,2026-10-23,0.552
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Trey Murphy III,Over,3.5,2.18,2026-10-23,0.459
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Trey Murphy III,Under,3.5,1.64,2026-10-23,0.61
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Jeremiah Fears,Over,3.5,2.19,2026-10-23,0.457
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Jeremiah Fears,Under,3.5,1.63,2026-10-23,0.613
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Zion Williamson,Over,2.5,1.77,2026-10-23,0.565
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Zion Williamson,Under,2.5,1.99,2026-10-23,0.503
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Jaren Jackson Jr,Over,2.5,2.32,2026-10-23,0.431
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Jaren Jackson Jr,Under,2.5,1.57,2026-10-23,0.637
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Lauri Markkanen,Over,2.5,2.47,2026-10-23,0.405
+New Orleans Pelicans @ Utah Jazz,draftkings,player_assists,Lauri Markkanen,Under,2.5,1.51,2026-10-23,0.662
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Lauri Markkanen,Over,22.5,1.93,2026-10-23,0.518
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Lauri Markkanen,Under,22.5,1.83,2026-10-23,0.546
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Keyonte George,Over,19.5,1.88,2026-10-23,0.532
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Keyonte George,Under,19.5,1.9,2026-10-23,0.526
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Zion Williamson,Over,19.5,1.97,2026-10-23,0.508
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Zion Williamson,Under,19.5,1.81,2026-10-23,0.552
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Trey Murphy III,Over,18.5,1.9,2026-10-23,0.526
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Trey Murphy III,Under,18.5,1.88,2026-10-23,0.532
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Jaren Jackson Jr,Over,17.5,1.88,2026-10-23,0.532
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Jaren Jackson Jr,Under,17.5,1.89,2026-10-23,0.529
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Dejounte Murray,Over,16.5,1.8,2026-10-23,0.556
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Dejounte Murray,Under,16.5,1.98,2026-10-23,0.505
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Jeremiah Fears,Over,13.5,1.81,2026-10-23,0.552
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Jeremiah Fears,Under,13.5,1.96,2026-10-23,0.51
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Darryn Peterson,Over,13.5,1.9,2026-10-23,0.526
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Darryn Peterson,Under,13.5,1.88,2026-10-23,0.532
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Ace Bailey,Over,11.5,1.92,2026-10-23,0.521
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Ace Bailey,Under,11.5,1.85,2026-10-23,0.541
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Saddiq Bey,Over,11.5,1.94,2026-10-23,0.515
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Saddiq Bey,Under,11.5,1.83,2026-10-23,0.546
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Bennedict Mathurin,Over,11.5,2.0,2026-10-23,0.5
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Bennedict Mathurin,Under,11.5,1.79,2026-10-23,0.559
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Derik Queen,Over,7.5,1.79,2026-10-23,0.559
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Derik Queen,Under,7.5,2.0,2026-10-23,0.5
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Yves Missi,Over,7.5,1.8,2026-10-23,0.556
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Yves Missi,Under,7.5,1.98,2026-10-23,0.505
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Jaxson Hayes,Over,7.5,1.96,2026-10-23,0.51
+New Orleans Pelicans @ Utah Jazz,draftkings,player_points,Jaxson Hayes,Under,7.5,1.81,2026-10-23,0.552
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Yves Missi,Over,8.5,1.91,2026-10-23,0.524
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Yves Missi,Under,8.5,1.83,2026-10-23,0.546
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Lauri Markkanen,Over,7.5,2.1,2026-10-23,0.476
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Lauri Markkanen,Under,7.5,1.69,2026-10-23,0.592
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Jaren Jackson Jr,Over,6.5,2.05,2026-10-23,0.488
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Jaren Jackson Jr,Under,6.5,1.72,2026-10-23,0.581
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Jaxson Hayes,Over,6.5,2.13,2026-10-23,0.469
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Jaxson Hayes,Under,6.5,1.67,2026-10-23,0.599
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Derik Queen,Over,5.5,1.8,2026-10-23,0.556
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Derik Queen,Under,5.5,1.94,2026-10-23,0.515
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Dejounte Murray,Over,5.5,2.04,2026-10-23,0.49
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Dejounte Murray,Under,5.5,1.74,2026-10-23,0.575
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Zion Williamson,Over,5.5,2.08,2026-10-23,0.481
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Zion Williamson,Under,5.5,1.7,2026-10-23,0.588
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Trey Murphy III,Over,4.5,1.64,2026-10-23,0.61
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Trey Murphy III,Under,4.5,2.18,2026-10-23,0.459
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Darryn Peterson,Over,4.5,2.17,2026-10-23,0.461
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Darryn Peterson,Under,4.5,1.65,2026-10-23,0.606
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Ace Bailey,Over,3.5,1.65,2026-10-23,0.606
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Ace Bailey,Under,3.5,2.17,2026-10-23,0.461
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Keyonte George,Over,3.5,1.91,2026-10-23,0.524
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Keyonte George,Under,3.5,1.84,2026-10-23,0.543
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Saddiq Bey,Over,3.5,2.06,2026-10-23,0.485
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Saddiq Bey,Under,3.5,1.72,2026-10-23,0.581
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Bennedict Mathurin,Over,3.5,2.24,2026-10-23,0.446
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Bennedict Mathurin,Under,3.5,1.61,2026-10-23,0.621
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Jeremiah Fears,Over,2.5,1.59,2026-10-23,0.629
+New Orleans Pelicans @ Utah Jazz,draftkings,player_rebounds,Jeremiah Fears,Under,2.5,2.28,2026-10-23,0.439
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Trey Murphy III,Over,2.5,1.64,2026-10-23,0.61
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Trey Murphy III,Under,2.5,2.18,2026-10-23,0.459
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Lauri Markkanen,Over,2.5,1.93,2026-10-23,0.518
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Lauri Markkanen,Under,2.5,1.82,2026-10-23,0.549
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Keyonte George,Over,2.5,2.13,2026-10-23,0.469
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Keyonte George,Under,2.5,1.67,2026-10-23,0.599
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Ace Bailey,Over,1.5,1.64,2026-10-23,0.61
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Ace Bailey,Under,1.5,2.18,2026-10-23,0.459
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Jaren Jackson Jr,Over,1.5,1.68,2026-10-23,0.595
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Jaren Jackson Jr,Under,1.5,2.11,2026-10-23,0.474
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Darryn Peterson,Over,1.5,2.0,2026-10-23,0.5
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Darryn Peterson,Under,1.5,1.76,2026-10-23,0.568
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Dejounte Murray,Over,1.5,2.0,2026-10-23,0.5
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Dejounte Murray,Under,1.5,1.76,2026-10-23,0.568
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Saddiq Bey,Over,1.5,2.48,2026-10-23,0.403
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Saddiq Bey,Under,1.5,1.51,2026-10-23,0.662
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Jeremiah Fears,Over,1.5,2.62,2026-10-23,0.382
+New Orleans Pelicans @ Utah Jazz,draftkings,player_threes,Jeremiah Fears,Under,1.5,1.46,2026-10-23,0.685
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Darryn Peterson,Over,3.5,1.87,2026-10-23,0.535
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Darryn Peterson,Under,3.5,1.87,2026-10-23,0.535
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Jeremiah Fears,Over,3.5,2.2,2026-10-23,0.455
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Jeremiah Fears,Under,3.5,1.62,2026-10-23,0.617
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Dejounte Murray,Over,6.5,1.91,2026-10-23,0.524
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Dejounte Murray,Under,6.5,1.83,2026-10-23,0.546
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Jaren Jackson Jr,Over,2.5,2.05,2026-10-23,0.488
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Jaren Jackson Jr,Under,2.5,1.69,2026-10-23,0.592
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Trey Murphy III,Over,3.5,2.05,2026-10-23,0.488
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Trey Murphy III,Under,3.5,1.71,2026-10-23,0.585
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Zion Williamson,Over,2.5,1.71,2026-10-23,0.585
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Zion Williamson,Under,2.5,2.05,2026-10-23,0.488
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Lauri Markkanen,Over,2.5,2.25,2026-10-23,0.444
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Lauri Markkanen,Under,2.5,1.61,2026-10-23,0.621
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Keyonte George,Over,6.5,1.91,2026-10-23,0.524
+New Orleans Pelicans @ Utah Jazz,betmgm,player_assists,Keyonte George,Under,6.5,1.83,2026-10-23,0.546
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Jaxson Hayes,Over,7.5,1.83,2026-10-23,0.546
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Jaxson Hayes,Under,7.5,1.91,2026-10-23,0.524
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Yves Missi,Over,7.5,1.9,2026-10-23,0.526
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Yves Missi,Under,7.5,1.83,2026-10-23,0.546
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Lauri Markkanen,Over,22.5,1.83,2026-10-23,0.546
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Lauri Markkanen,Under,22.5,1.91,2026-10-23,0.524
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Darryn Peterson,Over,12.5,1.8,2026-10-23,0.556
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Darryn Peterson,Under,12.5,1.95,2026-10-23,0.513
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Dejounte Murray,Over,16.5,1.91,2026-10-23,0.524
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Trey Murphy III,Over,18.5,1.95,2026-10-23,0.513
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Trey Murphy III,Under,18.5,1.8,2026-10-23,0.556
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Jaren Jackson Jr,Over,18.5,1.95,2026-10-23,0.513
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Jaren Jackson Jr,Under,18.5,1.8,2026-10-23,0.556
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Keyonte George,Over,19.5,1.8,2026-10-23,0.556
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Keyonte George,Under,19.5,1.95,2026-10-23,0.513
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Zion Williamson,Over,19.5,1.87,2026-10-23,0.535
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Zion Williamson,Under,19.5,1.87,2026-10-23,0.535
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Saddiq Bey,Over,11.5,1.91,2026-10-23,0.524
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Bennedict Mathurin,Over,10.5,1.87,2026-10-23,0.535
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Bennedict Mathurin,Under,10.5,1.87,2026-10-23,0.535
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Derik Queen,Over,8.5,1.95,2026-10-23,0.513
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Jeremiah Fears,Over,13.5,1.95,2026-10-23,0.513
+New Orleans Pelicans @ Utah Jazz,betmgm,player_points,Ace Bailey,Over,11.5,1.8,2026-10-23,0.556
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Jaxson Hayes,Over,5.5,1.65,2026-10-23,0.606
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Jaxson Hayes,Under,5.5,2.15,2026-10-23,0.465
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Jeremiah Fears,Over,2.5,1.65,2026-10-23,0.606
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Jeremiah Fears,Under,2.5,2.15,2026-10-23,0.465
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Keyonte George,Over,3.5,1.95,2026-10-23,0.513
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Keyonte George,Under,3.5,1.8,2026-10-23,0.556
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Zion Williamson,Over,5.5,2.05,2026-10-23,0.488
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Zion Williamson,Under,5.5,1.71,2026-10-23,0.585
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Lauri Markkanen,Over,6.5,1.77,2026-10-23,0.565
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Lauri Markkanen,Under,6.5,1.95,2026-10-23,0.513
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Dejounte Murray,Over,5.5,2.05,2026-10-23,0.488
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Dejounte Murray,Under,5.5,1.71,2026-10-23,0.585
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Jaren Jackson Jr,Over,6.5,2.15,2026-10-23,0.465
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Jaren Jackson Jr,Under,6.5,1.65,2026-10-23,0.606
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Yves Missi,Over,8.5,2.1,2026-10-23,0.476
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Yves Missi,Under,8.5,1.67,2026-10-23,0.599
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Darryn Peterson,Over,4.5,2.05,2026-10-23,0.488
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Darryn Peterson,Under,4.5,1.71,2026-10-23,0.585
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Trey Murphy III,Over,4.5,1.65,2026-10-23,0.606
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Trey Murphy III,Under,4.5,2.15,2026-10-23,0.465
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Bennedict Mathurin,Over,3.5,2.25,2026-10-23,0.444
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Bennedict Mathurin,Under,3.5,1.61,2026-10-23,0.621
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Saddiq Bey,Over,3.5,1.91,2026-10-23,0.524
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Saddiq Bey,Under,3.5,1.83,2026-10-23,0.546
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Derik Queen,Over,5.5,1.74,2026-10-23,0.575
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Derik Queen,Under,5.5,2.0,2026-10-23,0.5
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Ace Bailey,Over,3.5,1.62,2026-10-23,0.617
+New Orleans Pelicans @ Utah Jazz,betmgm,player_rebounds,Ace Bailey,Under,3.5,2.2,2026-10-23,0.455
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Keyonte George,Over,2.5,2.2,2026-10-23,0.455
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Keyonte George,Under,2.5,1.62,2026-10-23,0.617
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Jeremiah Fears,Over,1.5,2.35,2026-10-23,0.426
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Jeremiah Fears,Under,1.5,1.54,2026-10-23,0.649
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Trey Murphy III,Over,2.5,1.62,2026-10-23,0.617
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Trey Murphy III,Under,2.5,2.2,2026-10-23,0.455
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Dejounte Murray,Over,1.5,1.87,2026-10-23,0.535
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Dejounte Murray,Under,1.5,1.87,2026-10-23,0.535
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Lauri Markkanen,Over,2.5,2.1,2026-10-23,0.476
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Lauri Markkanen,Under,2.5,1.67,2026-10-23,0.599
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Darryn Peterson,Over,1.5,1.87,2026-10-23,0.535
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Darryn Peterson,Under,1.5,1.87,2026-10-23,0.535
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Jaren Jackson Jr,Over,1.5,1.77,2026-10-23,0.565
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Jaren Jackson Jr,Under,1.5,1.95,2026-10-23,0.513
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Saddiq Bey,Over,1.5,2.3,2026-10-23,0.435
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Saddiq Bey,Under,1.5,1.57,2026-10-23,0.637
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Ace Bailey,Over,1.5,1.71,2026-10-23,0.585
+New Orleans Pelicans @ Utah Jazz,betmgm,player_threes,Ace Bailey,Under,1.5,2.05,2026-10-23,0.488
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,Jaden McDaniels,Over,2.5,2.3,2026-10-23,0.435
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,Jaden McDaniels,Under,2.5,1.6,2026-10-23,0.625
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,LaMelo Ball,Over,7.5,1.88,2026-10-23,0.532
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,LaMelo Ball,Under,7.5,1.88,2026-10-23,0.532
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,Desmond Bane,Over,3.5,2.14,2026-10-23,0.467
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,Desmond Bane,Under,3.5,1.68,2026-10-23,0.595
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,Ayo Dosunmu,Over,3.5,2.1,2026-10-23,0.476
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,Ayo Dosunmu,Under,3.5,1.71,2026-10-23,0.585
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,Jalen Suggs,Over,4.5,1.87,2026-10-23,0.535
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,Jalen Suggs,Under,4.5,1.9,2026-10-23,0.526
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,Franz Wagner,Over,4.5,1.65,2026-10-23,0.606
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,Franz Wagner,Under,4.5,2.2,2026-10-23,0.455
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,Anthony Edwards,Over,3.5,2.22,2026-10-23,0.45
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,Anthony Edwards,Under,3.5,1.64,2026-10-23,0.61
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,Paolo Banchero,Over,5.5,2.02,2026-10-23,0.495
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_assists,Paolo Banchero,Under,5.5,1.77,2026-10-23,0.565
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Jaden McDaniels,Over,14.5,1.96,2026-10-23,0.51
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Jaden McDaniels,Under,14.5,1.82,2026-10-23,0.549
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Rudy Gobert,Over,9.5,1.9,2026-10-23,0.526
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Rudy Gobert,Under,9.5,1.87,2026-10-23,0.535
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Tristan da Silva,Over,9.5,1.88,2026-10-23,0.532
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Tristan da Silva,Under,9.5,1.88,2026-10-23,0.532
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Terrence Shannon Jr.,Over,7.5,1.83,2026-10-23,0.546
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Terrence Shannon Jr.,Under,7.5,1.94,2026-10-23,0.515
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Desmond Bane,Over,18.5,1.87,2026-10-23,0.535
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Desmond Bane,Under,18.5,1.9,2026-10-23,0.526
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Jonathan Kuminga,Over,12.5,1.98,2026-10-23,0.505
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Jonathan Kuminga,Under,12.5,1.8,2026-10-23,0.556
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Franz Wagner,Over,20.5,1.77,2026-10-23,0.565
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Franz Wagner,Under,20.5,2.02,2026-10-23,0.495
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Jalen Suggs,Over,12.5,2.0,2026-10-23,0.5
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Jalen Suggs,Under,12.5,1.78,2026-10-23,0.562
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Paolo Banchero,Over,22.5,1.87,2026-10-23,0.535
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Paolo Banchero,Under,22.5,1.9,2026-10-23,0.526
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Wendell Carter Jr,Over,9.5,1.78,2026-10-23,0.562
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Wendell Carter Jr,Under,9.5,2.0,2026-10-23,0.5
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Ayo Dosunmu,Over,12.5,1.9,2026-10-23,0.526
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Ayo Dosunmu,Under,12.5,1.87,2026-10-23,0.535
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,LaMelo Ball,Over,19.5,1.88,2026-10-23,0.532
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,LaMelo Ball,Under,19.5,1.88,2026-10-23,0.532
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Anthony Edwards,Over,29.5,1.88,2026-10-23,0.532
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_points,Anthony Edwards,Under,29.5,1.88,2026-10-23,0.532
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Jonathan Kuminga,Over,5.5,2.1,2026-10-23,0.476
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Jonathan Kuminga,Under,5.5,1.71,2026-10-23,0.585
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Desmond Bane,Over,4.5,2.36,2026-10-23,0.424
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Desmond Bane,Under,4.5,1.57,2026-10-23,0.637
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Jaden McDaniels,Over,4.5,1.63,2026-10-23,0.613
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Jaden McDaniels,Under,4.5,2.24,2026-10-23,0.446
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Wendell Carter Jr,Over,7.5,2.14,2026-10-23,0.467
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Wendell Carter Jr,Under,7.5,1.68,2026-10-23,0.595
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Ayo Dosunmu,Over,3.5,2.06,2026-10-23,0.485
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Ayo Dosunmu,Under,3.5,1.74,2026-10-23,0.575
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Rudy Gobert,Over,11.5,1.94,2026-10-23,0.515
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Rudy Gobert,Under,11.5,1.83,2026-10-23,0.546
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Jalen Suggs,Over,3.5,1.83,2026-10-23,0.546
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Jalen Suggs,Under,3.5,1.94,2026-10-23,0.515
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,LaMelo Ball,Over,4.5,1.64,2026-10-23,0.61
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,LaMelo Ball,Under,4.5,2.22,2026-10-23,0.45
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Franz Wagner,Over,5.5,2.2,2026-10-23,0.455
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Franz Wagner,Under,5.5,1.65,2026-10-23,0.606
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Anthony Edwards,Over,4.5,1.62,2026-10-23,0.617
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Anthony Edwards,Under,4.5,2.26,2026-10-23,0.442
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Paolo Banchero,Over,8.5,1.88,2026-10-23,0.532
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_rebounds,Paolo Banchero,Under,8.5,1.88,2026-10-23,0.532
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Jaden McDaniels,Over,1.5,2.14,2026-10-23,0.467
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Jaden McDaniels,Under,1.5,1.68,2026-10-23,0.595
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Jonathan Kuminga,Over,1.5,2.44,2026-10-23,0.41
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Jonathan Kuminga,Under,1.5,1.54,2026-10-23,0.649
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Desmond Bane,Over,2.5,2.18,2026-10-23,0.459
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Desmond Bane,Under,2.5,1.67,2026-10-23,0.599
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Ayo Dosunmu,Over,1.5,2.22,2026-10-23,0.45
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Ayo Dosunmu,Under,1.5,1.64,2026-10-23,0.61
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Jalen Suggs,Over,2.5,2.32,2026-10-23,0.431
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Jalen Suggs,Under,2.5,1.59,2026-10-23,0.629
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Paolo Banchero,Over,1.5,2.26,2026-10-23,0.442
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Paolo Banchero,Under,1.5,1.62,2026-10-23,0.617
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Anthony Edwards,Over,3.5,1.87,2026-10-23,0.535
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Anthony Edwards,Under,3.5,1.9,2026-10-23,0.526
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,LaMelo Ball,Over,3.5,2.0,2026-10-23,0.5
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,LaMelo Ball,Under,3.5,1.78,2026-10-23,0.562
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Franz Wagner,Over,1.5,2.1,2026-10-23,0.476
+Minnesota Timberwolves @ Orlando Magic,fanduel,player_threes,Franz Wagner,Under,1.5,1.71,2026-10-23,0.585
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,LaMelo Ball,Over,7.5,1.79,2026-10-23,0.559
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,LaMelo Ball,Under,7.5,1.97,2026-10-23,0.508
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Paolo Banchero,Over,5.5,2.0,2026-10-23,0.5
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Paolo Banchero,Under,5.5,1.76,2026-10-23,0.568
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Franz Wagner,Over,4.5,1.67,2026-10-23,0.599
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Franz Wagner,Under,4.5,2.14,2026-10-23,0.467
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Jalen Suggs,Over,4.5,1.84,2026-10-23,0.543
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Jalen Suggs,Under,4.5,1.9,2026-10-23,0.526
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Ayo Dosunmu,Over,3.5,2.11,2026-10-23,0.474
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Ayo Dosunmu,Under,3.5,1.68,2026-10-23,0.595
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Desmond Bane,Over,3.5,2.11,2026-10-23,0.474
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Desmond Bane,Under,3.5,1.68,2026-10-23,0.595
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Anthony Edwards,Over,3.5,2.21,2026-10-23,0.452
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Anthony Edwards,Under,3.5,1.62,2026-10-23,0.617
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Jaden McDaniels,Over,2.5,2.3,2026-10-23,0.435
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Jaden McDaniels,Under,2.5,1.58,2026-10-23,0.633
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Jonathan Kuminga,Over,1.5,1.52,2026-10-23,0.658
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_assists,Jonathan Kuminga,Under,1.5,2.44,2026-10-23,0.41
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Anthony Edwards,Over,29.5,1.91,2026-10-23,0.524
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Anthony Edwards,Under,29.5,1.86,2026-10-23,0.538
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Paolo Banchero,Over,22.5,1.93,2026-10-23,0.518
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Paolo Banchero,Under,22.5,1.85,2026-10-23,0.541
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Franz Wagner,Over,21.5,1.93,2026-10-23,0.518
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Franz Wagner,Under,21.5,1.83,2026-10-23,0.546
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,LaMelo Ball,Over,19.5,1.94,2026-10-23,0.515
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,LaMelo Ball,Under,19.5,1.83,2026-10-23,0.546
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Desmond Bane,Over,18.5,1.89,2026-10-23,0.529
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Desmond Bane,Under,18.5,1.88,2026-10-23,0.532
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Jaden McDaniels,Over,14.5,1.93,2026-10-23,0.518
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Jaden McDaniels,Under,14.5,1.83,2026-10-23,0.546
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Jalen Suggs,Over,12.5,1.87,2026-10-23,0.535
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Jalen Suggs,Under,12.5,1.9,2026-10-23,0.526
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Ayo Dosunmu,Over,12.5,1.93,2026-10-23,0.518
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Ayo Dosunmu,Under,12.5,1.85,2026-10-23,0.541
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Jonathan Kuminga,Over,12.5,1.93,2026-10-23,0.518
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Jonathan Kuminga,Under,12.5,1.85,2026-10-23,0.541
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Wendell Carter Jr,Over,10.5,1.99,2026-10-23,0.503
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Wendell Carter Jr,Under,10.5,1.79,2026-10-23,0.559
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Tristan da Silva,Over,9.5,1.86,2026-10-23,0.538
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Tristan da Silva,Under,9.5,1.91,2026-10-23,0.524
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Rudy Gobert,Over,9.5,1.88,2026-10-23,0.532
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Rudy Gobert,Under,9.5,1.88,2026-10-23,0.532
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Terrence Shannon Jr.,Over,7.5,1.77,2026-10-23,0.565
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_points,Terrence Shannon Jr.,Under,7.5,2.02,2026-10-23,0.495
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Rudy Gobert,Over,11.5,1.79,2026-10-23,0.559
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Rudy Gobert,Under,11.5,1.95,2026-10-23,0.513
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Paolo Banchero,Over,8.5,1.83,2026-10-23,0.546
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Paolo Banchero,Under,8.5,1.91,2026-10-23,0.524
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Wendell Carter Jr,Over,7.5,2.05,2026-10-23,0.488
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Wendell Carter Jr,Under,7.5,1.72,2026-10-23,0.581
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Anthony Edwards,Over,5.5,2.03,2026-10-23,0.493
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Anthony Edwards,Under,5.5,1.74,2026-10-23,0.575
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Jonathan Kuminga,Over,5.5,2.03,2026-10-23,0.493
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Jonathan Kuminga,Under,5.5,1.74,2026-10-23,0.575
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Franz Wagner,Over,5.5,2.06,2026-10-23,0.485
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Franz Wagner,Under,5.5,1.72,2026-10-23,0.581
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,LaMelo Ball,Over,5.5,2.1,2026-10-23,0.476
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,LaMelo Ball,Under,5.5,1.69,2026-10-23,0.592
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Jaden McDaniels,Over,5.5,2.15,2026-10-23,0.465
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Jaden McDaniels,Under,5.5,1.66,2026-10-23,0.602
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Desmond Bane,Over,4.5,2.18,2026-10-23,0.459
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Desmond Bane,Under,4.5,1.65,2026-10-23,0.606
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Jalen Suggs,Over,3.5,1.72,2026-10-23,0.581
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Jalen Suggs,Under,3.5,2.05,2026-10-23,0.488
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Ayo Dosunmu,Over,3.5,1.94,2026-10-23,0.515
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Ayo Dosunmu,Under,3.5,1.8,2026-10-23,0.556
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Tristan da Silva,Over,3.5,2.27,2026-10-23,0.441
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_rebounds,Tristan da Silva,Under,3.5,1.6,2026-10-23,0.625
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Anthony Edwards,Over,3.5,1.75,2026-10-23,0.571
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Anthony Edwards,Under,3.5,2.01,2026-10-23,0.498
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,LaMelo Ball,Over,3.5,1.88,2026-10-23,0.532
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,LaMelo Ball,Under,3.5,1.86,2026-10-23,0.538
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Desmond Bane,Over,2.5,2.07,2026-10-23,0.483
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Desmond Bane,Under,2.5,1.71,2026-10-23,0.585
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Jalen Suggs,Over,2.5,2.32,2026-10-23,0.431
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Jalen Suggs,Under,2.5,1.57,2026-10-23,0.637
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Tristan da Silva,Over,1.5,1.6,2026-10-23,0.625
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Tristan da Silva,Under,1.5,2.25,2026-10-23,0.444
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Franz Wagner,Over,1.5,2.08,2026-10-23,0.481
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Franz Wagner,Under,1.5,1.7,2026-10-23,0.588
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Jaden McDaniels,Over,1.5,2.1,2026-10-23,0.476
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Jaden McDaniels,Under,1.5,1.69,2026-10-23,0.592
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Ayo Dosunmu,Over,1.5,2.18,2026-10-23,0.459
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Ayo Dosunmu,Under,1.5,1.64,2026-10-23,0.61
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Paolo Banchero,Over,1.5,2.23,2026-10-23,0.448
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Paolo Banchero,Under,1.5,1.61,2026-10-23,0.621
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Jonathan Kuminga,Over,1.5,2.4,2026-10-23,0.417
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Jonathan Kuminga,Under,1.5,1.54,2026-10-23,0.649
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Terrence Shannon Jr.,Over,0.5,1.48,2026-10-23,0.676
+Minnesota Timberwolves @ Orlando Magic,draftkings,player_threes,Terrence Shannon Jr.,Under,0.5,2.58,2026-10-23,0.388
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Ayo Dosunmu,Over,3.5,2.05,2026-10-23,0.488
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Ayo Dosunmu,Under,3.5,1.69,2026-10-23,0.592
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,LaMelo Ball,Over,7.5,1.8,2026-10-23,0.556
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,LaMelo Ball,Under,7.5,1.95,2026-10-23,0.513
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Jonathan Kuminga,Over,1.5,1.57,2026-10-23,0.637
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Jonathan Kuminga,Under,1.5,2.3,2026-10-23,0.435
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Anthony Edwards,Over,3.5,2.3,2026-10-23,0.435
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Anthony Edwards,Under,3.5,1.57,2026-10-23,0.637
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Desmond Bane,Over,3.5,2.0,2026-10-23,0.5
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Desmond Bane,Under,3.5,1.74,2026-10-23,0.575
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Jalen Suggs,Over,4.5,1.83,2026-10-23,0.546
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Jalen Suggs,Under,4.5,1.91,2026-10-23,0.524
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Franz Wagner,Over,4.5,1.62,2026-10-23,0.617
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Franz Wagner,Under,4.5,2.2,2026-10-23,0.455
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Jaden McDaniels,Over,2.5,2.2,2026-10-23,0.455
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Jaden McDaniels,Under,2.5,1.62,2026-10-23,0.617
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Paolo Banchero,Over,5.5,2.0,2026-10-23,0.5
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_assists,Paolo Banchero,Under,5.5,1.74,2026-10-23,0.575
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Ayo Dosunmu,Over,12.5,1.9,2026-10-23,0.526
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Ayo Dosunmu,Under,12.5,1.83,2026-10-23,0.546
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,LaMelo Ball,Over,19.5,1.83,2026-10-23,0.546
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,LaMelo Ball,Under,19.5,1.9,2026-10-23,0.526
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Jonathan Kuminga,Over,12.5,1.95,2026-10-23,0.513
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Jonathan Kuminga,Under,12.5,1.8,2026-10-23,0.556
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Rudy Gobert,Over,9.5,1.95,2026-10-23,0.513
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Rudy Gobert,Under,9.5,1.8,2026-10-23,0.556
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Franz Wagner,Over,20.5,1.83,2026-10-23,0.546
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Franz Wagner,Under,20.5,1.91,2026-10-23,0.524
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Desmond Bane,Over,18.5,1.83,2026-10-23,0.546
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Desmond Bane,Under,18.5,1.91,2026-10-23,0.524
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Wendell Carter Jr,Over,10.5,2.05,2026-10-23,0.488
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Wendell Carter Jr,Under,10.5,1.71,2026-10-23,0.585
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Jalen Suggs,Over,12.5,1.8,2026-10-23,0.556
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Jalen Suggs,Under,12.5,1.95,2026-10-23,0.513
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Paolo Banchero,Over,22.5,1.87,2026-10-23,0.535
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Paolo Banchero,Under,22.5,1.87,2026-10-23,0.535
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Anthony Edwards,Over,28.5,1.8,2026-10-23,0.556
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Anthony Edwards,Under,28.5,1.95,2026-10-23,0.513
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Jaden McDaniels,Over,14.5,1.87,2026-10-23,0.535
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Jaden McDaniels,Under,14.5,1.87,2026-10-23,0.535
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Tristan da Silva,Over,10.5,1.95,2026-10-23,0.513
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Terrence Shannon Jr.,Over,7.5,1.83,2026-10-23,0.546
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_points,Terrence Shannon Jr.,Under,7.5,1.91,2026-10-23,0.524
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Rudy Gobert,Over,11.5,1.83,2026-10-23,0.546
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Rudy Gobert,Under,11.5,1.91,2026-10-23,0.524
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Jonathan Kuminga,Over,5.5,2.25,2026-10-23,0.444
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Jonathan Kuminga,Under,5.5,1.61,2026-10-23,0.621
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Jaden McDaniels,Over,4.5,1.65,2026-10-23,0.606
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Jaden McDaniels,Under,4.5,2.15,2026-10-23,0.465
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Jalen Suggs,Over,3.5,1.8,2026-10-23,0.556
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Jalen Suggs,Under,3.5,1.95,2026-10-23,0.513
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Desmond Bane,Over,3.5,1.62,2026-10-23,0.617
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Desmond Bane,Under,3.5,2.2,2026-10-23,0.455
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Anthony Edwards,Over,5.5,2.15,2026-10-23,0.465
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Anthony Edwards,Under,5.5,1.65,2026-10-23,0.606
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Ayo Dosunmu,Over,3.5,2.25,2026-10-23,0.444
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Ayo Dosunmu,Under,3.5,1.61,2026-10-23,0.621
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,LaMelo Ball,Over,4.5,1.65,2026-10-23,0.606
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,LaMelo Ball,Under,4.5,2.15,2026-10-23,0.465
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Franz Wagner,Over,5.5,2.05,2026-10-23,0.488
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Franz Wagner,Under,5.5,1.71,2026-10-23,0.585
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Wendell Carter Jr,Over,7.5,2.0,2026-10-23,0.5
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Wendell Carter Jr,Under,7.5,1.74,2026-10-23,0.575
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Paolo Banchero,Over,8.5,1.87,2026-10-23,0.535
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Paolo Banchero,Under,8.5,1.87,2026-10-23,0.535
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Tristan da Silva,Over,3.5,2.1,2026-10-23,0.476
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Tristan da Silva,Under,3.5,1.67,2026-10-23,0.599
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Terrence Shannon Jr.,Over,1.5,1.57,2026-10-23,0.637
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_rebounds,Terrence Shannon Jr.,Under,1.5,2.3,2026-10-23,0.435
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,Jalen Suggs,Over,1.5,1.53,2026-10-23,0.654
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,Jalen Suggs,Under,1.5,2.4,2026-10-23,0.417
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,Jaden McDaniels,Over,1.5,2.1,2026-10-23,0.476
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,Jaden McDaniels,Under,1.5,1.67,2026-10-23,0.599
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,Franz Wagner,Over,1.5,2.15,2026-10-23,0.465
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,Franz Wagner,Under,1.5,1.65,2026-10-23,0.606
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,Anthony Edwards,Over,3.5,1.74,2026-10-23,0.575
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,Anthony Edwards,Under,3.5,2.0,2026-10-23,0.5
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,LaMelo Ball,Over,3.5,2.0,2026-10-23,0.5
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,LaMelo Ball,Under,3.5,1.74,2026-10-23,0.575
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,Desmond Bane,Over,2.5,2.05,2026-10-23,0.488
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,Desmond Bane,Under,2.5,1.69,2026-10-23,0.592
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,Tristan da Silva,Over,1.5,1.61,2026-10-23,0.621
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,Tristan da Silva,Under,1.5,2.25,2026-10-23,0.444
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,Terrence Shannon Jr.,Over,0.5,1.5,2026-10-23,0.667
+Minnesota Timberwolves @ Orlando Magic,betmgm,player_threes,Terrence Shannon Jr.,Under,0.5,2.5,2026-10-23,0.4
+Detroit Pistons @ Miami Heat,fanduel,player_assists,Pelle Larsson,Over,2.5,1.62,2026-10-23,0.617
+Detroit Pistons @ Miami Heat,fanduel,player_assists,Pelle Larsson,Under,2.5,2.24,2026-10-23,0.446
+Detroit Pistons @ Miami Heat,fanduel,player_assists,Ausar Thompson,Over,4.5,2.16,2026-10-23,0.463
+Detroit Pistons @ Miami Heat,fanduel,player_assists,Ausar Thompson,Under,4.5,1.68,2026-10-23,0.595
+Detroit Pistons @ Miami Heat,fanduel,player_assists,Cade Cunningham,Over,9.5,2.04,2026-10-23,0.49
+Detroit Pistons @ Miami Heat,fanduel,player_assists,Cade Cunningham,Under,9.5,1.76,2026-10-23,0.568
+Detroit Pistons @ Miami Heat,fanduel,player_assists,Davion Mitchell,Over,6.5,2.2,2026-10-23,0.455
+Detroit Pistons @ Miami Heat,fanduel,player_assists,Davion Mitchell,Under,6.5,1.65,2026-10-23,0.606
+Detroit Pistons @ Miami Heat,fanduel,player_assists,Giannis Antetokounmpo,Over,5.5,1.7,2026-10-23,0.588
+Detroit Pistons @ Miami Heat,fanduel,player_assists,Giannis Antetokounmpo,Under,5.5,2.12,2026-10-23,0.472
+Detroit Pistons @ Miami Heat,fanduel,player_assists,Bam Adebayo,Over,3.5,2.16,2026-10-23,0.463
+Detroit Pistons @ Miami Heat,fanduel,player_assists,Bam Adebayo,Under,3.5,1.68,2026-10-23,0.595
+Detroit Pistons @ Miami Heat,fanduel,player_points,Duncan Robinson,Over,10.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,fanduel,player_points,Duncan Robinson,Under,10.5,1.9,2026-10-23,0.526
+Detroit Pistons @ Miami Heat,fanduel,player_points,Isaiah Joe,Over,8.5,1.78,2026-10-23,0.562
+Detroit Pistons @ Miami Heat,fanduel,player_points,Isaiah Joe,Under,8.5,2.0,2026-10-23,0.5
+Detroit Pistons @ Miami Heat,fanduel,player_points,Jalen Duren,Over,17.5,1.9,2026-10-23,0.526
+Detroit Pistons @ Miami Heat,fanduel,player_points,Jalen Duren,Under,17.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,fanduel,player_points,Pelle Larsson,Over,8.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,fanduel,player_points,Pelle Larsson,Under,8.5,1.9,2026-10-23,0.526
+Detroit Pistons @ Miami Heat,fanduel,player_points,Paul Reed Jr,Over,7.5,1.88,2026-10-23,0.532
+Detroit Pistons @ Miami Heat,fanduel,player_points,Paul Reed Jr,Under,7.5,1.88,2026-10-23,0.532
+Detroit Pistons @ Miami Heat,fanduel,player_points,John Collins,Over,12.5,2.0,2026-10-23,0.5
+Detroit Pistons @ Miami Heat,fanduel,player_points,John Collins,Under,12.5,1.78,2026-10-23,0.562
+Detroit Pistons @ Miami Heat,fanduel,player_points,Bobby Portis,Over,10.5,1.93,2026-10-23,0.518
+Detroit Pistons @ Miami Heat,fanduel,player_points,Bobby Portis,Under,10.5,1.85,2026-10-23,0.541
+Detroit Pistons @ Miami Heat,fanduel,player_points,Daniss Jenkins,Over,6.5,1.88,2026-10-23,0.532
+Detroit Pistons @ Miami Heat,fanduel,player_points,Daniss Jenkins,Under,6.5,1.88,2026-10-23,0.532
+Detroit Pistons @ Miami Heat,fanduel,player_points,Klay Thompson,Over,9.5,1.9,2026-10-23,0.526
+Detroit Pistons @ Miami Heat,fanduel,player_points,Klay Thompson,Under,9.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,fanduel,player_points,Davion Mitchell,Over,9.5,1.98,2026-10-23,0.505
+Detroit Pistons @ Miami Heat,fanduel,player_points,Davion Mitchell,Under,9.5,1.8,2026-10-23,0.556
+Detroit Pistons @ Miami Heat,fanduel,player_points,Andrew Wiggins,Over,13.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,fanduel,player_points,Andrew Wiggins,Under,13.5,1.9,2026-10-23,0.526
+Detroit Pistons @ Miami Heat,fanduel,player_points,Ausar Thompson,Over,9.5,1.77,2026-10-23,0.565
+Detroit Pistons @ Miami Heat,fanduel,player_points,Ausar Thompson,Under,9.5,2.02,2026-10-23,0.495
+Detroit Pistons @ Miami Heat,fanduel,player_points,Tim Hardaway Jr.,Over,8.5,1.88,2026-10-23,0.532
+Detroit Pistons @ Miami Heat,fanduel,player_points,Tim Hardaway Jr.,Under,8.5,1.88,2026-10-23,0.532
+Detroit Pistons @ Miami Heat,fanduel,player_points,Bam Adebayo,Over,17.5,2.0,2026-10-23,0.5
+Detroit Pistons @ Miami Heat,fanduel,player_points,Bam Adebayo,Under,17.5,1.77,2026-10-23,0.565
+Detroit Pistons @ Miami Heat,fanduel,player_points,Cade Cunningham,Over,24.5,1.98,2026-10-23,0.505
+Detroit Pistons @ Miami Heat,fanduel,player_points,Cade Cunningham,Under,24.5,1.78,2026-10-23,0.562
+Detroit Pistons @ Miami Heat,fanduel,player_points,Giannis Antetokounmpo,Over,28.5,1.83,2026-10-23,0.546
+Detroit Pistons @ Miami Heat,fanduel,player_points,Giannis Antetokounmpo,Under,28.5,1.94,2026-10-23,0.515
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Bam Adebayo,Over,8.5,1.76,2026-10-23,0.568
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Bam Adebayo,Under,8.5,2.04,2026-10-23,0.49
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Jalen Duren,Over,9.5,1.74,2026-10-23,0.575
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Jalen Duren,Under,9.5,2.06,2026-10-23,0.485
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,John Collins,Over,5.5,2.22,2026-10-23,0.45
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,John Collins,Under,5.5,1.64,2026-10-23,0.61
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Bobby Portis,Over,5.5,1.98,2026-10-23,0.505
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Bobby Portis,Under,5.5,1.8,2026-10-23,0.556
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Paul Reed Jr,Over,4.5,1.6,2026-10-23,0.625
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Paul Reed Jr,Under,4.5,2.3,2026-10-23,0.435
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Andrew Wiggins,Over,4.5,2.14,2026-10-23,0.467
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Andrew Wiggins,Under,4.5,1.68,2026-10-23,0.595
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Davion Mitchell,Over,2.5,2.0,2026-10-23,0.5
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Davion Mitchell,Under,2.5,1.78,2026-10-23,0.562
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Cade Cunningham,Over,5.5,2.22,2026-10-23,0.45
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Cade Cunningham,Under,5.5,1.64,2026-10-23,0.61
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Giannis Antetokounmpo,Over,10.5,2.0,2026-10-23,0.5
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Giannis Antetokounmpo,Under,10.5,1.78,2026-10-23,0.562
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Ausar Thompson,Over,6.5,1.93,2026-10-23,0.518
+Detroit Pistons @ Miami Heat,fanduel,player_rebounds,Ausar Thompson,Under,6.5,1.85,2026-10-23,0.541
+Detroit Pistons @ Miami Heat,fanduel,player_threes,Bobby Portis,Over,1.5,2.12,2026-10-23,0.472
+Detroit Pistons @ Miami Heat,fanduel,player_threes,Bobby Portis,Under,1.5,1.7,2026-10-23,0.588
+Detroit Pistons @ Miami Heat,fanduel,player_threes,Klay Thompson,Over,2.5,1.93,2026-10-23,0.518
+Detroit Pistons @ Miami Heat,fanduel,player_threes,Klay Thompson,Under,2.5,1.85,2026-10-23,0.541
+Detroit Pistons @ Miami Heat,fanduel,player_threes,Cade Cunningham,Over,2.5,2.5,2026-10-23,0.4
+Detroit Pistons @ Miami Heat,fanduel,player_threes,Cade Cunningham,Under,2.5,1.52,2026-10-23,0.658
+Detroit Pistons @ Miami Heat,fanduel,player_threes,Tim Hardaway Jr.,Over,1.5,1.63,2026-10-23,0.613
+Detroit Pistons @ Miami Heat,fanduel,player_threes,Tim Hardaway Jr.,Under,1.5,2.24,2026-10-23,0.446
+Detroit Pistons @ Miami Heat,fanduel,player_threes,Bam Adebayo,Over,1.5,1.88,2026-10-23,0.532
+Detroit Pistons @ Miami Heat,fanduel,player_threes,Bam Adebayo,Under,1.5,1.88,2026-10-23,0.532
+Detroit Pistons @ Miami Heat,fanduel,player_threes,Andrew Wiggins,Over,1.5,1.71,2026-10-23,0.585
+Detroit Pistons @ Miami Heat,fanduel,player_threes,Andrew Wiggins,Under,1.5,2.1,2026-10-23,0.476
+Detroit Pistons @ Miami Heat,fanduel,player_threes,Duncan Robinson,Over,2.5,2.0,2026-10-23,0.5
+Detroit Pistons @ Miami Heat,fanduel,player_threes,Duncan Robinson,Under,2.5,1.78,2026-10-23,0.562
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Cade Cunningham,Over,9.5,1.93,2026-10-23,0.518
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Cade Cunningham,Under,9.5,1.81,2026-10-23,0.552
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Davion Mitchell,Over,6.5,2.1,2026-10-23,0.476
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Davion Mitchell,Under,6.5,1.69,2026-10-23,0.592
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Giannis Antetokounmpo,Over,5.5,1.69,2026-10-23,0.592
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Giannis Antetokounmpo,Under,5.5,2.1,2026-10-23,0.476
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Ausar Thompson,Over,4.5,2.09,2026-10-23,0.478
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Ausar Thompson,Under,4.5,1.69,2026-10-23,0.592
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Bam Adebayo,Over,3.5,2.25,2026-10-23,0.444
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Bam Adebayo,Under,3.5,1.6,2026-10-23,0.625
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Pelle Larsson,Over,2.5,1.6,2026-10-23,0.625
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Pelle Larsson,Under,2.5,2.27,2026-10-23,0.441
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Daniss Jenkins,Over,2.5,1.64,2026-10-23,0.61
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Daniss Jenkins,Under,2.5,2.18,2026-10-23,0.459
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Jalen Duren,Over,2.5,2.25,2026-10-23,0.444
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Jalen Duren,Under,2.5,1.61,2026-10-23,0.621
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Duncan Robinson,Over,1.5,1.59,2026-10-23,0.629
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Duncan Robinson,Under,1.5,2.28,2026-10-23,0.439
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Andrew Wiggins,Over,1.5,1.67,2026-10-23,0.599
+Detroit Pistons @ Miami Heat,draftkings,player_assists,Andrew Wiggins,Under,1.5,2.13,2026-10-23,0.469
+Detroit Pistons @ Miami Heat,draftkings,player_assists,John Collins,Over,1.5,2.73,2026-10-23,0.366
+Detroit Pistons @ Miami Heat,draftkings,player_assists,John Collins,Under,1.5,1.43,2026-10-23,0.699
+Detroit Pistons @ Miami Heat,draftkings,player_points,Giannis Antetokounmpo,Over,28.5,1.9,2026-10-23,0.526
+Detroit Pistons @ Miami Heat,draftkings,player_points,Giannis Antetokounmpo,Under,28.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,draftkings,player_points,Cade Cunningham,Over,24.5,1.88,2026-10-23,0.532
+Detroit Pistons @ Miami Heat,draftkings,player_points,Cade Cunningham,Under,24.5,1.89,2026-10-23,0.529
+Detroit Pistons @ Miami Heat,draftkings,player_points,Bam Adebayo,Over,17.5,1.91,2026-10-23,0.524
+Detroit Pistons @ Miami Heat,draftkings,player_points,Bam Adebayo,Under,17.5,1.86,2026-10-23,0.538
+Detroit Pistons @ Miami Heat,draftkings,player_points,Jalen Duren,Over,17.5,1.97,2026-10-23,0.508
+Detroit Pistons @ Miami Heat,draftkings,player_points,Jalen Duren,Under,17.5,1.81,2026-10-23,0.552
+Detroit Pistons @ Miami Heat,draftkings,player_points,Andrew Wiggins,Over,13.5,1.93,2026-10-23,0.518
+Detroit Pistons @ Miami Heat,draftkings,player_points,Andrew Wiggins,Under,13.5,1.85,2026-10-23,0.541
+Detroit Pistons @ Miami Heat,draftkings,player_points,John Collins,Over,12.5,1.86,2026-10-23,0.538
+Detroit Pistons @ Miami Heat,draftkings,player_points,John Collins,Under,12.5,1.91,2026-10-23,0.524
+Detroit Pistons @ Miami Heat,draftkings,player_points,Duncan Robinson,Over,10.5,1.95,2026-10-23,0.513
+Detroit Pistons @ Miami Heat,draftkings,player_points,Duncan Robinson,Under,10.5,1.83,2026-10-23,0.546
+Detroit Pistons @ Miami Heat,draftkings,player_points,Bobby Portis,Over,10.5,1.99,2026-10-23,0.503
+Detroit Pistons @ Miami Heat,draftkings,player_points,Bobby Portis,Under,10.5,1.79,2026-10-23,0.559
+Detroit Pistons @ Miami Heat,draftkings,player_points,Ausar Thompson,Over,10.5,2.08,2026-10-23,0.481
+Detroit Pistons @ Miami Heat,draftkings,player_points,Ausar Thompson,Under,10.5,1.72,2026-10-23,0.581
+Detroit Pistons @ Miami Heat,draftkings,player_points,Klay Thompson,Over,9.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,draftkings,player_points,Klay Thompson,Under,9.5,1.9,2026-10-23,0.526
+Detroit Pistons @ Miami Heat,draftkings,player_points,Davion Mitchell,Over,9.5,2.02,2026-10-23,0.495
+Detroit Pistons @ Miami Heat,draftkings,player_points,Davion Mitchell,Under,9.5,1.77,2026-10-23,0.565
+Detroit Pistons @ Miami Heat,draftkings,player_points,Tim Hardaway Jr.,Over,8.5,1.81,2026-10-23,0.552
+Detroit Pistons @ Miami Heat,draftkings,player_points,Tim Hardaway Jr.,Under,8.5,1.96,2026-10-23,0.51
+Detroit Pistons @ Miami Heat,draftkings,player_points,Pelle Larsson,Over,8.5,1.83,2026-10-23,0.546
+Detroit Pistons @ Miami Heat,draftkings,player_points,Pelle Larsson,Under,8.5,1.93,2026-10-23,0.518
+Detroit Pistons @ Miami Heat,draftkings,player_points,Isaiah Joe,Over,8.5,1.91,2026-10-23,0.524
+Detroit Pistons @ Miami Heat,draftkings,player_points,Isaiah Joe,Under,8.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,draftkings,player_points,Paul Reed Jr,Over,7.5,1.8,2026-10-23,0.556
+Detroit Pistons @ Miami Heat,draftkings,player_points,Paul Reed Jr,Under,7.5,1.98,2026-10-23,0.505
+Detroit Pistons @ Miami Heat,draftkings,player_points,Daniss Jenkins,Over,7.5,2.02,2026-10-23,0.495
+Detroit Pistons @ Miami Heat,draftkings,player_points,Daniss Jenkins,Under,7.5,1.76,2026-10-23,0.568
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Giannis Antetokounmpo,Over,10.5,1.96,2026-10-23,0.51
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Giannis Antetokounmpo,Under,10.5,1.79,2026-10-23,0.559
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Jalen Duren,Over,9.5,1.79,2026-10-23,0.559
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Jalen Duren,Under,9.5,1.96,2026-10-23,0.51
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Bam Adebayo,Over,9.5,2.09,2026-10-23,0.478
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Bam Adebayo,Under,9.5,1.7,2026-10-23,0.588
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Ausar Thompson,Over,6.5,1.83,2026-10-23,0.546
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Ausar Thompson,Under,6.5,1.92,2026-10-23,0.521
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Bobby Portis,Over,5.5,1.91,2026-10-23,0.524
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Bobby Portis,Under,5.5,1.83,2026-10-23,0.546
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,John Collins,Over,5.5,2.03,2026-10-23,0.493
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,John Collins,Under,5.5,1.74,2026-10-23,0.575
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Cade Cunningham,Over,4.5,1.64,2026-10-23,0.61
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Cade Cunningham,Under,4.5,2.19,2026-10-23,0.457
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Paul Reed Jr,Over,4.5,1.67,2026-10-23,0.599
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Paul Reed Jr,Under,4.5,2.13,2026-10-23,0.469
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Andrew Wiggins,Over,4.5,2.13,2026-10-23,0.469
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Andrew Wiggins,Under,4.5,1.67,2026-10-23,0.599
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Pelle Larsson,Over,2.5,1.71,2026-10-23,0.585
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Pelle Larsson,Under,2.5,2.07,2026-10-23,0.483
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Davion Mitchell,Over,2.5,1.99,2026-10-23,0.503
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Davion Mitchell,Under,2.5,1.77,2026-10-23,0.565
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Duncan Robinson,Over,2.5,2.29,2026-10-23,0.437
+Detroit Pistons @ Miami Heat,draftkings,player_rebounds,Duncan Robinson,Under,2.5,1.59,2026-10-23,0.629
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Klay Thompson,Over,2.5,1.84,2026-10-23,0.543
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Klay Thompson,Under,2.5,1.91,2026-10-23,0.524
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Duncan Robinson,Over,2.5,2.02,2026-10-23,0.495
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Duncan Robinson,Under,2.5,1.75,2026-10-23,0.571
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Cade Cunningham,Over,1.5,1.54,2026-10-23,0.649
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Cade Cunningham,Under,1.5,2.4,2026-10-23,0.417
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Tim Hardaway Jr.,Over,1.5,1.65,2026-10-23,0.606
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Tim Hardaway Jr.,Under,1.5,2.17,2026-10-23,0.461
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Isaiah Joe,Over,1.5,1.67,2026-10-23,0.599
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Isaiah Joe,Under,1.5,2.14,2026-10-23,0.467
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Andrew Wiggins,Over,1.5,1.69,2026-10-23,0.592
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Andrew Wiggins,Under,1.5,2.1,2026-10-23,0.476
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Bam Adebayo,Over,1.5,1.91,2026-10-23,0.524
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Bam Adebayo,Under,1.5,1.84,2026-10-23,0.543
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Bobby Portis,Over,1.5,2.05,2026-10-23,0.488
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Bobby Portis,Under,1.5,1.72,2026-10-23,0.581
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Davion Mitchell,Over,1.5,2.49,2026-10-23,0.402
+Detroit Pistons @ Miami Heat,draftkings,player_threes,Davion Mitchell,Under,1.5,1.51,2026-10-23,0.662
+Detroit Pistons @ Miami Heat,draftkings,player_threes,John Collins,Over,0.5,1.53,2026-10-23,0.654
+Detroit Pistons @ Miami Heat,draftkings,player_threes,John Collins,Under,0.5,2.43,2026-10-23,0.412
+Detroit Pistons @ Miami Heat,betmgm,player_assists,Pelle Larsson,Over,2.5,1.67,2026-10-23,0.599
+Detroit Pistons @ Miami Heat,betmgm,player_assists,Pelle Larsson,Under,2.5,2.1,2026-10-23,0.476
+Detroit Pistons @ Miami Heat,betmgm,player_assists,Bam Adebayo,Over,2.5,1.53,2026-10-23,0.654
+Detroit Pistons @ Miami Heat,betmgm,player_assists,Bam Adebayo,Under,2.5,2.4,2026-10-23,0.417
+Detroit Pistons @ Miami Heat,betmgm,player_assists,Davion Mitchell,Over,6.5,2.05,2026-10-23,0.488
+Detroit Pistons @ Miami Heat,betmgm,player_assists,Davion Mitchell,Under,6.5,1.71,2026-10-23,0.585
+Detroit Pistons @ Miami Heat,betmgm,player_assists,Ausar Thompson,Over,3.5,1.53,2026-10-23,0.654
+Detroit Pistons @ Miami Heat,betmgm,player_assists,Ausar Thompson,Under,3.5,2.4,2026-10-23,0.417
+Detroit Pistons @ Miami Heat,betmgm,player_assists,Cade Cunningham,Over,9.5,1.91,2026-10-23,0.524
+Detroit Pistons @ Miami Heat,betmgm,player_assists,Cade Cunningham,Under,9.5,1.83,2026-10-23,0.546
+Detroit Pistons @ Miami Heat,betmgm,player_assists,Giannis Antetokounmpo,Over,5.5,1.67,2026-10-23,0.599
+Detroit Pistons @ Miami Heat,betmgm,player_assists,Giannis Antetokounmpo,Under,5.5,2.1,2026-10-23,0.476
+Detroit Pistons @ Miami Heat,betmgm,player_assists,Daniss Jenkins,Over,2.5,1.57,2026-10-23,0.637
+Detroit Pistons @ Miami Heat,betmgm,player_assists,Daniss Jenkins,Under,2.5,2.3,2026-10-23,0.435
+Detroit Pistons @ Miami Heat,betmgm,player_points,John Collins,Over,12.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,betmgm,player_points,John Collins,Under,12.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,betmgm,player_points,Jalen Duren,Over,17.5,1.77,2026-10-23,0.565
+Detroit Pistons @ Miami Heat,betmgm,player_points,Jalen Duren,Under,17.5,1.95,2026-10-23,0.513
+Detroit Pistons @ Miami Heat,betmgm,player_points,Isaiah Joe,Over,8.5,1.95,2026-10-23,0.513
+Detroit Pistons @ Miami Heat,betmgm,player_points,Isaiah Joe,Under,8.5,1.8,2026-10-23,0.556
+Detroit Pistons @ Miami Heat,betmgm,player_points,Ausar Thompson,Over,10.5,2.0,2026-10-23,0.5
+Detroit Pistons @ Miami Heat,betmgm,player_points,Ausar Thompson,Under,10.5,1.74,2026-10-23,0.575
+Detroit Pistons @ Miami Heat,betmgm,player_points,Andrew Wiggins,Over,13.5,1.95,2026-10-23,0.513
+Detroit Pistons @ Miami Heat,betmgm,player_points,Andrew Wiggins,Under,13.5,1.8,2026-10-23,0.556
+Detroit Pistons @ Miami Heat,betmgm,player_points,Klay Thompson,Over,10.5,1.91,2026-10-23,0.524
+Detroit Pistons @ Miami Heat,betmgm,player_points,Klay Thompson,Under,10.5,1.83,2026-10-23,0.546
+Detroit Pistons @ Miami Heat,betmgm,player_points,Duncan Robinson,Over,10.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,betmgm,player_points,Duncan Robinson,Under,10.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,betmgm,player_points,Cade Cunningham,Over,24.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,betmgm,player_points,Cade Cunningham,Under,24.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,betmgm,player_points,Bam Adebayo,Over,16.5,1.77,2026-10-23,0.565
+Detroit Pistons @ Miami Heat,betmgm,player_points,Bam Adebayo,Under,16.5,1.95,2026-10-23,0.513
+Detroit Pistons @ Miami Heat,betmgm,player_points,Davion Mitchell,Over,9.5,1.91,2026-10-23,0.524
+Detroit Pistons @ Miami Heat,betmgm,player_points,Davion Mitchell,Under,9.5,1.83,2026-10-23,0.546
+Detroit Pistons @ Miami Heat,betmgm,player_points,Pelle Larsson,Over,9.5,1.95,2026-10-23,0.513
+Detroit Pistons @ Miami Heat,betmgm,player_points,Pelle Larsson,Under,9.5,1.8,2026-10-23,0.556
+Detroit Pistons @ Miami Heat,betmgm,player_points,Giannis Antetokounmpo,Over,27.5,1.83,2026-10-23,0.546
+Detroit Pistons @ Miami Heat,betmgm,player_points,Giannis Antetokounmpo,Under,27.5,1.91,2026-10-23,0.524
+Detroit Pistons @ Miami Heat,betmgm,player_points,Bobby Portis,Over,9.5,1.74,2026-10-23,0.575
+Detroit Pistons @ Miami Heat,betmgm,player_points,Paul Reed Jr,Over,8.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,betmgm,player_points,Paul Reed Jr,Under,8.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,betmgm,player_points,Daniss Jenkins,Over,7.5,1.83,2026-10-23,0.546
+Detroit Pistons @ Miami Heat,betmgm,player_points,Tim Hardaway Jr.,Over,8.5,1.74,2026-10-23,0.575
+Detroit Pistons @ Miami Heat,betmgm,player_points,Tim Hardaway Jr.,Under,8.5,2.0,2026-10-23,0.5
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Bam Adebayo,Over,8.5,1.8,2026-10-23,0.556
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Bam Adebayo,Under,8.5,1.95,2026-10-23,0.513
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Davion Mitchell,Over,2.5,2.05,2026-10-23,0.488
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Davion Mitchell,Under,2.5,1.71,2026-10-23,0.585
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,John Collins,Over,5.5,2.1,2026-10-23,0.476
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,John Collins,Under,5.5,1.67,2026-10-23,0.599
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Ausar Thompson,Over,6.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Ausar Thompson,Under,6.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Andrew Wiggins,Over,4.5,2.15,2026-10-23,0.465
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Andrew Wiggins,Under,4.5,1.65,2026-10-23,0.606
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Bobby Portis,Over,5.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Bobby Portis,Under,5.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Cade Cunningham,Over,4.5,1.62,2026-10-23,0.617
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Cade Cunningham,Under,4.5,2.2,2026-10-23,0.455
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Giannis Antetokounmpo,Over,10.5,2.05,2026-10-23,0.488
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Giannis Antetokounmpo,Under,10.5,1.69,2026-10-23,0.592
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Jalen Duren,Over,9.5,1.77,2026-10-23,0.565
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Jalen Duren,Under,9.5,1.95,2026-10-23,0.513
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Pelle Larsson,Over,2.5,1.77,2026-10-23,0.565
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Pelle Larsson,Under,2.5,1.95,2026-10-23,0.513
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Paul Reed Jr,Over,4.5,1.65,2026-10-23,0.606
+Detroit Pistons @ Miami Heat,betmgm,player_rebounds,Paul Reed Jr,Under,4.5,2.15,2026-10-23,0.465
+Detroit Pistons @ Miami Heat,betmgm,player_threes,Cade Cunningham,Over,1.5,1.57,2026-10-23,0.637
+Detroit Pistons @ Miami Heat,betmgm,player_threes,Cade Cunningham,Under,1.5,2.3,2026-10-23,0.435
+Detroit Pistons @ Miami Heat,betmgm,player_threes,Isaiah Joe,Over,1.5,1.62,2026-10-23,0.617
+Detroit Pistons @ Miami Heat,betmgm,player_threes,Isaiah Joe,Under,1.5,2.2,2026-10-23,0.455
+Detroit Pistons @ Miami Heat,betmgm,player_threes,Andrew Wiggins,Over,1.5,1.65,2026-10-23,0.606
+Detroit Pistons @ Miami Heat,betmgm,player_threes,Andrew Wiggins,Under,1.5,2.15,2026-10-23,0.465
+Detroit Pistons @ Miami Heat,betmgm,player_threes,Bobby Portis,Over,1.5,2.05,2026-10-23,0.488
+Detroit Pistons @ Miami Heat,betmgm,player_threes,Bobby Portis,Under,1.5,1.71,2026-10-23,0.585
+Detroit Pistons @ Miami Heat,betmgm,player_threes,Klay Thompson,Over,2.5,1.8,2026-10-23,0.556
+Detroit Pistons @ Miami Heat,betmgm,player_threes,Klay Thompson,Under,2.5,1.95,2026-10-23,0.513
+Detroit Pistons @ Miami Heat,betmgm,player_threes,Bam Adebayo,Over,1.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,betmgm,player_threes,Bam Adebayo,Under,1.5,1.87,2026-10-23,0.535
+Detroit Pistons @ Miami Heat,betmgm,player_threes,Duncan Robinson,Over,2.5,2.05,2026-10-23,0.488
+Detroit Pistons @ Miami Heat,betmgm,player_threes,Duncan Robinson,Under,2.5,1.71,2026-10-23,0.585
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_assists,Dennis Schroder,Over,6.5,2.24,2026-10-23,0.446
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_assists,Dennis Schroder,Under,6.5,1.63,2026-10-23,0.613
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_assists,Jalen Johnson,Over,6.5,1.7,2026-10-23,0.588
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_assists,Jalen Johnson,Under,6.5,2.12,2026-10-23,0.472
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_assists,Brandon Miller,Over,3.5,1.8,2026-10-23,0.556
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_assists,Brandon Miller,Under,3.5,1.98,2026-10-23,0.505
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_assists,C.J. McCollum,Over,3.5,2.2,2026-10-23,0.455
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_assists,C.J. McCollum,Under,3.5,1.65,2026-10-23,0.606
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_assists,Nickeil Alexander-Walker,Over,3.5,2.42,2026-10-23,0.413
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_assists,Nickeil Alexander-Walker,Under,3.5,1.54,2026-10-23,0.649
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_assists,Dyson Daniels,Over,4.5,1.7,2026-10-23,0.588
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_assists,Dyson Daniels,Under,4.5,2.12,2026-10-23,0.472
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Grayson Allen,Over,14.5,1.96,2026-10-23,0.51
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Grayson Allen,Under,14.5,1.82,2026-10-23,0.549
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Luguentz Dort,Over,6.5,1.9,2026-10-23,0.526
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Luguentz Dort,Under,6.5,1.87,2026-10-23,0.535
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Naz Reid,Over,18.5,1.94,2026-10-23,0.515
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Naz Reid,Under,18.5,1.83,2026-10-23,0.546
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Brandon Miller,Over,24.5,1.88,2026-10-23,0.532
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Brandon Miller,Under,24.5,1.88,2026-10-23,0.532
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Dennis Schroder,Over,13.5,1.77,2026-10-23,0.565
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Dennis Schroder,Under,13.5,2.02,2026-10-23,0.495
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Sion James,Over,7.5,1.96,2026-10-23,0.51
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Sion James,Under,7.5,1.82,2026-10-23,0.549
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Jock Landale,Over,6.5,1.78,2026-10-23,0.562
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Jock Landale,Under,6.5,2.0,2026-10-23,0.5
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Moussa Diabate,Over,9.5,1.87,2026-10-23,0.535
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Moussa Diabate,Under,9.5,1.9,2026-10-23,0.526
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Jalen Johnson,Over,21.5,1.98,2026-10-23,0.505
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Jalen Johnson,Under,21.5,1.8,2026-10-23,0.556
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,C.J. McCollum,Over,16.5,1.9,2026-10-23,0.526
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,C.J. McCollum,Under,16.5,1.87,2026-10-23,0.535
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Onyeka Okongwu,Over,13.5,1.96,2026-10-23,0.51
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Onyeka Okongwu,Under,13.5,1.82,2026-10-23,0.549
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Dyson Daniels,Over,11.5,2.0,2026-10-23,0.5
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Dyson Daniels,Under,11.5,1.78,2026-10-23,0.562
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Nickeil Alexander-Walker,Over,18.5,1.82,2026-10-23,0.549
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_points,Nickeil Alexander-Walker,Under,18.5,1.96,2026-10-23,0.51
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Brandon Miller,Over,5.5,2.12,2026-10-23,0.472
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Brandon Miller,Under,5.5,1.7,2026-10-23,0.588
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Naz Reid,Over,7.5,2.02,2026-10-23,0.495
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Naz Reid,Under,7.5,1.77,2026-10-23,0.565
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Dennis Schroder,Over,2.5,1.65,2026-10-23,0.606
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Dennis Schroder,Under,2.5,2.2,2026-10-23,0.455
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Moussa Diabate,Over,9.5,1.96,2026-10-23,0.51
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Moussa Diabate,Under,9.5,1.82,2026-10-23,0.549
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Nickeil Alexander-Walker,Over,3.5,2.46,2026-10-23,0.407
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Nickeil Alexander-Walker,Under,3.5,1.53,2026-10-23,0.654
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Jock Landale,Over,3.5,1.78,2026-10-23,0.562
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Jock Landale,Under,3.5,2.0,2026-10-23,0.5
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Jalen Johnson,Over,9.5,1.78,2026-10-23,0.562
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Jalen Johnson,Under,9.5,2.0,2026-10-23,0.5
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,C.J. McCollum,Over,2.5,1.7,2026-10-23,0.588
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,C.J. McCollum,Under,2.5,2.12,2026-10-23,0.472
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Dyson Daniels,Over,6.5,1.96,2026-10-23,0.51
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Dyson Daniels,Under,6.5,1.82,2026-10-23,0.549
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Onyeka Okongwu,Over,6.5,1.74,2026-10-23,0.575
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Onyeka Okongwu,Under,6.5,2.06,2026-10-23,0.485
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Sion James,Over,3.5,1.8,2026-10-23,0.556
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_rebounds,Sion James,Under,3.5,1.98,2026-10-23,0.505
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,Naz Reid,Over,2.5,2.02,2026-10-23,0.495
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,Naz Reid,Under,2.5,1.77,2026-10-23,0.565
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,Sion James,Over,1.5,2.16,2026-10-23,0.463
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,Sion James,Under,1.5,1.68,2026-10-23,0.595
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,Nickeil Alexander-Walker,Over,2.5,1.78,2026-10-23,0.562
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,Nickeil Alexander-Walker,Under,2.5,2.0,2026-10-23,0.5
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,Jalen Johnson,Over,1.5,2.06,2026-10-23,0.485
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,Jalen Johnson,Under,1.5,1.74,2026-10-23,0.575
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,Onyeka Okongwu,Over,1.5,2.0,2026-10-23,0.5
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,Onyeka Okongwu,Under,1.5,1.78,2026-10-23,0.562
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,Brandon Miller,Over,3.5,1.96,2026-10-23,0.51
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,Brandon Miller,Under,3.5,1.82,2026-10-23,0.549
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,Dennis Schroder,Over,1.5,2.76,2026-10-23,0.362
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,Dennis Schroder,Under,1.5,1.43,2026-10-23,0.699
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,C.J. McCollum,Over,1.5,1.56,2026-10-23,0.641
+Atlanta Hawks @ Charlotte Hornets,fanduel,player_threes,C.J. McCollum,Under,1.5,2.38,2026-10-23,0.42
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,Jalen Johnson,Over,7.5,2.12,2026-10-23,0.472
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,Jalen Johnson,Under,7.5,1.68,2026-10-23,0.595
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,Dennis Schroder,Over,6.5,2.09,2026-10-23,0.478
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,Dennis Schroder,Under,6.5,1.69,2026-10-23,0.592
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,Dyson Daniels,Over,4.5,1.69,2026-10-23,0.592
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,Dyson Daniels,Under,4.5,2.09,2026-10-23,0.478
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,Brandon Miller,Over,3.5,1.78,2026-10-23,0.562
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,Brandon Miller,Under,3.5,1.98,2026-10-23,0.505
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,Naz Reid,Over,3.5,1.97,2026-10-23,0.508
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,Naz Reid,Under,3.5,1.79,2026-10-23,0.559
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,C.J. McCollum,Over,3.5,2.06,2026-10-23,0.485
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,C.J. McCollum,Under,3.5,1.71,2026-10-23,0.585
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,Grayson Allen,Over,3.5,2.3,2026-10-23,0.435
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,Grayson Allen,Under,3.5,1.58,2026-10-23,0.633
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,Nickeil Alexander-Walker,Over,2.5,1.63,2026-10-23,0.613
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_assists,Nickeil Alexander-Walker,Under,2.5,2.2,2026-10-23,0.455
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Brandon Miller,Over,24.5,1.92,2026-10-23,0.521
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Brandon Miller,Under,24.5,1.85,2026-10-23,0.541
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Jalen Johnson,Over,20.5,1.86,2026-10-23,0.538
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Jalen Johnson,Under,20.5,1.91,2026-10-23,0.524
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Nickeil Alexander-Walker,Over,18.5,1.85,2026-10-23,0.541
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Nickeil Alexander-Walker,Under,18.5,1.92,2026-10-23,0.521
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Naz Reid,Over,18.5,1.92,2026-10-23,0.521
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Naz Reid,Under,18.5,1.85,2026-10-23,0.541
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,C.J. McCollum,Over,16.5,1.91,2026-10-23,0.524
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,C.J. McCollum,Under,16.5,1.86,2026-10-23,0.538
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Grayson Allen,Over,14.5,1.9,2026-10-23,0.526
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Grayson Allen,Under,14.5,1.87,2026-10-23,0.535
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Dennis Schroder,Over,13.5,1.85,2026-10-23,0.541
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Dennis Schroder,Under,13.5,1.92,2026-10-23,0.521
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Onyeka Okongwu,Over,13.5,1.99,2026-10-23,0.503
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Onyeka Okongwu,Under,13.5,1.79,2026-10-23,0.559
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Dyson Daniels,Over,11.5,2.02,2026-10-23,0.495
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Dyson Daniels,Under,11.5,1.77,2026-10-23,0.565
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Moussa Diabate,Over,9.5,1.86,2026-10-23,0.538
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Moussa Diabate,Under,9.5,1.91,2026-10-23,0.524
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Sion James,Over,7.5,1.91,2026-10-23,0.524
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Sion James,Under,7.5,1.86,2026-10-23,0.538
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Jock Landale,Over,7.5,2.05,2026-10-23,0.488
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Jock Landale,Under,7.5,1.75,2026-10-23,0.571
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Luguentz Dort,Over,6.5,1.96,2026-10-23,0.51
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_points,Luguentz Dort,Under,6.5,1.81,2026-10-23,0.552
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Jalen Johnson,Over,9.5,1.74,2026-10-23,0.575
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Jalen Johnson,Under,9.5,2.03,2026-10-23,0.493
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Moussa Diabate,Over,9.5,1.99,2026-10-23,0.503
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Moussa Diabate,Under,9.5,1.77,2026-10-23,0.565
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Naz Reid,Over,7.5,1.94,2026-10-23,0.515
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Naz Reid,Under,7.5,1.81,2026-10-23,0.552
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Onyeka Okongwu,Over,7.5,2.11,2026-10-23,0.474
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Onyeka Okongwu,Under,7.5,1.68,2026-10-23,0.595
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Dyson Daniels,Over,6.5,1.95,2026-10-23,0.513
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Dyson Daniels,Under,6.5,1.8,2026-10-23,0.556
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Brandon Miller,Over,4.5,1.71,2026-10-23,0.585
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Brandon Miller,Under,4.5,2.07,2026-10-23,0.483
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Jock Landale,Over,3.5,1.68,2026-10-23,0.595
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Jock Landale,Under,3.5,2.11,2026-10-23,0.474
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Sion James,Over,3.5,1.91,2026-10-23,0.524
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Sion James,Under,3.5,1.83,2026-10-23,0.546
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Nickeil Alexander-Walker,Over,2.5,1.58,2026-10-23,0.633
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Nickeil Alexander-Walker,Under,2.5,2.3,2026-10-23,0.435
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,C.J. McCollum,Over,2.5,1.68,2026-10-23,0.595
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,C.J. McCollum,Under,2.5,2.11,2026-10-23,0.474
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Dennis Schroder,Over,2.5,1.72,2026-10-23,0.581
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Dennis Schroder,Under,2.5,2.05,2026-10-23,0.488
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Grayson Allen,Over,2.5,1.9,2026-10-23,0.526
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_rebounds,Grayson Allen,Under,2.5,1.85,2026-10-23,0.541
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Brandon Miller,Over,3.5,1.93,2026-10-23,0.518
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Brandon Miller,Under,3.5,1.82,2026-10-23,0.549
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Nickeil Alexander-Walker,Over,2.5,1.68,2026-10-23,0.595
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Nickeil Alexander-Walker,Under,2.5,2.11,2026-10-23,0.474
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Grayson Allen,Over,2.5,1.85,2026-10-23,0.541
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Grayson Allen,Under,2.5,1.88,2026-10-23,0.532
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Naz Reid,Over,2.5,2.02,2026-10-23,0.495
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Naz Reid,Under,2.5,1.75,2026-10-23,0.571
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,C.J. McCollum,Over,1.5,1.52,2026-10-23,0.658
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,C.J. McCollum,Under,1.5,2.44,2026-10-23,0.41
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Onyeka Okongwu,Over,1.5,1.87,2026-10-23,0.535
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Onyeka Okongwu,Under,1.5,1.88,2026-10-23,0.532
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Jalen Johnson,Over,1.5,1.93,2026-10-23,0.518
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Jalen Johnson,Under,1.5,1.81,2026-10-23,0.552
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Sion James,Over,1.5,2.16,2026-10-23,0.463
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Sion James,Under,1.5,1.65,2026-10-23,0.606
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Luguentz Dort,Over,1.5,2.44,2026-10-23,0.41
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Luguentz Dort,Under,1.5,1.52,2026-10-23,0.658
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Dennis Schroder,Over,1.5,2.76,2026-10-23,0.362
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Dennis Schroder,Under,1.5,1.42,2026-10-23,0.704
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Jock Landale,Over,0.5,1.62,2026-10-23,0.617
+Atlanta Hawks @ Charlotte Hornets,draftkings,player_threes,Jock Landale,Under,0.5,2.22,2026-10-23,0.45
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,Naz Reid,Over,3.5,2.0,2026-10-23,0.5
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,Naz Reid,Under,3.5,1.74,2026-10-23,0.575
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,Jalen Johnson,Over,6.5,1.77,2026-10-23,0.565
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,Jalen Johnson,Under,6.5,1.95,2026-10-23,0.513
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,Dyson Daniels,Over,4.5,1.65,2026-10-23,0.606
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,Dyson Daniels,Under,4.5,2.15,2026-10-23,0.465
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,Dennis Schroder,Over,6.5,2.15,2026-10-23,0.465
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,Dennis Schroder,Under,6.5,1.65,2026-10-23,0.606
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,C.J. McCollum,Over,3.5,2.0,2026-10-23,0.5
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,C.J. McCollum,Under,3.5,1.74,2026-10-23,0.575
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,Nickeil Alexander-Walker,Over,2.5,1.69,2026-10-23,0.592
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,Nickeil Alexander-Walker,Under,2.5,2.05,2026-10-23,0.488
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,Grayson Allen,Over,3.5,2.1,2026-10-23,0.476
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,Grayson Allen,Under,3.5,1.67,2026-10-23,0.599
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,Brandon Miller,Over,3.5,1.91,2026-10-23,0.524
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_assists,Brandon Miller,Under,3.5,1.83,2026-10-23,0.546
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Onyeka Okongwu,Over,13.5,1.95,2026-10-23,0.513
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Onyeka Okongwu,Under,13.5,1.8,2026-10-23,0.556
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Dyson Daniels,Over,11.5,1.87,2026-10-23,0.535
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Dyson Daniels,Under,11.5,1.87,2026-10-23,0.535
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Nickeil Alexander-Walker,Over,18.5,1.83,2026-10-23,0.546
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Nickeil Alexander-Walker,Under,18.5,1.91,2026-10-23,0.524
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Sion James,Over,6.5,1.8,2026-10-23,0.556
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Sion James,Under,6.5,1.95,2026-10-23,0.513
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Brandon Miller,Over,25.5,1.83,2026-10-23,0.546
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Brandon Miller,Under,25.5,1.91,2026-10-23,0.524
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Dennis Schroder,Over,13.5,1.95,2026-10-23,0.513
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Dennis Schroder,Under,13.5,1.8,2026-10-23,0.556
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Grayson Allen,Over,13.5,1.77,2026-10-23,0.565
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Grayson Allen,Under,13.5,1.95,2026-10-23,0.513
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,C.J. McCollum,Over,16.5,1.9,2026-10-23,0.526
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,C.J. McCollum,Under,16.5,1.83,2026-10-23,0.546
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Naz Reid,Over,17.5,1.8,2026-10-23,0.556
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Naz Reid,Under,17.5,1.95,2026-10-23,0.513
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Jalen Johnson,Over,21.5,1.95,2026-10-23,0.513
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Jalen Johnson,Under,21.5,1.8,2026-10-23,0.556
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Luguentz Dort,Over,6.5,2.05,2026-10-23,0.488
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Luguentz Dort,Under,6.5,1.71,2026-10-23,0.585
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Jock Landale,Over,6.5,1.74,2026-10-23,0.575
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_points,Moussa Diabate,Over,9.5,1.95,2026-10-23,0.513
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Grayson Allen,Over,2.5,1.74,2026-10-23,0.575
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Grayson Allen,Under,2.5,2.0,2026-10-23,0.5
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Dyson Daniels,Over,6.5,2.0,2026-10-23,0.5
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Dyson Daniels,Under,6.5,1.74,2026-10-23,0.575
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Moussa Diabate,Over,9.5,1.83,2026-10-23,0.546
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Moussa Diabate,Under,9.5,1.9,2026-10-23,0.526
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Naz Reid,Over,7.5,1.87,2026-10-23,0.535
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Naz Reid,Under,7.5,1.87,2026-10-23,0.535
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Onyeka Okongwu,Over,7.5,2.05,2026-10-23,0.488
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Onyeka Okongwu,Under,7.5,1.71,2026-10-23,0.585
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,C.J. McCollum,Over,2.5,1.65,2026-10-23,0.606
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,C.J. McCollum,Under,2.5,2.15,2026-10-23,0.465
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Brandon Miller,Over,5.5,2.0,2026-10-23,0.5
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Brandon Miller,Under,5.5,1.74,2026-10-23,0.575
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Sion James,Over,3.5,1.91,2026-10-23,0.524
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Sion James,Under,3.5,1.83,2026-10-23,0.546
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Dennis Schroder,Over,2.5,1.61,2026-10-23,0.621
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Dennis Schroder,Under,2.5,2.25,2026-10-23,0.444
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Nickeil Alexander-Walker,Over,3.5,2.1,2026-10-23,0.476
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Nickeil Alexander-Walker,Under,3.5,1.67,2026-10-23,0.599
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Jock Landale,Over,3.5,1.71,2026-10-23,0.585
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Jock Landale,Under,3.5,2.05,2026-10-23,0.488
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Jalen Johnson,Over,9.5,1.71,2026-10-23,0.585
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_rebounds,Jalen Johnson,Under,9.5,2.05,2026-10-23,0.488
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,C.J. McCollum,Over,1.5,1.57,2026-10-23,0.637
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,C.J. McCollum,Under,1.5,2.3,2026-10-23,0.435
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Naz Reid,Over,2.5,1.87,2026-10-23,0.535
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Naz Reid,Under,2.5,1.87,2026-10-23,0.535
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Sion James,Over,1.5,2.2,2026-10-23,0.455
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Sion James,Under,1.5,1.62,2026-10-23,0.617
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Grayson Allen,Over,2.5,1.8,2026-10-23,0.556
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Grayson Allen,Under,2.5,1.95,2026-10-23,0.513
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Nickeil Alexander-Walker,Over,2.5,1.77,2026-10-23,0.565
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Nickeil Alexander-Walker,Under,2.5,1.95,2026-10-23,0.513
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Jalen Johnson,Over,1.5,2.05,2026-10-23,0.488
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Jalen Johnson,Under,1.5,1.69,2026-10-23,0.592
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Brandon Miller,Over,3.5,1.83,2026-10-23,0.546
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Brandon Miller,Under,3.5,1.9,2026-10-23,0.526
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Onyeka Okongwu,Over,1.5,2.05,2026-10-23,0.488
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Onyeka Okongwu,Under,1.5,1.71,2026-10-23,0.585
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Dennis Schroder,Over,1.5,2.45,2026-10-23,0.408
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Dennis Schroder,Under,1.5,1.5,2026-10-23,0.667
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Luguentz Dort,Over,1.5,2.15,2026-10-23,0.465
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Luguentz Dort,Under,1.5,1.65,2026-10-23,0.606
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Jock Landale,Over,0.5,1.62,2026-10-23,0.617
+Atlanta Hawks @ Charlotte Hornets,betmgm,player_threes,Jock Landale,Under,0.5,2.2,2026-10-23,0.455
+New York Knicks @ Boston Celtics,draftkings,player_assists,Jayson Tatum,Over,6.5,1.87,2026-10-23,0.535
+New York Knicks @ Boston Celtics,draftkings,player_assists,Jayson Tatum,Under,6.5,1.88,2026-10-23,0.532
+New York Knicks @ Boston Celtics,draftkings,player_assists,Jalen Brunson,Over,5.5,1.66,2026-10-23,0.602
+New York Knicks @ Boston Celtics,draftkings,player_assists,Jalen Brunson,Under,5.5,2.15,2026-10-23,0.465
+New York Knicks @ Boston Celtics,draftkings,player_assists,Derrick White,Over,4.5,1.79,2026-10-23,0.559
+New York Knicks @ Boston Celtics,draftkings,player_assists,Derrick White,Under,4.5,1.97,2026-10-23,0.508
+New York Knicks @ Boston Celtics,draftkings,player_assists,Payton Pritchard,Over,3.5,1.65,2026-10-23,0.606
+New York Knicks @ Boston Celtics,draftkings,player_assists,Payton Pritchard,Under,3.5,2.17,2026-10-23,0.461
+New York Knicks @ Boston Celtics,draftkings,player_assists,Karl-Anthony Towns,Over,3.5,1.76,2026-10-23,0.568
+New York Knicks @ Boston Celtics,draftkings,player_assists,Karl-Anthony Towns,Under,3.5,2.0,2026-10-23,0.5
+New York Knicks @ Boston Celtics,draftkings,player_assists,Josh Hart,Over,3.5,1.76,2026-10-23,0.568
+New York Knicks @ Boston Celtics,draftkings,player_assists,Josh Hart,Under,3.5,2.0,2026-10-23,0.5
+New York Knicks @ Boston Celtics,draftkings,player_assists,Paul George,Over,2.5,1.61,2026-10-23,0.621
+New York Knicks @ Boston Celtics,draftkings,player_assists,Paul George,Under,2.5,2.23,2026-10-23,0.448
+New York Knicks @ Boston Celtics,draftkings,player_assists,Mikal Bridges,Over,2.5,1.75,2026-10-23,0.571
+New York Knicks @ Boston Celtics,draftkings,player_assists,Mikal Bridges,Under,2.5,2.01,2026-10-23,0.498
+New York Knicks @ Boston Celtics,draftkings,player_assists,OG Anunoby,Over,1.5,1.75,2026-10-23,0.571
+New York Knicks @ Boston Celtics,draftkings,player_assists,OG Anunoby,Under,1.5,2.01,2026-10-23,0.498
+New York Knicks @ Boston Celtics,draftkings,player_points,Jayson Tatum,Over,26.5,1.88,2026-10-23,0.532
+New York Knicks @ Boston Celtics,draftkings,player_points,Jayson Tatum,Under,26.5,1.88,2026-10-23,0.532
+New York Knicks @ Boston Celtics,draftkings,player_points,Jalen Brunson,Over,24.5,1.81,2026-10-23,0.552
+New York Knicks @ Boston Celtics,draftkings,player_points,Jalen Brunson,Under,24.5,1.96,2026-10-23,0.51
+New York Knicks @ Boston Celtics,draftkings,player_points,Karl-Anthony Towns,Over,17.5,1.81,2026-10-23,0.552
+New York Knicks @ Boston Celtics,draftkings,player_points,Karl-Anthony Towns,Under,17.5,1.97,2026-10-23,0.508
+New York Knicks @ Boston Celtics,draftkings,player_points,Paul George,Over,17.5,1.94,2026-10-23,0.515
+New York Knicks @ Boston Celtics,draftkings,player_points,Paul George,Under,17.5,1.83,2026-10-23,0.546
+New York Knicks @ Boston Celtics,draftkings,player_points,Payton Pritchard,Over,16.5,1.97,2026-10-23,0.508
+New York Knicks @ Boston Celtics,draftkings,player_points,Payton Pritchard,Under,16.5,1.81,2026-10-23,0.552
+New York Knicks @ Boston Celtics,draftkings,player_points,Derrick White,Over,16.5,1.99,2026-10-23,0.503
+New York Knicks @ Boston Celtics,draftkings,player_points,Derrick White,Under,16.5,1.79,2026-10-23,0.559
+New York Knicks @ Boston Celtics,draftkings,player_points,OG Anunoby,Over,15.5,1.9,2026-10-23,0.526
+New York Knicks @ Boston Celtics,draftkings,player_points,OG Anunoby,Under,15.5,1.88,2026-10-23,0.532
+New York Knicks @ Boston Celtics,draftkings,player_points,Mikal Bridges,Over,11.5,1.79,2026-10-23,0.559
+New York Knicks @ Boston Celtics,draftkings,player_points,Mikal Bridges,Under,11.5,2.0,2026-10-23,0.5
+New York Knicks @ Boston Celtics,draftkings,player_points,Josh Hart,Over,11.5,1.92,2026-10-23,0.521
+New York Knicks @ Boston Celtics,draftkings,player_points,Josh Hart,Under,11.5,1.85,2026-10-23,0.541
+New York Knicks @ Boston Celtics,draftkings,player_points,Neemias Queta,Over,7.5,1.76,2026-10-23,0.568
+New York Knicks @ Boston Celtics,draftkings,player_points,Neemias Queta,Under,7.5,2.03,2026-10-23,0.493
+New York Knicks @ Boston Celtics,draftkings,player_points,Landry Shamet,Over,6.5,1.86,2026-10-23,0.538
+New York Knicks @ Boston Celtics,draftkings,player_points,Landry Shamet,Under,6.5,1.91,2026-10-23,0.524
+New York Knicks @ Boston Celtics,draftkings,player_points,Sam Hauser,Over,6.5,1.97,2026-10-23,0.508
+New York Knicks @ Boston Celtics,draftkings,player_points,Sam Hauser,Under,6.5,1.81,2026-10-23,0.552
+New York Knicks @ Boston Celtics,draftkings,player_points,Mitchell Robinson,Over,5.5,1.74,2026-10-23,0.575
+New York Knicks @ Boston Celtics,draftkings,player_points,Mitchell Robinson,Under,5.5,2.06,2026-10-23,0.485
+New York Knicks @ Boston Celtics,draftkings,player_points,Andre Drummond,Over,5.5,1.91,2026-10-23,0.524
+New York Knicks @ Boston Celtics,draftkings,player_points,Andre Drummond,Under,5.5,1.86,2026-10-23,0.538
+New York Knicks @ Boston Celtics,draftkings,player_points,Miles McBride,Over,5.5,1.93,2026-10-23,0.518
+New York Knicks @ Boston Celtics,draftkings,player_points,Miles McBride,Under,5.5,1.85,2026-10-23,0.541
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Karl-Anthony Towns,Over,11.5,1.86,2026-10-23,0.538
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Karl-Anthony Towns,Under,11.5,1.88,2026-10-23,0.532
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Jayson Tatum,Over,8.5,1.83,2026-10-23,0.546
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Jayson Tatum,Under,8.5,1.91,2026-10-23,0.524
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Andre Drummond,Over,7.5,2.08,2026-10-23,0.481
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Andre Drummond,Under,7.5,1.7,2026-10-23,0.588
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Mitchell Robinson,Over,7.5,2.09,2026-10-23,0.478
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Mitchell Robinson,Under,7.5,1.7,2026-10-23,0.588
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Josh Hart,Over,6.5,1.69,2026-10-23,0.592
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Josh Hart,Under,6.5,2.1,2026-10-23,0.476
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Neemias Queta,Over,6.5,1.79,2026-10-23,0.559
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Neemias Queta,Under,6.5,1.96,2026-10-23,0.51
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,OG Anunoby,Over,4.5,1.74,2026-10-23,0.575
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,OG Anunoby,Under,4.5,2.03,2026-10-23,0.493
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Paul George,Over,4.5,2.1,2026-10-23,0.476
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Paul George,Under,4.5,1.68,2026-10-23,0.595
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Derrick White,Over,3.5,1.9,2026-10-23,0.526
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Derrick White,Under,3.5,1.84,2026-10-23,0.543
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Mikal Bridges,Over,3.5,2.15,2026-10-23,0.465
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Mikal Bridges,Under,3.5,1.66,2026-10-23,0.602
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Payton Pritchard,Over,3.5,2.18,2026-10-23,0.459
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Payton Pritchard,Under,3.5,1.64,2026-10-23,0.61
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Jalen Brunson,Over,2.5,1.59,2026-10-23,0.629
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Jalen Brunson,Under,2.5,2.28,2026-10-23,0.439
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Sam Hauser,Over,2.5,1.69,2026-10-23,0.592
+New York Knicks @ Boston Celtics,draftkings,player_rebounds,Sam Hauser,Under,2.5,2.1,2026-10-23,0.476
+New York Knicks @ Boston Celtics,draftkings,player_threes,Jayson Tatum,Over,2.5,1.58,2026-10-23,0.633
+New York Knicks @ Boston Celtics,draftkings,player_threes,Jayson Tatum,Under,2.5,2.3,2026-10-23,0.435
+New York Knicks @ Boston Celtics,draftkings,player_threes,Paul George,Over,2.5,1.71,2026-10-23,0.585
+New York Knicks @ Boston Celtics,draftkings,player_threes,Paul George,Under,2.5,2.06,2026-10-23,0.485
+New York Knicks @ Boston Celtics,draftkings,player_threes,Derrick White,Over,2.5,1.85,2026-10-23,0.541
+New York Knicks @ Boston Celtics,draftkings,player_threes,Derrick White,Under,2.5,1.9,2026-10-23,0.526
+New York Knicks @ Boston Celtics,draftkings,player_threes,Payton Pritchard,Over,2.5,2.0,2026-10-23,0.5
+New York Knicks @ Boston Celtics,draftkings,player_threes,Payton Pritchard,Under,2.5,1.76,2026-10-23,0.568
+New York Knicks @ Boston Celtics,draftkings,player_threes,OG Anunoby,Over,2.5,2.33,2026-10-23,0.429
+New York Knicks @ Boston Celtics,draftkings,player_threes,OG Anunoby,Under,2.5,1.57,2026-10-23,0.637
+New York Knicks @ Boston Celtics,draftkings,player_threes,Jalen Brunson,Over,2.5,2.35,2026-10-23,0.426
+New York Knicks @ Boston Celtics,draftkings,player_threes,Jalen Brunson,Under,2.5,1.56,2026-10-23,0.641
+New York Knicks @ Boston Celtics,draftkings,player_threes,Sam Hauser,Over,1.5,1.66,2026-10-23,0.602
+New York Knicks @ Boston Celtics,draftkings,player_threes,Sam Hauser,Under,1.5,2.14,2026-10-23,0.467
+New York Knicks @ Boston Celtics,draftkings,player_threes,Landry Shamet,Over,1.5,1.86,2026-10-23,0.538
+New York Knicks @ Boston Celtics,draftkings,player_threes,Landry Shamet,Under,1.5,1.88,2026-10-23,0.532
+New York Knicks @ Boston Celtics,draftkings,player_threes,Mikal Bridges,Over,1.5,2.15,2026-10-23,0.465
+New York Knicks @ Boston Celtics,draftkings,player_threes,Mikal Bridges,Under,1.5,1.66,2026-10-23,0.602
+New York Knicks @ Boston Celtics,draftkings,player_threes,Josh Hart,Over,1.5,2.21,2026-10-23,0.452
+New York Knicks @ Boston Celtics,draftkings,player_threes,Josh Hart,Under,1.5,1.63,2026-10-23,0.613
+New York Knicks @ Boston Celtics,draftkings,player_threes,Karl-Anthony Towns,Over,1.5,2.27,2026-10-23,0.441
+New York Knicks @ Boston Celtics,draftkings,player_threes,Karl-Anthony Towns,Under,1.5,1.6,2026-10-23,0.625
+New York Knicks @ Boston Celtics,draftkings,player_threes,Miles McBride,Over,1.5,2.7,2026-10-23,0.37
+New York Knicks @ Boston Celtics,draftkings,player_threes,Miles McBride,Under,1.5,1.44,2026-10-23,0.694
+New York Knicks @ Boston Celtics,fanduel,player_assists,Paul George,Over,2.5,1.62,2026-10-23,0.617
+New York Knicks @ Boston Celtics,fanduel,player_assists,Paul George,Under,2.5,2.26,2026-10-23,0.442
+New York Knicks @ Boston Celtics,fanduel,player_assists,Josh Hart,Over,3.5,1.76,2026-10-23,0.568
+New York Knicks @ Boston Celtics,fanduel,player_assists,Josh Hart,Under,3.5,2.04,2026-10-23,0.49
+New York Knicks @ Boston Celtics,fanduel,player_assists,Mikal Bridges,Over,2.5,1.83,2026-10-23,0.546
+New York Knicks @ Boston Celtics,fanduel,player_assists,Mikal Bridges,Under,2.5,1.94,2026-10-23,0.515
+New York Knicks @ Boston Celtics,fanduel,player_assists,Derrick White,Over,4.5,1.82,2026-10-23,0.549
+New York Knicks @ Boston Celtics,fanduel,player_assists,Derrick White,Under,4.5,1.96,2026-10-23,0.51
+New York Knicks @ Boston Celtics,fanduel,player_assists,Jalen Brunson,Over,6.5,2.24,2026-10-23,0.446
+New York Knicks @ Boston Celtics,fanduel,player_assists,Jalen Brunson,Under,6.5,1.62,2026-10-23,0.617
+New York Knicks @ Boston Celtics,fanduel,player_assists,Payton Pritchard,Over,3.5,1.62,2026-10-23,0.617
+New York Knicks @ Boston Celtics,fanduel,player_assists,Payton Pritchard,Under,3.5,2.26,2026-10-23,0.442
+New York Knicks @ Boston Celtics,fanduel,player_assists,Jayson Tatum,Over,6.5,2.02,2026-10-23,0.495
+New York Knicks @ Boston Celtics,fanduel,player_assists,Jayson Tatum,Under,6.5,1.77,2026-10-23,0.565
+New York Knicks @ Boston Celtics,fanduel,player_assists,Karl-Anthony Towns,Over,3.5,1.8,2026-10-23,0.556
+New York Knicks @ Boston Celtics,fanduel,player_assists,Karl-Anthony Towns,Under,3.5,1.98,2026-10-23,0.505
+New York Knicks @ Boston Celtics,fanduel,player_points,Paul George,Over,17.5,1.96,2026-10-23,0.51
+New York Knicks @ Boston Celtics,fanduel,player_points,Paul George,Under,17.5,1.82,2026-10-23,0.549
+New York Knicks @ Boston Celtics,fanduel,player_points,Mikal Bridges,Over,11.5,1.78,2026-10-23,0.562
+New York Knicks @ Boston Celtics,fanduel,player_points,Mikal Bridges,Under,11.5,2.0,2026-10-23,0.5
+New York Knicks @ Boston Celtics,fanduel,player_points,Josh Hart,Over,11.5,1.88,2026-10-23,0.532
+New York Knicks @ Boston Celtics,fanduel,player_points,Josh Hart,Under,11.5,1.88,2026-10-23,0.532
+New York Knicks @ Boston Celtics,fanduel,player_points,Miles McBride,Over,5.5,1.9,2026-10-23,0.526
+New York Knicks @ Boston Celtics,fanduel,player_points,Miles McBride,Under,5.5,1.87,2026-10-23,0.535
+New York Knicks @ Boston Celtics,fanduel,player_points,Andre Drummond,Over,5.5,1.94,2026-10-23,0.515
+New York Knicks @ Boston Celtics,fanduel,player_points,Andre Drummond,Under,5.5,1.83,2026-10-23,0.546
+New York Knicks @ Boston Celtics,fanduel,player_points,Derrick White,Over,16.5,2.06,2026-10-23,0.485
+New York Knicks @ Boston Celtics,fanduel,player_points,Derrick White,Under,16.5,1.74,2026-10-23,0.575
+New York Knicks @ Boston Celtics,fanduel,player_points,Neemias Queta,Over,7.5,1.88,2026-10-23,0.532
+New York Knicks @ Boston Celtics,fanduel,player_points,Neemias Queta,Under,7.5,1.88,2026-10-23,0.532
+New York Knicks @ Boston Celtics,fanduel,player_points,Landry Shamet,Over,7.5,2.06,2026-10-23,0.485
+New York Knicks @ Boston Celtics,fanduel,player_points,Landry Shamet,Under,7.5,1.74,2026-10-23,0.575
+New York Knicks @ Boston Celtics,fanduel,player_points,Sam Hauser,Over,6.5,1.98,2026-10-23,0.505
+New York Knicks @ Boston Celtics,fanduel,player_points,Sam Hauser,Under,6.5,1.8,2026-10-23,0.556
+New York Knicks @ Boston Celtics,fanduel,player_points,Payton Pritchard,Over,15.5,1.83,2026-10-23,0.546
+New York Knicks @ Boston Celtics,fanduel,player_points,Payton Pritchard,Under,15.5,1.94,2026-10-23,0.515
+New York Knicks @ Boston Celtics,fanduel,player_points,Jayson Tatum,Over,26.5,1.96,2026-10-23,0.51
+New York Knicks @ Boston Celtics,fanduel,player_points,Jayson Tatum,Under,26.5,1.82,2026-10-23,0.549
+New York Knicks @ Boston Celtics,fanduel,player_points,Jalen Brunson,Over,24.5,1.82,2026-10-23,0.549
+New York Knicks @ Boston Celtics,fanduel,player_points,Jalen Brunson,Under,24.5,1.96,2026-10-23,0.51
+New York Knicks @ Boston Celtics,fanduel,player_points,OG Anunoby,Over,15.5,1.9,2026-10-23,0.526
+New York Knicks @ Boston Celtics,fanduel,player_points,OG Anunoby,Under,15.5,1.87,2026-10-23,0.535
+New York Knicks @ Boston Celtics,fanduel,player_points,Karl-Anthony Towns,Over,17.5,1.76,2026-10-23,0.568
+New York Knicks @ Boston Celtics,fanduel,player_points,Karl-Anthony Towns,Under,17.5,2.04,2026-10-23,0.49
+New York Knicks @ Boston Celtics,fanduel,player_points,Mitchell Robinson,Over,6.5,2.02,2026-10-23,0.495
+New York Knicks @ Boston Celtics,fanduel,player_points,Mitchell Robinson,Under,6.5,1.77,2026-10-23,0.565
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Jalen Brunson,Over,3.5,2.44,2026-10-23,0.41
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Jalen Brunson,Under,3.5,1.54,2026-10-23,0.649
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Paul George,Over,4.5,2.1,2026-10-23,0.476
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Paul George,Under,4.5,1.71,2026-10-23,0.585
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Josh Hart,Over,6.5,1.67,2026-10-23,0.599
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Josh Hart,Under,6.5,2.18,2026-10-23,0.459
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Mikal Bridges,Over,3.5,2.18,2026-10-23,0.459
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Mikal Bridges,Under,3.5,1.67,2026-10-23,0.599
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Neemias Queta,Over,6.5,1.87,2026-10-23,0.535
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Neemias Queta,Under,6.5,1.9,2026-10-23,0.526
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Derrick White,Over,3.5,1.88,2026-10-23,0.532
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Derrick White,Under,3.5,1.88,2026-10-23,0.532
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Andre Drummond,Over,7.5,2.22,2026-10-23,0.45
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Andre Drummond,Under,7.5,1.64,2026-10-23,0.61
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Payton Pritchard,Over,3.5,2.14,2026-10-23,0.467
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Payton Pritchard,Under,3.5,1.68,2026-10-23,0.595
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Jayson Tatum,Over,8.5,1.98,2026-10-23,0.505
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Jayson Tatum,Under,8.5,1.8,2026-10-23,0.556
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Karl-Anthony Towns,Over,11.5,2.1,2026-10-23,0.476
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Karl-Anthony Towns,Under,11.5,1.71,2026-10-23,0.585
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,OG Anunoby,Over,5.5,2.28,2026-10-23,0.439
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,OG Anunoby,Under,5.5,1.61,2026-10-23,0.621
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Mitchell Robinson,Over,7.5,2.22,2026-10-23,0.45
+New York Knicks @ Boston Celtics,fanduel,player_rebounds,Mitchell Robinson,Under,7.5,1.64,2026-10-23,0.61
+New York Knicks @ Boston Celtics,fanduel,player_threes,Paul George,Over,2.5,1.74,2026-10-23,0.575
+New York Knicks @ Boston Celtics,fanduel,player_threes,Paul George,Under,2.5,2.06,2026-10-23,0.485
+New York Knicks @ Boston Celtics,fanduel,player_threes,Mikal Bridges,Over,1.5,2.14,2026-10-23,0.467
+New York Knicks @ Boston Celtics,fanduel,player_threes,Mikal Bridges,Under,1.5,1.68,2026-10-23,0.595
+New York Knicks @ Boston Celtics,fanduel,player_threes,Josh Hart,Over,1.5,2.02,2026-10-23,0.495
+New York Knicks @ Boston Celtics,fanduel,player_threes,Josh Hart,Under,1.5,1.77,2026-10-23,0.565
+New York Knicks @ Boston Celtics,fanduel,player_threes,Derrick White,Over,2.5,1.78,2026-10-23,0.562
+New York Knicks @ Boston Celtics,fanduel,player_threes,Derrick White,Under,2.5,2.0,2026-10-23,0.5
+New York Knicks @ Boston Celtics,fanduel,player_threes,Landry Shamet,Over,1.5,1.82,2026-10-23,0.549
+New York Knicks @ Boston Celtics,fanduel,player_threes,Landry Shamet,Under,1.5,1.96,2026-10-23,0.51
+New York Knicks @ Boston Celtics,fanduel,player_threes,Jalen Brunson,Over,2.5,2.54,2026-10-23,0.394
+New York Knicks @ Boston Celtics,fanduel,player_threes,Jalen Brunson,Under,2.5,1.5,2026-10-23,0.667
+New York Knicks @ Boston Celtics,fanduel,player_threes,Payton Pritchard,Over,2.5,2.02,2026-10-23,0.495
+New York Knicks @ Boston Celtics,fanduel,player_threes,Payton Pritchard,Under,2.5,1.77,2026-10-23,0.565
+New York Knicks @ Boston Celtics,fanduel,player_threes,Jayson Tatum,Over,2.5,1.58,2026-10-23,0.633
+New York Knicks @ Boston Celtics,fanduel,player_threes,Jayson Tatum,Under,2.5,2.34,2026-10-23,0.427
+New York Knicks @ Boston Celtics,fanduel,player_threes,Karl-Anthony Towns,Over,1.5,2.06,2026-10-23,0.485
+New York Knicks @ Boston Celtics,fanduel,player_threes,Karl-Anthony Towns,Under,1.5,1.74,2026-10-23,0.575
+New York Knicks @ Boston Celtics,fanduel,player_threes,OG Anunoby,Over,2.5,2.44,2026-10-23,0.41
+New York Knicks @ Boston Celtics,fanduel,player_threes,OG Anunoby,Under,2.5,1.54,2026-10-23,0.649
+New York Knicks @ Boston Celtics,betmgm,player_assists,Derrick White,Over,4.5,1.71,2026-10-23,0.585
+New York Knicks @ Boston Celtics,betmgm,player_assists,Derrick White,Under,4.5,2.05,2026-10-23,0.488
+New York Knicks @ Boston Celtics,betmgm,player_assists,Payton Pritchard,Over,3.5,1.67,2026-10-23,0.599
+New York Knicks @ Boston Celtics,betmgm,player_assists,Payton Pritchard,Under,3.5,2.1,2026-10-23,0.476
+New York Knicks @ Boston Celtics,betmgm,player_assists,Jayson Tatum,Over,6.5,2.05,2026-10-23,0.488
+New York Knicks @ Boston Celtics,betmgm,player_assists,Jayson Tatum,Under,6.5,1.71,2026-10-23,0.585
+New York Knicks @ Boston Celtics,betmgm,player_assists,Paul George,Over,2.5,1.61,2026-10-23,0.621
+New York Knicks @ Boston Celtics,betmgm,player_assists,Paul George,Under,2.5,2.25,2026-10-23,0.444
+New York Knicks @ Boston Celtics,betmgm,player_assists,Karl-Anthony Towns,Over,3.5,1.71,2026-10-23,0.585
+New York Knicks @ Boston Celtics,betmgm,player_assists,Karl-Anthony Towns,Under,3.5,2.05,2026-10-23,0.488
+New York Knicks @ Boston Celtics,betmgm,player_assists,Mikal Bridges,Over,2.5,1.74,2026-10-23,0.575
+New York Knicks @ Boston Celtics,betmgm,player_assists,Mikal Bridges,Under,2.5,2.0,2026-10-23,0.5
+New York Knicks @ Boston Celtics,betmgm,player_assists,Jalen Brunson,Over,6.5,2.15,2026-10-23,0.465
+New York Knicks @ Boston Celtics,betmgm,player_assists,Jalen Brunson,Under,6.5,1.65,2026-10-23,0.606
+New York Knicks @ Boston Celtics,betmgm,player_assists,OG Anunoby,Over,1.5,1.83,2026-10-23,0.546
+New York Knicks @ Boston Celtics,betmgm,player_assists,OG Anunoby,Under,1.5,1.91,2026-10-23,0.524
+New York Knicks @ Boston Celtics,betmgm,player_assists,Josh Hart,Over,3.5,1.69,2026-10-23,0.592
+New York Knicks @ Boston Celtics,betmgm,player_assists,Josh Hart,Under,3.5,2.05,2026-10-23,0.488
+New York Knicks @ Boston Celtics,betmgm,player_points,Jayson Tatum,Over,26.5,1.83,2026-10-23,0.546
+New York Knicks @ Boston Celtics,betmgm,player_points,Jayson Tatum,Under,26.5,1.91,2026-10-23,0.524
+New York Knicks @ Boston Celtics,betmgm,player_points,Sam Hauser,Over,6.5,2.0,2026-10-23,0.5
+New York Knicks @ Boston Celtics,betmgm,player_points,Sam Hauser,Under,6.5,1.74,2026-10-23,0.575
+New York Knicks @ Boston Celtics,betmgm,player_points,Derrick White,Over,15.5,1.83,2026-10-23,0.546
+New York Knicks @ Boston Celtics,betmgm,player_points,Derrick White,Under,15.5,1.91,2026-10-23,0.524
+New York Knicks @ Boston Celtics,betmgm,player_points,Mitchell Robinson,Over,5.5,1.83,2026-10-23,0.546
+New York Knicks @ Boston Celtics,betmgm,player_points,Mitchell Robinson,Under,5.5,1.91,2026-10-23,0.524
+New York Knicks @ Boston Celtics,betmgm,player_points,Paul George,Over,17.5,1.83,2026-10-23,0.546
+New York Knicks @ Boston Celtics,betmgm,player_points,Paul George,Under,17.5,1.9,2026-10-23,0.526
+New York Knicks @ Boston Celtics,betmgm,player_points,Mikal Bridges,Over,11.5,1.71,2026-10-23,0.585
+New York Knicks @ Boston Celtics,betmgm,player_points,Mikal Bridges,Under,11.5,2.05,2026-10-23,0.488
+New York Knicks @ Boston Celtics,betmgm,player_points,Andre Drummond,Over,4.5,1.62,2026-10-23,0.617
+New York Knicks @ Boston Celtics,betmgm,player_points,Andre Drummond,Under,4.5,2.2,2026-10-23,0.455
+New York Knicks @ Boston Celtics,betmgm,player_points,Josh Hart,Over,11.5,1.95,2026-10-23,0.513
+New York Knicks @ Boston Celtics,betmgm,player_points,Josh Hart,Under,11.5,1.8,2026-10-23,0.556
+New York Knicks @ Boston Celtics,betmgm,player_points,Jalen Brunson,Over,24.5,1.83,2026-10-23,0.546
+New York Knicks @ Boston Celtics,betmgm,player_points,Jalen Brunson,Under,24.5,1.91,2026-10-23,0.524
+New York Knicks @ Boston Celtics,betmgm,player_points,Karl-Anthony Towns,Over,18.5,1.95,2026-10-23,0.513
+New York Knicks @ Boston Celtics,betmgm,player_points,Karl-Anthony Towns,Under,18.5,1.8,2026-10-23,0.556
+New York Knicks @ Boston Celtics,betmgm,player_points,Payton Pritchard,Over,16.5,1.95,2026-10-23,0.513
+New York Knicks @ Boston Celtics,betmgm,player_points,Payton Pritchard,Under,16.5,1.8,2026-10-23,0.556
+New York Knicks @ Boston Celtics,betmgm,player_points,Landry Shamet,Over,6.5,1.77,2026-10-23,0.565
+New York Knicks @ Boston Celtics,betmgm,player_points,Landry Shamet,Under,6.5,1.95,2026-10-23,0.513
+New York Knicks @ Boston Celtics,betmgm,player_points,Neemias Queta,Over,7.5,1.74,2026-10-23,0.575
+New York Knicks @ Boston Celtics,betmgm,player_points,Miles McBride,Over,5.5,1.95,2026-10-23,0.513
+New York Knicks @ Boston Celtics,betmgm,player_points,Miles McBride,Under,5.5,1.77,2026-10-23,0.565
+New York Knicks @ Boston Celtics,betmgm,player_points,OG Anunoby,Over,14.5,1.77,2026-10-23,0.565
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Paul George,Over,4.5,2.0,2026-10-23,0.5
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Paul George,Under,4.5,1.74,2026-10-23,0.575
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Sam Hauser,Over,2.5,1.74,2026-10-23,0.575
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Sam Hauser,Under,2.5,2.0,2026-10-23,0.5
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Payton Pritchard,Over,3.5,2.15,2026-10-23,0.465
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Payton Pritchard,Under,3.5,1.65,2026-10-23,0.606
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Derrick White,Over,3.5,1.87,2026-10-23,0.535
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Derrick White,Under,3.5,1.87,2026-10-23,0.535
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Jayson Tatum,Over,8.5,1.83,2026-10-23,0.546
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Jayson Tatum,Under,8.5,1.91,2026-10-23,0.524
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Neemias Queta,Over,6.5,1.9,2026-10-23,0.526
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Neemias Queta,Under,6.5,1.85,2026-10-23,0.541
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Mitchell Robinson,Over,7.5,2.1,2026-10-23,0.476
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Mitchell Robinson,Under,7.5,1.67,2026-10-23,0.599
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,OG Anunoby,Over,4.5,1.74,2026-10-23,0.575
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,OG Anunoby,Under,4.5,2.0,2026-10-23,0.5
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Karl-Anthony Towns,Over,11.5,1.91,2026-10-23,0.524
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Karl-Anthony Towns,Under,11.5,1.83,2026-10-23,0.546
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Jalen Brunson,Over,3.5,2.3,2026-10-23,0.435
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Jalen Brunson,Under,3.5,1.57,2026-10-23,0.637
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Mikal Bridges,Over,3.5,2.1,2026-10-23,0.476
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Mikal Bridges,Under,3.5,1.67,2026-10-23,0.599
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Andre Drummond,Over,7.5,2.1,2026-10-23,0.476
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Andre Drummond,Under,7.5,1.67,2026-10-23,0.599
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Josh Hart,Over,6.5,1.69,2026-10-23,0.592
+New York Knicks @ Boston Celtics,betmgm,player_rebounds,Josh Hart,Under,6.5,2.05,2026-10-23,0.488
+New York Knicks @ Boston Celtics,betmgm,player_threes,Sam Hauser,Over,1.5,1.69,2026-10-23,0.592
+New York Knicks @ Boston Celtics,betmgm,player_threes,Sam Hauser,Under,1.5,2.05,2026-10-23,0.488
+New York Knicks @ Boston Celtics,betmgm,player_threes,Derrick White,Over,2.5,1.83,2026-10-23,0.546
+New York Knicks @ Boston Celtics,betmgm,player_threes,Derrick White,Under,2.5,1.9,2026-10-23,0.526
+New York Knicks @ Boston Celtics,betmgm,player_threes,Paul George,Over,2.5,1.67,2026-10-23,0.599
+New York Knicks @ Boston Celtics,betmgm,player_threes,Paul George,Under,2.5,2.1,2026-10-23,0.476
+New York Knicks @ Boston Celtics,betmgm,player_threes,Payton Pritchard,Over,2.5,2.05,2026-10-23,0.488
+New York Knicks @ Boston Celtics,betmgm,player_threes,Payton Pritchard,Under,2.5,1.71,2026-10-23,0.585
+New York Knicks @ Boston Celtics,betmgm,player_threes,Jayson Tatum,Over,2.5,1.57,2026-10-23,0.637
+New York Knicks @ Boston Celtics,betmgm,player_threes,Jayson Tatum,Under,2.5,2.3,2026-10-23,0.435
+New York Knicks @ Boston Celtics,betmgm,player_threes,OG Anunoby,Over,2.5,2.4,2026-10-23,0.417
+New York Knicks @ Boston Celtics,betmgm,player_threes,OG Anunoby,Under,2.5,1.53,2026-10-23,0.654
+New York Knicks @ Boston Celtics,betmgm,player_threes,Josh Hart,Over,1.5,1.95,2026-10-23,0.513
+New York Knicks @ Boston Celtics,betmgm,player_threes,Josh Hart,Under,1.5,1.8,2026-10-23,0.556
+New York Knicks @ Boston Celtics,betmgm,player_threes,Landry Shamet,Over,1.5,1.83,2026-10-23,0.546
+New York Knicks @ Boston Celtics,betmgm,player_threes,Landry Shamet,Under,1.5,1.9,2026-10-23,0.526
+New York Knicks @ Boston Celtics,betmgm,player_threes,Mikal Bridges,Over,1.5,2.05,2026-10-23,0.488
+New York Knicks @ Boston Celtics,betmgm,player_threes,Mikal Bridges,Under,1.5,1.71,2026-10-23,0.585
+New York Knicks @ Boston Celtics,betmgm,player_threes,Jalen Brunson,Over,2.5,2.2,2026-10-23,0.455
+New York Knicks @ Boston Celtics,betmgm,player_threes,Jalen Brunson,Under,2.5,1.62,2026-10-23,0.617
+New York Knicks @ Boston Celtics,betmgm,player_threes,Karl-Anthony Towns,Over,1.5,2.2,2026-10-23,0.455
+New York Knicks @ Boston Celtics,betmgm,player_threes,Karl-Anthony Towns,Under,1.5,1.62,2026-10-23,0.617
+New York Knicks @ Boston Celtics,betmgm,player_threes,Miles McBride,Over,1.5,2.4,2026-10-23,0.417
+New York Knicks @ Boston Celtics,betmgm,player_threes,Miles McBride,Under,1.5,1.53,2026-10-23,0.654
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_assists,Brandin Podziemski,Over,3.5,1.87,2026-10-23,0.535
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_assists,Brandin Podziemski,Under,3.5,1.9,2026-10-23,0.526
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_assists,Draymond Green,Over,5.5,1.62,2026-10-23,0.617
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_assists,Draymond Green,Under,5.5,2.24,2026-10-23,0.446
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_assists,Cameron Boozer,Over,4.5,2.24,2026-10-23,0.446
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_assists,Cameron Boozer,Under,4.5,1.62,2026-10-23,0.617
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_assists,Ty Jerome,Over,6.5,1.8,2026-10-23,0.556
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_assists,Ty Jerome,Under,6.5,1.98,2026-10-23,0.505
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_assists,Stephen Curry,Over,4.5,2.22,2026-10-23,0.45
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_assists,Stephen Curry,Under,4.5,1.64,2026-10-23,0.61
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Ty Jerome,Over,21.5,1.93,2026-10-23,0.518
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Ty Jerome,Under,21.5,1.85,2026-10-23,0.541
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Yaxel Lendeborg,Over,15.5,1.94,2026-10-23,0.515
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Yaxel Lendeborg,Under,15.5,1.83,2026-10-23,0.546
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Draymond Green,Over,7.5,1.82,2026-10-23,0.549
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Draymond Green,Under,7.5,1.96,2026-10-23,0.51
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Brandin Podziemski,Over,13.5,1.88,2026-10-23,0.532
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Brandin Podziemski,Under,13.5,1.88,2026-10-23,0.532
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Zach Edey,Over,11.5,2.02,2026-10-23,0.495
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Zach Edey,Under,11.5,1.77,2026-10-23,0.565
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Gui Santos,Over,11.5,1.78,2026-10-23,0.562
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Gui Santos,Under,11.5,2.0,2026-10-23,0.5
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Jerami Grant,Over,14.5,2.02,2026-10-23,0.495
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Jerami Grant,Under,14.5,1.77,2026-10-23,0.565
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Cameron Boozer,Over,16.5,1.9,2026-10-23,0.526
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Cameron Boozer,Under,16.5,1.87,2026-10-23,0.535
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Stephen Curry,Over,24.5,1.82,2026-10-23,0.549
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Stephen Curry,Under,24.5,1.96,2026-10-23,0.51
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Jaylen Wells,Over,11.5,1.78,2026-10-23,0.562
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_points,Jaylen Wells,Under,11.5,2.0,2026-10-23,0.5
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Draymond Green,Over,5.5,1.88,2026-10-23,0.532
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Draymond Green,Under,5.5,1.88,2026-10-23,0.532
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Cameron Boozer,Over,8.5,2.1,2026-10-23,0.476
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Cameron Boozer,Under,8.5,1.71,2026-10-23,0.585
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Brandin Podziemski,Over,5.5,2.14,2026-10-23,0.467
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Brandin Podziemski,Under,5.5,1.68,2026-10-23,0.595
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Stephen Curry,Over,3.5,2.0,2026-10-23,0.5
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Stephen Curry,Under,3.5,1.78,2026-10-23,0.562
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Zach Edey,Over,9.5,1.98,2026-10-23,0.505
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Zach Edey,Under,9.5,1.8,2026-10-23,0.556
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Al Horford,Over,3.5,1.6,2026-10-23,0.625
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Al Horford,Under,3.5,2.28,2026-10-23,0.439
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Ty Jerome,Over,3.5,2.0,2026-10-23,0.5
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Ty Jerome,Under,3.5,1.78,2026-10-23,0.562
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Gui Santos,Over,5.5,1.93,2026-10-23,0.518
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Gui Santos,Under,5.5,1.85,2026-10-23,0.541
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Yaxel Lendeborg,Over,6.5,1.94,2026-10-23,0.515
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_rebounds,Yaxel Lendeborg,Under,6.5,1.83,2026-10-23,0.546
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Brandin Podziemski,Over,1.5,1.56,2026-10-23,0.641
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Brandin Podziemski,Under,1.5,2.38,2026-10-23,0.42
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Stephen Curry,Over,4.5,2.28,2026-10-23,0.439
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Stephen Curry,Under,4.5,1.61,2026-10-23,0.621
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Cameron Boozer,Over,1.5,2.54,2026-10-23,0.394
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Cameron Boozer,Under,1.5,1.5,2026-10-23,0.667
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Al Horford,Over,1.5,2.38,2026-10-23,0.42
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Al Horford,Under,1.5,1.56,2026-10-23,0.641
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Jerami Grant,Over,1.5,1.77,2026-10-23,0.565
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Jerami Grant,Under,1.5,2.02,2026-10-23,0.495
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Ty Jerome,Over,2.5,1.68,2026-10-23,0.595
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Ty Jerome,Under,2.5,2.16,2026-10-23,0.463
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Yaxel Lendeborg,Over,1.5,2.28,2026-10-23,0.439
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Yaxel Lendeborg,Under,1.5,1.6,2026-10-23,0.625
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Jaylen Wells,Over,1.5,1.68,2026-10-23,0.595
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Jaylen Wells,Under,1.5,2.16,2026-10-23,0.463
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Gui Santos,Over,1.5,2.24,2026-10-23,0.446
+Memphis Grizzlies @ Golden State Warriors,fanduel,player_threes,Gui Santos,Under,1.5,1.63,2026-10-23,0.613
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_assists,Ty Jerome,Over,6.5,1.8,2026-10-23,0.556
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_assists,Ty Jerome,Under,6.5,1.95,2026-10-23,0.513
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_assists,Draymond Green,Over,5.5,1.71,2026-10-23,0.585
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_assists,Draymond Green,Under,5.5,2.07,2026-10-23,0.483
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_assists,Cameron Boozer,Over,4.5,2.1,2026-10-23,0.476
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_assists,Cameron Boozer,Under,4.5,1.69,2026-10-23,0.592
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_assists,Stephen Curry,Over,4.5,2.13,2026-10-23,0.469
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_assists,Stephen Curry,Under,4.5,1.67,2026-10-23,0.599
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_assists,Brandin Podziemski,Over,3.5,1.93,2026-10-23,0.518
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_assists,Brandin Podziemski,Under,3.5,1.82,2026-10-23,0.549
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_assists,Yaxel Lendeborg,Over,2.5,1.57,2026-10-23,0.637
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_assists,Yaxel Lendeborg,Under,2.5,2.32,2026-10-23,0.431
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_assists,Gui Santos,Over,2.5,1.82,2026-10-23,0.549
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_assists,Gui Santos,Under,2.5,1.93,2026-10-23,0.518
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Stephen Curry,Over,25.5,1.83,2026-10-23,0.546
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Stephen Curry,Under,25.5,1.93,2026-10-23,0.518
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Ty Jerome,Over,21.5,1.81,2026-10-23,0.552
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Ty Jerome,Under,21.5,1.97,2026-10-23,0.508
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Cameron Boozer,Over,16.5,1.91,2026-10-23,0.524
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Cameron Boozer,Under,16.5,1.86,2026-10-23,0.538
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Yaxel Lendeborg,Over,14.5,1.81,2026-10-23,0.552
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Yaxel Lendeborg,Under,14.5,1.96,2026-10-23,0.51
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Jerami Grant,Over,14.5,1.94,2026-10-23,0.515
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Jerami Grant,Under,14.5,1.83,2026-10-23,0.546
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Brandin Podziemski,Over,13.5,1.84,2026-10-23,0.543
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Brandin Podziemski,Under,13.5,1.93,2026-10-23,0.518
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Gui Santos,Over,12.5,1.93,2026-10-23,0.518
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Gui Santos,Under,12.5,1.84,2026-10-23,0.543
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Jaylen Wells,Over,11.5,1.88,2026-10-23,0.532
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Jaylen Wells,Under,11.5,1.88,2026-10-23,0.532
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Zach Edey,Over,11.5,1.96,2026-10-23,0.51
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Zach Edey,Under,11.5,1.81,2026-10-23,0.552
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Draymond Green,Over,7.5,1.85,2026-10-23,0.541
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Draymond Green,Under,7.5,1.92,2026-10-23,0.521
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Al Horford,Over,6.5,1.98,2026-10-23,0.505
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_points,Al Horford,Under,6.5,1.8,2026-10-23,0.556
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Zach Edey,Over,9.5,1.94,2026-10-23,0.515
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Zach Edey,Under,9.5,1.81,2026-10-23,0.552
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Cameron Boozer,Over,8.5,2.03,2026-10-23,0.493
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Cameron Boozer,Under,8.5,1.74,2026-10-23,0.575
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Yaxel Lendeborg,Over,6.5,1.93,2026-10-23,0.518
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Yaxel Lendeborg,Under,6.5,1.82,2026-10-23,0.549
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Draymond Green,Over,5.5,1.95,2026-10-23,0.513
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Draymond Green,Under,5.5,1.8,2026-10-23,0.556
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Gui Santos,Over,5.5,2.08,2026-10-23,0.481
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Gui Santos,Under,5.5,1.7,2026-10-23,0.588
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Brandin Podziemski,Over,5.5,2.13,2026-10-23,0.469
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Brandin Podziemski,Under,5.5,1.67,2026-10-23,0.599
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Al Horford,Over,3.5,1.65,2026-10-23,0.606
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Al Horford,Under,3.5,2.17,2026-10-23,0.461
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Ty Jerome,Over,3.5,1.88,2026-10-23,0.532
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Ty Jerome,Under,3.5,1.87,2026-10-23,0.535
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Stephen Curry,Over,3.5,2.09,2026-10-23,0.478
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Stephen Curry,Under,3.5,1.7,2026-10-23,0.588
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Jaylen Wells,Over,3.5,2.3,2026-10-23,0.435
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Jaylen Wells,Under,3.5,1.58,2026-10-23,0.633
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Jerami Grant,Over,2.5,1.65,2026-10-23,0.606
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_rebounds,Jerami Grant,Under,2.5,2.16,2026-10-23,0.463
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Stephen Curry,Over,4.5,2.25,2026-10-23,0.444
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Stephen Curry,Under,4.5,1.61,2026-10-23,0.621
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Ty Jerome,Over,2.5,1.7,2026-10-23,0.588
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Ty Jerome,Under,2.5,2.08,2026-10-23,0.481
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Brandin Podziemski,Over,1.5,1.63,2026-10-23,0.613
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Brandin Podziemski,Under,1.5,2.21,2026-10-23,0.452
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Jerami Grant,Over,1.5,1.66,2026-10-23,0.602
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Jerami Grant,Under,1.5,2.15,2026-10-23,0.465
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Jaylen Wells,Over,1.5,1.69,2026-10-23,0.592
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Jaylen Wells,Under,1.5,2.09,2026-10-23,0.478
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Gui Santos,Over,1.5,2.25,2026-10-23,0.444
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Gui Santos,Under,1.5,1.6,2026-10-23,0.625
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Yaxel Lendeborg,Over,1.5,2.36,2026-10-23,0.424
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Yaxel Lendeborg,Under,1.5,1.56,2026-10-23,0.641
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Al Horford,Over,1.5,2.48,2026-10-23,0.403
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Al Horford,Under,1.5,1.51,2026-10-23,0.662
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Cameron Boozer,Over,1.5,2.55,2026-10-23,0.392
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Cameron Boozer,Under,1.5,1.48,2026-10-23,0.676
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Draymond Green,Over,0.5,1.48,2026-10-23,0.676
+Memphis Grizzlies @ Golden State Warriors,draftkings,player_threes,Draymond Green,Under,0.5,2.57,2026-10-23,0.389
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_assists,Stephen Curry,Over,4.5,2.0,2026-10-23,0.5
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_assists,Stephen Curry,Under,4.5,1.74,2026-10-23,0.575
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_assists,Ty Jerome,Over,6.5,1.87,2026-10-23,0.535
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_assists,Ty Jerome,Under,6.5,1.87,2026-10-23,0.535
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_assists,Draymond Green,Over,5.5,1.65,2026-10-23,0.606
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_assists,Draymond Green,Under,5.5,2.15,2026-10-23,0.465
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_assists,Gui Santos,Over,2.5,1.83,2026-10-23,0.546
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_assists,Gui Santos,Under,2.5,1.91,2026-10-23,0.524
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_assists,Cameron Boozer,Over,4.5,2.05,2026-10-23,0.488
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_assists,Cameron Boozer,Under,4.5,1.71,2026-10-23,0.585
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_assists,Yaxel Lendeborg,Over,2.5,1.54,2026-10-23,0.649
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_assists,Yaxel Lendeborg,Under,2.5,2.35,2026-10-23,0.426
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_points,Draymond Green,Over,7.5,1.95,2026-10-23,0.513
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_points,Draymond Green,Under,7.5,1.8,2026-10-23,0.556
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_points,Ty Jerome,Over,20.5,1.74,2026-10-23,0.575
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_points,Ty Jerome,Under,20.5,2.0,2026-10-23,0.5
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_points,Cameron Boozer,Over,15.5,1.87,2026-10-23,0.535
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_points,Cameron Boozer,Under,15.5,1.87,2026-10-23,0.535
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_points,Stephen Curry,Over,25.5,1.87,2026-10-23,0.535
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_points,Stephen Curry,Under,25.5,1.87,2026-10-23,0.535
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_points,Jaylen Wells,Over,11.5,1.95,2026-10-23,0.513
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_points,Jaylen Wells,Under,11.5,1.8,2026-10-23,0.556
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_points,Yaxel Lendeborg,Over,15.5,1.95,2026-10-23,0.513
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_points,Yaxel Lendeborg,Under,15.5,1.8,2026-10-23,0.556
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_points,Zach Edey,Over,10.5,1.74,2026-10-23,0.575
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_points,Zach Edey,Under,10.5,2.0,2026-10-23,0.5
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_points,Gui Santos,Over,11.5,1.83,2026-10-23,0.546
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Stephen Curry,Over,3.5,2.1,2026-10-23,0.476
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Stephen Curry,Under,3.5,1.67,2026-10-23,0.599
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Zach Edey,Over,9.5,1.95,2026-10-23,0.513
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Zach Edey,Under,9.5,1.8,2026-10-23,0.556
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Yaxel Lendeborg,Over,6.5,1.87,2026-10-23,0.535
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Yaxel Lendeborg,Under,6.5,1.87,2026-10-23,0.535
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Ty Jerome,Over,3.5,1.83,2026-10-23,0.546
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Ty Jerome,Under,3.5,1.91,2026-10-23,0.524
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Jaylen Wells,Over,2.5,1.57,2026-10-23,0.637
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Jaylen Wells,Under,2.5,2.3,2026-10-23,0.435
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Gui Santos,Over,5.5,2.2,2026-10-23,0.455
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Gui Santos,Under,5.5,1.62,2026-10-23,0.617
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Cameron Boozer,Over,8.5,2.05,2026-10-23,0.488
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Cameron Boozer,Under,8.5,1.71,2026-10-23,0.585
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Draymond Green,Over,5.5,1.91,2026-10-23,0.524
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_rebounds,Draymond Green,Under,5.5,1.83,2026-10-23,0.546
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_threes,Yaxel Lendeborg,Over,1.5,2.35,2026-10-23,0.426
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_threes,Yaxel Lendeborg,Under,1.5,1.54,2026-10-23,0.649
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_threes,Ty Jerome,Over,3.5,2.3,2026-10-23,0.435
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_threes,Ty Jerome,Under,3.5,1.57,2026-10-23,0.637
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_threes,Gui Santos,Over,1.5,2.35,2026-10-23,0.426
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_threes,Gui Santos,Under,1.5,1.54,2026-10-23,0.649
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_threes,Jaylen Wells,Over,1.5,1.54,2026-10-23,0.649
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_threes,Jaylen Wells,Under,1.5,2.35,2026-10-23,0.426
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_threes,Draymond Green,Over,1.5,2.8,2026-10-23,0.357
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_threes,Draymond Green,Under,1.5,1.4,2026-10-23,0.714
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_threes,Cameron Boozer,Over,1.5,2.55,2026-10-23,0.392
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_threes,Cameron Boozer,Under,1.5,1.48,2026-10-23,0.676
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_threes,Stephen Curry,Over,3.5,1.62,2026-10-23,0.617
+Memphis Grizzlies @ Golden State Warriors,betmgm,player_threes,Stephen Curry,Under,3.5,2.2,2026-10-23,0.455

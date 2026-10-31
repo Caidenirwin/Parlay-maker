@@ -1,0 +1,21 @@
+# Dashboard look - Streamlit reads this automatically when you run: streamlit run dashboard.py
+
+[theme]
+base = "dark"
+primaryColor = "#3B82F6"              # blue accent (buttons, tabs, links)
+backgroundColor = "#0B0F17"           # page background
+secondaryBackgroundColor = "#121826"  # cards, inputs, sidebar
+textColor = "#E5E7EB"
+borderColor = "#1F2937"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap, sans-serif"
+headingFontWeights = 600
+metricValueFontWeight = 600
+baseRadius = "10px"
+showWidgetBorder = true
+showSidebarBorder = true
+dataframeHeaderBackgroundColor = "#121826"
+greenColor = "#22C55E"
+redColor = "#EF4444"
+
+[client]
+toolbarMode = "minimal"   # hide the developer menu

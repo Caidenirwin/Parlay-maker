@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets / local config
+.env
+.streamlit/secrets.toml
+
+# Obsidian workspace
+.obsidian/
+
+# Personal betting records
+my_bets.csv
+found_bets.csv
+*bets_today.csv
+*parlays_today.csv
+*faceoffs_today.csv
+
+# Large raw data (re-generate with the *_Scraper.py scripts)
+*players.csv
+skaters.csv
+goalies.csv
+pwhl_skaters.csv
