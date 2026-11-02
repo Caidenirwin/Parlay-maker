@@ -8,6 +8,7 @@ import subprocess
 import sys
 import altair as alt   # chart library that comes with Streamlit - used for the profit/loss pop-up
 import pandas as pd
+import requests
 import streamlit as st
 from Bet_Tracker import (FOUND_FILE, SETTLED, add_bet, american_to_decimal, cash_out_bet, delete_bet, grade_bets,
                          load_bets)
@@ -23,6 +24,7 @@ TODAY = pd.Timestamp.today().strftime("%Y-%m-%d")
 LEG_COLUMNS = ["player", "team", "game", "stat", "side", "line", "bet", "price", "mean", "sd"]
 EXTRA_LEG_COLUMNS = ["sport", "game_date"]   # NFL legs carry these (NHL legs default to nhl / today)
 GREEN, RED, AMBER, BLUE, MUTED = "#22C55E", "#EF4444", "#F59E0B", "#3B82F6", "#94A3B8"
+BLUE = "#FFFFFF" if globals().get("PQ_THEME", "v2") != "classic" else BLUE   # 2.0: white chart lines
 
 
 # ---------------------------------------------------------------- small helpers
@@ -76,11 +78,11 @@ def made_today(path, days=0):
     return when is not None and (pd.Timestamp.today().normalize() - when.normalize()).days <= days
 
 
-def run_script(script, label, force=False):
+def run_script(script, label, force=False, args=()):
     """run one of your scripts like typing 'python script' in the terminal, and show what it printed.
-    force=True adds --force: download fresh even if it already did today"""
+    force=True adds --force: download fresh even if it already did today. args: extra options (e.g. --week)"""
     with st.status(label + "...", expanded=False) as box:
-        command = [sys.executable, script] + (["--force"] if force else [])
+        command = [sys.executable, script, *args] + (["--force"] if force else [])
         result = subprocess.run(command, capture_output=True, text=True, encoding="utf-8",
                                 errors="replace", env={**os.environ, "PYTHONIOENCODING": "utf-8"})
         st.code((result.stdout + result.stderr)[-5000:] or "(nothing printed)")
@@ -130,6 +132,77 @@ st.html("""
   .sb-at    { color:#475569; font-weight:400; }
   .sb-time  { margin-left:auto; color:#94A3B8; font-weight:500; font-size:12px; white-space:nowrap; }
   .sb-time.live { color:#EF4444; }
+</style>
+""")
+
+# ---- Parlay Quant 2.0: the black + green look (the default). dashboard_classic.py turns it off for the old blue look ----
+V2 = globals().get("PQ_THEME", "v2") != "classic"
+if V2:
+    st.html("""
+<style>
+  /* page + sidebar: true black, thin borders */
+  .stApp, [data-testid="stAppViewContainer"] { background:#000 !important; }
+  [data-testid="stHeader"] { background:rgba(0,0,0,.85) !important; backdrop-filter:blur(8px); }
+  [data-testid="stDecoration"] { display:none; }
+  [data-testid="stSidebar"] { background:#050505 !important; border-right:1px solid #161616 !important; }
+  [data-testid="stSidebar"] hr, [data-testid="stMain"] hr { border-color:#161616 !important; }
+  .block-container { padding-top:4.2rem !important; max-width:1400px; }
+
+  /* header */
+  .pq-title { font-size:30px !important; font-weight:800 !important; letter-spacing:-1px !important;
+              background:linear-gradient(90deg,#FFFFFF 0%,#86EFAC 100%); -webkit-background-clip:text;
+              background-clip:text; color:transparent; }
+  .pq-sub, .pq-date { color:#7A7A7A !important; }
+  .muted { color:#7A7A7A !important; }
+
+  /* tabs: pill style */
+  [data-baseweb="tab-list"] { gap:6px !important; border-bottom:1px solid #161616 !important; padding-bottom:8px; }
+  [data-baseweb="tab"] { background:#0B0B0B !important; border:1px solid #1C1C1C !important; border-radius:999px !important;
+                         padding:6px 16px !important; height:auto !important; color:#A3A3A3 !important;
+                         transition:all .15s ease; }
+  [data-baseweb="tab"]:hover { border-color:#2E2E2E !important; color:#FFF !important; }
+  [data-baseweb="tab"][aria-selected="true"] { background:#FFFFFF !important; color:#000 !important;
+                                               border-color:#FFFFFF !important; font-weight:600; }
+  [data-baseweb="tab"][aria-selected="true"] * { color:#000 !important; }
+  [data-baseweb="tab-highlight"], [data-baseweb="tab-border"] { display:none !important; }
+
+  /* cards (bordered containers), metrics, expanders */
+  [data-testid="stVerticalBlockBorderWrapper"], [data-testid="stExpander"] details {
+      background:#0A0A0A !important; border:1px solid #1C1C1C !important; border-radius:14px !important;
+      transition:border-color .15s ease; }
+  [data-testid="stVerticalBlockBorderWrapper"]:hover { border-color:#2A2A2A !important; }
+  [data-testid="stMetric"] { background:#0A0A0A; border-color:#1C1C1C !important; border-radius:14px !important;
+                             padding:14px 16px !important; }
+  [data-testid="stMetricLabel"] p { text-transform:uppercase; letter-spacing:.08em; font-size:11px !important;
+                                    color:#7A7A7A !important; }
+  [data-testid="stMetricValue"] { font-size:28px !important; font-weight:700 !important;
+                                  font-variant-numeric:tabular-nums; letter-spacing:-.5px; }
+
+  /* buttons */
+  .stButton button, [data-testid="stPopover"] button { border-radius:10px !important; border-color:#262626 !important;
+                                                       background:#0E0E0E !important; transition:all .15s ease; }
+  .stButton button:hover, [data-testid="stPopover"] button:hover { border-color:#22C55E !important; }
+  .stButton button[kind="primary"] { background:#22C55E !important; border-color:#22C55E !important; color:#000 !important;
+                                     font-weight:600; }
+  .stButton button[kind="primary"]:hover { background:#4ADE80 !important; }
+
+  /* the custom bet / face-off cards and chips */
+  .chip { background:#141414 !important; color:#C7C7C7 !important; border:1px solid #1F1F1F; }
+  .chip.blue  { background:#FFFFFF !important; color:#000000 !important; border-color:#FFFFFF; font-weight:700; }
+  .chip.green { background:rgba(34,197,94,.10) !important; color:#86EFAC !important; border-color:rgba(34,197,94,.25); }
+  .bet-title { font-size:16px; letter-spacing:-.2px; }
+  .leg { border-top-color:#161616 !important; }
+  .fo-card { background:#0A0A0A !important; border-color:#1C1C1C !important; border-radius:14px !important; }
+  .fo-bar  { background:#161616 !important; }
+  .fo-bar div:last-child { background:#22C55E !important; }   /* home side of the win-chance bar */
+  .fo-bar div:first-child { background:#3A3A3A !important; }
+  .sb-game { border-bottom-color:#141414 !important; }
+
+  /* live score ticker */
+  .ticker { background:#050505 !important; border-color:#1C1C1C !important; border-radius:14px !important; }
+
+  /* numbers line up in tables and scores */
+  .score, .sc, .pct, [data-testid="stMetricDelta"] { font-variant-numeric:tabular-nums; }
 </style>
 """)
 
@@ -453,8 +526,36 @@ CFG = {
 }[SPORT]
 SPORT_KEY = {"NHL": "nhl", "NBA": "nba", "WNBA": "wnba", "MLB": "mlb", "NFL": "nfl", "NCAAF": "cfb"}[SPORT]
 
+# sports with a "This week" option (football already gets several days of odds) -> Week_Run.py's sport name
+WEEK_SPORTS = {"NHL": "nhl", "NBA": "nba", "WNBA": "wnba", "MLB": "mlb"}
+ODDS_SETUP = {"NHL": ("icehockey_nhl", "Odds_Scraper.py", "NHL_ODDS_API_KEY"),
+              "NBA": ("basketball_nba", "NBA_Odds_Scraper.py", "NBA_ODDS_API_KEY"),
+              "WNBA": ("basketball_wnba", "WNBA_Odds_Scraper.py", "WNBA_ODDS_API_KEY"),
+              "MLB": ("baseball_mlb", "MLB_Odds_Scraper.py", "MLB_ODDS_API_KEY")}
+
+
+@st.cache_data(ttl=600, show_spinner=False)
+def week_cost(sport):
+    """(games in the next 7 days, about how many credits their odds cost) - from the odds service's FREE game list"""
+    api_sport, script, key_name = ODDS_SETUP[sport]
+    key = os.getenv(key_name) or os.getenv("ODDS_API_KEY")
+    events = requests.get(f"https://api.the-odds-api.com/v4/sports/{api_sport}/events", params={"apiKey": key},
+                          timeout=15).json()
+    now = pd.Timestamp.now(tz="America/Toronto")
+    last = (now + pd.Timedelta(days=6)).strftime("%Y-%m-%d")
+    days = [d for d in (pd.Timestamp(e["commence_time"]).tz_convert("America/Toronto") for e in events)
+            if d > now and d.strftime("%Y-%m-%d") <= last]
+    if sport == "NHL":
+        return len(days), 5 * len(days)   # every game, ~5 credits each
+    # the others: props for the MAX_PROP_GAMES closest games of each day (~4 credits each) + 1 for all moneylines
+    cap = int(re.search(r"^MAX_PROP_GAMES = (\d+)", open(script, encoding="utf-8").read(), re.M).group(1))
+    per_day = pd.Series([d.strftime("%Y-%m-%d") for d in days]).value_counts()
+    return len(days), 1 + 4 * int(per_day.clip(upper=cap).sum())
+
 live_ticker(SPORT)   # the scrolling score strip, always at the top
-st.html(f'<div class="pq-header"><div><div class="pq-title">Parlay Quant</div>'
+badge = ('<span style="font-size:12px;font-weight:700;color:#000;background:#22C55E;border-radius:999px;'
+         'padding:3px 9px;margin-left:10px;vertical-align:middle;letter-spacing:0">2.0</span>') if V2 else ""
+st.html(f'<div class="pq-header"><div><div><span class="pq-title">Parlay Quant</span>{badge}</div>'
         f'<div class="pq-sub">{CFG["sub"]} · Ontario</div></div>'
         f'<div class="pq-date">{pd.Timestamp.today().strftime("%A, %B %d")}</div></div>')
 
@@ -855,20 +956,37 @@ tonight_tab, singles_tab, parlays_tab, mega_tab, live_tab, profit_tab, fumbles_t
 
 # ---------------------------------------------------------------- tab 1: tonight
 with tonight_tab:
+    # every step = (script, label, extra options)
+    steps = [(script, label, ()) for script, label in CFG["steps"]]
+    if SPORT in WEEK_SPORTS:
+        # Tonight (the normal way) or This week: odds + bets for every game in the next 7 days
+        span = st.segmented_control("Games", ["Tonight", "This week"], default="Tonight", key=f"span_{SPORT_KEY}",
+                                    help="This week gets the odds for every game in the next 7 days and runs the "
+                                         "model for each day. It costs a lot more API credits than tonight.")
+        if span == "This week":
+            steps = [steps[0], (steps[1][0], f"Getting {SPORT} odds for the week", ("--week",)),
+                     ("Week_Run.py", f"Running the {SPORT} model for each day", (WEEK_SPORTS[SPORT],))]
+            try:
+                n_games, credits = week_cost(SPORT)
+                st.warning(f"**This week: {n_games} {SPORT} games in the next 7 days - about {credits} API credits** "
+                           f"for the odds. Books usually post player props only a day or so ahead, so later games "
+                           f"may have just moneylines for now.", icon=":material/payments:")
+            except Exception:
+                st.warning("This week costs a lot more API credits than tonight (props cost ~4-5 credits per game).",
+                           icon=":material/payments:")
     c1, c2, c3, c4 = st.columns(4)
-    steps = CFG["steps"]
     # same day, no game started since the last download? the scrapers reuse it (no credits). Tick this to re-download.
     fresh = st.checkbox("Download fresh (uses API credits even if you already downloaded today)", key="force_fresh")
     if c1.button(f"Update {SPORT} stats", icon=":material/download:", width="stretch"):
-        run_script(*steps[0], force=fresh)
+        run_script(*steps[0][:2], force=fresh, args=steps[0][2])
     if c2.button("Get odds", icon=":material/request_quote:", width="stretch",
                  help="Uses API credits - unless you already got today's odds and no game has started since"):
-        run_script(*steps[1], force=fresh)
+        run_script(*steps[1][:2], force=fresh, args=steps[1][2])
     if c3.button("Find bets", icon=":material/insights:", width="stretch"):
-        run_script(*steps[2])
+        run_script(*steps[2][:2], args=steps[2][2])
     if c4.button("Run all", icon=":material/play_arrow:", type="primary", width="stretch"):
-        for script, label in steps:
-            if not run_script(script, label, force=fresh and script != steps[2][0]):
+        for i, (script, label, args) in enumerate(steps):
+            if not run_script(script, label, force=fresh and i < 2, args=args):
                 break   # stop if a step failed (for example, no props posted yet)
 
     # how many bets of each kind the model found
@@ -889,17 +1007,19 @@ with tonight_tab:
             def row(team, chance, fav):
                 return (f'<div class="fo-row {"fav" if fav else ""}"><img src="{logo(team, SPORT_KEY)}">{team}'
                         f'<span class="pct">{chance:.0%}</span></div>')
+            # under each card: the game's day (when there's more than tonight) + the starting pitchers / goalies
+            notes = []
+            if "date" in f.index and pd.notna(f["date"]) and (str(f["date"]) != TODAY or CFG["days"]):
+                notes.append(pd.Timestamp(f["date"]).strftime("%A %b %d"))
+            for kind, label in (("pitcher", "Pitchers"), ("goalie", "Goalies")):
+                if f"away_{kind}" in f.index:
+                    notes.append(f'{label}: {html.escape(str(f[f"away_{kind}"]))} vs '
+                                 f'{html.escape(str(f[f"home_{kind}"]))}')
             cards += (f'<div class="fo-card">{row(f["away"], f["away_win"], f["away_win"] > f["home_win"])}'
                       f'<div class="fo-bar"><div style="width:{f["away_win"]:.0%};background:#475569"></div>'
                       f'<div style="width:{f["home_win"]:.0%};background:{BLUE}"></div></div>'
                       f'{row(f["home"], f["home_win"], f["home_win"] >= f["away_win"])}'
-                      + (f'<div class="fo-goalies">Pitchers: {html.escape(str(f["away_pitcher"]))} vs '
-                         f'{html.escape(str(f["home_pitcher"]))}</div></div>'
-                         if "away_pitcher" in f.index else
-                         f'<div class="fo-goalies">{pd.Timestamp(f["date"]).strftime("%A %b %d")}</div></div>'
-                         if "date" in f.index else
-                         f'<div class="fo-goalies">Goalies: {html.escape(str(f["away_goalie"]))} vs '
-                         f'{html.escape(str(f["home_goalie"]))}</div></div>'))
+                      + "".join(f'<div class="fo-goalies">{n}</div>' for n in notes) + '</div>')
         st.html(f'<div class="fo-grid">{cards}</div>')
     else:
         st.info("Not run yet today. Click **Find bets** or **Run all**.", icon=":material/info:")
@@ -1110,12 +1230,12 @@ with profit_tab:
         m1.metric("Profit / loss", cad(profit), delta=f"{profit:+.2f} CAD" if profit else None, border=True)
         m2.metric("ROI", f"{profit / staked:+.1%}" if staked else "-", help="profit ÷ money bet", border=True)
         m0.metric("Win rate", f"{win_rate:.0%}" if win_rate is not None else "-",
-                  f"need {breakeven:.0%} to break even" if breakeven is not None else None,
+                  f"break-even {breakeven:.0%}" if breakeven is not None else None,
                   delta_color="off", delta_arrow="off", border=True,
                   help="How often your bets win, next to how often they NEED to win at the odds you took. "
                        "Beating that number is what makes money - a high win rate on short odds can still lose.")
         m3.metric("Record (W-L-P)", f"{wins}-{losses}-{pushes}",
-                  f"{len(cashed)} cashed out ({cad(cashed['profit'].sum())})" if len(cashed) else None,
+                  f"{len(cashed)} cashed out" if len(cashed) else None,
                   delta_color="off", delta_arrow="off", border=True)
         m4.metric("Open bets", f"{len(open_bets)}", f"{cad(open_bets['stake'].sum())} at risk",
                   delta_color="off", delta_arrow="off", border=True)

@@ -1,4 +1,5 @@
 import os
+import sys
 import time
 import requests
 import pandas as pd
@@ -15,6 +16,9 @@ from Freshness import already_fresh, nhl_game_starts
 # read the key from your computer, never paste it in the code:
 # NHL_ODDS_API_KEY if you've set one (setx NHL_ODDS_API_KEY "your-key"), else your first key
 API_KEY = os.getenv("NHL_ODDS_API_KEY") or os.getenv("ODDS_API_KEY")
+# This week: run with --week (the dashboard's "This week" switch) for every game in the next 7 days -
+# about 5 credits per game, so a full NHL week (~50 games) is ~250 credits.
+WEEK = "--week" in sys.argv
 base_url = "https://api.the-odds-api.com/v4/sports/icehockey_nhl"
 books = "fanduel,draftkings,betmgm"
 markets = "h2h,player_points,player_goal_scorer_anytime,player_shots_on_goal,player_total_saves"   # h2h = moneyline
@@ -44,21 +48,28 @@ if __name__ == "__main__":
                          "and restart VS Code.")
 
     # already downloaded today and no game has started since? reuse it - saves credits
-    if already_fresh("odds.csv", nhl_game_starts()):
+    fresh = already_fresh("odds.csv", nhl_game_starts())
+    if fresh and WEEK and ("game_date" not in pd.read_csv("odds.csv", nrows=1).columns
+                           or pd.read_csv("odds.csv")["game_date"].nunique() < 2):
+        print("...but that download was tonight only - getting the whole week now")
+        fresh = False
+    if fresh:
         raise SystemExit(0)
 
     # 1. the list of upcoming games (this call is free)
     events = requests.get(f"{base_url}/events", params={"apiKey": API_KEY}).json()
 
-    # keep only TODAY's games (Ontario time) that haven't started yet.
+    # keep only TODAY's games (Ontario time) that haven't started yet - or, with --week, the next 7 days' games.
     # (not "the next 24 hours" - late at night that grabs tomorrow's games and mixes them up with tonight's)
     now = pd.Timestamp.now(tz="America/Toronto")
+    last_day = (now + pd.Timedelta(days=6 if WEEK else 0)).date()
     tonight = []
     for e in events:
         start = pd.Timestamp(e["commence_time"]).tz_convert("America/Toronto")
-        if start.date() == now.date() and start > now - pd.Timedelta(minutes=15):
+        if now.date() <= start.date() <= last_day and start > now - pd.Timedelta(minutes=15):
             tonight.append(e)
-    print(len(tonight), "games today that haven't started")
+    print(len(tonight), "games that haven't started" + (" in the next 7 days" if WEEK else " today"),
+          f"- about {len(tonight) * 5} credits")
 
     # 2. the props for each game (this costs credits)
     rows = []
@@ -72,7 +83,8 @@ if __name__ == "__main__":
         if response.status_code != 200:
             print("  skipped", event["away_team"], "@", event["home_team"], "->", response.status_code, response.text[:100])
             continue
-        game_rows = flatten(response.json())
+        game_day = pd.Timestamp(event["commence_time"]).tz_convert("America/Toronto").strftime("%Y-%m-%d")
+        game_rows = [r | {"game_date": game_day} for r in flatten(response.json())]   # which day each price is for
         rows += game_rows
         print(" ", event["away_team"], "@", event["home_team"], "->", len(game_rows), "prices | credits left:",
               response.headers.get("x-requests-remaining"))

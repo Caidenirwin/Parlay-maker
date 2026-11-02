@@ -1,19 +1,21 @@
-# Dashboard look - Streamlit reads this automatically when you run: streamlit run dashboard.py
+# Dashboard look (Parlay Quant 2.0: black + green) - Streamlit reads this automatically when you run:
+#   python -m streamlit run dashboard.py
+# The old blue look is still available:  python dashboard_classic.py
 
 [theme]
 base = "dark"
-primaryColor = "#3B82F6"              # blue accent (buttons, tabs, links)
-backgroundColor = "#0B0F17"           # page background
-secondaryBackgroundColor = "#121826"  # cards, inputs, sidebar
-textColor = "#E5E7EB"
-borderColor = "#1F2937"
-font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap, sans-serif"
+primaryColor = "#22C55E"              # green accent (buttons, selected sport, sliders)
+backgroundColor = "#000000"           # page background: true black
+secondaryBackgroundColor = "#0E0E0E"  # cards, inputs, sidebar
+textColor = "#F5F5F5"
+borderColor = "#1F1F1F"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap, sans-serif"
 headingFontWeights = 600
-metricValueFontWeight = 600
-baseRadius = "10px"
+metricValueFontWeight = 700
+baseRadius = "12px"
 showWidgetBorder = true
 showSidebarBorder = true
-dataframeHeaderBackgroundColor = "#121826"
+dataframeHeaderBackgroundColor = "#0E0E0E"
 greenColor = "#22C55E"
 redColor = "#EF4444"
 

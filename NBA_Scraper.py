@@ -9,11 +9,14 @@ from Freshness import already_fresh, football_game_starts
 #   nba_games.csv    every regular-season game (scores), including upcoming ones
 #   nba_teams.csv    team abbreviation / name / logo
 #   nba_players.csv  every player's points, rebounds, assists, 3-pointers and minutes in every finished game
-# The FIRST run downloads ~3,000 box scores (several at a time, ~15 min). After that only new games.
+# The FIRST run downloads ~8,000 box scores (several at a time, ~45 min). After that only new games.
 
 ESPN = "https://site.api.espn.com/apis/site/v2/sports/basketball/nba"
-# ESPN names a season by the year it ENDS: 2025 = the 2024-25 season. Each: (first day, last day) to check
-SEASONS = {2025: ("2024-10-20", "2025-04-15"), 2026: ("2025-10-20", "2026-04-15"),
+# ESPN names a season by the year it ENDS: 2025 = the 2024-25 season. Each: (first day, last day) to check.
+# More past seasons = more for the model to learn from. (2020-21 started late - in December - because of COVID.)
+SEASONS = {2021: ("2020-12-20", "2021-05-20"), 2022: ("2021-10-17", "2022-04-12"),
+           2023: ("2022-10-16", "2023-04-11"), 2024: ("2023-10-22", "2024-04-16"),
+           2025: ("2024-10-20", "2025-04-15"), 2026: ("2025-10-20", "2026-04-15"),
            2027: ("2026-10-15", pd.Timestamp.now().strftime("%Y-%m-%d"))}
 
 if already_fresh("nba_games.csv", football_game_starts("nba")):   # same "nothing new today" check as the others
@@ -38,8 +41,16 @@ def num(value):
         return 0
 
 # ---- 1. every regular-season game, day by day ----
+# finished seasons never change - reuse them from last time instead of re-checking hundreds of days
+saved = pd.read_csv("nba_games.csv") if os.path.exists("nba_games.csv") else pd.DataFrame(columns=["season"])
+today = pd.Timestamp.now().strftime("%Y-%m-%d")
 games, teams = [], {}
 for season, (first, last) in SEASONS.items():
+    old_season = saved[saved["season"] == season]
+    if last < today and len(old_season) > 1000 and old_season["completed"].all():
+        games += old_season.to_dict("records")
+        print(season, "->", len(old_season), "games (already saved)")
+        continue
     for day in pd.date_range(first, last):
         events = get(f"{ESPN}/scoreboard", {"dates": day.strftime("%Y%m%d")})
         for e in events.get("events", []):

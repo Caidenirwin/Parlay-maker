@@ -190,8 +190,10 @@ odds = odds[odds["game_date"] >= today]
 if odds.empty:
     raise SystemExit("mlb_odds.csv has no games today - run: python MLB_Odds_Scraper.py")
 # the game day these odds are for: usually today, but with no games left today the odds scraper gets tomorrow's
-game_day = odds["game_date"].min()
+game_day = os.getenv("PQ_DAY") or odds["game_date"].min()   # PQ_DAY: Week_Run.py asks for one day of the week
 odds = odds[odds["game_date"] == game_day]
+if odds.empty:
+    raise SystemExit(f"No odds for {game_day}.")
 
 TEAMS = {clean_name(n): t for n, t in zip(teams_list["name"], teams_list["team"])}   # "Toronto Blue Jays" -> "TOR"
 if clean_name("Athletics") in TEAMS:   # the A's: some books still call them Oakland

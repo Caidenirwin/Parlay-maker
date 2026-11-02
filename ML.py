@@ -243,8 +243,9 @@ ml_model.fit(teams[ml_features], teams["win"])   # now learn from every game
 
 # ---- Step 8: predict tonight's games ----
 # 1. tonight's schedule from the NHL (free, no key)
-today = pd.Timestamp.today().strftime("%Y-%m-%d")
-schedule = requests.get(f"https://api-web.nhle.com/v1/schedule/{today}").json()
+# the game day to predict: tonight - or the day Week_Run.py asks for (PQ_DAY) when you pick "This week"
+today = os.getenv("PQ_DAY") or pd.Timestamp.today().strftime("%Y-%m-%d")
+schedule =requests.get(f"https://api-web.nhle.com/v1/schedule/{today}").json()
 day = schedule["gameWeek"][0]                  # first day of the week = today
 games_tonight = day["games"] if day["date"] == today else []
 say("\n", today, "-", len(games_tonight), "games tonight")
@@ -410,7 +411,7 @@ def american_odds(decimal_price):
 if not os.path.exists("odds.csv"):
     raise SystemExit("No odds.csv yet - run: python Odds_Scraper.py")
 odds_day = pd.Timestamp.fromtimestamp(os.path.getmtime("odds.csv")).strftime("%Y-%m-%d")   # local time, not UTC
-if odds_day != today:
+if odds_day != pd.Timestamp.today().strftime("%Y-%m-%d"):   # the download itself must be from today
     raise SystemExit(f"odds.csv is from {odds_day}, not today - run: python Odds_Scraper.py")
 odds = pd.read_csv("odds.csv")
 # only odds for TONIGHT's games - the file could hold another day's games (e.g. scraped late at night),
@@ -421,6 +422,9 @@ for game in games_tonight:
         return clean_name(team["placeName"]["default"] + " " + team["commonName"]["default"])
     tonight_full_names.add(full(game["awayTeam"]) + " @ " + full(game["homeTeam"]))
 odds = odds[odds["game"].map(lambda g: " @ ".join(clean_name(t) for t in str(g).split(" @ "))).isin(tonight_full_names)]
+if "game_date" in odds.columns:   # a week's download: only this day's games (the same teams play again later)
+    odds = odds[odds["game_date"] == today]
+odds["game_date"] = today          # every bet remembers its game day (needed when you get the whole week)
 if odds.empty:
     raise SystemExit("odds.csv has no odds for tonight's games - run: python Odds_Scraper.py")
 
@@ -520,7 +524,7 @@ good["bet"] = [describe(row) for _, row in good.iterrows()]   # loop works even 
 # every line the model priced (good value or not) - the dashboard's parlay builder lets you pick from these
 odds["bet"] = [describe(row) for _, row in odds.iterrows()]
 lines = odds[(odds["model_chance"] > 0) & (odds["model_chance"] < 1)].copy()
-lines[["player", "team", "game", "stat", "side", "line", "bet", "price", "mean", "sd",
+lines[["player", "team", "game", "game_date", "stat", "side", "line", "bet", "price", "mean", "sd",
        "book", "raw_chance", "model_chance", "book_chance", "ev"]].to_csv("lines_today.csv", index=False)
 
 # the same bet at the best-paying book only
@@ -553,7 +557,7 @@ for _, b in singles.iterrows():
           f"still bet it down to: {american_odds(b['min_price'])}")
 
 # save tonight's bets for the dashboard (every run replaces the file)
-leg_columns = ["player", "team", "game", "stat", "side", "line", "bet", "price", "mean", "sd"]
+leg_columns = ["player", "team", "game", "game_date", "stat", "side", "line", "bet", "price", "mean", "sd"]
 singles[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev", "stake", "min_price"]].to_csv("bets_today.csv", index=False)
 
 # ---- Step 10: value parlays (every leg must be at the SAME book - you can't mix books on one slip) ----

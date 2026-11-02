@@ -23,3 +23,6 @@ found_bets.csv
 skaters.csv
 goalies.csv
 pwhl_skaters.csv
+
+# Local Claude Code settings
+.claude/
