@@ -13,7 +13,7 @@ import streamlit as st
 from Bet_Tracker import (FOUND_FILE, SETTLED, add_bet, american_to_decimal, cash_out_bet, delete_bet, grade_bets,
                          load_bets)
 from Live_Tracker import game_status, get_boxscore, get_scoreboard, live_bet
-from NFL_Live import get_nfl_box, get_nfl_scoreboard, nfl_logo
+from NFL_Live import clean_name, get_nfl_box, get_nfl_scoreboard, nfl_logo
 
 # Start it with:   streamlit run dashboard.py
 # The colours and font live in .streamlit/config.toml
@@ -61,6 +61,65 @@ def logo(team, sport="nhl"):
     if str(sport).lower() in ("cfb", "nba", "wnba", "mlb"):
         return team_logos(str(sport).lower()).get(team, "")
     return f"https://assets.nhle.com/logos/nhl/svg/{team}_dark.svg"
+
+
+# player photos: each sport's stats file -> (id column, name column) and the photo address built from the id
+PHOTO_SOURCES = {
+    "nhl": ([("skaters.csv", "playerId", "skaterFullName"), ("goalies.csv", "playerId", "goalieFullName")],
+            "https://assets.nhle.com/mugs/nhl/latest/{}.png"),
+    "nba": ([("nba_players.csv", "player_id", "player")], "https://a.espncdn.com/i/headshots/nba/players/full/{}.png"),
+    "wnba": ([("wnba_players.csv", "player_id", "player")], "https://a.espncdn.com/i/headshots/wnba/players/full/{}.png"),
+    "mlb": ([("mlb_players.csv", "player_id", "player")], "https://a.espncdn.com/i/headshots/mlb/players/full/{}.png"),
+    "cfb": ([("cfb_players.csv", "player_id", "player")],
+            "https://a.espncdn.com/i/headshots/college-football/players/full/{}.png"),
+}
+
+
+@st.cache_data(ttl=86400, show_spinner=False)
+def photo_index(sport):
+    """clean player name -> photo address, for one sport (worked out once a day)"""
+    try:
+        if sport == "nfl":   # NFL stats use nflverse ids - nflverse's player list has the photo links
+            players = pd.read_csv("https://github.com/nflverse/nflverse-data/releases/download/players/players.csv",
+                                  usecols=["display_name", "headshot"]).dropna()
+            return {clean_name(n): u for n, u in zip(players["display_name"], players["headshot"])}
+        files, address = PHOTO_SOURCES[sport]
+        index = {}
+        for path, id_col, name_col in files:
+            if os.path.exists(path):
+                ids = pd.read_csv(path, usecols=[id_col, name_col]).drop_duplicates(name_col, keep="last")
+                index |= {clean_name(n): address.format(int(i)) for n, i in zip(ids[name_col], ids[id_col])}
+        return index
+    except Exception:
+        return {}   # no photos is fine - the card shows the team logo instead
+
+
+@st.cache_data(ttl=7 * 86400, show_spinner=False)
+def photo_exists(url):
+    """does this photo really exist? (some players - lots of college ones - have none) - checked once a week"""
+    try:
+        return requests.head(url, timeout=4, allow_redirects=True).status_code == 200
+    except requests.RequestException:
+        return False
+
+
+def player_photo(name, sport):
+    """the player's photo address, or None (moneylines, unknown players, no photo)"""
+    url = photo_index(str(sport).lower()).get(clean_name(name)) if name else None
+    return url if url and photo_exists(url) else None
+
+
+def face(player, team, sport, size=48):
+    """the player's photo with his team's logo in the corner - or just the team logo when there's no photo"""
+    photo = player_photo(player, sport)
+    if not photo:
+        return f'<img src="{logo(team, sport)}" style="width:{size - 4}px;height:{size - 4}px;flex-shrink:0">'
+    badge = max(16, size * 9 // 20)
+    return (f'<span style="position:relative;width:{size}px;height:{size}px;flex-shrink:0;display:inline-block">'
+            f'<img src="{photo}" style="width:{size}px;height:{size}px;border-radius:50%;object-fit:cover;'
+            f'background:#141414;border:1px solid #262626">'
+            f'<img src="{logo(team, sport)}" style="position:absolute;right:-3px;bottom:-3px;width:{badge}px;'
+            f'height:{badge}px;border-radius:50%;background:#000;padding:2px;border:1px solid #262626"></span>')
 
 
 def leg_dict(row, extra=()):
@@ -464,10 +523,10 @@ def place_bet_box(container, key, legs, book, suggested_price, suggested_stake, 
     return False
 
 
-def bet_card_html(team, title, subtitle, chips, sport="nhl"):
-    """team logo + bet name + small info chips"""
+def bet_card_html(team, title, subtitle, chips, sport="nhl", player=None):
+    """player photo (or team logo) + bet name + small info chips"""
     chip_html = "".join(f'<span class="chip {kind}">{html.escape(text)}</span>' for kind, text in chips)
-    return (f'<div class="bet"><img src="{logo(team, sport)}"><div><div class="bet-title">{title}</div>'
+    return (f'<div class="bet">{face(player, team, sport, 52)}<div><div class="bet-title">{title}</div>'
             f'<div class="bet-sub">{html.escape(subtitle)}</div><div class="chips">{chip_html}</div></div></div>')
 
 
@@ -689,13 +748,16 @@ def single_card(b, key):
              ("", (f"Model {b['raw_chance']:.0%} · Blend {b['model_chance']:.0%} · Book {b['book_chance']:.0%}"
                    if "raw_chance" in b.index else f"Model {b['model_chance']:.0%} · Book {b['book_chance']:.0%}")),
              ("green", f"{b['ev']:+.0%} expected profit"),
-             ("", f"Still bet it down to {american(b['min_price'])}")], b.get("sport", "nhl")))
+             ("", f"Still bet it down to {american(b['min_price'])}")], b.get("sport", "nhl"),
+            player=None if b["stat"] == "moneyline" else b["player"]))
         leg = leg_dict(b)
         place_bet_box(right, key, [leg], b["book"], b["price"], b["stake"])
 
 
 def legs_html(legs):
-    return "".join(f'<div class="leg"><img src="{logo(leg["team"], leg.get("sport", "nhl"))}"><div><b>{html.escape(str(leg["player"]))}</b> '
+    """one line per parlay leg: the player's photo (or team logo for moneylines), the bet, the odds"""
+    return "".join(f'<div class="leg">{face(None if leg.get("stat") == "moneyline" else leg["player"], leg["team"], leg.get("sport", "nhl"), 30)}'
+                   f'<div><b>{html.escape(str(leg["player"]))}</b> '
                    f'<span class="muted">· {html.escape(leg["bet"])} · {american(leg["price"])} · '
                    f'{html.escape(str(leg["game"]))}</span></div></div>' for leg in legs)
 

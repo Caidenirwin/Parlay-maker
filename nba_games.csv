@@ -7388,5 +7388,20 @@ game_id,season,date,completed,home_team,home_name,home_score,away_team,away_name
 401909902,2027,2026-10-31,True,HOU,Houston Rockets,119.0,OKC,Oklahoma City Thunder,98.0
 401909903,2027,2026-11-01,True,ORL,Orlando Magic,97.0,BOS,Boston Celtics,108.0
 401909904,2027,2026-11-01,True,IND,Indiana Pacers,90.0,BKN,Brooklyn Nets,98.0
-401909905,2027,2026-11-01,False,GS,Golden State Warriors,0.0,LAC,LA Clippers,0.0
-401909906,2027,2026-11-01,False,LAL,Los Angeles Lakers,0.0,TOR,Toronto Raptors,0.0
+401909905,2027,2026-11-01,True,GS,Golden State Warriors,124.0,LAC,LA Clippers,112.0
+401909906,2027,2026-11-01,True,LAL,Los Angeles Lakers,131.0,TOR,Toronto Raptors,125.0
+401909907,2027,2026-11-02,False,CLE,Cleveland Cavaliers,47.0,OKC,Oklahoma City Thunder,55.0
+401909908,2027,2026-11-02,False,CHA,Charlotte Hornets,15.0,DET,Detroit Pistons,15.0
+401909909,2027,2026-11-02,False,IND,Indiana Pacers,26.0,ATL,Atlanta Hawks,32.0
+401909910,2027,2026-11-02,False,NY,New York Knicks,21.0,BKN,Brooklyn Nets,16.0
+401909911,2027,2026-11-02,False,ORL,Orlando Magic,24.0,WSH,Washington Wizards,27.0
+401909912,2027,2026-11-02,False,PHI,Philadelphia 76ers,24.0,CHI,Chicago Bulls,14.0
+401909913,2027,2026-11-02,False,DAL,Dallas Mavericks,0.0,SAC,Sacramento Kings,0.0
+401909914,2027,2026-11-02,False,MEM,Memphis Grizzlies,0.0,NO,New Orleans Pelicans,0.0
+401909915,2027,2026-11-02,False,MIN,Minnesota Timberwolves,0.0,MIL,Milwaukee Bucks,0.0
+401909916,2027,2026-11-02,False,HOU,Houston Rockets,0.0,BOS,Boston Celtics,0.0
+401909917,2027,2026-11-02,False,SA,San Antonio Spurs,0.0,UTAH,Utah Jazz,0.0
+401909918,2027,2026-11-02,False,DEN,Denver Nuggets,0.0,POR,Portland Trail Blazers,0.0
+401909919,2027,2026-11-02,False,GS,Golden State Warriors,0.0,PHX,Phoenix Suns,0.0
+401909920,2027,2026-11-02,False,LAC,LA Clippers,0.0,TOR,Toronto Raptors,0.0
+401909921,2027,2026-11-02,False,LAL,Los Angeles Lakers,0.0,MIA,Miami Heat,0.0

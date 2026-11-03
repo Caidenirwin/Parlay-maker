@@ -19,14 +19,32 @@ if already_fresh("cfb_games.csv", football_game_starts("cfb")):
     raise SystemExit(0)
 
 # ---- 1. every game, week by week ----
-games, teams = [], {}
+# Only re-check what can still change - that's what keeps the daily update fast:
+#   finished seasons: reused from last time (they never change)
+#   this season: weeks where every game is already final are reused; the rest (this week, upcoming weeks -
+#   their rankings and kick-off times change) are checked again
+now = pd.Timestamp.now()
+this_season = now.year if now.month >= 3 else now.year - 1   # January bowl games still belong to last season
+saved = pd.read_csv("cfb_games.csv", dtype={"game_id": str}) if os.path.exists("cfb_games.csv") \
+    else pd.DataFrame(columns=["season", "week", "completed"])
+games = []
+teams = {t["team"]: t for t in pd.read_csv("cfb_teams.csv").to_dict("records")} if os.path.exists("cfb_teams.csv") else {}
 for season in SEASONS:
+    old_season = saved[saved["season"] == season]
+    if season < this_season and len(old_season) > 500:
+        games += old_season.to_dict("records")
+        print(season, "->", len(old_season), "games (already saved)")
+        continue
+    done_weeks = {w for w, g in old_season.groupby("week") if g["completed"].astype(bool).all()}
+    games += old_season[old_season["week"].isin(done_weeks)].to_dict("records")
     for week in WEEKS:
+        if week in done_weeks:
+            continue   # every game that week is final - nothing can change
         # groups=80 = FBS (the top division) - limit=300 so we get every game that week in one request
         events = requests.get(f"{ESPN}/scoreboard", params={"dates": season, "seasontype": 2, "week": week,
                                                             "groups": 80, "limit": 300}, timeout=30).json().get("events", [])
         for e in events:
-            row = {"game_id": e["id"], "season": season, "week": week,
+            row = {"game_id": str(e["id"]), "season": season, "week": week,
                    "date": pd.Timestamp(e["date"]).tz_convert("America/Toronto").strftime("%Y-%m-%d"),
                    "completed": e["status"]["type"]["completed"]}
             for t in e["competitions"][0]["competitors"]:

@@ -41,22 +41,32 @@ def num(value):
         return 0
 
 # ---- 1. every regular-season game, day by day ----
-# finished seasons never change - reuse them from last time instead of re-checking hundreds of days
-saved = pd.read_csv("nba_games.csv") if os.path.exists("nba_games.csv") else pd.DataFrame(columns=["season"])
+# Only re-check what can still change - that's what keeps the daily update fast:
+#   finished seasons: reused from last time as they are (a few games every season were postponed or
+#     cancelled and never "completed" - the make-up games are saved separately, so nothing is missing)
+#   this season: games saved more than 3 days ago are reused; only the last 3 days + today are re-checked
+saved = pd.read_csv("nba_games.csv", dtype={"game_id": str}) if os.path.exists("nba_games.csv") \
+    else pd.DataFrame(columns=["season", "date"])
 today = pd.Timestamp.now().strftime("%Y-%m-%d")
-games, teams = [], {}
+recent = (pd.Timestamp(today) - pd.Timedelta(days=3)).strftime("%Y-%m-%d")
+games = []
+teams = {t["team"]: t for t in pd.read_csv("nba_teams.csv").to_dict("records")} if os.path.exists("nba_teams.csv") else {}
 for season, (first, last) in SEASONS.items():
     old_season = saved[saved["season"] == season]
-    if last < today and len(old_season) > 1000 and old_season["completed"].all():
+    if last < today and len(old_season) > 1000:
         games += old_season.to_dict("records")
         print(season, "->", len(old_season), "games (already saved)")
         continue
-    for day in pd.date_range(first, last):
+    check_from = first
+    if len(old_season):   # this season: keep the older saved games, re-check just the last few days
+        check_from = max(first, recent)
+        games += old_season[old_season["date"] < check_from].to_dict("records")
+    for day in pd.date_range(check_from, last):
         events = get(f"{ESPN}/scoreboard", {"dates": day.strftime("%Y%m%d")})
         for e in events.get("events", []):
             if e["season"]["type"] != 2:   # 2 = regular season (skip preseason, play-in, playoffs)
                 continue
-            row = {"game_id": e["id"], "season": season,
+            row = {"game_id": str(e["id"]), "season": season,
                    "date": pd.Timestamp(e["date"]).tz_convert("America/Toronto").strftime("%Y-%m-%d"),
                    "completed": e["status"]["type"]["completed"]}
             for t in e["competitions"][0]["competitors"]:

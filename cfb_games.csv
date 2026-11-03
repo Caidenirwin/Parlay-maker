@@ -3077,307 +3077,307 @@ game_id,season,week,date,completed,home_team,home_name,home_score,home_rank,away
 401858486,2026,6,2026-10-10,True,PUR,Purdue Boilermakers,41.0,99,MINN,Minnesota Golden Gophers,13.0,99
 401869949,2026,6,2026-10-10,True,GASO,Georgia Southern Eagles,24.0,99,JMU,James Madison Dukes,27.0,99
 401856808,2026,6,2026-10-10,True,ASU,Arizona State Sun Devils,30.0,99,HAW,Hawai'i Rainbow Warriors,12.0,99
-401871067,2026,7,2026-10-13,False,MTSU,Middle Tennessee Blue Raiders,0.0,99,DEL,Delaware Blue Hens,0.0,99
-401871053,2026,7,2026-10-13,False,JXST,Jacksonville State Gamecocks,0.0,99,FIU,Florida International Panthers,0.0,99
-401871054,2026,7,2026-10-14,False,MOST,Missouri State Bears,0.0,99,KENN,Kennesaw State Owls,0.0,99
-401871068,2026,7,2026-10-14,False,SHSU,Sam Houston Bearkats,0.0,99,WKU,Western Kentucky Hilltoppers,0.0,99
-401862800,2026,7,2026-10-15,False,UAB,UAB Blazers,0.0,99,ECU,East Carolina Pirates,0.0,99
-401869950,2026,7,2026-10-15,False,ODU,Old Dominion Monarchs,0.0,99,GASO,Georgia Southern Eagles,0.0,99
-401860923,2026,7,2026-10-15,False,TXST,Texas State Bobcats,0.0,99,CSU,Colorado State Rams,0.0,99
-401862801,2026,7,2026-10-16,False,TULN,Tulane Green Wave,0.0,99,MEM,Memphis Tigers,0.0,99
-401858493,2026,7,2026-10-16,False,PUR,Purdue Boilermakers,0.0,99,WASH,Washington Huskies,0.0,99
-401869844,2026,7,2026-10-16,False,CCU,Coastal Carolina Chanticleers,0.0,99,APP,App State Mountaineers,0.0,99
-401858488,2026,7,2026-10-17,False,IU,Indiana Hoosiers,0.0,5,OSU,Ohio State Buckeyes,0.0,4
-401856724,2026,7,2026-10-17,False,TEX,Texas Longhorns,0.0,7,FLA,Florida Gators,0.0,99
-401856720,2026,7,2026-10-17,False,LSU,LSU Tigers,0.0,22,MSST,Mississippi State Bulldogs,0.0,16
-401858268,2026,7,2026-10-17,False,SMU,SMU Mustangs,0.0,24,UVA,Virginia Cavaliers,0.0,99
-401858491,2026,7,2026-10-17,False,MSU,Michigan State Spartans,0.0,99,NU,Northwestern Wildcats,0.0,25
-401856829,2026,7,2026-10-17,False,WVU,West Virginia Mountaineers,0.0,99,CIN,Cincinnati Bearcats,0.0,99
-401856830,2026,7,2026-10-17,False,KSU,Kansas State Wildcats,0.0,99,KU,Kansas Jayhawks,0.0,99
-401858261,2026,7,2026-10-17,False,CLEM,Clemson Tigers,0.0,99,CHSO,Charleston Southern Buccaneers,0.0,99
-401858267,2026,7,2026-10-17,False,BC,Boston College Eagles,0.0,99,PITT,Pittsburgh Panthers,0.0,99
-401862802,2026,7,2026-10-17,False,ARMY,Army Black Knights,0.0,99,FAU,Florida Atlantic Owls,0.0,99
-401866441,2026,7,2026-10-17,False,BGSU,Bowling Green Falcons,0.0,99,BALL,Ball State Cardinals,0.0,99
-401869957,2026,7,2026-10-17,False,JMU,James Madison Dukes,0.0,99,GAST,Georgia State Panthers,0.0,99
-401858489,2026,7,2026-10-17,False,MD,Maryland Terrapins,0.0,99,RUTG,Rutgers Scarlet Knights,0.0,99
-401856725,2026,7,2026-10-17,False,TA&M,Texas A&M Aggies,0.0,99,CIT,The Citadel Bulldogs,0.0,99
-401862803,2026,7,2026-10-17,False,TEM,Temple Owls,0.0,99,CLT,Charlotte 49ers,0.0,99
-401866442,2026,7,2026-10-17,False,BUFF,Buffalo Bulls,0.0,99,MASS,Massachusetts Minutemen,0.0,99
-401866443,2026,7,2026-10-17,False,CMU,Central Michigan Chippewas,0.0,99,WMU,Western Michigan Broncos,0.0,99
-401856719,2026,7,2026-10-17,False,UGA,Georgia Bulldogs,0.0,1,AUB,Auburn Tigers,0.0,99
-401856723,2026,7,2026-10-17,False,TENN,Tennessee Volunteers,0.0,14,ALA,Alabama Crimson Tide,0.0,6
-401856721,2026,7,2026-10-17,False,MISS,Ole Miss Rebels,0.0,9,MIZ,Missouri Tigers,0.0,13
-401856828,2026,7,2026-10-17,False,TTU,Texas Tech Red Raiders,0.0,10,ASU,Arizona State Sun Devils,0.0,99
-401858264,2026,7,2026-10-17,False,VT,Virginia Tech Hokies,0.0,99,GT,Georgia Tech Yellow Jackets,0.0,99
-401858266,2026,7,2026-10-17,False,DUKE,Duke Blue Devils,0.0,99,UNC,North Carolina Tar Heels,0.0,99
-401858490,2026,7,2026-10-17,False,MICH,Michigan Wolverines,0.0,99,PSU,Penn State Nittany Lions,0.0,99
-401864522,2026,7,2026-10-17,False,WYO,Wyoming Cowboys,0.0,99,NIU,Northern Illinois Huskies,0.0,99
-401864524,2026,7,2026-10-17,False,AFA,Air Force Falcons,0.0,99,UNLV,UNLV Rebels,0.0,99
-401866444,2026,7,2026-10-17,False,EMU,Eastern Michigan Eagles,0.0,99,TOL,Toledo Rockets,0.0,99
-401866478,2026,7,2026-10-17,False,M-OH,Miami (OH) RedHawks,0.0,99,AKR,Akron Zips,0.0,99
-401862805,2026,7,2026-10-17,False,RICE,Rice Owls,0.0,99,TLSA,Tulsa Golden Hurricane,0.0,99
-401869966,2026,7,2026-10-17,False,UL,Louisiana Ragin' Cajuns,0.0,99,TROY,Troy Trojans,0.0,99
-401860903,2026,7,2026-10-17,False,ORST,Oregon State Beavers,0.0,99,WSU,Washington State Cougars,0.0,99
-401858263,2026,7,2026-10-17,False,MIA,Miami Hurricanes,0.0,3,FSU,Florida State Seminoles,0.0,99
-401856726,2026,7,2026-10-17,False,VAN,Vanderbilt Commodores,0.0,99,ARK,Arkansas Razorbacks,0.0,99
-401856832,2026,7,2026-10-17,False,BAY,Baylor Bears,0.0,99,TCU,TCU Horned Frogs,0.0,99
-401862806,2026,7,2026-10-17,False,USF,South Florida Bulls,0.0,99,KENT,Kent State Golden Flashes,0.0,99
-401864520,2026,7,2026-10-17,False,NDSU,North Dakota State Bison,0.0,99,NEV,Nevada Wolf Pack,0.0,99
-401869934,2026,7,2026-10-17,False,USM,Southern Miss Golden Eagles,0.0,99,ARST,Arkansas State Red Wolves,0.0,99
-401856809,2026,7,2026-10-17,False,BYU,BYU Cougars,0.0,8,ND,Notre Dame Fighting Irish,0.0,2
-401858494,2026,7,2026-10-17,False,UCLA,UCLA Bruins,0.0,12,WIS,Wisconsin Badgers,0.0,99
-401856722,2026,7,2026-10-17,False,OU,Oklahoma Sooners,0.0,99,UK,Kentucky Wildcats,0.0,15
-401856831,2026,7,2026-10-17,False,HOU,Houston Cougars,0.0,20,OKST,Oklahoma State Cowboys,0.0,18
-401858262,2026,7,2026-10-17,False,STAN,Stanford Cardinal,0.0,99,ELON,Elon Phoenix,0.0,99
-401858265,2026,7,2026-10-17,False,SYR,Syracuse Orange,0.0,99,LOU,Louisville Cardinals,0.0,99
-401862804,2026,7,2026-10-17,False,UTSA,UTSA Roadrunners,0.0,99,NAVY,Navy Midshipmen,0.0,99
-401871091,2026,7,2026-10-17,False,ULM,UL Monroe Warhawks,0.0,99,LT,Louisiana Tech Bulldogs,0.0,99
-401864523,2026,7,2026-10-17,False,UTEP,UTEP Miners,0.0,99,SJSU,San José State Spartans,0.0,99
-401866445,2026,7,2026-10-17,False,SAC,Sacramento State Hornets,0.0,99,OHIO,Ohio Bobcats,0.0,99
-401856833,2026,7,2026-10-17,False,COLO,Colorado Buffaloes,0.0,99,UTAH,Utah Utes,0.0,11
-401858269,2026,7,2026-10-17,False,CAL,California Golden Bears,0.0,99,WAKE,Wake Forest Demon Deacons,0.0,21
-401860904,2026,7,2026-10-17,False,SDSU,San Diego State Aztecs,0.0,99,FRES,Fresno State Bulldogs,0.0,99
-401864521,2026,7,2026-10-17,False,HAW,Hawai'i Rainbow Warriors,0.0,99,UNM,New Mexico Lobos,0.0,99
-401858492,2026,7,2026-10-17,False,ORE,Oregon Ducks,0.0,99,NEB,Nebraska Cornhuskers,0.0,99
-401871055,2026,8,2026-10-20,False,FIU,Florida International Panthers,0.0,99,MTSU,Middle Tennessee Blue Raiders,0.0,99
-401871069,2026,8,2026-10-20,False,DEL,Delaware Blue Hens,0.0,99,MOST,Missouri State Bears,0.0,99
-401871092,2026,8,2026-10-20,False,MRSH,Marshall Thundering Herd,0.0,99,USA,South Alabama Jaguars,0.0,99
-401871070,2026,8,2026-10-21,False,SHSU,Sam Houston Bearkats,0.0,99,NMSU,New Mexico State Aggies,0.0,99
-401869845,2026,8,2026-10-22,False,APP,App State Mountaineers,0.0,99,JMU,James Madison Dukes,0.0,99
-401871056,2026,8,2026-10-22,False,KENN,Kennesaw State Owls,0.0,99,LIB,Liberty Flames,0.0,99
-401862807,2026,8,2026-10-22,False,MEM,Memphis Tigers,0.0,99,ECU,East Carolina Pirates,0.0,99
-401858271,2026,8,2026-10-23,False,UVA,Virginia Cavaliers,0.0,99,DUKE,Duke Blue Devils,0.0,99
-401861965,2026,8,2026-10-23,False,CONN,UConn Huskies,0.0,99,MASS,Massachusetts Minutemen,0.0,99
-401862808,2026,8,2026-10-23,False,TLSA,Tulsa Golden Hurricane,0.0,99,ARMY,Army Black Knights,0.0,99
-401864525,2026,8,2026-10-23,False,WYO,Wyoming Cowboys,0.0,99,AFA,Air Force Falcons,0.0,99
-401858272,2026,8,2026-10-23,False,STAN,Stanford Cardinal,0.0,99,NCSU,NC State Wolfpack,0.0,99
-401858274,2026,8,2026-10-24,False,MIA,Miami Hurricanes,0.0,3,PITT,Pittsburgh Panthers,0.0,99
-401858496,2026,8,2026-10-24,False,MICH,Michigan Wolverines,0.0,99,IU,Indiana Hoosiers,0.0,5
-401856727,2026,8,2026-10-24,False,ALA,Alabama Crimson Tide,0.0,6,TA&M,Texas A&M Aggies,0.0,99
-401856732,2026,8,2026-10-24,False,TEX,Texas Longhorns,0.0,7,MISS,Ole Miss Rebels,0.0,9
-401856835,2026,8,2026-10-24,False,UCF,UCF Knights,0.0,99,BYU,BYU Cougars,0.0,8
-401856840,2026,8,2026-10-24,False,CIN,Cincinnati Bearcats,0.0,99,TTU,Texas Tech Red Raiders,0.0,10
-401856837,2026,8,2026-10-24,False,UTAH,Utah Utes,0.0,11,HOU,Houston Cougars,0.0,20
-401858499,2026,8,2026-10-24,False,UCLA,UCLA Bruins,0.0,12,MSU,Michigan State Spartans,0.0,99
-401856731,2026,8,2026-10-24,False,SC,South Carolina Gamecocks,0.0,99,TENN,Tennessee Volunteers,0.0,14
-401856729,2026,8,2026-10-24,False,UK,Kentucky Wildcats,0.0,15,VAN,Vanderbilt Commodores,0.0,99
-401856730,2026,8,2026-10-24,False,MSST,Mississippi State Bulldogs,0.0,16,OU,Oklahoma Sooners,0.0,99
-401858497,2026,8,2026-10-24,False,MINN,Minnesota Golden Gophers,0.0,99,IOWA,Iowa Hawkeyes,0.0,17
-401856836,2026,8,2026-10-24,False,OKST,Oklahoma State Cowboys,0.0,18,COLO,Colorado Buffaloes,0.0,99
-401858500,2026,8,2026-10-24,False,WIS,Wisconsin Badgers,0.0,99,USC,USC Trojans,0.0,19
-401858270,2026,8,2026-10-24,False,SMU,SMU Mustangs,0.0,24,CAL,California Golden Bears,0.0,99
-401858498,2026,8,2026-10-24,False,NU,Northwestern Wildcats,0.0,25,RUTG,Rutgers Scarlet Knights,0.0,99
-401856834,2026,8,2026-10-24,False,KU,Kansas Jayhawks,0.0,99,BAY,Baylor Bears,0.0,99
-401856838,2026,8,2026-10-24,False,ARIZ,Arizona Wildcats,0.0,99,ISU,Iowa State Cyclones,0.0,99
-401856839,2026,8,2026-10-24,False,ASU,Arizona State Sun Devils,0.0,99,KSU,Kansas State Wildcats,0.0,99
-401856841,2026,8,2026-10-24,False,TCU,TCU Horned Frogs,0.0,99,WVU,West Virginia Mountaineers,0.0,99
-401858273,2026,8,2026-10-24,False,GT,Georgia Tech Yellow Jackets,0.0,99,BC,Boston College Eagles,0.0,99
-401858275,2026,8,2026-10-24,False,UNC,North Carolina Tar Heels,0.0,99,SYR,Syracuse Orange,0.0,99
-401858276,2026,8,2026-10-24,False,CLEM,Clemson Tigers,0.0,99,VT,Virginia Tech Hokies,0.0,99
-401858495,2026,8,2026-10-24,False,ILL,Illinois Fighting Illini,0.0,99,ORE,Oregon Ducks,0.0,99
-401862809,2026,8,2026-10-24,False,FAU,Florida Atlantic Owls,0.0,99,RICE,Rice Owls,0.0,99
-401862811,2026,8,2026-10-24,False,TULN,Tulane Green Wave,0.0,99,UTSA,UTSA Roadrunners,0.0,99
-401864526,2026,8,2026-10-24,False,NIU,Northern Illinois Huskies,0.0,99,HAW,Hawai'i Rainbow Warriors,0.0,99
-401866446,2026,8,2026-10-24,False,KENT,Kent State Golden Flashes,0.0,99,AKR,Akron Zips,0.0,99
-401866447,2026,8,2026-10-24,False,BALL,Ball State Cardinals,0.0,99,SAC,Sacramento State Hornets,0.0,99
-401866448,2026,8,2026-10-24,False,BUFF,Buffalo Bulls,0.0,99,BGSU,Bowling Green Falcons,0.0,99
-401866449,2026,8,2026-10-24,False,OHIO,Ohio Bobcats,0.0,99,EMU,Eastern Michigan Eagles,0.0,99
-401866450,2026,8,2026-10-24,False,TOL,Toledo Rockets,0.0,99,WMU,Western Michigan Broncos,0.0,99
-401866476,2026,8,2026-10-24,False,CMU,Central Michigan Chippewas,0.0,99,M-OH,Miami (OH) RedHawks,0.0,99
-401869967,2026,8,2026-10-24,False,USM,Southern Miss Golden Eagles,0.0,99,UL,Louisiana Ragin' Cajuns,0.0,99
-401871093,2026,8,2026-10-24,False,LT,Louisiana Tech Bulldogs,0.0,99,ODU,Old Dominion Monarchs,0.0,99
-401871094,2026,8,2026-10-24,False,TROY,Troy Trojans,0.0,99,ULM,UL Monroe Warhawks,0.0,99
-401856728,2026,8,2026-10-24,False,AUB,Auburn Tigers,0.0,99,LSU,LSU Tigers,0.0,22
-401862810,2026,8,2026-10-24,False,NAVY,Navy Midshipmen,0.0,99,UNT,North Texas Mean Green,0.0,99
-401864528,2026,8,2026-10-24,False,NEV,Nevada Wolf Pack,0.0,99,SJSU,San José State Spartans,0.0,99
-401860907,2026,8,2026-10-24,False,WSU,Washington State Cougars,0.0,99,BOIS,Boise State Broncos,0.0,23
-401860905,2026,8,2026-10-24,False,CSU,Colorado State Rams,0.0,99,SDSU,San Diego State Aztecs,0.0,99
-401869935,2026,8,2026-10-24,False,ARST,Arkansas State Red Wolves,0.0,99,GAST,Georgia State Panthers,0.0,99
-401860906,2026,8,2026-10-24,False,TXST,Texas State Bobcats,0.0,99,USU,Utah State Aggies,0.0,99
-401864527,2026,8,2026-10-24,False,UNM,New Mexico Lobos,0.0,99,NDSU,North Dakota State Bison,0.0,99
-401871071,2026,9,2026-10-27,False,WKU,Western Kentucky Hilltoppers,0.0,99,DEL,Delaware Blue Hens,0.0,99
-401871072,2026,9,2026-10-27,False,MOST,Missouri State Bears,0.0,99,SHSU,Sam Houston Bearkats,0.0,99
-401871058,2026,9,2026-10-28,False,MTSU,Middle Tennessee Blue Raiders,0.0,99,KENN,Kennesaw State Owls,0.0,99
-401871057,2026,9,2026-10-28,False,NMSU,New Mexico State Aggies,0.0,99,JXST,Jacksonville State Gamecocks,0.0,99
-401862812,2026,9,2026-10-29,False,UNT,North Texas Mean Green,0.0,99,FAU,Florida Atlantic Owls,0.0,99
-401869963,2026,9,2026-10-29,False,JMU,James Madison Dukes,0.0,99,TROY,Troy Trojans,0.0,99
-401862813,2026,9,2026-10-30,False,CLT,Charlotte 49ers,0.0,99,TULN,Tulane Green Wave,0.0,99
-401856844,2026,9,2026-10-30,False,UCF,UCF Knights,0.0,99,BAY,Baylor Bears,0.0,99
-401866451,2026,9,2026-10-30,False,SAC,Sacramento State Hornets,0.0,99,KENT,Kent State Golden Flashes,0.0,99
-401858282,2026,9,2026-10-31,False,UNC,North Carolina Tar Heels,0.0,99,MIA,Miami Hurricanes,0.0,3
-401858509,2026,9,2026-10-31,False,USC,USC Trojans,0.0,19,OSU,Ohio State Buckeyes,0.0,4
-401858501,2026,9,2026-10-31,False,IU,Indiana Hoosiers,0.0,5,MINN,Minnesota Golden Gophers,0.0,99
-401856737,2026,9,2026-10-31,False,TEX,Texas Longhorns,0.0,7,MSST,Mississippi State Bulldogs,0.0,16
-401856843,2026,9,2026-10-31,False,BYU,BYU Cougars,0.0,8,ASU,Arizona State Sun Devils,0.0,99
-401856735,2026,9,2026-10-31,False,MISS,Ole Miss Rebels,0.0,9,AUB,Auburn Tigers,0.0,99
-401856842,2026,9,2026-10-31,False,TTU,Texas Tech Red Raiders,0.0,10,ARIZ,Arizona Wildcats,0.0,99
-401856848,2026,9,2026-10-31,False,CIN,Cincinnati Bearcats,0.0,99,UTAH,Utah Utes,0.0,11
-401858508,2026,9,2026-10-31,False,UCLA,UCLA Bruins,0.0,12,NEV,Nevada Wolf Pack,0.0,99
-401856733,2026,9,2026-10-31,False,ARK,Arkansas Razorbacks,0.0,99,MIZ,Missouri Tigers,0.0,13
-401858502,2026,9,2026-10-31,False,IOWA,Iowa Hawkeyes,0.0,17,WIS,Wisconsin Badgers,0.0,99
-401856847,2026,9,2026-10-31,False,ISU,Iowa State Cyclones,0.0,99,OKST,Oklahoma State Cowboys,0.0,18
-401858284,2026,9,2026-10-31,False,WAKE,Wake Forest Demon Deacons,0.0,21,UVA,Virginia Cavaliers,0.0,99
-401858278,2026,9,2026-10-31,False,SYR,Syracuse Orange,0.0,99,SMU,SMU Mustangs,0.0,24
-401858505,2026,9,2026-10-31,False,ORE,Oregon Ducks,0.0,99,NU,Northwestern Wildcats,0.0,25
-401856736,2026,9,2026-10-31,False,OU,Oklahoma Sooners,0.0,99,SC,South Carolina Gamecocks,0.0,99
-401856845,2026,9,2026-10-31,False,TCU,TCU Horned Frogs,0.0,99,KU,Kansas Jayhawks,0.0,99
-401856846,2026,9,2026-10-31,False,COLO,Colorado Buffaloes,0.0,99,KSU,Kansas State Wildcats,0.0,99
-401858277,2026,9,2026-10-31,False,NCSU,NC State Wolfpack,0.0,99,CAL,California Golden Bears,0.0,99
-401858279,2026,9,2026-10-31,False,DUKE,Duke Blue Devils,0.0,99,BC,Boston College Eagles,0.0,99
-401858280,2026,9,2026-10-31,False,FSU,Florida State Seminoles,0.0,99,CLEM,Clemson Tigers,0.0,99
-401858281,2026,9,2026-10-31,False,PITT,Pittsburgh Panthers,0.0,99,GT,Georgia Tech Yellow Jackets,0.0,99
-401858283,2026,9,2026-10-31,False,LOU,Louisville Cardinals,0.0,99,STAN,Stanford Cardinal,0.0,99
-401858503,2026,9,2026-10-31,False,MD,Maryland Terrapins,0.0,99,ILL,Illinois Fighting Illini,0.0,99
-401858504,2026,9,2026-10-31,False,NEB,Nebraska Cornhuskers,0.0,99,WASH,Washington Huskies,0.0,99
-401858506,2026,9,2026-10-31,False,PSU,Penn State Nittany Lions,0.0,99,PUR,Purdue Boilermakers,0.0,99
-401858507,2026,9,2026-10-31,False,RUTG,Rutgers Scarlet Knights,0.0,99,MICH,Michigan Wolverines,0.0,99
-401860924,2026,9,2026-10-31,False,FRES,Fresno State Bulldogs,0.0,99,ORST,Oregon State Beavers,0.0,99
-401862814,2026,9,2026-10-31,False,MEM,Memphis Tigers,0.0,99,ARMY,Army Black Knights,0.0,99
-401862815,2026,9,2026-10-31,False,ECU,East Carolina Pirates,0.0,99,TEM,Temple Owls,0.0,99
-401862816,2026,9,2026-10-31,False,USF,South Florida Bulls,0.0,99,UAB,UAB Blazers,0.0,99
-401864529,2026,9,2026-10-31,False,SJSU,San José State Spartans,0.0,99,UNM,New Mexico Lobos,0.0,99
-401869846,2026,9,2026-10-31,False,GASO,Georgia Southern Eagles,0.0,99,APP,App State Mountaineers,0.0,99
-401869944,2026,9,2026-10-31,False,GAST,Georgia State Panthers,0.0,99,CCU,Coastal Carolina Chanticleers,0.0,99
-401871095,2026,9,2026-10-31,False,ULM,UL Monroe Warhawks,0.0,99,USM,Southern Miss Golden Eagles,0.0,99
-401871096,2026,9,2026-10-31,False,ODU,Old Dominion Monarchs,0.0,99,MRSH,Marshall Thundering Herd,0.0,99
-401871097,2026,9,2026-10-31,False,USA,South Alabama Jaguars,0.0,99,LT,Louisiana Tech Bulldogs,0.0,99
-401859185,2026,9,2026-10-31,False,NAVY,Navy Midshipmen,0.0,99,ND,Notre Dame Fighting Irish,0.0,2
-401866452,2026,9,2026-10-31,False,WMU,Western Michigan Broncos,0.0,99,BGSU,Bowling Green Falcons,0.0,99
-401861966,2026,9,2026-10-31,False,AFA,Air Force Falcons,0.0,99,CONN,UConn Huskies,0.0,99
-401856734,2026,9,2026-10-31,False,UGA,Georgia Bulldogs,0.0,1,FLA,Florida Gators,0.0,99
-401860910,2026,9,2026-10-31,False,USU,Utah State Aggies,0.0,99,CSU,Colorado State Rams,0.0,99
-401864531,2026,9,2026-10-31,False,NDSU,North Dakota State Bison,0.0,99,UTEP,UTEP Miners,0.0,99
-401871059,2026,9,2026-10-31,False,LIB,Liberty Flames,0.0,99,FIU,Florida International Panthers,0.0,99
-401860909,2026,9,2026-10-31,False,SDSU,San Diego State Aztecs,0.0,99,WSU,Washington State Cougars,0.0,99
-401860908,2026,9,2026-10-31,False,BOIS,Boise State Broncos,0.0,23,TXST,Texas State Bobcats,0.0,99
-401864530,2026,9,2026-10-31,False,UNLV,UNLV Rebels,0.0,99,NIU,Northern Illinois Huskies,0.0,99
+401871067,2026,7,2026-10-13,True,MTSU,Middle Tennessee Blue Raiders,33.0,99,DEL,Delaware Blue Hens,30.0,99
+401871053,2026,7,2026-10-13,True,JXST,Jacksonville State Gamecocks,27.0,99,FIU,Florida International Panthers,24.0,99
+401871054,2026,7,2026-10-14,True,MOST,Missouri State Bears,24.0,99,KENN,Kennesaw State Owls,21.0,99
+401871068,2026,7,2026-10-14,True,SHSU,Sam Houston Bearkats,3.0,99,WKU,Western Kentucky Hilltoppers,16.0,99
+401862800,2026,7,2026-10-15,True,UAB,UAB Blazers,30.0,99,ECU,East Carolina Pirates,17.0,99
+401869950,2026,7,2026-10-15,True,ODU,Old Dominion Monarchs,15.0,99,GASO,Georgia Southern Eagles,23.0,99
+401860923,2026,7,2026-10-15,True,TXST,Texas State Bobcats,66.0,99,CSU,Colorado State Rams,27.0,99
+401862801,2026,7,2026-10-16,True,TULN,Tulane Green Wave,31.0,99,MEM,Memphis Tigers,17.0,99
+401858493,2026,7,2026-10-16,True,PUR,Purdue Boilermakers,26.0,99,WASH,Washington Huskies,38.0,99
+401869844,2026,7,2026-10-16,True,CCU,Coastal Carolina Chanticleers,32.0,99,APP,App State Mountaineers,35.0,99
+401856719,2026,7,2026-10-17,True,UGA,Georgia Bulldogs,24.0,1,AUB,Auburn Tigers,27.0,99
+401856809,2026,7,2026-10-17,True,BYU,BYU Cougars,28.0,8,ND,Notre Dame Fighting Irish,24.0,2
+401858263,2026,7,2026-10-17,True,MIA,Miami Hurricanes,43.0,3,FSU,Florida State Seminoles,35.0,99
+401858488,2026,7,2026-10-17,True,IU,Indiana Hoosiers,15.0,5,OSU,Ohio State Buckeyes,19.0,4
+401856723,2026,7,2026-10-17,True,TENN,Tennessee Volunteers,26.0,14,ALA,Alabama Crimson Tide,10.0,6
+401856724,2026,7,2026-10-17,True,TEX,Texas Longhorns,24.0,7,FLA,Florida Gators,27.0,99
+401856721,2026,7,2026-10-17,True,MISS,Ole Miss Rebels,31.0,9,MIZ,Missouri Tigers,3.0,13
+401856828,2026,7,2026-10-17,True,TTU,Texas Tech Red Raiders,53.0,10,ASU,Arizona State Sun Devils,25.0,99
+401856833,2026,7,2026-10-17,True,COLO,Colorado Buffaloes,24.0,99,UTAH,Utah Utes,27.0,11
+401858494,2026,7,2026-10-17,True,UCLA,UCLA Bruins,17.0,12,WIS,Wisconsin Badgers,7.0,99
+401856722,2026,7,2026-10-17,True,OU,Oklahoma Sooners,13.0,99,UK,Kentucky Wildcats,21.0,15
+401856720,2026,7,2026-10-17,True,LSU,LSU Tigers,31.0,22,MSST,Mississippi State Bulldogs,0.0,16
+401856831,2026,7,2026-10-17,True,HOU,Houston Cougars,35.0,20,OKST,Oklahoma State Cowboys,32.0,18
+401858269,2026,7,2026-10-17,True,CAL,California Golden Bears,7.0,99,WAKE,Wake Forest Demon Deacons,41.0,21
+401858268,2026,7,2026-10-17,True,SMU,SMU Mustangs,23.0,24,UVA,Virginia Cavaliers,13.0,99
+401858491,2026,7,2026-10-17,True,MSU,Michigan State Spartans,21.0,99,NU,Northwestern Wildcats,24.0,25
+401856829,2026,7,2026-10-17,True,WVU,West Virginia Mountaineers,45.0,99,CIN,Cincinnati Bearcats,42.0,99
+401856830,2026,7,2026-10-17,True,KSU,Kansas State Wildcats,35.0,99,KU,Kansas Jayhawks,24.0,99
+401858261,2026,7,2026-10-17,True,CLEM,Clemson Tigers,37.0,99,CHSO,Charleston Southern Buccaneers,0.0,99
+401858267,2026,7,2026-10-17,True,BC,Boston College Eagles,27.0,99,PITT,Pittsburgh Panthers,21.0,99
+401862802,2026,7,2026-10-17,True,ARMY,Army Black Knights,56.0,99,FAU,Florida Atlantic Owls,24.0,99
+401866441,2026,7,2026-10-17,True,BGSU,Bowling Green Falcons,31.0,99,BALL,Ball State Cardinals,32.0,99
+401869957,2026,7,2026-10-17,True,JMU,James Madison Dukes,49.0,99,GAST,Georgia State Panthers,22.0,99
+401858489,2026,7,2026-10-17,True,MD,Maryland Terrapins,30.0,99,RUTG,Rutgers Scarlet Knights,37.0,99
+401856725,2026,7,2026-10-17,True,TA&M,Texas A&M Aggies,41.0,99,CIT,The Citadel Bulldogs,0.0,99
+401862803,2026,7,2026-10-17,True,TEM,Temple Owls,31.0,99,CLT,Charlotte 49ers,38.0,99
+401866442,2026,7,2026-10-17,True,BUFF,Buffalo Bulls,25.0,99,MASS,Massachusetts Minutemen,18.0,99
+401866443,2026,7,2026-10-17,True,CMU,Central Michigan Chippewas,14.0,99,WMU,Western Michigan Broncos,21.0,99
+401858264,2026,7,2026-10-17,True,VT,Virginia Tech Hokies,34.0,99,GT,Georgia Tech Yellow Jackets,24.0,99
+401858266,2026,7,2026-10-17,True,DUKE,Duke Blue Devils,20.0,99,UNC,North Carolina Tar Heels,24.0,99
+401858490,2026,7,2026-10-17,True,MICH,Michigan Wolverines,21.0,99,PSU,Penn State Nittany Lions,18.0,99
+401864522,2026,7,2026-10-17,True,WYO,Wyoming Cowboys,41.0,99,NIU,Northern Illinois Huskies,23.0,99
+401864524,2026,7,2026-10-17,True,AFA,Air Force Falcons,41.0,99,UNLV,UNLV Rebels,31.0,99
+401866444,2026,7,2026-10-17,True,EMU,Eastern Michigan Eagles,14.0,99,TOL,Toledo Rockets,34.0,99
+401866478,2026,7,2026-10-17,True,M-OH,Miami (OH) RedHawks,34.0,99,AKR,Akron Zips,14.0,99
+401862805,2026,7,2026-10-17,True,RICE,Rice Owls,17.0,99,TLSA,Tulsa Golden Hurricane,38.0,99
+401869966,2026,7,2026-10-17,True,UL,Louisiana Ragin' Cajuns,33.0,99,TROY,Troy Trojans,6.0,99
+401860903,2026,7,2026-10-17,True,ORST,Oregon State Beavers,48.0,99,WSU,Washington State Cougars,30.0,99
+401856726,2026,7,2026-10-17,True,VAN,Vanderbilt Commodores,21.0,99,ARK,Arkansas Razorbacks,31.0,99
+401856832,2026,7,2026-10-17,True,BAY,Baylor Bears,6.0,99,TCU,TCU Horned Frogs,17.0,99
+401862806,2026,7,2026-10-17,True,USF,South Florida Bulls,29.0,99,KENT,Kent State Golden Flashes,2.0,99
+401864520,2026,7,2026-10-17,True,NDSU,North Dakota State Bison,31.0,99,NEV,Nevada Wolf Pack,17.0,99
+401869934,2026,7,2026-10-17,True,USM,Southern Miss Golden Eagles,13.0,99,ARST,Arkansas State Red Wolves,23.0,99
+401858262,2026,7,2026-10-17,True,STAN,Stanford Cardinal,34.0,99,ELON,Elon Phoenix,7.0,99
+401858265,2026,7,2026-10-17,True,SYR,Syracuse Orange,26.0,99,LOU,Louisville Cardinals,34.0,99
+401862804,2026,7,2026-10-17,True,UTSA,UTSA Roadrunners,38.0,99,NAVY,Navy Midshipmen,34.0,99
+401871091,2026,7,2026-10-17,True,ULM,UL Monroe Warhawks,0.0,99,LT,Louisiana Tech Bulldogs,24.0,99
+401864523,2026,7,2026-10-17,True,UTEP,UTEP Miners,11.0,99,SJSU,San José State Spartans,24.0,99
+401866445,2026,7,2026-10-17,True,SAC,Sacramento State Hornets,7.0,99,OHIO,Ohio Bobcats,48.0,99
+401860904,2026,7,2026-10-17,True,SDSU,San Diego State Aztecs,26.0,99,FRES,Fresno State Bulldogs,23.0,99
+401864521,2026,7,2026-10-17,True,HAW,Hawai'i Rainbow Warriors,10.0,99,UNM,New Mexico Lobos,21.0,99
+401858492,2026,7,2026-10-17,True,ORE,Oregon Ducks,17.0,99,NEB,Nebraska Cornhuskers,14.0,99
+401871055,2026,8,2026-10-20,True,FIU,Florida International Panthers,23.0,99,MTSU,Middle Tennessee Blue Raiders,26.0,99
+401871069,2026,8,2026-10-20,True,DEL,Delaware Blue Hens,61.0,99,MOST,Missouri State Bears,38.0,99
+401871092,2026,8,2026-10-20,True,MRSH,Marshall Thundering Herd,20.0,99,USA,South Alabama Jaguars,13.0,99
+401871070,2026,8,2026-10-21,True,SHSU,Sam Houston Bearkats,24.0,99,NMSU,New Mexico State Aggies,30.0,99
+401869845,2026,8,2026-10-22,True,APP,App State Mountaineers,34.0,99,JMU,James Madison Dukes,31.0,99
+401871056,2026,8,2026-10-22,True,KENN,Kennesaw State Owls,6.0,99,LIB,Liberty Flames,34.0,99
+401862807,2026,8,2026-10-22,True,MEM,Memphis Tigers,41.0,99,ECU,East Carolina Pirates,34.0,99
+401858271,2026,8,2026-10-23,True,UVA,Virginia Cavaliers,16.0,99,DUKE,Duke Blue Devils,19.0,99
+401861965,2026,8,2026-10-23,True,CONN,UConn Huskies,35.0,99,MASS,Massachusetts Minutemen,16.0,99
+401862808,2026,8,2026-10-23,True,TLSA,Tulsa Golden Hurricane,35.0,99,ARMY,Army Black Knights,38.0,99
+401864525,2026,8,2026-10-23,True,WYO,Wyoming Cowboys,28.0,99,AFA,Air Force Falcons,14.0,99
+401858272,2026,8,2026-10-23,True,STAN,Stanford Cardinal,31.0,99,NCSU,NC State Wolfpack,28.0,99
+401858274,2026,8,2026-10-24,True,MIA,Miami Hurricanes,52.0,1,PITT,Pittsburgh Panthers,23.0,99
+401856835,2026,8,2026-10-24,True,UCF,UCF Knights,39.0,99,BYU,BYU Cougars,31.0,2
+401858496,2026,8,2026-10-24,True,MICH,Michigan Wolverines,6.0,99,IU,Indiana Hoosiers,13.0,6
+401856732,2026,8,2026-10-24,True,TEX,Texas Longhorns,34.0,19,MISS,Ole Miss Rebels,27.0,7
+401856840,2026,8,2026-10-24,True,CIN,Cincinnati Bearcats,37.0,99,TTU,Texas Tech Red Raiders,24.0,8
+401858499,2026,8,2026-10-24,True,UCLA,UCLA Bruins,28.0,9,MSU,Michigan State Spartans,10.0,99
+401856837,2026,8,2026-10-24,True,UTAH,Utah Utes,21.0,10,HOU,Houston Cougars,13.0,14
+401856731,2026,8,2026-10-24,True,SC,South Carolina Gamecocks,27.0,99,TENN,Tennessee Volunteers,24.0,11
+401856729,2026,8,2026-10-24,True,UK,Kentucky Wildcats,34.0,12,VAN,Vanderbilt Commodores,17.0,99
+401856727,2026,8,2026-10-24,True,ALA,Alabama Crimson Tide,31.0,13,TA&M,Texas A&M Aggies,20.0,99
+401858497,2026,8,2026-10-24,True,MINN,Minnesota Golden Gophers,13.0,99,IOWA,Iowa Hawkeyes,10.0,15
+401858500,2026,8,2026-10-24,True,WIS,Wisconsin Badgers,24.0,99,USC,USC Trojans,7.0,16
+401856728,2026,8,2026-10-24,True,AUB,Auburn Tigers,17.0,99,LSU,LSU Tigers,38.0,18
+401860907,2026,8,2026-10-24,True,WSU,Washington State Cougars,10.0,99,BOIS,Boise State Broncos,31.0,21
+401858270,2026,8,2026-10-24,True,SMU,SMU Mustangs,59.0,23,CAL,California Golden Bears,20.0,99
+401858498,2026,8,2026-10-24,True,NU,Northwestern Wildcats,42.0,24,RUTG,Rutgers Scarlet Knights,14.0,99
+401856838,2026,8,2026-10-24,True,ARIZ,Arizona Wildcats,39.0,25,ISU,Iowa State Cyclones,3.0,99
+401856841,2026,8,2026-10-24,True,TCU,TCU Horned Frogs,20.0,99,WVU,West Virginia Mountaineers,24.0,99
+401862809,2026,8,2026-10-24,True,FAU,Florida Atlantic Owls,51.0,99,RICE,Rice Owls,49.0,99
+401866450,2026,8,2026-10-24,True,TOL,Toledo Rockets,45.0,99,WMU,Western Michigan Broncos,38.0,99
+401856834,2026,8,2026-10-24,True,KU,Kansas Jayhawks,25.0,99,BAY,Baylor Bears,24.0,99
+401866446,2026,8,2026-10-24,True,KENT,Kent State Golden Flashes,35.0,99,AKR,Akron Zips,20.0,99
+401866476,2026,8,2026-10-24,True,CMU,Central Michigan Chippewas,27.0,99,M-OH,Miami (OH) RedHawks,28.0,99
+401858495,2026,8,2026-10-24,True,ILL,Illinois Fighting Illini,21.0,99,ORE,Oregon Ducks,10.0,99
+401856730,2026,8,2026-10-24,True,MSST,Mississippi State Bulldogs,15.0,99,OU,Oklahoma Sooners,23.0,99
+401858273,2026,8,2026-10-24,True,GT,Georgia Tech Yellow Jackets,27.0,99,BC,Boston College Eagles,49.0,99
+401862810,2026,8,2026-10-24,True,NAVY,Navy Midshipmen,39.0,99,UNT,North Texas Mean Green,49.0,99
+401864526,2026,8,2026-10-24,True,NIU,Northern Illinois Huskies,21.0,99,HAW,Hawai'i Rainbow Warriors,56.0,99
+401866447,2026,8,2026-10-24,True,BALL,Ball State Cardinals,34.0,99,SAC,Sacramento State Hornets,17.0,99
+401866448,2026,8,2026-10-24,True,BUFF,Buffalo Bulls,31.0,99,BGSU,Bowling Green Falcons,24.0,99
+401856839,2026,8,2026-10-24,True,ASU,Arizona State Sun Devils,28.0,99,KSU,Kansas State Wildcats,17.0,99
+401866449,2026,8,2026-10-24,True,OHIO,Ohio Bobcats,24.0,99,EMU,Eastern Michigan Eagles,20.0,99
+401871094,2026,8,2026-10-24,True,TROY,Troy Trojans,14.0,99,ULM,UL Monroe Warhawks,21.0,99
+401864528,2026,8,2026-10-24,True,NEV,Nevada Wolf Pack,28.0,99,SJSU,San José State Spartans,13.0,99
+401869967,2026,8,2026-10-24,True,USM,Southern Miss Golden Eagles,35.0,99,UL,Louisiana Ragin' Cajuns,31.0,99
+401871093,2026,8,2026-10-24,True,LT,Louisiana Tech Bulldogs,26.0,99,ODU,Old Dominion Monarchs,0.0,99
+401860905,2026,8,2026-10-24,True,CSU,Colorado State Rams,56.0,99,SDSU,San Diego State Aztecs,49.0,99
+401856836,2026,8,2026-10-24,True,OKST,Oklahoma State Cowboys,57.0,99,COLO,Colorado Buffaloes,24.0,99
+401858276,2026,8,2026-10-24,True,CLEM,Clemson Tigers,16.0,99,VT,Virginia Tech Hokies,20.0,99
+401869935,2026,8,2026-10-24,True,ARST,Arkansas State Red Wolves,38.0,99,GAST,Georgia State Panthers,32.0,99
+401858275,2026,8,2026-10-24,True,UNC,North Carolina Tar Heels,30.0,99,SYR,Syracuse Orange,31.0,99
+401860906,2026,8,2026-10-24,True,TXST,Texas State Bobcats,20.0,99,USU,Utah State Aggies,17.0,99
+401862811,2026,8,2026-10-24,True,TULN,Tulane Green Wave,19.0,99,UTSA,UTSA Roadrunners,42.0,99
+401864527,2026,8,2026-10-24,True,UNM,New Mexico Lobos,21.0,99,NDSU,North Dakota State Bison,16.0,99
+401871071,2026,9,2026-10-27,True,WKU,Western Kentucky Hilltoppers,21.0,99,DEL,Delaware Blue Hens,35.0,99
+401871072,2026,9,2026-10-27,True,MOST,Missouri State Bears,24.0,99,SHSU,Sam Houston Bearkats,3.0,99
+401871058,2026,9,2026-10-28,True,MTSU,Middle Tennessee Blue Raiders,28.0,99,KENN,Kennesaw State Owls,44.0,99
+401871057,2026,9,2026-10-28,True,NMSU,New Mexico State Aggies,0.0,99,JXST,Jacksonville State Gamecocks,24.0,99
+401862812,2026,9,2026-10-29,True,UNT,North Texas Mean Green,48.0,99,FAU,Florida Atlantic Owls,41.0,99
+401869963,2026,9,2026-10-29,True,JMU,James Madison Dukes,21.0,99,TROY,Troy Trojans,24.0,99
+401862813,2026,9,2026-10-30,True,CLT,Charlotte 49ers,31.0,99,TULN,Tulane Green Wave,38.0,99
+401856844,2026,9,2026-10-30,True,UCF,UCF Knights,9.0,99,BAY,Baylor Bears,41.0,99
+401866451,2026,9,2026-10-30,True,SAC,Sacramento State Hornets,31.0,99,KENT,Kent State Golden Flashes,10.0,99
+401858282,2026,9,2026-10-31,True,UNC,North Carolina Tar Heels,35.0,99,MIA,Miami Hurricanes,38.0,1
+401858509,2026,9,2026-10-31,True,USC,USC Trojans,30.0,99,OSU,Ohio State Buckeyes,18.0,2
+401856734,2026,9,2026-10-31,True,UGA,Georgia Bulldogs,27.0,3,FLA,Florida Gators,8.0,17
+401858501,2026,9,2026-10-31,True,IU,Indiana Hoosiers,23.0,4,MINN,Minnesota Golden Gophers,16.0,99
+401859185,2026,9,2026-10-31,True,NAVY,Navy Midshipmen,13.0,99,ND,Notre Dame Fighting Irish,35.0,5
+401856848,2026,9,2026-10-31,True,CIN,Cincinnati Bearcats,25.0,99,UTAH,Utah Utes,49.0,6
+401858508,2026,9,2026-10-31,True,UCLA,UCLA Bruins,27.0,7,NEV,Nevada Wolf Pack,0.0,99
+401856843,2026,9,2026-10-31,True,BYU,BYU Cougars,27.0,8,ASU,Arizona State Sun Devils,20.0,99
+401856737,2026,9,2026-10-31,True,TEX,Texas Longhorns,31.0,11,MSST,Mississippi State Bulldogs,3.0,99
+401856735,2026,9,2026-10-31,True,MISS,Ole Miss Rebels,45.0,12,AUB,Auburn Tigers,15.0,99
+401856842,2026,9,2026-10-31,True,TTU,Texas Tech Red Raiders,34.0,13,ARIZ,Arizona Wildcats,26.0,22
+401858284,2026,9,2026-10-31,True,WAKE,Wake Forest Demon Deacons,51.0,14,UVA,Virginia Cavaliers,7.0,99
+401858278,2026,9,2026-10-31,True,SYR,Syracuse Orange,30.0,99,SMU,SMU Mustangs,27.0,19
+401858505,2026,9,2026-10-31,True,ORE,Oregon Ducks,34.0,99,NU,Northwestern Wildcats,26.0,20
+401860908,2026,9,2026-10-31,True,BOIS,Boise State Broncos,46.0,20,TXST,Texas State Bobcats,45.0,99
+401856733,2026,9,2026-10-31,True,ARK,Arkansas Razorbacks,10.0,99,MIZ,Missouri Tigers,34.0,23
+401856847,2026,9,2026-10-31,True,ISU,Iowa State Cyclones,51.0,99,OKST,Oklahoma State Cowboys,49.0,24
+401858502,2026,9,2026-10-31,True,IOWA,Iowa Hawkeyes,30.0,99,WIS,Wisconsin Badgers,0.0,25
+401858277,2026,9,2026-10-31,True,NCSU,NC State Wolfpack,31.0,99,CAL,California Golden Bears,10.0,99
+401858279,2026,9,2026-10-31,True,DUKE,Duke Blue Devils,47.0,99,BC,Boston College Eagles,2.0,99
+401858503,2026,9,2026-10-31,True,MD,Maryland Terrapins,17.0,99,ILL,Illinois Fighting Illini,20.0,99
+401862816,2026,9,2026-10-31,True,USF,South Florida Bulls,30.0,99,UAB,UAB Blazers,10.0,99
+401866452,2026,9,2026-10-31,True,WMU,Western Michigan Broncos,23.0,99,BGSU,Bowling Green Falcons,10.0,99
+401858507,2026,9,2026-10-31,True,RUTG,Rutgers Scarlet Knights,21.0,99,MICH,Michigan Wolverines,28.0,99
+401871096,2026,9,2026-10-31,True,ODU,Old Dominion Monarchs,23.0,99,MRSH,Marshall Thundering Herd,36.0,99
+401856846,2026,9,2026-10-31,True,COLO,Colorado Buffaloes,27.0,99,KSU,Kansas State Wildcats,24.0,99
+401869944,2026,9,2026-10-31,True,GAST,Georgia State Panthers,20.0,99,CCU,Coastal Carolina Chanticleers,31.0,99
+401861966,2026,9,2026-10-31,True,AFA,Air Force Falcons,35.0,99,CONN,UConn Huskies,26.0,99
+401862815,2026,9,2026-10-31,True,ECU,East Carolina Pirates,17.0,99,TEM,Temple Owls,9.0,99
+401871097,2026,9,2026-10-31,True,USA,South Alabama Jaguars,20.0,99,LT,Louisiana Tech Bulldogs,35.0,99
+401858283,2026,9,2026-10-31,True,LOU,Louisville Cardinals,52.0,99,STAN,Stanford Cardinal,24.0,99
+401856845,2026,9,2026-10-31,True,TCU,TCU Horned Frogs,22.0,99,KU,Kansas Jayhawks,16.0,99
+401860910,2026,9,2026-10-31,True,USU,Utah State Aggies,31.0,99,CSU,Colorado State Rams,14.0,99
+401864531,2026,9,2026-10-31,True,NDSU,North Dakota State Bison,31.0,99,UTEP,UTEP Miners,7.0,99
+401871059,2026,9,2026-10-31,True,LIB,Liberty Flames,49.0,99,FIU,Florida International Panthers,10.0,99
+401871095,2026,9,2026-10-31,True,ULM,UL Monroe Warhawks,21.0,99,USM,Southern Miss Golden Eagles,35.0,99
+401864529,2026,9,2026-10-31,True,SJSU,San José State Spartans,16.0,99,UNM,New Mexico Lobos,21.0,99
+401856736,2026,9,2026-10-31,True,OU,Oklahoma Sooners,25.0,99,SC,South Carolina Gamecocks,42.0,99
+401858506,2026,9,2026-10-31,True,PSU,Penn State Nittany Lions,31.0,99,PUR,Purdue Boilermakers,17.0,99
+401869846,2026,9,2026-10-31,True,GASO,Georgia Southern Eagles,19.0,99,APP,App State Mountaineers,3.0,99
+401858280,2026,9,2026-10-31,True,FSU,Florida State Seminoles,24.0,99,CLEM,Clemson Tigers,36.0,99
+401860909,2026,9,2026-10-31,True,SDSU,San Diego State Aztecs,26.0,99,WSU,Washington State Cougars,20.0,99
+401858281,2026,9,2026-10-31,True,PITT,Pittsburgh Panthers,34.0,99,GT,Georgia Tech Yellow Jackets,11.0,99
+401858504,2026,9,2026-10-31,True,NEB,Nebraska Cornhuskers,10.0,99,WASH,Washington Huskies,17.0,99
+401862814,2026,9,2026-10-31,True,MEM,Memphis Tigers,49.0,99,ARMY,Army Black Knights,22.0,99
+401864530,2026,9,2026-10-31,True,UNLV,UNLV Rebels,31.0,99,NIU,Northern Illinois Huskies,24.0,99
+401860924,2026,9,2026-10-31,True,FRES,Fresno State Bulldogs,38.0,99,ORST,Oregon State Beavers,22.0,99
 401866453,2026,10,2026-11-03,False,AKR,Akron Zips,0.0,99,OHIO,Ohio Bobcats,0.0,99
 401866454,2026,10,2026-11-03,False,M-OH,Miami (OH) RedHawks,0.0,99,BUFF,Buffalo Bulls,0.0,99
 401866455,2026,10,2026-11-04,False,MASS,Massachusetts Minutemen,0.0,99,BALL,Ball State Cardinals,0.0,99
-401866456,2026,10,2026-11-04,False,EMU,Eastern Michigan Eagles,0.0,99,CMU,Central Michigan Chippewas,0.0,99
 401866457,2026,10,2026-11-04,False,SAC,Sacramento State Hornets,0.0,99,TOL,Toledo Rockets,0.0,99
+401866456,2026,10,2026-11-04,False,EMU,Eastern Michigan Eagles,0.0,99,CMU,Central Michigan Chippewas,0.0,99
 401862817,2026,10,2026-11-05,False,FAU,Florida Atlantic Owls,0.0,99,UTSA,UTSA Roadrunners,0.0,99
 401869964,2026,10,2026-11-05,False,USM,Southern Miss Golden Eagles,0.0,99,JMU,James Madison Dukes,0.0,99
-401858288,2026,10,2026-11-06,False,SMU,SMU Mustangs,0.0,24,VT,Virginia Tech Hokies,0.0,99
+401858288,2026,10,2026-11-06,False,SMU,SMU Mustangs,0.0,99,VT,Virginia Tech Hokies,0.0,99
 401862818,2026,10,2026-11-06,False,ECU,East Carolina Pirates,0.0,99,USF,South Florida Bulls,0.0,99
 401858510,2026,10,2026-11-06,False,ILL,Illinois Fighting Illini,0.0,99,NEB,Nebraska Cornhuskers,0.0,99
-401864533,2026,10,2026-11-06,False,NEV,Nevada Wolf Pack,0.0,99,UNM,New Mexico Lobos,0.0,99
-401856855,2026,10,2026-11-06,False,ARIZ,Arizona Wildcats,0.0,99,TCU,TCU Horned Frogs,0.0,99
-401856741,2026,10,2026-11-07,False,MISS,Ole Miss Rebels,0.0,9,UGA,Georgia Bulldogs,0.0,1
-401858514,2026,10,2026-11-07,False,OSU,Ohio State Buckeyes,0.0,4,ORE,Oregon Ducks,0.0,99
-401856740,2026,10,2026-11-07,False,LSU,LSU Tigers,0.0,22,ALA,Alabama Crimson Tide,0.0,6
-401856743,2026,10,2026-11-07,False,MIZ,Missouri Tigers,0.0,13,TEX,Texas Longhorns,0.0,7
-401856849,2026,10,2026-11-07,False,UTAH,Utah Utes,0.0,11,BYU,BYU Cougars,0.0,8
-401856856,2026,10,2026-11-07,False,TTU,Texas Tech Red Raiders,0.0,10,WVU,West Virginia Mountaineers,0.0,99
-401858512,2026,10,2026-11-07,False,MINN,Minnesota Golden Gophers,0.0,99,UCLA,UCLA Bruins,0.0,12
-401856745,2026,10,2026-11-07,False,TENN,Tennessee Volunteers,0.0,14,UK,Kentucky Wildcats,0.0,15
-401856742,2026,10,2026-11-07,False,MSST,Mississippi State Bulldogs,0.0,16,VAN,Vanderbilt Commodores,0.0,99
-401858513,2026,10,2026-11-07,False,NU,Northwestern Wildcats,0.0,25,IOWA,Iowa Hawkeyes,0.0,17
-401856854,2026,10,2026-11-07,False,KSU,Kansas State Wildcats,0.0,99,OKST,Oklahoma State Cowboys,0.0,18
-401856851,2026,10,2026-11-07,False,HOU,Houston Cougars,0.0,20,CIN,Cincinnati Bearcats,0.0,99
-401858290,2026,10,2026-11-07,False,WAKE,Wake Forest Demon Deacons,0.0,21,MRMK,Merrimack Warriors,0.0,99
-401856738,2026,10,2026-11-07,False,AUB,Auburn Tigers,0.0,99,ARK,Arkansas Razorbacks,0.0,99
-401856739,2026,10,2026-11-07,False,FLA,Florida Gators,0.0,99,OU,Oklahoma Sooners,0.0,99
-401856744,2026,10,2026-11-07,False,SC,South Carolina Gamecocks,0.0,99,TA&M,Texas A&M Aggies,0.0,99
-401856850,2026,10,2026-11-07,False,KU,Kansas Jayhawks,0.0,99,UCF,UCF Knights,0.0,99
-401856852,2026,10,2026-11-07,False,ASU,Arizona State Sun Devils,0.0,99,COLO,Colorado Buffaloes,0.0,99
+401864533,2026,10,2026-11-06,False,NEV,Nevada Wolf Pack,0.0,99,UNM,New Mexico Lobos,0.0,22
+401856855,2026,10,2026-11-06,False,ARIZ,Arizona Wildcats,0.0,24,TCU,TCU Horned Frogs,0.0,99
+401856849,2026,10,2026-11-07,False,UTAH,Utah Utes,0.0,3,BYU,BYU Cougars,0.0,7
+401858512,2026,10,2026-11-07,False,MINN,Minnesota Golden Gophers,0.0,99,UCLA,UCLA Bruins,0.0,5
+401856743,2026,10,2026-11-07,False,MIZ,Missouri Tigers,0.0,19,TEX,Texas Longhorns,0.0,10
 401856853,2026,10,2026-11-07,False,BAY,Baylor Bears,0.0,99,ISU,Iowa State Cyclones,0.0,99
 401858285,2026,10,2026-11-07,False,SYR,Syracuse Orange,0.0,99,CLEM,Clemson Tigers,0.0,99
-401858286,2026,10,2026-11-07,False,NCSU,NC State Wolfpack,0.0,99,DUKE,Duke Blue Devils,0.0,99
-401858287,2026,10,2026-11-07,False,GT,Georgia Tech Yellow Jackets,0.0,99,LOU,Louisville Cardinals,0.0,99
 401858289,2026,10,2026-11-07,False,BC,Boston College Eagles,0.0,99,FSU,Florida State Seminoles,0.0,99
-401858511,2026,10,2026-11-07,False,MICH,Michigan Wolverines,0.0,99,MSU,Michigan State Spartans,0.0,99
-401858515,2026,10,2026-11-07,False,PUR,Purdue Boilermakers,0.0,99,MD,Maryland Terrapins,0.0,99
-401858516,2026,10,2026-11-07,False,WASH,Washington Huskies,0.0,99,PSU,Penn State Nittany Lions,0.0,99
-401858517,2026,10,2026-11-07,False,WIS,Wisconsin Badgers,0.0,99,RUTG,Rutgers Scarlet Knights,0.0,99
-401862819,2026,10,2026-11-07,False,UAB,UAB Blazers,0.0,99,CLT,Charlotte 49ers,0.0,99
-401862821,2026,10,2026-11-07,False,UNT,North Texas Mean Green,0.0,99,RICE,Rice Owls,0.0,99
-401862822,2026,10,2026-11-07,False,TULN,Tulane Green Wave,0.0,99,TLSA,Tulsa Golden Hurricane,0.0,99
-401864532,2026,10,2026-11-07,False,UTEP,UTEP Miners,0.0,99,HAW,Hawai'i Rainbow Warriors,0.0,99
-401864534,2026,10,2026-11-07,False,SJSU,San José State Spartans,0.0,99,NIU,Northern Illinois Huskies,0.0,99
-401869927,2026,10,2026-11-07,False,APP,App State Mountaineers,0.0,99,GAST,Georgia State Panthers,0.0,99
-401869945,2026,10,2026-11-07,False,CCU,Coastal Carolina Chanticleers,0.0,99,ODU,Old Dominion Monarchs,0.0,99
-401869951,2026,10,2026-11-07,False,GASO,Georgia Southern Eagles,0.0,99,MRSH,Marshall Thundering Herd,0.0,99
-401869968,2026,10,2026-11-07,False,UL,Louisiana Ragin' Cajuns,0.0,99,USA,South Alabama Jaguars,0.0,99
-401871098,2026,10,2026-11-07,False,TROY,Troy Trojans,0.0,99,LT,Louisiana Tech Bulldogs,0.0,99
 401858292,2026,10,2026-11-07,False,CONN,UConn Huskies,0.0,99,UNC,North Carolina Tar Heels,0.0,99
+401862822,2026,10,2026-11-07,False,TULN,Tulane Green Wave,0.0,99,TLSA,Tulsa Golden Hurricane,0.0,99
+401858286,2026,10,2026-11-07,False,NCSU,NC State Wolfpack,0.0,99,DUKE,Duke Blue Devils,0.0,99
+401858515,2026,10,2026-11-07,False,PUR,Purdue Boilermakers,0.0,99,MD,Maryland Terrapins,0.0,99
+401856738,2026,10,2026-11-07,False,AUB,Auburn Tigers,0.0,99,ARK,Arkansas Razorbacks,0.0,99
+401856854,2026,10,2026-11-07,False,KSU,Kansas State Wildcats,0.0,99,OKST,Oklahoma State Cowboys,0.0,99
+401869945,2026,10,2026-11-07,False,CCU,Coastal Carolina Chanticleers,0.0,99,ODU,Old Dominion Monarchs,0.0,99
+401869927,2026,10,2026-11-07,False,APP,App State Mountaineers,0.0,99,GAST,Georgia State Panthers,0.0,99
+401856744,2026,10,2026-11-07,False,SC,South Carolina Gamecocks,0.0,23,TA&M,Texas A&M Aggies,0.0,99
 401869936,2026,10,2026-11-07,False,ARST,Arkansas State Red Wolves,0.0,99,ULM,UL Monroe Warhawks,0.0,99
 401871073,2026,10,2026-11-07,False,KENN,Kennesaw State Owls,0.0,99,DEL,Delaware Blue Hens,0.0,99
+401856740,2026,10,2026-11-07,False,LSU,LSU Tigers,0.0,15,ALA,Alabama Crimson Tide,0.0,9
+401858514,2026,10,2026-11-07,False,OSU,Ohio State Buckeyes,0.0,11,ORE,Oregon Ducks,0.0,99
+401858290,2026,10,2026-11-07,False,WAKE,Wake Forest Demon Deacons,0.0,14,MRMK,Merrimack Warriors,0.0,99
+401856851,2026,10,2026-11-07,False,HOU,Houston Cougars,0.0,17,CIN,Cincinnati Bearcats,0.0,99
+401858516,2026,10,2026-11-07,False,WASH,Washington Huskies,0.0,99,PSU,Penn State Nittany Lions,0.0,99
+401862819,2026,10,2026-11-07,False,UAB,UAB Blazers,0.0,99,CLT,Charlotte 49ers,0.0,99
 401862820,2026,10,2026-11-07,False,NAVY,Navy Midshipmen,0.0,99,TEM,Temple Owls,0.0,99
+401869951,2026,10,2026-11-07,False,GASO,Georgia Southern Eagles,0.0,99,MRSH,Marshall Thundering Herd,0.0,99
 401871076,2026,10,2026-11-07,False,MTSU,Middle Tennessee Blue Raiders,0.0,99,WKU,Western Kentucky Hilltoppers,0.0,99
+401856850,2026,10,2026-11-07,False,KU,Kansas Jayhawks,0.0,99,UCF,UCF Knights,0.0,99
+401862821,2026,10,2026-11-07,False,UNT,North Texas Mean Green,0.0,99,RICE,Rice Owls,0.0,99
+401864534,2026,10,2026-11-07,False,SJSU,San José State Spartans,0.0,99,NIU,Northern Illinois Huskies,0.0,99
 401871074,2026,10,2026-11-07,False,FIU,Florida International Panthers,0.0,99,MOST,Missouri State Bears,0.0,99
-401870795,2026,10,2026-11-07,False,NMSU,New Mexico State Aggies,0.0,99,LIB,Liberty Flames,0.0,99
-401860911,2026,10,2026-11-07,False,CSU,Colorado State Rams,0.0,99,BOIS,Boise State Broncos,0.0,23
+401871098,2026,10,2026-11-07,False,TROY,Troy Trojans,0.0,99,LT,Louisiana Tech Bulldogs,0.0,99
+401856742,2026,10,2026-11-07,False,MSST,Mississippi State Bulldogs,0.0,99,VAN,Vanderbilt Commodores,0.0,99
+401858517,2026,10,2026-11-07,False,WIS,Wisconsin Badgers,0.0,99,RUTG,Rutgers Scarlet Knights,0.0,99
+401869968,2026,10,2026-11-07,False,UL,Louisiana Ragin' Cajuns,0.0,99,USA,South Alabama Jaguars,0.0,99
+401860911,2026,10,2026-11-07,False,CSU,Colorado State Rams,0.0,99,BOIS,Boise State Broncos,0.0,20
+401856745,2026,10,2026-11-07,False,TENN,Tennessee Volunteers,0.0,16,UK,Kentucky Wildcats,0.0,8
 401871075,2026,10,2026-11-07,False,JXST,Jacksonville State Gamecocks,0.0,99,SHSU,Sam Houston Bearkats,0.0,99
-401858291,2026,10,2026-11-07,False,ND,Notre Dame Fighting Irish,0.0,2,MIA,Miami Hurricanes,0.0,3
+401858291,2026,10,2026-11-07,False,ND,Notre Dame Fighting Irish,0.0,4,MIA,Miami Hurricanes,0.0,1
+401856741,2026,10,2026-11-07,False,MISS,Ole Miss Rebels,0.0,12,UGA,Georgia Bulldogs,0.0,2
+401858513,2026,10,2026-11-07,False,NU,Northwestern Wildcats,0.0,99,IOWA,Iowa Hawkeyes,0.0,21
+401856852,2026,10,2026-11-07,False,ASU,Arizona State Sun Devils,0.0,99,COLO,Colorado Buffaloes,0.0,99
+401858287,2026,10,2026-11-07,False,GT,Georgia Tech Yellow Jackets,0.0,99,LOU,Louisville Cardinals,0.0,99
+401858511,2026,10,2026-11-07,False,MICH,Michigan Wolverines,0.0,99,MSU,Michigan State Spartans,0.0,99
 401862823,2026,10,2026-11-07,False,ARMY,Army Black Knights,0.0,99,AFA,Air Force Falcons,0.0,99
+401856739,2026,10,2026-11-07,False,FLA,Florida Gators,0.0,25,OU,Oklahoma Sooners,0.0,99
+401870795,2026,10,2026-11-07,False,NMSU,New Mexico State Aggies,0.0,99,LIB,Liberty Flames,0.0,99
+401856856,2026,10,2026-11-07,False,TTU,Texas Tech Red Raiders,0.0,13,WVU,West Virginia Mountaineers,0.0,99
 401860913,2026,10,2026-11-07,False,USU,Utah State Aggies,0.0,99,FRES,Fresno State Bulldogs,0.0,99
+401864532,2026,10,2026-11-07,False,UTEP,UTEP Miners,0.0,99,HAW,Hawai'i Rainbow Warriors,0.0,99
 401860912,2026,10,2026-11-07,False,ORST,Oregon State Beavers,0.0,99,TXST,Texas State Bobcats,0.0,99
 401864535,2026,10,2026-11-07,False,UNLV,UNLV Rebels,0.0,99,WYO,Wyoming Cowboys,0.0,99
 401866458,2026,11,2026-11-10,False,AKR,Akron Zips,0.0,99,WMU,Western Michigan Broncos,0.0,99
 401866459,2026,11,2026-11-10,False,BGSU,Bowling Green Falcons,0.0,99,KENT,Kent State Golden Flashes,0.0,99
 401866460,2026,11,2026-11-10,False,M-OH,Miami (OH) RedHawks,0.0,99,OHIO,Ohio Bobcats,0.0,99
 401866461,2026,11,2026-11-11,False,BALL,Ball State Cardinals,0.0,99,BUFF,Buffalo Bulls,0.0,99
-401866462,2026,11,2026-11-11,False,CMU,Central Michigan Chippewas,0.0,99,SAC,Sacramento State Hornets,0.0,99
 401866463,2026,11,2026-11-11,False,TOL,Toledo Rockets,0.0,99,MASS,Massachusetts Minutemen,0.0,99
+401866462,2026,11,2026-11-11,False,CMU,Central Michigan Chippewas,0.0,99,SAC,Sacramento State Hornets,0.0,99
 401862824,2026,11,2026-11-12,False,USF,South Florida Bulls,0.0,99,MEM,Memphis Tigers,0.0,99
 401869969,2026,11,2026-11-12,False,ULM,UL Monroe Warhawks,0.0,99,UL,Louisiana Ragin' Cajuns,0.0,99
 401858293,2026,11,2026-11-13,False,PITT,Pittsburgh Panthers,0.0,99,FSU,Florida State Seminoles,0.0,99
-401858526,2026,11,2026-11-13,False,UCLA,UCLA Bruins,0.0,12,ILL,Illinois Fighting Illini,0.0,99
-401856860,2026,11,2026-11-13,False,COLO,Colorado Buffaloes,0.0,99,HOU,Houston Cougars,0.0,20
-401856883,2026,11,2026-11-14,False,UGA,Georgia Bulldogs,0.0,1,MIZ,Missouri Tigers,0.0,13
-401858296,2026,11,2026-11-14,False,MIA,Miami Hurricanes,0.0,3,DUKE,Duke Blue Devils,0.0,99
-401858522,2026,11,2026-11-14,False,OSU,Ohio State Buckeyes,0.0,4,NU,Northwestern Wildcats,0.0,25
-401858518,2026,11,2026-11-14,False,IU,Indiana Hoosiers,0.0,5,USC,USC Trojans,0.0,19
-401856889,2026,11,2026-11-14,False,VAN,Vanderbilt Commodores,0.0,99,ALA,Alabama Crimson Tide,0.0,6
-401856885,2026,11,2026-11-14,False,LSU,LSU Tigers,0.0,22,TEX,Texas Longhorns,0.0,7
-401856858,2026,11,2026-11-14,False,BYU,BYU Cougars,0.0,8,BAY,Baylor Bears,0.0,99
-401856887,2026,11,2026-11-14,False,OU,Oklahoma Sooners,0.0,99,MISS,Ole Miss Rebels,0.0,9
-401856863,2026,11,2026-11-14,False,OKST,Oklahoma State Cowboys,0.0,18,TTU,Texas Tech Red Raiders,0.0,10
-401856864,2026,11,2026-11-14,False,ARIZ,Arizona Wildcats,0.0,99,UTAH,Utah Utes,0.0,11
-401856888,2026,11,2026-11-14,False,TA&M,Texas A&M Aggies,0.0,99,TENN,Tennessee Volunteers,0.0,14
-401856884,2026,11,2026-11-14,False,UK,Kentucky Wildcats,0.0,15,FLA,Florida Gators,0.0,99
-401856886,2026,11,2026-11-14,False,MSST,Mississippi State Bulldogs,0.0,16,AUB,Auburn Tigers,0.0,99
-401858519,2026,11,2026-11-14,False,IOWA,Iowa Hawkeyes,0.0,17,PUR,Purdue Boilermakers,0.0,99
-401858301,2026,11,2026-11-14,False,SMU,SMU Mustangs,0.0,24,WAKE,Wake Forest Demon Deacons,0.0,21
+401858526,2026,11,2026-11-13,False,UCLA,UCLA Bruins,0.0,5,ILL,Illinois Fighting Illini,0.0,99
+401856860,2026,11,2026-11-13,False,COLO,Colorado Buffaloes,0.0,99,HOU,Houston Cougars,0.0,17
+401856883,2026,11,2026-11-14,False,UGA,Georgia Bulldogs,0.0,2,MIZ,Missouri Tigers,0.0,19
+401856864,2026,11,2026-11-14,False,ARIZ,Arizona Wildcats,0.0,24,UTAH,Utah Utes,0.0,3
+401858518,2026,11,2026-11-14,False,IU,Indiana Hoosiers,0.0,6,USC,USC Trojans,0.0,18
+401856858,2026,11,2026-11-14,False,BYU,BYU Cougars,0.0,7,BAY,Baylor Bears,0.0,99
+401856884,2026,11,2026-11-14,False,UK,Kentucky Wildcats,0.0,8,FLA,Florida Gators,0.0,25
+401856885,2026,11,2026-11-14,False,LSU,LSU Tigers,0.0,15,TEX,Texas Longhorns,0.0,10
+401858522,2026,11,2026-11-14,False,OSU,Ohio State Buckeyes,0.0,11,NU,Northwestern Wildcats,0.0,99
+401856887,2026,11,2026-11-14,False,OU,Oklahoma Sooners,0.0,99,MISS,Ole Miss Rebels,0.0,12
+401856863,2026,11,2026-11-14,False,OKST,Oklahoma State Cowboys,0.0,99,TTU,Texas Tech Red Raiders,0.0,13
+401856888,2026,11,2026-11-14,False,TA&M,Texas A&M Aggies,0.0,99,TENN,Tennessee Volunteers,0.0,16
+401858519,2026,11,2026-11-14,False,IOWA,Iowa Hawkeyes,0.0,21,PUR,Purdue Boilermakers,0.0,99
 401856857,2026,11,2026-11-14,False,UCF,UCF Knights,0.0,99,ASU,Arizona State Sun Devils,0.0,99
 401856859,2026,11,2026-11-14,False,ISU,Iowa State Cyclones,0.0,99,CIN,Cincinnati Bearcats,0.0,99
 401856861,2026,11,2026-11-14,False,WVU,West Virginia Mountaineers,0.0,99,KU,Kansas Jayhawks,0.0,99
 401856862,2026,11,2026-11-14,False,TCU,TCU Horned Frogs,0.0,99,KSU,Kansas State Wildcats,0.0,99
-401856882,2026,11,2026-11-14,False,ARK,Arkansas Razorbacks,0.0,99,SC,South Carolina Gamecocks,0.0,99
-401858295,2026,11,2026-11-14,False,UVA,Virginia Cavaliers,0.0,99,CAL,California Golden Bears,0.0,99
-401858297,2026,11,2026-11-14,False,CLEM,Clemson Tigers,0.0,99,GT,Georgia Tech Yellow Jackets,0.0,99
 401858298,2026,11,2026-11-14,False,UNC,North Carolina Tar Heels,0.0,99,LOU,Louisville Cardinals,0.0,99
 401858299,2026,11,2026-11-14,False,VT,Virginia Tech Hokies,0.0,99,STAN,Stanford Cardinal,0.0,99
-401858300,2026,11,2026-11-14,False,NCSU,NC State Wolfpack,0.0,99,SYR,Syracuse Orange,0.0,99
 401858520,2026,11,2026-11-14,False,MD,Maryland Terrapins,0.0,99,WIS,Wisconsin Badgers,0.0,99
 401858521,2026,11,2026-11-14,False,MSU,Michigan State Spartans,0.0,99,WASH,Washington Huskies,0.0,99
 401858523,2026,11,2026-11-14,False,ORE,Oregon Ducks,0.0,99,MICH,Michigan Wolverines,0.0,99
 401858524,2026,11,2026-11-14,False,PSU,Penn State Nittany Lions,0.0,99,MINN,Minnesota Golden Gophers,0.0,99
 401858525,2026,11,2026-11-14,False,RUTG,Rutgers Scarlet Knights,0.0,99,NEB,Nebraska Cornhuskers,0.0,99
-401862825,2026,11,2026-11-14,False,CLT,Charlotte 49ers,0.0,99,ECU,East Carolina Pirates,0.0,99
-401862826,2026,11,2026-11-14,False,TLSA,Tulsa Golden Hurricane,0.0,99,FAU,Florida Atlantic Owls,0.0,99
-401862827,2026,11,2026-11-14,False,UTSA,UTSA Roadrunners,0.0,99,UNT,North Texas Mean Green,0.0,99
-401862828,2026,11,2026-11-14,False,RICE,Rice Owls,0.0,99,TULN,Tulane Green Wave,0.0,99
-401862829,2026,11,2026-11-14,False,TEM,Temple Owls,0.0,99,UAB,UAB Blazers,0.0,99
 401864536,2026,11,2026-11-14,False,NIU,Northern Illinois Huskies,0.0,99,NEV,Nevada Wolf Pack,0.0,99
 401864540,2026,11,2026-11-14,False,UTEP,UTEP Miners,0.0,99,WYO,Wyoming Cowboys,0.0,99
-401869928,2026,11,2026-11-14,False,MRSH,Marshall Thundering Herd,0.0,99,APP,App State Mountaineers,0.0,99
-401869937,2026,11,2026-11-14,False,CCU,Coastal Carolina Chanticleers,0.0,99,ARST,Arkansas State Red Wolves,0.0,99
-401869952,2026,11,2026-11-14,False,GAST,Georgia State Panthers,0.0,99,GASO,Georgia Southern Eagles,0.0,99
-401871099,2026,11,2026-11-14,False,LT,Louisiana Tech Bulldogs,0.0,99,USM,Southern Miss Golden Eagles,0.0,99
-401871100,2026,11,2026-11-14,False,USA,South Alabama Jaguars,0.0,99,TROY,Troy Trojans,0.0,99
+401858296,2026,11,2026-11-14,False,MIA,Miami Hurricanes,0.0,1,DUKE,Duke Blue Devils,0.0,99
+401858301,2026,11,2026-11-14,False,SMU,SMU Mustangs,0.0,99,WAKE,Wake Forest Demon Deacons,0.0,14
+401856886,2026,11,2026-11-14,False,MSST,Mississippi State Bulldogs,0.0,99,AUB,Auburn Tigers,0.0,99
+401858300,2026,11,2026-11-14,False,NCSU,NC State Wolfpack,0.0,99,SYR,Syracuse Orange,0.0,99
 401861967,2026,11,2026-11-14,False,CONN,UConn Huskies,0.0,99,JMU,James Madison Dukes,0.0,99
+401858297,2026,11,2026-11-14,False,CLEM,Clemson Tigers,0.0,99,GT,Georgia Tech Yellow Jackets,0.0,99
+401856889,2026,11,2026-11-14,False,VAN,Vanderbilt Commodores,0.0,99,ALA,Alabama Crimson Tide,0.0,9
+401862825,2026,11,2026-11-14,False,CLT,Charlotte 49ers,0.0,99,ECU,East Carolina Pirates,0.0,99
+401862829,2026,11,2026-11-14,False,TEM,Temple Owls,0.0,99,UAB,UAB Blazers,0.0,99
+401869937,2026,11,2026-11-14,False,CCU,Coastal Carolina Chanticleers,0.0,99,ARST,Arkansas State Red Wolves,0.0,99
+401862828,2026,11,2026-11-14,False,RICE,Rice Owls,0.0,99,TULN,Tulane Green Wave,0.0,99
 401870769,2026,11,2026-11-14,False,SHSU,Sam Houston Bearkats,0.0,99,KENN,Kennesaw State Owls,0.0,99
 401870796,2026,11,2026-11-14,False,MOST,Missouri State Bears,0.0,99,NMSU,New Mexico State Aggies,0.0,99
 401871060,2026,11,2026-11-14,False,DEL,Delaware Blue Hens,0.0,99,FIU,Florida International Panthers,0.0,99
-401858294,2026,11,2026-11-14,False,ND,Notre Dame Fighting Irish,0.0,2,BC,Boston College Eagles,0.0,99
+401858294,2026,11,2026-11-14,False,ND,Notre Dame Fighting Irish,0.0,4,BC,Boston College Eagles,0.0,99
+401858295,2026,11,2026-11-14,False,UVA,Virginia Cavaliers,0.0,99,CAL,California Golden Bears,0.0,99
+401862826,2026,11,2026-11-14,False,TLSA,Tulsa Golden Hurricane,0.0,99,FAU,Florida Atlantic Owls,0.0,99
+401869952,2026,11,2026-11-14,False,GAST,Georgia State Panthers,0.0,99,GASO,Georgia Southern Eagles,0.0,99
 401870752,2026,11,2026-11-14,False,WKU,Western Kentucky Hilltoppers,0.0,99,JXST,Jacksonville State Gamecocks,0.0,99
 401871061,2026,11,2026-11-14,False,LIB,Liberty Flames,0.0,99,MTSU,Middle Tennessee Blue Raiders,0.0,99
 401860916,2026,11,2026-11-14,False,TXST,Texas State Bobcats,0.0,99,FRES,Fresno State Bulldogs,0.0,99
-401860914,2026,11,2026-11-14,False,BOIS,Boise State Broncos,0.0,23,ORST,Oregon State Beavers,0.0,99
+401871099,2026,11,2026-11-14,False,LT,Louisiana Tech Bulldogs,0.0,99,USM,Southern Miss Golden Eagles,0.0,99
+401860914,2026,11,2026-11-14,False,BOIS,Boise State Broncos,0.0,20,ORST,Oregon State Beavers,0.0,99
+401869928,2026,11,2026-11-14,False,MRSH,Marshall Thundering Herd,0.0,99,APP,App State Mountaineers,0.0,99
 401864538,2026,11,2026-11-14,False,AFA,Air Force Falcons,0.0,99,SJSU,San José State Spartans,0.0,99
-401864539,2026,11,2026-11-14,False,UNM,New Mexico Lobos,0.0,99,UNLV,UNLV Rebels,0.0,99
+401871100,2026,11,2026-11-14,False,USA,South Alabama Jaguars,0.0,99,TROY,Troy Trojans,0.0,99
+401864539,2026,11,2026-11-14,False,UNM,New Mexico Lobos,0.0,22,UNLV,UNLV Rebels,0.0,99
+401856882,2026,11,2026-11-14,False,ARK,Arkansas Razorbacks,0.0,99,SC,South Carolina Gamecocks,0.0,23
+401862827,2026,11,2026-11-14,False,UTSA,UTSA Roadrunners,0.0,99,UNT,North Texas Mean Green,0.0,99
 401860915,2026,11,2026-11-14,False,SDSU,San Diego State Aztecs,0.0,99,USU,Utah State Aggies,0.0,99
 401860917,2026,11,2026-11-14,False,WSU,Washington State Cougars,0.0,99,CSU,Colorado State Rams,0.0,99
 401864537,2026,11,2026-11-14,False,HAW,Hawai'i Rainbow Warriors,0.0,99,NDSU,North Dakota State Bison,0.0,99
@@ -3392,32 +3392,32 @@ game_id,season,week,date,completed,home_team,home_name,home_score,home_rank,away
 401866468,2026,12,2026-11-20,False,TOL,Toledo Rockets,0.0,99,BGSU,Bowling Green Falcons,0.0,99
 401858529,2026,12,2026-11-20,False,MSU,Michigan State Spartans,0.0,99,ORE,Oregon Ducks,0.0,99
 401864545,2026,12,2026-11-20,False,AFA,Air Force Falcons,0.0,99,UTEP,UTEP Miners,0.0,99
-401856753,2026,12,2026-11-21,False,SC,South Carolina Gamecocks,0.0,99,UGA,Georgia Bulldogs,0.0,1
-401858302,2026,12,2026-11-21,False,MIA,Miami Hurricanes,0.0,3,VT,Virginia Tech Hokies,0.0,99
-401858531,2026,12,2026-11-21,False,NEB,Nebraska Cornhuskers,0.0,99,OSU,Ohio State Buckeyes,0.0,4
-401858535,2026,12,2026-11-21,False,WASH,Washington Huskies,0.0,99,IU,Indiana Hoosiers,0.0,5
-401856755,2026,12,2026-11-21,False,TEX,Texas Longhorns,0.0,7,ARK,Arkansas Razorbacks,0.0,99
-401856866,2026,12,2026-11-21,False,KU,Kansas Jayhawks,0.0,99,BYU,BYU Cougars,0.0,8
-401856871,2026,12,2026-11-21,False,BAY,Baylor Bears,0.0,99,TTU,Texas Tech Red Raiders,0.0,10
-401856872,2026,12,2026-11-21,False,TCU,TCU Horned Frogs,0.0,99,UTAH,Utah Utes,0.0,11
-401858528,2026,12,2026-11-21,False,MICH,Michigan Wolverines,0.0,99,UCLA,UCLA Bruins,0.0,12
-401856751,2026,12,2026-11-21,False,MIZ,Missouri Tigers,0.0,13,UK,Kentucky Wildcats,0.0,15
-401856754,2026,12,2026-11-21,False,TENN,Tennessee Volunteers,0.0,14,LSU,LSU Tigers,0.0,22
-401858527,2026,12,2026-11-21,False,ILL,Illinois Fighting Illini,0.0,99,IOWA,Iowa Hawkeyes,0.0,17
-401856870,2026,12,2026-11-21,False,ASU,Arizona State Sun Devils,0.0,99,OKST,Oklahoma State Cowboys,0.0,18
-401858534,2026,12,2026-11-21,False,USC,USC Trojans,0.0,19,MD,Maryland Terrapins,0.0,99
-401856868,2026,12,2026-11-21,False,WVU,West Virginia Mountaineers,0.0,99,HOU,Houston Cougars,0.0,20
-401858310,2026,12,2026-11-21,False,GT,Georgia Tech Yellow Jackets,0.0,99,WAKE,Wake Forest Demon Deacons,0.0,21
-401858530,2026,12,2026-11-21,False,MINN,Minnesota Golden Gophers,0.0,99,NU,Northwestern Wildcats,0.0,25
-401856748,2026,12,2026-11-21,False,FLA,Florida Gators,0.0,99,VAN,Vanderbilt Commodores,0.0,99
+401858302,2026,12,2026-11-21,False,MIA,Miami Hurricanes,0.0,1,VT,Virginia Tech Hokies,0.0,99
+401856753,2026,12,2026-11-21,False,SC,South Carolina Gamecocks,0.0,23,UGA,Georgia Bulldogs,0.0,2
+401856872,2026,12,2026-11-21,False,TCU,TCU Horned Frogs,0.0,99,UTAH,Utah Utes,0.0,3
+401858528,2026,12,2026-11-21,False,MICH,Michigan Wolverines,0.0,99,UCLA,UCLA Bruins,0.0,5
+401858535,2026,12,2026-11-21,False,WASH,Washington Huskies,0.0,99,IU,Indiana Hoosiers,0.0,6
+401856866,2026,12,2026-11-21,False,KU,Kansas Jayhawks,0.0,99,BYU,BYU Cougars,0.0,7
+401856751,2026,12,2026-11-21,False,MIZ,Missouri Tigers,0.0,19,UK,Kentucky Wildcats,0.0,8
+401856755,2026,12,2026-11-21,False,TEX,Texas Longhorns,0.0,10,ARK,Arkansas Razorbacks,0.0,99
+401858531,2026,12,2026-11-21,False,NEB,Nebraska Cornhuskers,0.0,99,OSU,Ohio State Buckeyes,0.0,11
+401856871,2026,12,2026-11-21,False,BAY,Baylor Bears,0.0,99,TTU,Texas Tech Red Raiders,0.0,13
+401858310,2026,12,2026-11-21,False,GT,Georgia Tech Yellow Jackets,0.0,99,WAKE,Wake Forest Demon Deacons,0.0,14
+401856754,2026,12,2026-11-21,False,TENN,Tennessee Volunteers,0.0,16,LSU,LSU Tigers,0.0,15
+401856868,2026,12,2026-11-21,False,WVU,West Virginia Mountaineers,0.0,99,HOU,Houston Cougars,0.0,17
+401858534,2026,12,2026-11-21,False,USC,USC Trojans,0.0,18,MD,Maryland Terrapins,0.0,99
+401858527,2026,12,2026-11-21,False,ILL,Illinois Fighting Illini,0.0,99,IOWA,Iowa Hawkeyes,0.0,21
+401856865,2026,12,2026-11-21,False,KSU,Kansas State Wildcats,0.0,99,ARIZ,Arizona Wildcats,0.0,24
+401856748,2026,12,2026-11-21,False,FLA,Florida Gators,0.0,25,VAN,Vanderbilt Commodores,0.0,99
 401856752,2026,12,2026-11-21,False,OU,Oklahoma Sooners,0.0,99,TA&M,Texas A&M Aggies,0.0,99
-401856865,2026,12,2026-11-21,False,KSU,Kansas State Wildcats,0.0,99,ARIZ,Arizona Wildcats,0.0,99
 401856867,2026,12,2026-11-21,False,CIN,Cincinnati Bearcats,0.0,99,COLO,Colorado Buffaloes,0.0,99
+401856870,2026,12,2026-11-21,False,ASU,Arizona State Sun Devils,0.0,99,OKST,Oklahoma State Cowboys,0.0,99
 401858304,2026,12,2026-11-21,False,FSU,Florida State Seminoles,0.0,99,NCSU,NC State Wolfpack,0.0,99
 401858305,2026,12,2026-11-21,False,UVA,Virginia Cavaliers,0.0,99,UNC,North Carolina Tar Heels,0.0,99
 401858306,2026,12,2026-11-21,False,LOU,Louisville Cardinals,0.0,99,PITT,Pittsburgh Panthers,0.0,99
 401858308,2026,12,2026-11-21,False,CAL,California Golden Bears,0.0,99,STAN,Stanford Cardinal,0.0,99
 401858309,2026,12,2026-11-21,False,BC,Boston College Eagles,0.0,99,SYR,Syracuse Orange,0.0,99
+401858530,2026,12,2026-11-21,False,MINN,Minnesota Golden Gophers,0.0,99,NU,Northwestern Wildcats,0.0,99
 401858532,2026,12,2026-11-21,False,PSU,Penn State Nittany Lions,0.0,99,RUTG,Rutgers Scarlet Knights,0.0,99
 401858533,2026,12,2026-11-21,False,PUR,Purdue Boilermakers,0.0,99,WIS,Wisconsin Badgers,0.0,99
 401862832,2026,12,2026-11-21,False,TLSA,Tulsa Golden Hurricane,0.0,99,CLT,Charlotte 49ers,0.0,99
@@ -3431,12 +3431,12 @@ game_id,season,week,date,completed,home_team,home_name,home_score,home_rank,away
 401869953,2026,12,2026-11-21,False,TROY,Troy Trojans,0.0,99,GASO,Georgia Southern Eagles,0.0,99
 401869958,2026,12,2026-11-21,False,MRSH,Marshall Thundering Herd,0.0,99,GAST,Georgia State Panthers,0.0,99
 401871101,2026,12,2026-11-21,False,USM,Southern Miss Golden Eagles,0.0,99,USA,South Alabama Jaguars,0.0,99
-401856749,2026,12,2026-11-21,False,MISS,Ole Miss Rebels,0.0,9,WOF,Wofford Terriers,0.0,99
+401856749,2026,12,2026-11-21,False,MISS,Ole Miss Rebels,0.0,12,WOF,Wofford Terriers,0.0,99
 401862831,2026,12,2026-11-21,False,ARMY,Army Black Knights,0.0,99,ECU,East Carolina Pirates,0.0,99
 401862834,2026,12,2026-11-21,False,NAVY,Navy Midshipmen,0.0,99,MEM,Memphis Tigers,0.0,99
-401856750,2026,12,2026-11-21,False,MSST,Mississippi State Bulldogs,0.0,16,TNTC,Tennessee Tech Golden Eagles,0.0,99
+401856750,2026,12,2026-11-21,False,MSST,Mississippi State Bulldogs,0.0,99,TNTC,Tennessee Tech Golden Eagles,0.0,99
 401871080,2026,12,2026-11-21,False,LIB,Liberty Flames,0.0,99,WKU,Western Kentucky Hilltoppers,0.0,99
-401856746,2026,12,2026-11-21,False,ALA,Alabama Crimson Tide,0.0,6,UTC,Chattanooga Mocs,0.0,99
+401856746,2026,12,2026-11-21,False,ALA,Alabama Crimson Tide,0.0,9,UTC,Chattanooga Mocs,0.0,99
 401871079,2026,12,2026-11-21,False,JXST,Jacksonville State Gamecocks,0.0,99,MOST,Missouri State Bears,0.0,99
 401871081,2026,12,2026-11-21,False,SHSU,Sam Houston Bearkats,0.0,99,MTSU,Middle Tennessee Blue Raiders,0.0,99
 401871077,2026,12,2026-11-21,False,NMSU,New Mexico State Aggies,0.0,99,DEL,Delaware Blue Hens,0.0,99
@@ -3446,50 +3446,50 @@ game_id,season,week,date,completed,home_team,home_name,home_score,home_rank,away
 401864543,2026,12,2026-11-21,False,NDSU,North Dakota State Bison,0.0,99,NIU,Northern Illinois Huskies,0.0,99
 401860920,2026,12,2026-11-21,False,TXST,Texas State Bobcats,0.0,99,WSU,Washington State Cougars,0.0,99
 401864544,2026,12,2026-11-21,False,SJSU,San José State Spartans,0.0,99,UNLV,UNLV Rebels,0.0,99
-401858307,2026,12,2026-11-21,False,ND,Notre Dame Fighting Irish,0.0,2,SMU,SMU Mustangs,0.0,24
+401858307,2026,12,2026-11-21,False,ND,Notre Dame Fighting Irish,0.0,4,SMU,SMU Mustangs,0.0,99
 401860918,2026,12,2026-11-21,False,FRES,Fresno State Bulldogs,0.0,99,CSU,Colorado State Rams,0.0,99
-401864542,2026,12,2026-11-21,False,WYO,Wyoming Cowboys,0.0,99,UNM,New Mexico Lobos,0.0,99
-401860925,2026,12,2026-11-21,False,BOIS,Boise State Broncos,0.0,23,SDSU,San Diego State Aztecs,0.0,99
+401864542,2026,12,2026-11-21,False,WYO,Wyoming Cowboys,0.0,99,UNM,New Mexico Lobos,0.0,22
+401860925,2026,12,2026-11-21,False,BOIS,Boise State Broncos,0.0,20,SDSU,San Diego State Aztecs,0.0,99
 401860919,2026,12,2026-11-21,False,ORST,Oregon State Beavers,0.0,99,USU,Utah State Aggies,0.0,99
 401866471,2026,13,2026-11-24,False,WMU,Western Michigan Broncos,0.0,99,M-OH,Miami (OH) RedHawks,0.0,99
 401866470,2026,13,2026-11-24,False,EMU,Eastern Michigan Eagles,0.0,99,KENT,Kent State Golden Flashes,0.0,99
-401856879,2026,13,2026-11-26,False,TTU,Texas Tech Red Raiders,0.0,10,TCU,TCU Horned Frogs,0.0,99
+401856879,2026,13,2026-11-26,False,TTU,Texas Tech Red Raiders,0.0,13,TCU,TCU Horned Frogs,0.0,99
 401862837,2026,13,2026-11-27,False,ECU,East Carolina Pirates,0.0,99,FAU,Florida Atlantic Owls,0.0,99
 401862838,2026,13,2026-11-27,False,MEM,Memphis Tigers,0.0,99,TEM,Temple Owls,0.0,99
 401862839,2026,13,2026-11-27,False,USF,South Florida Bulls,0.0,99,TULN,Tulane Green Wave,0.0,99
-401856762,2026,13,2026-11-27,False,MISS,Ole Miss Rebels,0.0,9,MSST,Mississippi State Bulldogs,0.0,16
-401858536,2026,13,2026-11-27,False,IOWA,Iowa Hawkeyes,0.0,17,NEB,Nebraska Cornhuskers,0.0,99
+401856762,2026,13,2026-11-27,False,MISS,Ole Miss Rebels,0.0,12,MSST,Mississippi State Bulldogs,0.0,99
+401858536,2026,13,2026-11-27,False,IOWA,Iowa Hawkeyes,0.0,21,NEB,Nebraska Cornhuskers,0.0,99
 401866472,2026,13,2026-11-27,False,AKR,Akron Zips,0.0,99,BUFF,Buffalo Bulls,0.0,99
 401866473,2026,13,2026-11-27,False,OHIO,Ohio Bobcats,0.0,99,TOL,Toledo Rockets,0.0,99
 401869930,2026,13,2026-11-27,False,USA,South Alabama Jaguars,0.0,99,APP,App State Mountaineers,0.0,99
-401856759,2026,13,2026-11-27,False,FSU,Florida State Seminoles,0.0,99,FLA,Florida Gators,0.0,99
+401856759,2026,13,2026-11-27,False,FSU,Florida State Seminoles,0.0,99,FLA,Florida Gators,0.0,25
 401864549,2026,13,2026-11-27,False,SJSU,San José State Spartans,0.0,99,NDSU,North Dakota State Bison,0.0,99
-401856756,2026,13,2026-11-27,False,TA&M,Texas A&M Aggies,0.0,99,TEX,Texas Longhorns,0.0,7
+401856756,2026,13,2026-11-27,False,TA&M,Texas A&M Aggies,0.0,99,TEX,Texas Longhorns,0.0,10
 401858544,2026,13,2026-11-27,False,WIS,Wisconsin Badgers,0.0,99,MINN,Minnesota Golden Gophers,0.0,99
-401856880,2026,13,2026-11-27,False,UTAH,Utah Utes,0.0,11,WVU,West Virginia Mountaineers,0.0,99
-401856760,2026,13,2026-11-28,False,UGA,Georgia Bulldogs,0.0,1,GT,Georgia Tech Yellow Jackets,0.0,99
-401858314,2026,13,2026-11-28,False,SYR,Syracuse Orange,0.0,99,ND,Notre Dame Fighting Irish,0.0,2
-401858311,2026,13,2026-11-28,False,MIA,Miami Hurricanes,0.0,3,BC,Boston College Eagles,0.0,99
-401858538,2026,13,2026-11-28,False,IU,Indiana Hoosiers,0.0,5,PUR,Purdue Boilermakers,0.0,99
-401856757,2026,13,2026-11-28,False,ALA,Alabama Crimson Tide,0.0,6,AUB,Auburn Tigers,0.0,99
-401856876,2026,13,2026-11-28,False,BYU,BYU Cougars,0.0,8,CIN,Cincinnati Bearcats,0.0,99
-401858543,2026,13,2026-11-28,False,UCLA,UCLA Bruins,0.0,12,USC,USC Trojans,0.0,19
-401856763,2026,13,2026-11-28,False,MIZ,Missouri Tigers,0.0,13,OU,Oklahoma Sooners,0.0,99
-401856765,2026,13,2026-11-28,False,VAN,Vanderbilt Commodores,0.0,99,TENN,Tennessee Volunteers,0.0,14
-401856761,2026,13,2026-11-28,False,UK,Kentucky Wildcats,0.0,15,LOU,Louisville Cardinals,0.0,99
-401856877,2026,13,2026-11-28,False,OKST,Oklahoma State Cowboys,0.0,18,KU,Kansas Jayhawks,0.0,99
-401856874,2026,13,2026-11-28,False,HOU,Houston Cougars,0.0,20,BAY,Baylor Bears,0.0,99
-401858312,2026,13,2026-11-28,False,WAKE,Wake Forest Demon Deacons,0.0,21,DUKE,Duke Blue Devils,0.0,99
-401856758,2026,13,2026-11-28,False,ARK,Arkansas Razorbacks,0.0,99,LSU,LSU Tigers,0.0,22
-401858316,2026,13,2026-11-28,False,STAN,Stanford Cardinal,0.0,99,SMU,SMU Mustangs,0.0,24
-401858537,2026,13,2026-11-28,False,NU,Northwestern Wildcats,0.0,25,ILL,Illinois Fighting Illini,0.0,99
-401856764,2026,13,2026-11-28,False,CLEM,Clemson Tigers,0.0,99,SC,South Carolina Gamecocks,0.0,99
-401856873,2026,13,2026-11-28,False,ARIZ,Arizona Wildcats,0.0,99,ASU,Arizona State Sun Devils,0.0,99
+401856880,2026,13,2026-11-27,False,UTAH,Utah Utes,0.0,3,WVU,West Virginia Mountaineers,0.0,99
+401858311,2026,13,2026-11-28,False,MIA,Miami Hurricanes,0.0,1,BC,Boston College Eagles,0.0,99
+401856760,2026,13,2026-11-28,False,UGA,Georgia Bulldogs,0.0,2,GT,Georgia Tech Yellow Jackets,0.0,99
+401858314,2026,13,2026-11-28,False,SYR,Syracuse Orange,0.0,99,ND,Notre Dame Fighting Irish,0.0,4
+401858543,2026,13,2026-11-28,False,UCLA,UCLA Bruins,0.0,5,USC,USC Trojans,0.0,18
+401858538,2026,13,2026-11-28,False,IU,Indiana Hoosiers,0.0,6,PUR,Purdue Boilermakers,0.0,99
+401856876,2026,13,2026-11-28,False,BYU,BYU Cougars,0.0,7,CIN,Cincinnati Bearcats,0.0,99
+401856761,2026,13,2026-11-28,False,UK,Kentucky Wildcats,0.0,8,LOU,Louisville Cardinals,0.0,99
+401856757,2026,13,2026-11-28,False,ALA,Alabama Crimson Tide,0.0,9,AUB,Auburn Tigers,0.0,99
+401858312,2026,13,2026-11-28,False,WAKE,Wake Forest Demon Deacons,0.0,14,DUKE,Duke Blue Devils,0.0,99
+401856758,2026,13,2026-11-28,False,ARK,Arkansas Razorbacks,0.0,99,LSU,LSU Tigers,0.0,15
+401856765,2026,13,2026-11-28,False,VAN,Vanderbilt Commodores,0.0,99,TENN,Tennessee Volunteers,0.0,16
+401856874,2026,13,2026-11-28,False,HOU,Houston Cougars,0.0,17,BAY,Baylor Bears,0.0,99
+401856763,2026,13,2026-11-28,False,MIZ,Missouri Tigers,0.0,19,OU,Oklahoma Sooners,0.0,99
+401856764,2026,13,2026-11-28,False,CLEM,Clemson Tigers,0.0,99,SC,South Carolina Gamecocks,0.0,23
+401856873,2026,13,2026-11-28,False,ARIZ,Arizona Wildcats,0.0,24,ASU,Arizona State Sun Devils,0.0,99
 401856875,2026,13,2026-11-28,False,COLO,Colorado Buffaloes,0.0,99,UCF,UCF Knights,0.0,99
+401856877,2026,13,2026-11-28,False,OKST,Oklahoma State Cowboys,0.0,99,KU,Kansas Jayhawks,0.0,99
 401856878,2026,13,2026-11-28,False,ISU,Iowa State Cyclones,0.0,99,KSU,Kansas State Wildcats,0.0,99
 401858313,2026,13,2026-11-28,False,UNC,North Carolina Tar Heels,0.0,99,NCSU,NC State Wolfpack,0.0,99
 401858315,2026,13,2026-11-28,False,CAL,California Golden Bears,0.0,99,PITT,Pittsburgh Panthers,0.0,99
+401858316,2026,13,2026-11-28,False,STAN,Stanford Cardinal,0.0,99,SMU,SMU Mustangs,0.0,99
 401858317,2026,13,2026-11-28,False,VT,Virginia Tech Hokies,0.0,99,UVA,Virginia Cavaliers,0.0,99
+401858537,2026,13,2026-11-28,False,NU,Northwestern Wildcats,0.0,99,ILL,Illinois Fighting Illini,0.0,99
 401858539,2026,13,2026-11-28,False,MD,Maryland Terrapins,0.0,99,PSU,Penn State Nittany Lions,0.0,99
 401858541,2026,13,2026-11-28,False,ORE,Oregon Ducks,0.0,99,WASH,Washington Huskies,0.0,99
 401858542,2026,13,2026-11-28,False,RUTG,Rutgers Scarlet Knights,0.0,99,MSU,Michigan State Spartans,0.0,99
@@ -3508,7 +3508,7 @@ game_id,season,week,date,completed,home_team,home_name,home_score,home_rank,away
 401869959,2026,13,2026-11-28,False,GAST,Georgia State Panthers,0.0,99,UL,Louisiana Ragin' Cajuns,0.0,99
 401871102,2026,13,2026-11-28,False,ULM,UL Monroe Warhawks,0.0,99,MRSH,Marshall Thundering Herd,0.0,99
 401871103,2026,13,2026-11-28,False,ODU,Old Dominion Monarchs,0.0,99,USM,Southern Miss Golden Eagles,0.0,99
-401858540,2026,13,2026-11-28,False,OSU,Ohio State Buckeyes,0.0,4,MICH,Michigan Wolverines,0.0,99
+401858540,2026,13,2026-11-28,False,OSU,Ohio State Buckeyes,0.0,11,MICH,Michigan Wolverines,0.0,99
 401866474,2026,13,2026-11-28,False,BALL,Ball State Cardinals,0.0,99,CMU,Central Michigan Chippewas,0.0,99
 401866475,2026,13,2026-11-28,False,BGSU,Bowling Green Falcons,0.0,99,MASS,Massachusetts Minutemen,0.0,99
 401870804,2026,13,2026-11-28,False,WKU,Western Kentucky Hilltoppers,0.0,99,KENN,Kennesaw State Owls,0.0,99
@@ -3517,7 +3517,7 @@ game_id,season,week,date,completed,home_team,home_name,home_score,home_rank,away
 401871083,2026,13,2026-11-28,False,MTSU,Middle Tennessee Blue Raiders,0.0,99,NMSU,New Mexico State Aggies,0.0,99
 401869939,2026,13,2026-11-28,False,ARST,Arkansas State Red Wolves,0.0,99,TROY,Troy Trojans,0.0,99
 401871062,2026,13,2026-11-28,False,DEL,Delaware Blue Hens,0.0,99,JXST,Jacksonville State Gamecocks,0.0,99
-401864546,2026,13,2026-11-28,False,UNM,New Mexico Lobos,0.0,99,AFA,Air Force Falcons,0.0,99
+401864546,2026,13,2026-11-28,False,UNM,New Mexico Lobos,0.0,22,AFA,Air Force Falcons,0.0,99
 401864548,2026,13,2026-11-28,False,UNLV,UNLV Rebels,0.0,99,NEV,Nevada Wolf Pack,0.0,99
 401864547,2026,13,2026-11-28,False,HAW,Hawai'i Rainbow Warriors,0.0,99,SAC,Sacramento State Hornets,0.0,99
 401869535,2026,14,2026-12-04,False,TBD,TBD,0.0,99,TBD,TBD,0.0,99

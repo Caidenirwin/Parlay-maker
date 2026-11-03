@@ -1,3 +1,4 @@
+import os
 import time
 import requests
 import pandas as pd
@@ -26,7 +27,22 @@ tables = []          # empty list, one table per chunk gets added here
 goalie_tables = []   # same idea for goalies
 team_tables = []     # and for team results
 
+# ---- only download what can still change (this is what keeps the daily update fast) ----
+#   finished seasons: already saved last time and they never change -> reuse them, download nothing
+#   this season: games saved more than 3 days ago are kept; only the last 3 days + today get downloaded
+saved = {}
+for path in ("skaters.csv", "goalies.csv", "teams.csv"):
+    if os.path.exists(path):
+        saved[path] = pd.read_csv(path, dtype={"season": str})
+recent = (today - pd.Timedelta(days=3)).strftime("%Y-%m-%d")
+reused = set()       # finished seasons we didn't need to download again
 for season, (first_day, last_day) in seasons.items():
+    if len(saved) == 3 and all((t["season"] == season).any() for t in saved.values()):
+        if pd.Timestamp(last_day) < today:
+            reused.add(season)
+            print(season, "-> already saved (season is over)")
+            continue
+        first_day = recent   # this season: only the last few days (the older games are already saved)
     # start date of every 2-week chunk of this season
     chunk_starts = pd.date_range(first_day, last_day, freq="14D")
 
@@ -70,19 +86,34 @@ for season, (first_day, last_day) in seasons.items():
             team_tables.append(teams)
         time.sleep(1)                  # wait 1 second so we don't hammer the NHL's server
 
-# glue all the chunks into one big table (ignore_index renumbers the rows 0, 1, 2, ...)
-df = pd.concat(tables, ignore_index=True)
+def with_saved(new, path, keys):
+    """this run's downloads + the saved rows we didn't download again (finished seasons, this season's older games)"""
+    if path not in saved:
+        return new
+    old = saved[path]
+    old = old[old["season"].isin(reused) | (old["gameDate"] < recent)]
+    # a game in both (it was re-downloaded) -> keep the fresh copy
+    return pd.concat([old, new], ignore_index=True).drop_duplicates(keys, keep="last")
 
-# ---- clean up ----
-df["toiMinutes"] = (df["timeOnIcePerGame"] / 60).round(1)   # ice time: seconds -> minutes (1210 -> 20.2)
-df["ppMinutes"] = (df["ppTimeOnIce"] / 60).round(1)          # power-play time: seconds -> minutes
-df["home"] = (df["homeRoad"] == "H").astype(int)             # "H"/"R" -> 1 for home, 0 for away
-df["attempts"] = df["totalShotAttempts"]                     # shorter name: every shot he tried
 
-# keep only the columns the model needs, in a readable order
-df = df[["season", "gameDate", "gameId", "playerId", "skaterFullName", "positionCode",
-         "teamAbbrev", "opponentTeamAbbrev", "home", "toiMinutes", "ppMinutes",
-         "goals", "assists", "points", "shots", "ppPoints", "attempts"]]
+skater_cols = ["season", "gameDate", "gameId", "playerId", "skaterFullName", "positionCode",
+               "teamAbbrev", "opponentTeamAbbrev", "home", "toiMinutes", "ppMinutes",
+               "goals", "assists", "points", "shots", "ppPoints", "attempts"]
+if tables:
+    # glue all the chunks into one big table (ignore_index renumbers the rows 0, 1, 2, ...)
+    df = pd.concat(tables, ignore_index=True)
+
+    # ---- clean up ----
+    df["toiMinutes"] = (df["timeOnIcePerGame"] / 60).round(1)   # ice time: seconds -> minutes (1210 -> 20.2)
+    df["ppMinutes"] = (df["ppTimeOnIce"] / 60).round(1)          # power-play time: seconds -> minutes
+    df["home"] = (df["homeRoad"] == "H").astype(int)             # "H"/"R" -> 1 for home, 0 for away
+    df["attempts"] = df["totalShotAttempts"]                     # shorter name: every shot he tried
+
+    # keep only the columns the model needs, in a readable order
+    df = df[skater_cols]
+else:
+    df = pd.DataFrame(columns=skater_cols)   # no games in the last few days (e.g. the All-Star break)
+df = with_saved(df, "skaters.csv", ["playerId", "gameId"])
 
 # each player's games together, oldest to newest
 df = df.sort_values(["playerId", "gameDate"])
@@ -92,27 +123,37 @@ print(len(df), "rows |", df["playerId"].nunique(), "players |", df["gameId"].nun
 print("saved skaters.csv")
 
 # ---- goalies ----
-gl = pd.concat(goalie_tables, ignore_index=True)
-gl["home"] = (gl["homeRoad"] == "H").astype(int)
-gl["toiMinutes"] = (gl["timeOnIce"] / 60).round(1)
-gl = gl[["season", "gameDate", "gameId", "playerId", "goalieFullName", "teamAbbrev", "opponentTeamAbbrev",
-         "home", "gamesStarted", "toiMinutes", "shotsAgainst", "saves", "goalsAgainst"]]
+goalie_cols = ["season", "gameDate", "gameId", "playerId", "goalieFullName", "teamAbbrev", "opponentTeamAbbrev",
+               "home", "gamesStarted", "toiMinutes", "shotsAgainst", "saves", "goalsAgainst"]
+if goalie_tables:
+    gl = pd.concat(goalie_tables, ignore_index=True)
+    gl["home"] = (gl["homeRoad"] == "H").astype(int)
+    gl["toiMinutes"] = (gl["timeOnIce"] / 60).round(1)
+    gl = gl[goalie_cols]
+else:
+    gl = pd.DataFrame(columns=goalie_cols)
+gl = with_saved(gl, "goalies.csv", ["playerId", "gameId"])
 gl = gl.sort_values(["playerId", "gameDate"])
 gl.to_csv("goalies.csv", index=False)   # also replaced every run
 print(len(gl), "goalie games |", gl["playerId"].nunique(), "goalies | saved goalies.csv")
 
 # ---- teams ----
-tm = pd.concat(team_tables, ignore_index=True)
-# the team report has the full name but not the abbreviation - but the OTHER team's row in the same game
-# lists this team as its opponent, so: my abbreviation = my opponent's "opponentTeamAbbrev"
-other = tm[["gameId", "teamId", "opponentTeamAbbrev"]].rename(columns={"teamId": "otherId", "opponentTeamAbbrev": "team"})
-tm = tm.merge(other, on="gameId")
-tm = tm[tm["teamId"] != tm["otherId"]]   # keep the pairing with the OTHER team, not itself
-tm["home"] = (tm["homeRoad"] == "H").astype(int)
-tm = tm.rename(columns={"opponentTeamAbbrev": "opponent", "wins": "win",
-                        "shotsForPerGame": "shotsFor", "shotsAgainstPerGame": "shotsAgainst"})
-tm = tm[["season", "gameDate", "gameId", "team", "opponent", "home", "win",
-         "goalsFor", "goalsAgainst", "shotsFor", "shotsAgainst"]]
+team_cols = ["season", "gameDate", "gameId", "team", "opponent", "home", "win",
+             "goalsFor", "goalsAgainst", "shotsFor", "shotsAgainst"]
+if team_tables:
+    tm = pd.concat(team_tables, ignore_index=True)
+    # the team report has the full name but not the abbreviation - but the OTHER team's row in the same game
+    # lists this team as its opponent, so: my abbreviation = my opponent's "opponentTeamAbbrev"
+    other = tm[["gameId", "teamId", "opponentTeamAbbrev"]].rename(columns={"teamId": "otherId", "opponentTeamAbbrev": "team"})
+    tm = tm.merge(other, on="gameId")
+    tm = tm[tm["teamId"] != tm["otherId"]]   # keep the pairing with the OTHER team, not itself
+    tm["home"] = (tm["homeRoad"] == "H").astype(int)
+    tm = tm.rename(columns={"opponentTeamAbbrev": "opponent", "wins": "win",
+                            "shotsForPerGame": "shotsFor", "shotsAgainstPerGame": "shotsAgainst"})
+    tm = tm[team_cols]
+else:
+    tm = pd.DataFrame(columns=team_cols)
+tm = with_saved(tm, "teams.csv", ["team", "gameId"])
 tm = tm.sort_values(["team", "gameDate"])
 tm.to_csv("teams.csv", index=False)   # also replaced every run
 print(len(tm), "team games | saved teams.csv")

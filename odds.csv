@@ -1,253 +1,489 @@
-game,book,market,player,side,line,price,book_chance
-Ottawa Senators @ Anaheim Ducks,fanduel,h2h,,Anaheim Ducks,0.5,2.0,0.5
-Ottawa Senators @ Anaheim Ducks,fanduel,h2h,,Ottawa Senators,0.5,1.83,0.546
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Tim Stützle,Yes,0.5,2.5,0.4
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Drake Batherson,Yes,0.5,2.6,0.385
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Cutter Gauthier,Yes,0.5,2.6,0.385
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Beckett Sennecke,Yes,0.5,2.65,0.377
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Leo Carlsson,Yes,0.5,3.0,0.333
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Shane Pinto,Yes,0.5,3.4,0.294
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Dylan Cozens,Yes,0.5,3.3,0.303
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Mikael Granlund,Yes,0.5,3.6,0.278
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Fabian Zetterlund,Yes,0.5,5.0,0.2
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Alex Killorn,Yes,0.5,5.0,0.2
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Stephen Halliday,Yes,0.5,4.8,0.208
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Sam Colangelo,Yes,0.5,5.1,0.196
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Claude Giroux,Yes,0.5,5.1,0.196
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Philip Tomasino,Yes,0.5,5.4,0.185
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Ridly Greig,Yes,0.5,5.5,0.182
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Judd Caulfield,Yes,0.5,5.3,0.189
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,A.J. Greer,Yes,0.5,5.6,0.179
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Michael Amadio,Yes,0.5,5.8,0.172
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Jake Sanderson,Yes,0.5,5.7,0.175
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Roger McQueen,Yes,0.5,5.8,0.172
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Tim Washe,Yes,0.5,6.25,0.16
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Nikita Nesterenko,Yes,0.5,6.75,0.148
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Nick Cousins,Yes,0.5,8.0,0.125
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Thomas Chabot,Yes,0.5,8.0,0.125
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Jackson LaCombe,Yes,0.5,7.25,0.138
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Jordan Spence,Yes,0.5,10.0,0.1
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Tristan Luneau,Yes,0.5,9.5,0.105
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Jeff Malott,Yes,0.5,10.0,0.1
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Tyler Kleven,Yes,0.5,16.0,0.062
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Pavel Mintyukov,Yes,0.5,14.0,0.071
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Artem Zub,Yes,0.5,17.0,0.059
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Drew Helleson,Yes,0.5,17.0,0.059
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Noah Warren,Yes,0.5,17.0,0.059
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Nikolas Matinpalo,Yes,0.5,22.0,0.045
-Ottawa Senators @ Anaheim Ducks,fanduel,player_goal_scorer_anytime,Travis Mitchell,Yes,0.5,17.0,0.059
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Dylan Cozens,Over,2.5,2.16,0.463
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Dylan Cozens,Under,2.5,1.66,0.602
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Jake Sanderson,Over,1.5,1.57,0.637
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Jake Sanderson,Under,1.5,2.32,0.431
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Tim Stützle,Over,1.5,1.57,0.637
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Tim Stützle,Under,1.5,2.34,0.427
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Leo Carlsson,Over,2.5,2.26,0.442
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Leo Carlsson,Under,2.5,1.61,0.621
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Mikael Granlund,Over,1.5,1.65,0.606
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Mikael Granlund,Under,1.5,2.2,0.455
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Beckett Sennecke,Over,2.5,1.85,0.541
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Beckett Sennecke,Under,2.5,1.91,0.524
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Drake Batherson,Over,1.5,1.51,0.662
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Drake Batherson,Under,1.5,2.48,0.403
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Cutter Gauthier,Over,3.5,1.85,0.541
-Ottawa Senators @ Anaheim Ducks,fanduel,player_shots_on_goal,Cutter Gauthier,Under,3.5,1.91,0.524
-Ottawa Senators @ Anaheim Ducks,draftkings,h2h,,Anaheim Ducks,0.5,1.98,0.505
-Ottawa Senators @ Anaheim Ducks,draftkings,h2h,,Ottawa Senators,0.5,1.85,0.541
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Tim Stützle,Yes,0.5,2.45,0.408
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Cutter Gauthier,Yes,0.5,2.5,0.4
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Drake Batherson,Yes,0.5,2.55,0.392
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Beckett Sennecke,Yes,0.5,2.6,0.385
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Leo Carlsson,Yes,0.5,3.0,0.333
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Dylan Cozens,Yes,0.5,3.25,0.308
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Mikael Granlund,Yes,0.5,3.4,0.294
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Shane Pinto,Yes,0.5,3.45,0.29
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Alex Killorn,Yes,0.5,4.8,0.208
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Claude Giroux,Yes,0.5,4.9,0.204
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Sam Colangelo,Yes,0.5,5.0,0.2
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Stephen Halliday,Yes,0.5,5.0,0.2
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Fabian Zetterlund,Yes,0.5,5.0,0.2
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,A.J. Greer,Yes,0.5,5.25,0.19
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Ridly Greig,Yes,0.5,5.25,0.19
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Judd Caulfield,Yes,0.5,5.25,0.19
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Michael Amadio,Yes,0.5,5.5,0.182
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Jake Sanderson,Yes,0.5,5.5,0.182
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Roger McQueen,Yes,0.5,5.75,0.174
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Philip Tomasino,Yes,0.5,6.0,0.167
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Nikita Nesterenko,Yes,0.5,7.0,0.143
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Jackson LaCombe,Yes,0.5,7.5,0.133
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Tim Washe,Yes,0.5,7.5,0.133
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Thomas Chabot,Yes,0.5,7.5,0.133
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Nick Cousins,Yes,0.5,8.0,0.125
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Tristan Luneau,Yes,0.5,8.5,0.118
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Jeff Malott,Yes,0.5,9.5,0.105
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Jordan Spence,Yes,0.5,11.0,0.091
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Tyler Kleven,Yes,0.5,14.0,0.071
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Artem Zub,Yes,0.5,14.0,0.071
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Travis Mitchell,Yes,0.5,16.0,0.062
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Pavel Mintyukov,Yes,0.5,16.0,0.062
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Drew Helleson,Yes,0.5,17.0,0.059
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Noah Warren,Yes,0.5,19.0,0.053
-Ottawa Senators @ Anaheim Ducks,draftkings,player_goal_scorer_anytime,Nikolas Matinpalo,Yes,0.5,31.0,0.032
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Tim Stützle,Over,1.5,2.7,0.37
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Tim Stützle,Under,1.5,1.43,0.699
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Leo Carlsson,Over,0.5,1.51,0.662
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Leo Carlsson,Under,0.5,2.45,0.408
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Beckett Sennecke,Over,0.5,1.53,0.654
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Beckett Sennecke,Under,0.5,2.4,0.417
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Drake Batherson,Over,0.5,1.54,0.649
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Drake Batherson,Under,0.5,2.35,0.426
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Cutter Gauthier,Over,0.5,1.57,0.637
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Cutter Gauthier,Under,0.5,2.3,0.435
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Jake Sanderson,Over,0.5,1.67,0.599
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Jake Sanderson,Under,0.5,2.1,0.476
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Mikael Granlund,Over,0.5,1.67,0.599
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Mikael Granlund,Under,0.5,2.1,0.476
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Dylan Cozens,Over,0.5,1.69,0.592
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Dylan Cozens,Under,0.5,2.05,0.488
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Jackson LaCombe,Over,0.5,1.69,0.592
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Jackson LaCombe,Under,0.5,2.1,0.476
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Shane Pinto,Over,0.5,1.95,0.513
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Shane Pinto,Under,0.5,1.8,0.556
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Claude Giroux,Over,0.5,2.0,0.5
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Claude Giroux,Under,0.5,1.74,0.575
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Thomas Chabot,Over,0.5,2.2,0.455
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Thomas Chabot,Under,0.5,1.62,0.617
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Alex Killorn,Over,0.5,2.45,0.408
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Alex Killorn,Under,0.5,1.51,0.662
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Tristan Luneau,Over,0.5,2.6,0.385
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Tristan Luneau,Under,0.5,1.47,0.68
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Stephen Halliday,Over,0.5,2.75,0.364
-Ottawa Senators @ Anaheim Ducks,draftkings,player_points,Stephen Halliday,Under,0.5,1.42,0.704
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Cutter Gauthier,Over,3.5,1.77,0.565
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Cutter Gauthier,Under,3.5,1.95,0.513
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Beckett Sennecke,Over,2.5,1.87,0.535
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Beckett Sennecke,Under,2.5,1.83,0.546
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Dylan Cozens,Over,2.5,2.05,0.488
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Dylan Cozens,Under,2.5,1.69,0.592
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Leo Carlsson,Over,2.5,2.35,0.426
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Leo Carlsson,Under,2.5,1.56,0.641
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Drake Batherson,Over,1.5,1.51,0.662
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Drake Batherson,Under,1.5,2.45,0.408
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Jake Sanderson,Over,1.5,1.57,0.637
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Jake Sanderson,Under,1.5,2.3,0.435
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Tim Stützle,Over,1.5,1.57,0.637
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Tim Stützle,Under,1.5,2.3,0.435
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Mikael Granlund,Over,1.5,1.62,0.617
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Mikael Granlund,Under,1.5,2.15,0.465
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Shane Pinto,Over,1.5,1.65,0.606
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Shane Pinto,Under,1.5,2.15,0.465
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Fabian Zetterlund,Over,1.5,1.87,0.535
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Fabian Zetterlund,Under,1.5,1.87,0.535
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Ridly Greig,Over,1.5,1.87,0.535
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Ridly Greig,Under,1.5,1.83,0.546
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Thomas Chabot,Over,1.5,1.87,0.535
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Thomas Chabot,Under,1.5,1.83,0.546
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Jackson LaCombe,Over,1.5,1.91,0.524
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Jackson LaCombe,Under,1.5,1.8,0.556
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Alex Killorn,Over,1.5,1.95,0.513
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Alex Killorn,Under,1.5,1.8,0.556
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Claude Giroux,Over,1.5,1.95,0.513
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Claude Giroux,Under,1.5,1.77,0.565
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Stephen Halliday,Over,1.5,2.15,0.465
-Ottawa Senators @ Anaheim Ducks,draftkings,player_shots_on_goal,Stephen Halliday,Under,1.5,1.65,0.606
-Ottawa Senators @ Anaheim Ducks,betmgm,h2h,,Anaheim Ducks,0.5,2.0,0.5
-Ottawa Senators @ Anaheim Ducks,betmgm,h2h,,Ottawa Senators,0.5,1.83,0.546
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Artem Zub,Yes,0.5,10.0,0.1
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Judd Caulfield,Yes,0.5,4.1,0.244
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Drew Helleson,Yes,0.5,12.5,0.08
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Jake Sanderson,Yes,0.5,4.8,0.208
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Tim Stützle,Yes,0.5,2.75,0.364
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Shane Pinto,Yes,0.5,3.1,0.323
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Michael Amadio,Yes,0.5,4.25,0.235
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Tyler Kleven,Yes,0.5,10.0,0.1
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Dylan Cozens,Yes,0.5,2.95,0.339
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,A.J. Greer,Yes,0.5,4.33,0.231
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Jeff Malott,Yes,0.5,6.75,0.148
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Nikolas Matinpalo,Yes,0.5,12.5,0.08
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Stephen Halliday,Yes,0.5,4.33,0.231
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Cutter Gauthier,Yes,0.5,2.4,0.417
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Noah Warren,Yes,0.5,11.0,0.091
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Tim Washe,Yes,0.5,4.6,0.217
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Sam Colangelo,Yes,0.5,4.8,0.208
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Claude Giroux,Yes,0.5,3.5,0.286
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Travis Mitchell,Yes,0.5,11.0,0.091
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Fabian Zetterlund,Yes,0.5,3.8,0.263
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Thomas Chabot,Yes,0.5,5.5,0.182
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Beckett Sennecke,Yes,0.5,2.65,0.377
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Roger McQueen,Yes,0.5,5.5,0.182
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Tristan Luneau,Yes,0.5,9.5,0.105
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Ridly Greig,Yes,0.5,3.75,0.267
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Jordan Spence,Yes,0.5,11.0,0.091
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Leo Carlsson,Yes,0.5,3.0,0.333
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Pavel Mintyukov,Yes,0.5,9.5,0.105
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Mikael Granlund,Yes,0.5,3.4,0.294
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Alex Killorn,Yes,0.5,4.0,0.25
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Frank Vatrano,Yes,0.5,3.8,0.263
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Nick Cousins,Yes,0.5,6.5,0.154
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Drake Batherson,Yes,0.5,2.65,0.377
-Ottawa Senators @ Anaheim Ducks,betmgm,player_goal_scorer_anytime,Jackson LaCombe,Yes,0.5,5.75,0.174
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Alex Killorn,Over,0.5,2.2,0.455
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Alex Killorn,Under,0.5,1.62,0.617
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Beckett Sennecke,Over,0.5,1.57,0.637
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Beckett Sennecke,Under,0.5,2.3,0.435
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Claude Giroux,Over,0.5,2.15,0.465
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Claude Giroux,Under,0.5,1.65,0.606
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Cutter Gauthier,Over,0.5,1.53,0.654
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Cutter Gauthier,Under,0.5,2.38,0.42
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Drake Batherson,Over,0.5,1.54,0.649
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Drake Batherson,Under,0.5,2.35,0.426
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Dylan Cozens,Over,0.5,1.65,0.606
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Dylan Cozens,Under,0.5,2.15,0.465
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Fabian Zetterlund,Over,0.5,2.2,0.455
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Fabian Zetterlund,Under,0.5,1.62,0.617
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Jackson LaCombe,Over,0.5,1.65,0.606
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Jackson LaCombe,Under,0.5,2.15,0.465
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Jake Sanderson,Over,0.5,1.71,0.585
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Jake Sanderson,Under,0.5,2.05,0.488
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Judd Caulfield,Over,0.5,2.3,0.435
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Judd Caulfield,Under,0.5,1.57,0.637
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Leo Carlsson,Over,0.5,1.5,0.667
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Leo Carlsson,Under,0.5,2.45,0.408
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Mikael Granlund,Over,0.5,1.62,0.617
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Mikael Granlund,Under,0.5,2.2,0.455
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Shane Pinto,Over,0.5,1.83,0.546
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Shane Pinto,Under,0.5,1.91,0.524
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Stephen Halliday,Over,0.5,2.55,0.392
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Stephen Halliday,Under,0.5,1.48,0.676
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Thomas Chabot,Over,0.5,2.0,0.5
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Thomas Chabot,Under,0.5,1.74,0.575
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Tim Stützle,Over,0.5,1.33,0.752
-Ottawa Senators @ Anaheim Ducks,betmgm,player_points,Tim Stützle,Under,0.5,3.1,0.323
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Alex Killorn,Over,1.5,1.91,0.524
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Alex Killorn,Under,1.5,1.74,0.575
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Beckett Sennecke,Over,2.5,1.91,0.524
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Beckett Sennecke,Under,2.5,1.74,0.575
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Claude Giroux,Over,1.5,1.85,0.541
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Claude Giroux,Under,1.5,1.85,0.541
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Cutter Gauthier,Over,3.5,1.8,0.556
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Cutter Gauthier,Under,3.5,1.87,0.535
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Drake Batherson,Over,2.5,2.25,0.444
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Drake Batherson,Under,2.5,1.54,0.649
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Dylan Cozens,Over,2.5,2.15,0.465
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Dylan Cozens,Under,2.5,1.61,0.621
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Fabian Zetterlund,Over,1.5,1.74,0.575
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Fabian Zetterlund,Under,1.5,1.91,0.524
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Jackson LaCombe,Over,1.5,1.9,0.526
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Jackson LaCombe,Under,1.5,1.77,0.565
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Jake Sanderson,Over,2.5,2.5,0.4
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Jake Sanderson,Under,2.5,1.45,0.69
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Leo Carlsson,Over,2.5,2.15,0.465
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Leo Carlsson,Under,2.5,1.61,0.621
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Mikael Granlund,Over,1.5,1.65,0.606
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Mikael Granlund,Under,1.5,2.05,0.488
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Ridly Greig,Over,1.5,1.8,0.556
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Ridly Greig,Under,1.5,1.87,0.535
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Shane Pinto,Over,2.5,2.7,0.37
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Shane Pinto,Under,2.5,1.4,0.714
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Stephen Halliday,Over,1.5,2.2,0.455
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Stephen Halliday,Under,1.5,1.57,0.637
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Thomas Chabot,Over,1.5,1.8,0.556
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Thomas Chabot,Under,1.5,1.87,0.535
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Tim Stützle,Over,2.5,2.3,0.435
-Ottawa Senators @ Anaheim Ducks,betmgm,player_shots_on_goal,Tim Stützle,Under,2.5,1.53,0.654
+game,book,market,player,side,line,price,game_date,book_chance
+Colorado Avalanche @ Chicago Blackhawks,draftkings,h2h,,Chicago Blackhawks,0.5,2.0,2026-11-02,0.5
+Colorado Avalanche @ Chicago Blackhawks,draftkings,h2h,,Colorado Avalanche,0.5,1.77,2026-11-02,0.565
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Nathan MacKinnon,Yes,0.5,2.1,2026-11-02,0.476
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Artturi Lehkonen,Yes,0.5,2.65,2026-11-02,0.377
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Martin Necas,Yes,0.5,2.75,2026-11-02,0.364
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Connor Bedard,Yes,0.5,3.05,2026-11-02,0.328
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Brock Nelson,Yes,0.5,3.25,2026-11-02,0.308
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Nazem Kadri,Yes,0.5,3.45,2026-11-02,0.29
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Roman Kantserov,Yes,0.5,3.8,2026-11-02,0.263
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Cale Makar,Yes,0.5,3.9,2026-11-02,0.256
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Gabriel Landeskog,Yes,0.5,4.0,2026-11-02,0.25
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Anton Frondell,Yes,0.5,4.2,2026-11-02,0.238
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,T.J. Hughes,Yes,0.5,4.3,2026-11-02,0.233
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Tyler Bertuzzi,Yes,0.5,4.3,2026-11-02,0.233
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Jaden Schwartz,Yes,0.5,4.7,2026-11-02,0.213
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Patrick Kane,Yes,0.5,5.0,2026-11-02,0.2
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Ryan Donato,Yes,0.5,5.25,2026-11-02,0.19
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Frank Nazar,Yes,0.5,5.5,2026-11-02,0.182
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Logan O'Connor,Yes,0.5,6.5,2026-11-02,0.154
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Parker Kelly,Yes,0.5,6.5,2026-11-02,0.154
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Nicolas Roy,Yes,0.5,7.5,2026-11-02,0.133
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Andrew Mangiapane,Yes,0.5,8.0,2026-11-02,0.125
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Devon Toews,Yes,0.5,8.0,2026-11-02,0.125
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Ryan Greene,Yes,0.5,8.0,2026-11-02,0.125
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Teuvo Teravainen,Yes,0.5,8.0,2026-11-02,0.125
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Fedor Svechkov,Yes,0.5,8.5,2026-11-02,0.118
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Oliver Moore,Yes,0.5,9.5,2026-11-02,0.105
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Cole Smith,Yes,0.5,12.0,2026-11-02,0.083
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Sam Rinzel,Yes,0.5,13.0,2026-11-02,0.077
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Sam Malinski,Yes,0.5,13.0,2026-11-02,0.077
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Alex Vlasic,Yes,0.5,14.0,2026-11-02,0.071
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Artyom Levshunov,Yes,0.5,14.0,2026-11-02,0.071
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Brent Burns,Yes,0.5,15.0,2026-11-02,0.067
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Brett Kulak,Yes,0.5,17.0,2026-11-02,0.059
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Noah Juulsen,Yes,0.5,18.0,2026-11-02,0.056
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Ian Cole,Yes,0.5,21.0,2026-11-02,0.048
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_goal_scorer_anytime,Ethan Del Mastro,Yes,0.5,23.0,2026-11-02,0.043
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Nathan MacKinnon,Over,1.5,2.15,2026-11-02,0.465
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Nathan MacKinnon,Under,1.5,1.65,2026-11-02,0.606
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Martin Necas,Over,0.5,1.42,2026-11-02,0.704
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Martin Necas,Under,0.5,2.75,2026-11-02,0.364
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Connor Bedard,Over,0.5,1.44,2026-11-02,0.694
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Connor Bedard,Under,0.5,2.65,2026-11-02,0.377
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Cale Makar,Over,0.5,1.45,2026-11-02,0.69
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Cale Makar,Under,0.5,2.6,2026-11-02,0.385
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Artturi Lehkonen,Over,0.5,1.65,2026-11-02,0.606
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Artturi Lehkonen,Under,0.5,2.15,2026-11-02,0.465
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Patrick Kane,Over,0.5,1.77,2026-11-02,0.565
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Patrick Kane,Under,0.5,1.95,2026-11-02,0.513
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Nazem Kadri,Over,0.5,1.83,2026-11-02,0.546
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Nazem Kadri,Under,0.5,1.87,2026-11-02,0.535
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Brock Nelson,Over,0.5,1.91,2026-11-02,0.524
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Brock Nelson,Under,0.5,1.8,2026-11-02,0.556
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Roman Kantserov,Over,0.5,1.91,2026-11-02,0.524
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Roman Kantserov,Under,0.5,1.8,2026-11-02,0.556
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Anton Frondell,Over,0.5,2.1,2026-11-02,0.476
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Anton Frondell,Under,0.5,1.67,2026-11-02,0.599
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Tyler Bertuzzi,Over,0.5,2.1,2026-11-02,0.476
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Tyler Bertuzzi,Under,0.5,1.67,2026-11-02,0.599
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Devon Toews,Over,0.5,2.15,2026-11-02,0.465
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Devon Toews,Under,0.5,1.65,2026-11-02,0.606
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Gabriel Landeskog,Over,0.5,2.15,2026-11-02,0.465
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Gabriel Landeskog,Under,0.5,1.62,2026-11-02,0.617
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Jaden Schwartz,Over,0.5,2.15,2026-11-02,0.465
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Jaden Schwartz,Under,0.5,1.62,2026-11-02,0.617
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,T.J. Hughes,Over,0.5,2.25,2026-11-02,0.444
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,T.J. Hughes,Under,0.5,1.59,2026-11-02,0.629
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Frank Nazar,Over,0.5,2.5,2026-11-02,0.4
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Frank Nazar,Under,0.5,1.49,2026-11-02,0.671
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Sam Malinski,Over,0.5,2.65,2026-11-02,0.377
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_points,Sam Malinski,Under,0.5,1.43,2026-11-02,0.699
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Nathan MacKinnon,Over,3.5,1.62,2026-11-02,0.617
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Nathan MacKinnon,Under,3.5,2.15,2026-11-02,0.465
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Connor Bedard,Over,2.5,1.62,2026-11-02,0.617
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Connor Bedard,Under,2.5,2.2,2026-11-02,0.455
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Cale Makar,Over,2.5,1.83,2026-11-02,0.546
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Cale Makar,Under,2.5,1.91,2026-11-02,0.524
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Nazem Kadri,Over,2.5,1.95,2026-11-02,0.513
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Nazem Kadri,Under,2.5,1.77,2026-11-02,0.565
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Martin Necas,Over,2.5,2.05,2026-11-02,0.488
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Martin Necas,Under,2.5,1.71,2026-11-02,0.585
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Anton Frondell,Over,2.5,2.4,2026-11-02,0.417
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Anton Frondell,Under,2.5,1.51,2026-11-02,0.662
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Artturi Lehkonen,Over,1.5,1.56,2026-11-02,0.641
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Artturi Lehkonen,Under,1.5,2.35,2026-11-02,0.426
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,T.J. Hughes,Over,1.5,1.56,2026-11-02,0.641
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,T.J. Hughes,Under,1.5,2.3,2026-11-02,0.435
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Brock Nelson,Over,1.5,1.65,2026-11-02,0.606
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Brock Nelson,Under,1.5,2.15,2026-11-02,0.465
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Patrick Kane,Over,1.5,1.65,2026-11-02,0.606
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Patrick Kane,Under,1.5,2.15,2026-11-02,0.465
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Jaden Schwartz,Over,1.5,1.74,2026-11-02,0.575
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Jaden Schwartz,Under,1.5,2.0,2026-11-02,0.5
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Roman Kantserov,Over,1.5,1.74,2026-11-02,0.575
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Roman Kantserov,Under,1.5,2.0,2026-11-02,0.5
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Sam Malinski,Over,1.5,1.77,2026-11-02,0.565
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Sam Malinski,Under,1.5,1.95,2026-11-02,0.513
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Devon Toews,Over,1.5,1.87,2026-11-02,0.535
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Devon Toews,Under,1.5,1.87,2026-11-02,0.535
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Gabriel Landeskog,Over,1.5,1.91,2026-11-02,0.524
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Gabriel Landeskog,Under,1.5,1.8,2026-11-02,0.556
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Frank Nazar,Over,1.5,2.0,2026-11-02,0.5
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Frank Nazar,Under,1.5,1.71,2026-11-02,0.585
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Tyler Bertuzzi,Over,1.5,2.05,2026-11-02,0.488
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_shots_on_goal,Tyler Bertuzzi,Under,1.5,1.69,2026-11-02,0.592
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_total_saves,Spencer Knight,Over,28.5,1.87,2026-11-02,0.535
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_total_saves,Spencer Knight,Under,28.5,1.87,2026-11-02,0.535
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_total_saves,Mackenzie Blackwood,Over,21.5,1.95,2026-11-02,0.513
+Colorado Avalanche @ Chicago Blackhawks,draftkings,player_total_saves,Mackenzie Blackwood,Under,21.5,1.8,2026-11-02,0.556
+Colorado Avalanche @ Chicago Blackhawks,fanduel,h2h,,Chicago Blackhawks,0.5,1.98,2026-11-02,0.505
+Colorado Avalanche @ Chicago Blackhawks,fanduel,h2h,,Colorado Avalanche,0.5,1.8,2026-11-02,0.556
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Nathan MacKinnon,Yes,0.5,2.05,2026-11-02,0.488
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Artturi Lehkonen,Yes,0.5,2.6,2026-11-02,0.385
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Martin Necas,Yes,0.5,2.8,2026-11-02,0.357
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Nazem Kadri,Yes,0.5,3.5,2026-11-02,0.286
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Brock Nelson,Yes,0.5,3.3,2026-11-02,0.303
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Cale Makar,Yes,0.5,4.0,2026-11-02,0.25
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Gabriel Landeskog,Yes,0.5,4.1,2026-11-02,0.244
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,T.J. Hughes,Yes,0.5,4.5,2026-11-02,0.222
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Anton Frondell,Yes,0.5,4.4,2026-11-02,0.227
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Tyler Bertuzzi,Yes,0.5,4.8,2026-11-02,0.208
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Patrick Kane,Yes,0.5,5.0,2026-11-02,0.2
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Jaden Schwartz,Yes,0.5,5.6,2026-11-02,0.179
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Frank Nazar,Yes,0.5,5.6,2026-11-02,0.179
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Nicolas Roy,Yes,0.5,7.5,2026-11-02,0.133
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Parker Kelly,Yes,0.5,7.5,2026-11-02,0.133
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Andrew Mangiapane,Yes,0.5,8.0,2026-11-02,0.125
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Logan O'Connor,Yes,0.5,8.0,2026-11-02,0.125
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Devon Toews,Yes,0.5,8.0,2026-11-02,0.125
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Oliver Moore,Yes,0.5,8.5,2026-11-02,0.118
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Ryan Greene,Yes,0.5,7.5,2026-11-02,0.133
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Teuvo Teravainen,Yes,0.5,9.0,2026-11-02,0.111
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Fedor Svechkov,Yes,0.5,9.0,2026-11-02,0.111
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Brent Burns,Yes,0.5,14.0,2026-11-02,0.071
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Artyom Levshunov,Yes,0.5,14.0,2026-11-02,0.071
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Sam Rinzel,Yes,0.5,14.0,2026-11-02,0.071
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Sam Malinski,Yes,0.5,13.0,2026-11-02,0.077
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Cole Smith,Yes,0.5,13.0,2026-11-02,0.077
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Alex Vlasic,Yes,0.5,16.0,2026-11-02,0.062
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Noah Juulsen,Yes,0.5,17.0,2026-11-02,0.059
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Brett Kulak,Yes,0.5,20.0,2026-11-02,0.05
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Ian Cole,Yes,0.5,23.0,2026-11-02,0.043
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_goal_scorer_anytime,Ethan Del Mastro,Yes,0.5,23.0,2026-11-02,0.043
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Cale Makar,Over,2.5,1.8,2026-11-02,0.556
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Cale Makar,Under,2.5,1.96,2026-11-02,0.51
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Martin Necas,Over,2.5,2.22,2026-11-02,0.45
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Martin Necas,Under,2.5,1.62,2026-11-02,0.617
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Nazem Kadri,Over,2.5,2.14,2026-11-02,0.467
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Nazem Kadri,Under,2.5,1.68,2026-11-02,0.595
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Anton Frondell,Over,1.5,1.59,2026-11-02,0.629
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Anton Frondell,Under,1.5,2.3,2026-11-02,0.435
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Connor Bedard,Over,2.5,1.64,2026-11-02,0.61
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Connor Bedard,Under,2.5,2.2,2026-11-02,0.455
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Patrick Kane,Over,1.5,1.62,2026-11-02,0.617
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Patrick Kane,Under,1.5,2.22,2026-11-02,0.45
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Nathan MacKinnon,Over,3.5,1.78,2026-11-02,0.562
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Nathan MacKinnon,Under,3.5,1.98,2026-11-02,0.505
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Roman Kantserov,Over,1.5,1.77,2026-11-02,0.565
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_shots_on_goal,Roman Kantserov,Under,1.5,2.0,2026-11-02,0.5
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_total_saves,Spencer Knight,Over,28.5,1.89,2026-11-02,0.529
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_total_saves,Spencer Knight,Under,28.5,1.85,2026-11-02,0.541
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_total_saves,Mackenzie Blackwood,Over,21.5,2.0,2026-11-02,0.5
+Colorado Avalanche @ Chicago Blackhawks,fanduel,player_total_saves,Mackenzie Blackwood,Under,21.5,1.76,2026-11-02,0.568
+Colorado Avalanche @ Chicago Blackhawks,betmgm,h2h,,Chicago Blackhawks,0.5,1.95,2026-11-02,0.513
+Colorado Avalanche @ Chicago Blackhawks,betmgm,h2h,,Colorado Avalanche,0.5,1.85,2026-11-02,0.541
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Anton Frondell,Over,0.5,2.25,2026-11-02,0.444
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Anton Frondell,Under,0.5,1.61,2026-11-02,0.621
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Nathan MacKinnon,Over,1.5,2.0,2026-11-02,0.5
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Nathan MacKinnon,Under,1.5,1.74,2026-11-02,0.575
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Frank Nazar,Over,0.5,2.25,2026-11-02,0.444
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Frank Nazar,Under,0.5,1.61,2026-11-02,0.621
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Connor Bedard,Over,0.5,1.54,2026-11-02,0.649
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Connor Bedard,Under,0.5,2.35,2026-11-02,0.426
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Nazem Kadri,Over,0.5,1.69,2026-11-02,0.592
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Nazem Kadri,Under,0.5,2.05,2026-11-02,0.488
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Artturi Lehkonen,Over,0.5,1.69,2026-11-02,0.592
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Artturi Lehkonen,Under,0.5,2.05,2026-11-02,0.488
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,T.J. Hughes,Over,0.5,2.15,2026-11-02,0.465
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,T.J. Hughes,Under,0.5,1.65,2026-11-02,0.606
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Gabriel Landeskog,Over,0.5,2.05,2026-11-02,0.488
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Gabriel Landeskog,Under,0.5,1.71,2026-11-02,0.585
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Brock Nelson,Over,0.5,1.9,2026-11-02,0.526
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Brock Nelson,Under,0.5,1.83,2026-11-02,0.546
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Jaden Schwartz,Over,0.5,2.1,2026-11-02,0.476
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Jaden Schwartz,Under,0.5,1.67,2026-11-02,0.599
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Cale Makar,Over,1.5,3.3,2026-11-02,0.303
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Cale Makar,Under,1.5,1.31,2026-11-02,0.763
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Roman Kantserov,Over,0.5,2.0,2026-11-02,0.5
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Roman Kantserov,Under,0.5,1.74,2026-11-02,0.575
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Tyler Bertuzzi,Over,0.5,1.95,2026-11-02,0.513
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Tyler Bertuzzi,Under,0.5,1.77,2026-11-02,0.565
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Devon Toews,Over,0.5,2.0,2026-11-02,0.5
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Devon Toews,Under,0.5,1.74,2026-11-02,0.575
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Patrick Kane,Over,0.5,1.74,2026-11-02,0.575
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Patrick Kane,Under,0.5,2.0,2026-11-02,0.5
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Martin Necas,Over,0.5,1.45,2026-11-02,0.69
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_points,Martin Necas,Under,0.5,2.65,2026-11-02,0.377
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Nathan MacKinnon,Over,4.5,2.1,2026-11-02,0.476
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Nathan MacKinnon,Under,4.5,1.62,2026-11-02,0.617
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Gabriel Landeskog,Over,1.5,1.8,2026-11-02,0.556
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Gabriel Landeskog,Under,1.5,1.87,2026-11-02,0.535
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Sam Malinski,Over,1.5,1.71,2026-11-02,0.585
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Sam Malinski,Under,1.5,1.95,2026-11-02,0.513
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Nazem Kadri,Over,2.5,1.9,2026-11-02,0.526
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Nazem Kadri,Under,2.5,1.77,2026-11-02,0.565
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Connor Bedard,Over,2.5,1.62,2026-11-02,0.617
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Connor Bedard,Under,2.5,2.1,2026-11-02,0.476
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Artturi Lehkonen,Over,1.5,1.57,2026-11-02,0.637
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Artturi Lehkonen,Under,1.5,2.2,2026-11-02,0.455
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Frank Nazar,Over,1.5,1.77,2026-11-02,0.565
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Frank Nazar,Under,1.5,1.9,2026-11-02,0.526
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Anton Frondell,Over,1.5,1.65,2026-11-02,0.606
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Anton Frondell,Under,1.5,2.05,2026-11-02,0.488
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,T.J. Hughes,Over,1.5,1.54,2026-11-02,0.649
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,T.J. Hughes,Under,1.5,2.25,2026-11-02,0.444
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Cale Makar,Over,2.5,1.69,2026-11-02,0.592
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Cale Makar,Under,2.5,2.0,2026-11-02,0.5
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Brock Nelson,Over,1.5,1.53,2026-11-02,0.654
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Brock Nelson,Under,1.5,2.3,2026-11-02,0.435
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Martin Necas,Over,2.5,2.0,2026-11-02,0.5
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Martin Necas,Under,2.5,1.69,2026-11-02,0.592
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Patrick Kane,Over,1.5,1.57,2026-11-02,0.637
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Patrick Kane,Under,1.5,2.2,2026-11-02,0.455
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Tyler Bertuzzi,Over,1.5,1.95,2026-11-02,0.513
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Tyler Bertuzzi,Under,1.5,1.71,2026-11-02,0.585
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Roman Kantserov,Over,1.5,1.67,2026-11-02,0.599
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Roman Kantserov,Under,1.5,2.05,2026-11-02,0.488
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Jaden Schwartz,Over,1.5,1.95,2026-11-02,0.513
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Jaden Schwartz,Under,1.5,1.71,2026-11-02,0.585
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Devon Toews,Over,1.5,1.74,2026-11-02,0.575
+Colorado Avalanche @ Chicago Blackhawks,betmgm,player_shots_on_goal,Devon Toews,Under,1.5,1.91,2026-11-02,0.524
+Calgary Flames @ San Jose Sharks,draftkings,h2h,,Calgary Flames,0.5,2.05,2026-11-02,0.488
+Calgary Flames @ San Jose Sharks,draftkings,h2h,,San Jose Sharks,0.5,1.8,2026-11-02,0.556
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Macklin Celebrini,Yes,0.5,2.2,2026-11-02,0.455
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Will Smith,Yes,0.5,2.75,2026-11-02,0.364
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Matt Coronato,Yes,0.5,3.25,2026-11-02,0.308
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Morgan Frost,Yes,0.5,3.35,2026-11-02,0.299
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Matvei Gridin,Yes,0.5,3.4,2026-11-02,0.294
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Joel Farabee,Yes,0.5,3.45,2026-11-02,0.29
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Ivar Stenberg,Yes,0.5,3.45,2026-11-02,0.29
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Tyler Toffoli,Yes,0.5,3.65,2026-11-02,0.274
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Mason Marchment,Yes,0.5,3.9,2026-11-02,0.256
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Kiefer Sherwood,Yes,0.5,4.2,2026-11-02,0.238
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Mikael Backlund,Yes,0.5,4.8,2026-11-02,0.208
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Yegor Sharangovich,Yes,0.5,4.8,2026-11-02,0.208
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Aydar Suniev,Yes,0.5,4.8,2026-11-02,0.208
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Ryan Strome,Yes,0.5,4.8,2026-11-02,0.208
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Collin Graf,Yes,0.5,4.8,2026-11-02,0.208
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Michael Misa,Yes,0.5,5.25,2026-11-02,0.19
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Adam Klapka,Yes,0.5,6.0,2026-11-02,0.167
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Jonathan Castagna,Yes,0.5,6.0,2026-11-02,0.167
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Zayne Parekh,Yes,0.5,6.5,2026-11-02,0.154
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Adam Gaudette,Yes,0.5,6.5,2026-11-02,0.154
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Martin Pospisil,Yes,0.5,7.0,2026-11-02,0.143
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,William Stromgren,Yes,0.5,7.5,2026-11-02,0.133
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Dmitry Orlov,Yes,0.5,8.5,2026-11-02,0.118
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Zack Ostapchuk,Yes,0.5,9.0,2026-11-02,0.111
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Jacob Trouba,Yes,0.5,9.0,2026-11-02,0.111
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Filip Bystedt,Yes,0.5,9.0,2026-11-02,0.111
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Simon Nemec,Yes,0.5,9.5,2026-11-02,0.105
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Barclay Goodrow,Yes,0.5,10.5,2026-11-02,0.095
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Michael Kesselring,Yes,0.5,14.0,2026-11-02,0.071
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Yan Kuznetsov,Yes,0.5,15.0,2026-11-02,0.067
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Darnell Nurse,Yes,0.5,15.0,2026-11-02,0.067
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Jake Middleton,Yes,0.5,16.0,2026-11-02,0.062
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Kevin Bahl,Yes,0.5,17.0,2026-11-02,0.059
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Sam Dickinson,Yes,0.5,18.0,2026-11-02,0.056
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Nolan Allan,Yes,0.5,19.0,2026-11-02,0.053
+Calgary Flames @ San Jose Sharks,draftkings,player_goal_scorer_anytime,Zach Whitecloud,Yes,0.5,20.0,2026-11-02,0.05
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Macklin Celebrini,Over,1.5,2.3,2026-11-02,0.435
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Macklin Celebrini,Under,1.5,1.57,2026-11-02,0.637
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Will Smith,Over,0.5,1.56,2026-11-02,0.641
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Will Smith,Under,0.5,2.35,2026-11-02,0.426
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Matt Coronato,Over,0.5,1.65,2026-11-02,0.606
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Matt Coronato,Under,0.5,2.15,2026-11-02,0.465
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Joel Farabee,Over,0.5,1.71,2026-11-02,0.585
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Joel Farabee,Under,0.5,2.05,2026-11-02,0.488
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Matvei Gridin,Over,0.5,1.77,2026-11-02,0.565
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Matvei Gridin,Under,0.5,1.95,2026-11-02,0.513
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Tyler Toffoli,Over,0.5,1.8,2026-11-02,0.556
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Tyler Toffoli,Under,0.5,1.95,2026-11-02,0.513
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Ivar Stenberg,Over,0.5,1.87,2026-11-02,0.535
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Ivar Stenberg,Under,0.5,1.83,2026-11-02,0.546
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Mason Marchment,Over,0.5,1.87,2026-11-02,0.535
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Mason Marchment,Under,0.5,1.87,2026-11-02,0.535
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Morgan Frost,Over,0.5,1.87,2026-11-02,0.535
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Morgan Frost,Under,0.5,1.87,2026-11-02,0.535
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Dmitry Orlov,Over,0.5,2.15,2026-11-02,0.465
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Dmitry Orlov,Under,0.5,1.62,2026-11-02,0.617
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Ryan Strome,Over,0.5,2.2,2026-11-02,0.455
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Ryan Strome,Under,0.5,1.61,2026-11-02,0.621
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Kiefer Sherwood,Over,0.5,2.25,2026-11-02,0.444
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Kiefer Sherwood,Under,0.5,1.59,2026-11-02,0.629
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Zayne Parekh,Over,0.5,2.35,2026-11-02,0.426
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Zayne Parekh,Under,0.5,1.54,2026-11-02,0.649
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Mikael Backlund,Over,0.5,2.45,2026-11-02,0.408
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Mikael Backlund,Under,0.5,1.51,2026-11-02,0.662
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Michael Misa,Over,0.5,2.5,2026-11-02,0.4
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Michael Misa,Under,0.5,1.5,2026-11-02,0.667
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Yegor Sharangovich,Over,0.5,2.5,2026-11-02,0.4
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Yegor Sharangovich,Under,0.5,1.49,2026-11-02,0.671
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Aydar Suniev,Over,0.5,2.65,2026-11-02,0.377
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Aydar Suniev,Under,0.5,1.44,2026-11-02,0.694
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Simon Nemec,Over,0.5,2.7,2026-11-02,0.37
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Simon Nemec,Under,0.5,1.43,2026-11-02,0.699
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Jacob Trouba,Over,0.5,2.75,2026-11-02,0.364
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Jacob Trouba,Under,0.5,1.42,2026-11-02,0.704
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Collin Graf,Over,0.5,2.8,2026-11-02,0.357
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Collin Graf,Under,0.5,1.4,2026-11-02,0.714
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Martin Pospisil,Over,0.5,3.2,2026-11-02,0.312
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Martin Pospisil,Under,0.5,1.32,2026-11-02,0.758
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Filip Bystedt,Over,0.5,3.4,2026-11-02,0.294
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Filip Bystedt,Under,0.5,1.3,2026-11-02,0.769
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Michael Kesselring,Over,0.5,3.65,2026-11-02,0.274
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Michael Kesselring,Under,0.5,1.27,2026-11-02,0.787
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Sam Dickinson,Over,0.5,4.4,2026-11-02,0.227
+Calgary Flames @ San Jose Sharks,draftkings,player_points,Sam Dickinson,Under,0.5,1.2,2026-11-02,0.833
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Macklin Celebrini,Over,3.5,1.8,2026-11-02,0.556
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Macklin Celebrini,Under,3.5,1.95,2026-11-02,0.513
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Will Smith,Over,2.5,1.87,2026-11-02,0.535
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Will Smith,Under,2.5,1.83,2026-11-02,0.546
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Matt Coronato,Over,2.5,2.0,2026-11-02,0.5
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Matt Coronato,Under,2.5,1.74,2026-11-02,0.575
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Matvei Gridin,Over,2.5,2.15,2026-11-02,0.465
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Matvei Gridin,Under,2.5,1.65,2026-11-02,0.606
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Joel Farabee,Over,2.5,2.3,2026-11-02,0.435
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Joel Farabee,Under,2.5,1.57,2026-11-02,0.637
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Tyler Toffoli,Over,2.5,2.35,2026-11-02,0.426
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Tyler Toffoli,Under,2.5,1.56,2026-11-02,0.641
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Mikael Backlund,Over,2.5,2.4,2026-11-02,0.417
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Mikael Backlund,Under,2.5,1.53,2026-11-02,0.654
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Kiefer Sherwood,Over,1.5,1.61,2026-11-02,0.621
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Kiefer Sherwood,Under,1.5,2.2,2026-11-02,0.455
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Mason Marchment,Over,1.5,1.65,2026-11-02,0.606
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Mason Marchment,Under,1.5,2.15,2026-11-02,0.465
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Zayne Parekh,Over,1.5,1.67,2026-11-02,0.599
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Zayne Parekh,Under,1.5,2.1,2026-11-02,0.476
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Morgan Frost,Over,1.5,1.69,2026-11-02,0.592
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Morgan Frost,Under,1.5,2.05,2026-11-02,0.488
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Aydar Suniev,Over,1.5,1.8,2026-11-02,0.556
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Aydar Suniev,Under,1.5,1.95,2026-11-02,0.513
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Jacob Trouba,Over,1.5,1.83,2026-11-02,0.546
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Jacob Trouba,Under,1.5,1.91,2026-11-02,0.524
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Darnell Nurse,Over,1.5,1.91,2026-11-02,0.524
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Darnell Nurse,Under,1.5,1.8,2026-11-02,0.556
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Yegor Sharangovich,Over,1.5,1.91,2026-11-02,0.524
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Yegor Sharangovich,Under,1.5,1.83,2026-11-02,0.546
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Ryan Strome,Over,1.5,1.95,2026-11-02,0.513
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Ryan Strome,Under,1.5,1.77,2026-11-02,0.565
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Ivar Stenberg,Over,1.5,2.0,2026-11-02,0.5
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Ivar Stenberg,Under,1.5,1.71,2026-11-02,0.585
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Simon Nemec,Over,1.5,2.0,2026-11-02,0.5
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Simon Nemec,Under,1.5,1.74,2026-11-02,0.575
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Michael Misa,Over,1.5,2.2,2026-11-02,0.455
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Michael Misa,Under,1.5,1.62,2026-11-02,0.617
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Collin Graf,Over,1.5,2.25,2026-11-02,0.444
+Calgary Flames @ San Jose Sharks,draftkings,player_shots_on_goal,Collin Graf,Under,1.5,1.61,2026-11-02,0.621
+Calgary Flames @ San Jose Sharks,draftkings,player_total_saves,Dustin Wolf,Over,25.5,1.8,2026-11-02,0.556
+Calgary Flames @ San Jose Sharks,draftkings,player_total_saves,Dustin Wolf,Under,25.5,1.91,2026-11-02,0.524
+Calgary Flames @ San Jose Sharks,draftkings,player_total_saves,Yaroslav Askarov,Over,25.5,1.91,2026-11-02,0.524
+Calgary Flames @ San Jose Sharks,draftkings,player_total_saves,Yaroslav Askarov,Under,25.5,1.8,2026-11-02,0.556
+Calgary Flames @ San Jose Sharks,fanduel,h2h,,Calgary Flames,0.5,2.04,2026-11-02,0.49
+Calgary Flames @ San Jose Sharks,fanduel,h2h,,San Jose Sharks,0.5,1.8,2026-11-02,0.556
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Macklin Celebrini,Yes,0.5,2.35,2026-11-02,0.426
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Will Smith,Yes,0.5,3.1,2026-11-02,0.323
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Matt Coronato,Yes,0.5,3.2,2026-11-02,0.312
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Joel Farabee,Yes,0.5,3.3,2026-11-02,0.303
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Matvei Gridin,Yes,0.5,3.4,2026-11-02,0.294
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Tyler Toffoli,Yes,0.5,3.4,2026-11-02,0.294
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Ivar Stenberg,Yes,0.5,3.4,2026-11-02,0.294
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Morgan Frost,Yes,0.5,3.5,2026-11-02,0.286
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Mason Marchment,Yes,0.5,3.6,2026-11-02,0.278
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Yegor Sharangovich,Yes,0.5,4.4,2026-11-02,0.227
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Mikael Backlund,Yes,0.5,4.5,2026-11-02,0.222
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Aydar Suniev,Yes,0.5,4.8,2026-11-02,0.208
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Michael Misa,Yes,0.5,4.8,2026-11-02,0.208
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Kiefer Sherwood,Yes,0.5,4.8,2026-11-02,0.208
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Ryan Strome,Yes,0.5,5.1,2026-11-02,0.196
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Collin Graf,Yes,0.5,5.3,2026-11-02,0.189
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Adam Klapka,Yes,0.5,6.0,2026-11-02,0.167
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Adam Gaudette,Yes,0.5,6.0,2026-11-02,0.167
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Filip Bystedt,Yes,0.5,6.5,2026-11-02,0.154
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Jonathan Castagna,Yes,0.5,6.5,2026-11-02,0.154
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Zayne Parekh,Yes,0.5,6.75,2026-11-02,0.148
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Martin Pospisil,Yes,0.5,7.0,2026-11-02,0.143
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Jacob Trouba,Yes,0.5,9.0,2026-11-02,0.111
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Simon Nemec,Yes,0.5,9.0,2026-11-02,0.111
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Dmitry Orlov,Yes,0.5,9.5,2026-11-02,0.105
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Zack Ostapchuk,Yes,0.5,9.5,2026-11-02,0.105
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Barclay Goodrow,Yes,0.5,10.5,2026-11-02,0.095
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,William Stromgren,Yes,0.5,13.0,2026-11-02,0.077
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Darnell Nurse,Yes,0.5,14.0,2026-11-02,0.071
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Yan Kuznetsov,Yes,0.5,15.0,2026-11-02,0.067
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Sam Dickinson,Yes,0.5,17.0,2026-11-02,0.059
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Kevin Bahl,Yes,0.5,17.0,2026-11-02,0.059
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Michael Kesselring,Yes,0.5,18.0,2026-11-02,0.056
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Zach Whitecloud,Yes,0.5,20.0,2026-11-02,0.05
+Calgary Flames @ San Jose Sharks,fanduel,player_goal_scorer_anytime,Nolan Allan,Yes,0.5,21.0,2026-11-02,0.048
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Matt Coronato,Over,2.5,2.12,2026-11-02,0.472
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Matt Coronato,Under,2.5,1.68,2026-11-02,0.595
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Mikael Backlund,Over,2.5,2.28,2026-11-02,0.439
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Mikael Backlund,Under,2.5,1.6,2026-11-02,0.625
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Matvei Gridin,Over,2.5,2.48,2026-11-02,0.403
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Matvei Gridin,Under,2.5,1.51,2026-11-02,0.662
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Joel Farabee,Over,1.5,1.51,2026-11-02,0.662
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Joel Farabee,Under,1.5,2.48,2026-11-02,0.403
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Zayne Parekh,Over,1.5,1.68,2026-11-02,0.595
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Zayne Parekh,Under,1.5,2.14,2026-11-02,0.467
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Will Smith,Over,2.5,1.82,2026-11-02,0.549
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Will Smith,Under,2.5,1.94,2026-11-02,0.515
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Macklin Celebrini,Over,3.5,1.85,2026-11-02,0.541
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Macklin Celebrini,Under,3.5,1.91,2026-11-02,0.524
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Yegor Sharangovich,Over,1.5,1.74,2026-11-02,0.575
+Calgary Flames @ San Jose Sharks,fanduel,player_shots_on_goal,Yegor Sharangovich,Under,1.5,2.04,2026-11-02,0.49
+Calgary Flames @ San Jose Sharks,fanduel,player_total_saves,Dustin Wolf,Over,25.5,1.77,2026-11-02,0.565
+Calgary Flames @ San Jose Sharks,fanduel,player_total_saves,Dustin Wolf,Under,25.5,1.98,2026-11-02,0.505
+Calgary Flames @ San Jose Sharks,fanduel,player_total_saves,Yaroslav Askarov,Over,25.5,1.85,2026-11-02,0.541
+Calgary Flames @ San Jose Sharks,fanduel,player_total_saves,Yaroslav Askarov,Under,25.5,1.89,2026-11-02,0.529
+Calgary Flames @ San Jose Sharks,betmgm,h2h,,Calgary Flames,0.5,2.0,2026-11-02,0.5
+Calgary Flames @ San Jose Sharks,betmgm,h2h,,San Jose Sharks,0.5,1.83,2026-11-02,0.546
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Mikael Backlund,Over,0.5,2.15,2026-11-02,0.465
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Mikael Backlund,Under,0.5,1.65,2026-11-02,0.606
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Morgan Frost,Over,0.5,1.8,2026-11-02,0.556
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Morgan Frost,Under,0.5,1.95,2026-11-02,0.513
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Zayne Parekh,Over,0.5,2.25,2026-11-02,0.444
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Zayne Parekh,Under,0.5,1.61,2026-11-02,0.621
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Simon Nemec,Over,0.5,2.7,2026-11-02,0.37
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Simon Nemec,Under,0.5,1.43,2026-11-02,0.699
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Will Smith,Over,0.5,1.54,2026-11-02,0.649
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Will Smith,Under,0.5,2.35,2026-11-02,0.426
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Yegor Sharangovich,Over,0.5,2.4,2026-11-02,0.417
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Yegor Sharangovich,Under,0.5,1.53,2026-11-02,0.654
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Dmitry Orlov,Over,0.5,2.15,2026-11-02,0.465
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Dmitry Orlov,Under,0.5,1.65,2026-11-02,0.606
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Jacob Trouba,Over,0.5,2.65,2026-11-02,0.377
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Jacob Trouba,Under,0.5,1.44,2026-11-02,0.694
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Kiefer Sherwood,Over,0.5,2.1,2026-11-02,0.476
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Kiefer Sherwood,Under,0.5,1.67,2026-11-02,0.599
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Joel Farabee,Over,0.5,1.67,2026-11-02,0.599
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Joel Farabee,Under,0.5,2.1,2026-11-02,0.476
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Matvei Gridin,Over,0.5,1.83,2026-11-02,0.546
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Matvei Gridin,Under,0.5,1.91,2026-11-02,0.524
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Mason Marchment,Over,0.5,1.87,2026-11-02,0.535
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Mason Marchment,Under,0.5,1.87,2026-11-02,0.535
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Ivar Stenberg,Over,0.5,1.85,2026-11-02,0.541
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Ivar Stenberg,Under,0.5,1.9,2026-11-02,0.526
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Macklin Celebrini,Over,1.5,2.25,2026-11-02,0.444
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Macklin Celebrini,Under,1.5,1.61,2026-11-02,0.621
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Collin Graf,Over,0.5,2.4,2026-11-02,0.417
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Collin Graf,Under,0.5,1.53,2026-11-02,0.654
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Michael Misa,Over,0.5,2.15,2026-11-02,0.465
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Michael Misa,Under,0.5,1.65,2026-11-02,0.606
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Tyler Toffoli,Over,0.5,1.83,2026-11-02,0.546
+Calgary Flames @ San Jose Sharks,betmgm,player_points,Tyler Toffoli,Under,0.5,1.91,2026-11-02,0.524
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Mikael Backlund,Over,2.5,2.15,2026-11-02,0.465
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Mikael Backlund,Under,2.5,1.61,2026-11-02,0.621
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Jacob Trouba,Over,1.5,1.85,2026-11-02,0.541
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Jacob Trouba,Under,1.5,1.85,2026-11-02,0.541
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Simon Nemec,Over,1.5,2.1,2026-11-02,0.476
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Simon Nemec,Under,1.5,1.62,2026-11-02,0.617
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Dmitry Orlov,Over,1.5,2.35,2026-11-02,0.426
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Dmitry Orlov,Under,1.5,1.5,2026-11-02,0.667
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Ivar Stenberg,Over,1.5,1.83,2026-11-02,0.546
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Ivar Stenberg,Under,1.5,1.83,2026-11-02,0.546
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Yegor Sharangovich,Over,1.5,1.91,2026-11-02,0.524
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Yegor Sharangovich,Under,1.5,1.74,2026-11-02,0.575
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Will Smith,Over,2.5,1.85,2026-11-02,0.541
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Will Smith,Under,2.5,1.83,2026-11-02,0.546
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Kiefer Sherwood,Over,1.5,1.54,2026-11-02,0.649
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Kiefer Sherwood,Under,1.5,2.25,2026-11-02,0.444
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Collin Graf,Over,1.5,1.9,2026-11-02,0.526
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Collin Graf,Under,1.5,1.77,2026-11-02,0.565
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Joel Farabee,Over,2.5,2.25,2026-11-02,0.444
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Joel Farabee,Under,2.5,1.54,2026-11-02,0.649
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Michael Misa,Over,1.5,2.1,2026-11-02,0.476
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Michael Misa,Under,1.5,1.62,2026-11-02,0.617
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Morgan Frost,Over,1.5,1.62,2026-11-02,0.617
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Morgan Frost,Under,1.5,2.1,2026-11-02,0.476
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Matvei Gridin,Over,2.5,2.25,2026-11-02,0.444
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Matvei Gridin,Under,2.5,1.54,2026-11-02,0.649
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Tyler Toffoli,Over,1.5,1.45,2026-11-02,0.69
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Tyler Toffoli,Under,1.5,2.5,2026-11-02,0.4
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Zayne Parekh,Over,1.5,1.74,2026-11-02,0.575
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Zayne Parekh,Under,1.5,1.91,2026-11-02,0.524
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Macklin Celebrini,Over,3.5,1.85,2026-11-02,0.541
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Macklin Celebrini,Under,3.5,1.85,2026-11-02,0.541
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Mason Marchment,Over,1.5,1.5,2026-11-02,0.667
+Calgary Flames @ San Jose Sharks,betmgm,player_shots_on_goal,Mason Marchment,Under,1.5,2.35,2026-11-02,0.426

@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 
 # 2018 to this season. One season was far too little to learn from (only ~500 QB games) - tested:
@@ -9,8 +10,16 @@ from Freshness import already_fresh, football_game_starts
 if already_fresh("nfl_players.csv", football_game_starts("nfl")):
     raise SystemExit(0)
 
+# past seasons never change - reuse them from last time and download only THIS season's file
+# (an NFL season runs September to February, so in January it's still last year's season)
+now = pd.Timestamp.now()
+this_season = now.year if now.month >= 3 else now.year - 1
+saved = pd.read_csv("nfl_players.csv") if os.path.exists("nfl_players.csv") else pd.DataFrame(columns=["season"])
 tables = []
 for season in seasons:
+    if season < this_season and (saved["season"] == season).any():
+        print(season, "-> already saved")
+        continue
     url = f"https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_{season}.csv"
     # usecols: only download the columns we keep (the files have 150) - quicker and lighter
     season_df = pd.read_csv(url, low_memory=False, usecols=[
@@ -31,6 +40,9 @@ df = df[["player_id", "player_display_name", "position", "team", "opponent_team"
          "attempts", "completions", "passing_yards", "passing_tds", "passing_interceptions",
          "carries", "rushing_yards", "rushing_tds",
          "targets", "receptions", "receiving_yards", "receiving_tds"]]
+
+# + the saved past seasons we didn't download again
+df = pd.concat([saved[saved["season"] < this_season], df], ignore_index=True) if len(saved) else df
 
 # each player's games together, oldest to newest
 df = df.sort_values(["player_id", "season", "week"])
