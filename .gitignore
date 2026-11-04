@@ -24,5 +24,15 @@ skaters.csv
 goalies.csv
 pwhl_skaters.csv
 
+# Daily odds / priced lines - they change every run (re-download with the *_Odds_Scraper.py scripts)
+odds.csv
+*_odds.csv
+*lines_today.csv
+
+# Poker bot: only blueprint.pkl (the strategy it plays) is kept - these are for resuming training / old copies
+poker training/checkpoints/table.pkl
+poker training/checkpoints/snapshot.pkl
+poker training/checkpoints/blueprint_*.pkl
+
 # Local Claude Code settings
 .claude/

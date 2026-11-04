@@ -7390,18 +7390,32 @@ game_id,season,date,completed,home_team,home_name,home_score,away_team,away_name
 401909904,2027,2026-11-01,True,IND,Indiana Pacers,90.0,BKN,Brooklyn Nets,98.0
 401909905,2027,2026-11-01,True,GS,Golden State Warriors,124.0,LAC,LA Clippers,112.0
 401909906,2027,2026-11-01,True,LAL,Los Angeles Lakers,131.0,TOR,Toronto Raptors,125.0
-401909907,2027,2026-11-02,False,CLE,Cleveland Cavaliers,47.0,OKC,Oklahoma City Thunder,55.0
-401909908,2027,2026-11-02,False,CHA,Charlotte Hornets,15.0,DET,Detroit Pistons,15.0
-401909909,2027,2026-11-02,False,IND,Indiana Pacers,26.0,ATL,Atlanta Hawks,32.0
-401909910,2027,2026-11-02,False,NY,New York Knicks,21.0,BKN,Brooklyn Nets,16.0
-401909911,2027,2026-11-02,False,ORL,Orlando Magic,24.0,WSH,Washington Wizards,27.0
-401909912,2027,2026-11-02,False,PHI,Philadelphia 76ers,24.0,CHI,Chicago Bulls,14.0
-401909913,2027,2026-11-02,False,DAL,Dallas Mavericks,0.0,SAC,Sacramento Kings,0.0
-401909914,2027,2026-11-02,False,MEM,Memphis Grizzlies,0.0,NO,New Orleans Pelicans,0.0
-401909915,2027,2026-11-02,False,MIN,Minnesota Timberwolves,0.0,MIL,Milwaukee Bucks,0.0
-401909916,2027,2026-11-02,False,HOU,Houston Rockets,0.0,BOS,Boston Celtics,0.0
-401909917,2027,2026-11-02,False,SA,San Antonio Spurs,0.0,UTAH,Utah Jazz,0.0
-401909918,2027,2026-11-02,False,DEN,Denver Nuggets,0.0,POR,Portland Trail Blazers,0.0
-401909919,2027,2026-11-02,False,GS,Golden State Warriors,0.0,PHX,Phoenix Suns,0.0
-401909920,2027,2026-11-02,False,LAC,LA Clippers,0.0,TOR,Toronto Raptors,0.0
-401909921,2027,2026-11-02,False,LAL,Los Angeles Lakers,0.0,MIA,Miami Heat,0.0
+401909907,2027,2026-11-02,True,CLE,Cleveland Cavaliers,112.0,OKC,Oklahoma City Thunder,117.0
+401909908,2027,2026-11-02,True,CHA,Charlotte Hornets,91.0,DET,Detroit Pistons,124.0
+401909909,2027,2026-11-02,True,IND,Indiana Pacers,104.0,ATL,Atlanta Hawks,108.0
+401909910,2027,2026-11-02,True,NY,New York Knicks,103.0,BKN,Brooklyn Nets,90.0
+401909911,2027,2026-11-02,True,ORL,Orlando Magic,94.0,WSH,Washington Wizards,103.0
+401909912,2027,2026-11-02,True,PHI,Philadelphia 76ers,126.0,CHI,Chicago Bulls,107.0
+401909913,2027,2026-11-02,True,DAL,Dallas Mavericks,100.0,SAC,Sacramento Kings,115.0
+401909914,2027,2026-11-02,True,MEM,Memphis Grizzlies,134.0,NO,New Orleans Pelicans,135.0
+401909915,2027,2026-11-02,True,MIN,Minnesota Timberwolves,112.0,MIL,Milwaukee Bucks,100.0
+401909916,2027,2026-11-02,True,HOU,Houston Rockets,109.0,BOS,Boston Celtics,93.0
+401909917,2027,2026-11-02,True,SA,San Antonio Spurs,119.0,UTAH,Utah Jazz,97.0
+401909918,2027,2026-11-02,True,DEN,Denver Nuggets,110.0,POR,Portland Trail Blazers,118.0
+401909919,2027,2026-11-02,True,GS,Golden State Warriors,116.0,PHX,Phoenix Suns,113.0
+401909920,2027,2026-11-02,True,LAC,LA Clippers,118.0,TOR,Toronto Raptors,125.0
+401909921,2027,2026-11-02,True,LAL,Los Angeles Lakers,138.0,MIA,Miami Heat,117.0
+401909922,2027,2026-11-04,False,DET,Detroit Pistons,0.0,PHI,Philadelphia 76ers,0.0
+401909923,2027,2026-11-04,False,WSH,Washington Wizards,0.0,ATL,Atlanta Hawks,0.0
+401909924,2027,2026-11-04,False,BOS,Boston Celtics,0.0,MIL,Milwaukee Bucks,0.0
+401909925,2027,2026-11-04,False,BKN,Brooklyn Nets,0.0,CHA,Charlotte Hornets,0.0
+401909926,2027,2026-11-04,False,NY,New York Knicks,0.0,CHI,Chicago Bulls,0.0
+401909927,2027,2026-11-04,False,MEM,Memphis Grizzlies,0.0,IND,Indiana Pacers,0.0
+401909928,2027,2026-11-04,False,NO,New Orleans Pelicans,0.0,UTAH,Utah Jazz,0.0
+401909929,2027,2026-11-04,False,OKC,Oklahoma City Thunder,0.0,CLE,Cleveland Cavaliers,0.0
+401909930,2027,2026-11-04,False,HOU,Houston Rockets,0.0,MIN,Minnesota Timberwolves,0.0
+401909931,2027,2026-11-04,False,DEN,Denver Nuggets,0.0,TOR,Toronto Raptors,0.0
+401909932,2027,2026-11-04,False,PHX,Phoenix Suns,0.0,POR,Portland Trail Blazers,0.0
+401909933,2027,2026-11-04,False,SA,San Antonio Spurs,0.0,DAL,Dallas Mavericks,0.0
+401909934,2027,2026-11-04,False,SAC,Sacramento Kings,0.0,LAL,Los Angeles Lakers,0.0
+401909935,2027,2026-11-04,False,LAC,LA Clippers,0.0,MIA,Miami Heat,0.0

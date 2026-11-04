@@ -31,6 +31,16 @@ streamlit run dashboard.py
 
 Large raw data files (player stats) are not included. Re-generate them with the scraper scripts.
 
+## Card games (just for fun)
+
+Pick **Card games** at the top of the dashboard's sidebar for a game while your scripts run: blackjack, baccarat, video poker, American roulette, three card poker, let it ride, craps or Texas Hold'em (heads-up against a bot). Hold'em can also use the self-taught CFR bot in `poker training/` as your opponent and as your coach (it shows the strategy it would play in your seat, and grades you in Trainer mode). Blackjack has its own self-taught bot in `blackjack training/` (reinforcement learning over hundreds of millions of hands), used the same way as a coach and trainer. Every game has an advice-only AI (it never sees hidden cards) with its own win rate, a **Trainer mode** (the AI hides its advice until you decide, then grades you and explains the best play), and a strategy lab that simulates thousands of hands. Fake chips only. Nothing is saved and no real money is involved.
+
+### Card counting trainer: for education only
+
+An optional **Card counting trainer** (off by default) teaches the Hi-Lo counting system: it can show the running count and true count, quiz you every few hands, and explain why the count shifts the odds.
+
+**I don't condone using card counting to gain an advantage at casinos.** It's taught here to explain how probabilities and "edge" work. Card counting isn't illegal, but casinos can refuse service to players who count cards, and online blackjack in Ontario uses automatic shuffling, so counting doesn't work there anyway. This trainer uses fake chips only. Play responsibly. If gambling stops being fun, ConnexOntario offers free 24/7 help at 1-866-531-2600.
+
 ## Disclaimer
 
 **This project is for educational and research purposes only.**

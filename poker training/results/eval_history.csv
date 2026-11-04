@@ -1,0 +1,18 @@
+checkpoint,train_hands,opponent,bb_per_100,ci95,hands_played
+1 min,76700,Random,419.9,251.3,800
+1 min,76700,CallingStation,679.6,280.5,800
+1 min,76700,Maniac,903.9,325.8,800
+1 min,76700,EquityBot,-162.7,156.7,800
+1 min,76700,Nit,-147.6,123.4,800
+1 hr,8668180,Random,343.9,24.7,40000
+1 hr,8668180,CallingStation,417.4,23.2,40000
+1 hr,8668180,Maniac,454.7,37.0,40000
+1 hr,8668180,EquityBot,-24.4,16.3,40000
+1 hr,8668180,Nit,7.0,10.8,40000
+Mid-run,18117860,EquityBot,2.9,21.6,20000
+Mid-run,18117860,Nit,16.3,13.7,20000
+2.5 hr,23942240,Random,297.2,16.5,80000
+2.5 hr,23942240,CallingStation,348.9,14.5,80000
+2.5 hr,23942240,Maniac,316.3,24.1,80000
+2.5 hr,23942240,EquityBot,29.5,10.4,80000
+2.5 hr,23942240,Nit,22.6,7.0,80000

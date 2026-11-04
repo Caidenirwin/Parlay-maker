@@ -3,9 +3,10 @@ import json
 import math
 import os
 import pandas as pd
+from scipy.sparse import csr_matrix
 from scipy.stats import norm, poisson
 from sklearn.ensemble import HistGradientBoostingRegressor
-from sklearn.linear_model import LogisticRegression
+from sklearn.linear_model import LogisticRegression, Ridge
 from Bet_Tracker import save_found
 from NFL_Live import clean_name
 
@@ -27,7 +28,10 @@ OVER_EXTRA_EDGE = 0.05  # Overs need 5% MORE edge than Unders: books shade Overs
 MAX_BETS = 8          # never more than 8 single bets a night
 MAX_PER_GAME = 2      # at most 2 bets on the same game
 MIN_MINUTES = 20      # only players averaging 20+ minutes over their last 5 games (bench guys are coin flips)
-SHOW_BACKTEST = False # True = print each model's backtest
+SHOW_BACKTEST = os.getenv("PQ_BACKTEST") == "1"   # True = print each model's backtest
+DEF_ALPHA = 40        # defender ratings: how hard small samples get pulled back to average (bigger = more cautious)
+ELITE_DEFENDER = 0.05 # "considerably good" defender = the best 5% of regulars at holding down points (just the label;
+                      # the model itself uses every defender's rating)
 
 if not os.path.exists("nba_players.csv") or not os.path.exists("nba_games.csv"):
     raise SystemExit("No NBA stats yet - run: python NBA_Scraper.py (the first download takes ~15-20 minutes)")
@@ -57,8 +61,48 @@ df = df.merge(allowed[["team", "date"] + [f"opp_{s}_allowed" for s in targets_to
               left_on=["opponent", "date"], right_on=["team", "date"], how="left", suffixes=("", "_drop"))
 df = df.drop(columns="team_drop")
 
+# individual defenders: when he's on the court, does the other team get less than it usually does?
+# Every game: what a team scored vs its usual (its last 10 games). Each defender on the other side shares the
+# credit / blame by his minutes, and a ridge regression sorts out who's really responsible (a "defensive plus-minus").
+# rating = per 48 minutes, how many more (+) or fewer (-) points / rebounds / ... opponents get with him on the floor.
+scored = df.groupby(["game_id", "season", "team"])[targets_to_predict].sum().reset_index()
+scored = scored.merge(df[["game_id", "date", "team", "opponent"]].drop_duplicates(["game_id", "team"]),
+                      on=["game_id", "team"]).sort_values(["team", "date"])
+for stat in targets_to_predict:
+    scored[f"{stat}_usual"] = scored.groupby("team")[stat].transform(lambda s: s.shift().rolling(10, min_periods=5).mean())
+player_col = {p: i for i, p in enumerate(df["player_id"].unique())}
+
+
+def defender_ratings(games):
+    """{stat: player_id -> rating} learned from these team-games"""
+    games = games.dropna(subset=[f"{s}_usual" for s in targets_to_predict]).reset_index(drop=True)
+    on_court = df[["game_id", "team", "player_id", "minutes"]].merge(
+        games[["game_id", "opponent"]].reset_index(), left_on=["game_id", "team"], right_on=["game_id", "opponent"])
+    X = csr_matrix((on_court["minutes"] / 48, (on_court["index"], on_court["player_id"].map(player_col))),
+                   shape=(len(games), len(player_col)))
+    return {stat: pd.Series(Ridge(alpha=DEF_ALPHA).fit(X, games[stat] - games[f"{stat}_usual"]).coef_,
+                            index=list(player_col)) for stat in targets_to_predict}
+
+
+def defence_on_court(players, ratings):
+    """a team's defenders tonight, added up: each one's rating x his expected minutes (last 5 games) / 48"""
+    weight = players["minutes_last5"].fillna(0) / 48
+    return pd.DataFrame({f"opp_def_{s}": players["player_id"].map(ratings[s]).fillna(0) * weight
+                         for s in targets_to_predict}).groupby([players["game_id"], players["team"]]).sum()
+
+
+# each season's ratings come only from the seasons BEFORE it - no peeking at the games being predicted
+parts = []
+for season in sorted(df["season"].unique())[1:]:
+    ratings = defender_ratings(scored[scored["season"] < season])
+    parts.append(defence_on_court(df[df["season"] == season], ratings))
+team_defence = pd.concat(parts).reset_index().rename(columns={"team": "opponent"})
+df = df.merge(team_defence, on=["game_id", "opponent"], how="left")
+DEF_RATINGS = defender_ratings(scored)   # tonight: learned from every game
+
 features = [f"{s}_last{n}" for s in targets_to_predict + opportunity for n in WINDOWS] + \
-           [f"opp_{s}_allowed" for s in targets_to_predict] + ["home", "rest"]
+           [f"opp_{s}_allowed" for s in targets_to_predict] + [f"opp_def_{s}" for s in targets_to_predict] + \
+           ["home", "rest"]
 
 # ---- one strict model per stat (learn 2024-25, test 2025-26, then retrain on everything) ----
 models, spreads = {}, {}
@@ -183,6 +227,16 @@ for n in WINDOWS:
 form = form[form["team"].isin(matchups)]
 team_last = all_games.groupby("team")["date"].max()
 form = form[form["last_game"] == form["team"].map(team_last)]   # missed his team's last game -> skip (likely hurt)
+# tonight's defenders: everyone healthy on each team (played its last game), by his recent minutes
+healthy = form.reset_index().assign(game_id=0)
+tonight_defence = defence_on_court(healthy, DEF_RATINGS).droplevel(0)
+# the "considerably good" ones - the best 10% of regulars at holding down points - named on the bets they face
+minutes_played = all_games.groupby("player_id")["minutes"].sum()
+elite_cut = DEF_RATINGS["points"][minutes_played[minutes_played >= 1000].index].quantile(ELITE_DEFENDER)
+healthy["d_rating"] = healthy["player_id"].map(DEF_RATINGS["points"])
+stoppers = healthy[(healthy["d_rating"] <= elite_cut) & (healthy["minutes_last5"] >= MIN_MINUTES)].sort_values("d_rating")
+STOPPERS = {team: ", ".join(f"{p} ({r:+.1f} pts/48)" for p, r in zip(t["player"], t["d_rating"]))
+            for team, t in stoppers.groupby("team")}
 form = form[form["minutes_last5"] >= MIN_MINUTES]
 allowed_now = allowed.groupby("team")[targets_to_predict].apply(lambda t: t.tail(10).mean())
 form["opponent"] = form["team"].map(lambda t: matchups[t][0])
@@ -190,6 +244,7 @@ form["home"] = form["team"].map(lambda t: matchups[t][1])
 form["rest"] = (tonight - pd.to_datetime(form["last_game"])).dt.days.clip(1, 5)
 for stat in targets_to_predict:
     form[f"opp_{stat}_allowed"] = form["opponent"].map(allowed_now[stat])
+    form[f"opp_def_{stat}"] = form["opponent"].map(tonight_defence[f"opp_def_{stat}"])
 for stat in targets_to_predict:
     form[f"predicted_{stat}"] = models[stat].predict(form[features]) if len(form) else []
 form["name_key"] = form["player"].map(clean_name)
@@ -233,6 +288,9 @@ odds["mean"] = [v[1] if v else None for v in views]
 odds["team"] = [v[2] if v else None for v in views]
 odds["game"] = [v[3] if v else None for v in views]
 odds = odds.dropna(subset=["raw_chance"])
+# player props: name the opponent's elite defenders playing tonight (the model has already priced them in)
+opponent_of = odds["team"].map(lambda t: matchups[t][0] if t in matchups else None)
+odds["tough_d"] = opponent_of.map(STOPPERS).where(odds["stat"] != "moneyline").fillna("")
 odds["sd"] = odds["stat"].map(spreads).fillna(0)
 odds["model_chance"] = MODEL_WEIGHT * odds["raw_chance"] + (1 - MODEL_WEIGHT) * odds["book_chance"]
 odds["ev"] = odds["model_chance"] * odds["price"] - 1
@@ -269,10 +327,12 @@ leg_columns = ["sport", "player", "team", "game", "game_date", "stat", "side", "
 print(f"\n########## NBA BETS TO PLACE ({len(singles)}) ##########")
 for _, b in singles.iterrows():
     print(f"  {b['player']} ({b['team']}) - {b['bet']} at {b['book']} {b['price']:.2f} | "
-          f"model {b['raw_chance']:.0%} blend {b['model_chance']:.0%} book {b['book_chance']:.0%} | ev {b['ev']:+.0%}")
-singles[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev", "stake", "min_price"]].to_csv(
+          f"model {b['raw_chance']:.0%} blend {b['model_chance']:.0%} book {b['book_chance']:.0%} | ev {b['ev']:+.0%}"
+          + (f"\n      tough D tonight: {b['tough_d']}" if b["tough_d"] else ""))
+singles[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev", "stake", "min_price", "tough_d"]].to_csv(
     "nba_bets_today.csv", index=False)
-odds[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev"]].to_csv("nba_lines_today.csv", index=False)
+odds[leg_columns + ["book", "raw_chance", "model_chance", "book_chance", "ev", "tough_d"]].to_csv(
+    "nba_lines_today.csv", index=False)
 
 # ---- value parlays (one book, different games) ----
 parlays = []
