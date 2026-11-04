@@ -1,6 +1,7 @@
 ﻿# Parlay Quant
 
 A multi-sport sports-betting research model covering NHL, NBA, NFL, college football, MLB, WNBA and PWHL. It scrapes team, player and game data, pulls live odds from The Odds API, estimates win probabilities with gradient-boosted tree models, and surfaces positive-expected-value (EV) bets and parlays in a Streamlit dashboard.
+with multiple AI's that is trained in poker, blackjack and other type of casino game, to try and beat the houses edge. 
 
 ## How it works
 
